@@ -1,11 +1,11 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-07-10 08:28
+Rapor zamanı: 2026-07-11 07:16
 
 ## Kaynak sayıları
-- Hacker News: 39
+- Hacker News: 30
 - arXiv: 75
-- GitHub Trending: 7
+- GitHub Trending: 8
 
 ## Bugünün domain adayları
 

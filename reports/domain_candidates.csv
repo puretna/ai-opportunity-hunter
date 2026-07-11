@@ -8,9 +8,6 @@ reinforcement learning,reinforcementlearning.io,.io,maybe_available,9,80
 neural network,neuralnetwork.com,.com,taken_or_active,6,74
 neural network,neuralnetwork.ai,.ai,taken_or_active,6,74
 neural network,neuralnetwork.io,.io,maybe_available,6,74
-autonomous agents,autonomousagents.com,.com,taken_or_active,4,68
-autonomous agents,autonomousagents.ai,.ai,taken_or_active,4,68
-autonomous agents,autonomousagents.io,.io,taken_or_active,4,68
 speculative decoding,speculativedecoding.com,.com,taken_or_active,6,66
 speculative decoding,speculativedecoding.ai,.ai,maybe_available,6,66
 speculative decoding,speculativedecoding.io,.io,maybe_available,6,66
@@ -26,6 +23,9 @@ neural networks,neuralnetworks.io,.io,taken_or_active,5,66
 proactive agents,proactiveagents.com,.com,taken_or_active,3,60
 proactive agents,proactiveagents.ai,.ai,taken_or_active,3,60
 proactive agents,proactiveagents.io,.io,maybe_available,3,60
+autonomous agents,autonomousagents.com,.com,taken_or_active,3,60
+autonomous agents,autonomousagents.ai,.ai,taken_or_active,3,60
+autonomous agents,autonomousagents.io,.io,taken_or_active,3,60
 such agents,suchagents.com,.com,taken_or_active,2,60
 such agents,suchagents.ai,.ai,maybe_available,2,60
 such agents,suchagents.io,.io,maybe_available,2,60
@@ -57,7 +57,7 @@ agents real-world,agentsrealworld.com,.com,maybe_available,2,52
 agents real-world,agentsrealworld.ai,.ai,maybe_available,2,52
 agents real-world,agentsrealworld.io,.io,maybe_available,2,52
 synthetic speech,syntheticspeech.com,.com,taken_or_active,3,51
-synthetic speech,syntheticspeech.ai,.ai,maybe_available,3,51
+synthetic speech,syntheticspeech.ai,.ai,taken_or_active,3,51
 synthetic speech,syntheticspeech.io,.io,maybe_available,3,51
 knn graph,knngraph.com,.com,maybe_available,2,51
 knn graph,knngraph.ai,.ai,maybe_available,2,51
@@ -95,6 +95,12 @@ question answering,questionanswering.io,.io,maybe_available,4,50
 federated learning,federatedlearning.com,.com,taken_or_active,4,50
 federated learning,federatedlearning.ai,.ai,taken_or_active,4,50
 federated learning,federatedlearning.io,.io,taken_or_active,4,50
+apple sues,applesues.com,.com,maybe_available,3,50
+apple sues,applesues.ai,.ai,maybe_available,3,50
+apple sues,applesues.io,.io,maybe_available,3,50
+trade secrets,tradesecrets.com,.com,taken_or_active,3,50
+trade secrets,tradesecrets.ai,.ai,taken_or_active,3,50
+trade secrets,tradesecrets.io,.io,taken_or_active,3,50
 across multiple,acrossmultiple.com,.com,maybe_available,3,50
 across multiple,acrossmultiple.ai,.ai,maybe_available,3,50
 across multiple,acrossmultiple.io,.io,maybe_available,3,50
@@ -158,7 +164,7 @@ decision process,decisionprocess.io,.io,maybe_available,3,42
 differential privacy,differentialprivacy.com,.com,taken_or_active,3,42
 differential privacy,differentialprivacy.ai,.ai,taken_or_active,3,42
 differential privacy,differentialprivacy.io,.io,taken_or_active,3,42
-sparse autoencoders,sparseautoencoders.com,.com,taken_or_active,3,42
+sparse autoencoders,sparseautoencoders.com,.com,maybe_available,3,42
 sparse autoencoders,sparseautoencoders.ai,.ai,maybe_available,3,42
 sparse autoencoders,sparseautoencoders.io,.io,maybe_available,3,42
 independently trained,independentlytrained.com,.com,maybe_available,3,42
@@ -176,18 +182,6 @@ urban communities,urbancommunities.io,.io,maybe_available,3,42
 object detection,objectdetection.com,.com,taken_or_active,3,42
 object detection,objectdetection.ai,.ai,taken_or_active,3,42
 object detection,objectdetection.io,.io,taken_or_active,3,42
-web crawler,webcrawler.com,.com,taken_or_active,2,42
-web crawler,webcrawler.ai,.ai,taken_or_active,2,42
-web crawler,webcrawler.io,.io,taken_or_active,2,42
-crawler scraper,crawlerscraper.com,.com,maybe_available,2,42
-crawler scraper,crawlerscraper.ai,.ai,maybe_available,2,42
-crawler scraper,crawlerscraper.io,.io,maybe_available,2,42
-china recovers,chinarecovers.com,.com,maybe_available,2,42
-china recovers,chinarecovers.ai,.ai,maybe_available,2,42
-china recovers,chinarecovers.io,.io,maybe_available,2,42
-long march,longmarch.com,.com,taken_or_active,2,42
-long march,longmarch.ai,.ai,taken_or_active,2,42
-long march,longmarch.io,.io,maybe_available,2,42
 claude code,claudecode.com,.com,maybe_available,2,42
 claude code,claudecode.ai,.ai,maybe_available,2,42
 claude code,claudecode.io,.io,taken_or_active,2,42
@@ -362,6 +356,15 @@ density states,densitystates.io,.io,maybe_available,2,42
 ensemble u-net,ensembleunet.com,.com,maybe_available,2,42
 ensemble u-net,ensembleunet.ai,.ai,maybe_available,2,42
 ensemble u-net,ensembleunet.io,.io,maybe_available,2,42
+male fertility,malefertility.com,.com,taken_or_active,2,42
+male fertility,malefertility.ai,.ai,maybe_available,2,42
+male fertility,malefertility.io,.io,maybe_available,2,42
+visem dataset,visemdataset.com,.com,maybe_available,2,42
+visem dataset,visemdataset.ai,.ai,maybe_available,2,42
+visem dataset,visemdataset.io,.io,maybe_available,2,42
+ladder logic,ladderlogic.com,.com,taken_or_active,2,42
+ladder logic,ladderlogic.ai,.ai,taken_or_active,2,42
+ladder logic,ladderlogic.io,.io,maybe_available,2,42
 latent memory palace,latentmemorypalace.com,.com,maybe_available,2,35
 latent memory palace,latentmemorypalace.ai,.ai,maybe_available,2,35
 latent memory palace,latentmemorypalace.io,.io,maybe_available,2,35
@@ -626,6 +629,18 @@ return distribution,returndistribution.io,.io,maybe_available,2,34
 forecasting accuracy,forecastingaccuracy.com,.com,maybe_available,2,34
 forecasting accuracy,forecastingaccuracy.ai,.ai,maybe_available,2,34
 forecasting accuracy,forecastingaccuracy.io,.io,maybe_available,2,34
+semen parameters,semenparameters.com,.com,maybe_available,2,34
+semen parameters,semenparameters.ai,.ai,maybe_available,2,34
+semen parameters,semenparameters.io,.io,maybe_available,2,34
+theoretical potential,theoreticalpotential.com,.com,maybe_available,2,34
+theoretical potential,theoreticalpotential.ai,.ai,maybe_available,2,34
+theoretical potential,theoreticalpotential.io,.io,maybe_available,2,34
+dietary management,dietarymanagement.com,.com,taken_or_active,2,34
+dietary management,dietarymanagement.ai,.ai,maybe_available,2,34
+dietary management,dietarymanagement.io,.io,maybe_available,2,34
+formal verification,formalverification.com,.com,taken_or_active,2,34
+formal verification,formalverification.ai,.ai,taken_or_active,2,34
+formal verification,formalverification.io,.io,taken_or_active,2,34
 efficiency reliability,efficiencyreliability.com,.com,maybe_available,3,32
 efficiency reliability,efficiencyreliability.ai,.ai,maybe_available,3,32
 efficiency reliability,efficiencyreliability.io,.io,maybe_available,3,32
@@ -638,12 +653,6 @@ open-vocabulary object,openvocabularyobject.io,.io,maybe_available,3,32
 detection segmentation,detectionsegmentation.com,.com,maybe_available,3,32
 detection segmentation,detectionsegmentation.ai,.ai,maybe_available,3,32
 detection segmentation,detectionsegmentation.io,.io,maybe_available,3,32
-march 10b,march10b.com,.com,maybe_available,2,27
-march 10b,march10b.ai,.ai,maybe_available,2,27
-march 10b,march10b.io,.io,maybe_available,2,27
-web crawler scraper,webcrawlerscraper.com,.com,maybe_available,2,26
-web crawler scraper,webcrawlerscraper.ai,.ai,maybe_available,2,26
-web crawler scraper,webcrawlerscraper.io,.io,maybe_available,2,26
 dataset pop music,datasetpopmusic.com,.com,maybe_available,2,26
 dataset pop music,datasetpopmusic.ai,.ai,maybe_available,2,26
 dataset pop music,datasetpopmusic.io,.io,maybe_available,2,26
@@ -665,9 +674,6 @@ markov decision process,markovdecisionprocess.io,.io,maybe_available,3,24
 disease risk prediction,diseaseriskprediction.com,.com,maybe_available,3,24
 disease risk prediction,diseaseriskprediction.ai,.ai,maybe_available,3,24
 disease risk prediction,diseaseriskprediction.io,.io,maybe_available,3,24
-sandboxed environments,sandboxedenvironments.com,.com,maybe_available,2,24
-sandboxed environments,sandboxedenvironments.ai,.ai,maybe_available,2,24
-sandboxed environments,sandboxedenvironments.io,.io,maybe_available,2,24
 small forward-marginal,smallforwardmarginal.com,.com,maybe_available,2,24
 small forward-marginal,smallforwardmarginal.ai,.ai,maybe_available,2,24
 small forward-marginal,smallforwardmarginal.io,.io,maybe_available,2,24
@@ -719,12 +725,6 @@ agricultural potential,agriculturalpotential.io,.io,maybe_available,2,24
 statistical efficiency,statisticalefficiency.com,.com,maybe_available,2,24
 statistical efficiency,statisticalefficiency.ai,.ai,maybe_available,2,24
 statistical efficiency,statisticalefficiency.io,.io,maybe_available,2,24
-crawl4ai open-source,crawl4aiopensource.com,.com,maybe_available,2,19
-crawl4ai open-source,crawl4aiopensource.ai,.ai,maybe_available,2,19
-crawl4ai open-source,crawl4aiopensource.io,.io,maybe_available,2,19
-long march 10b,longmarch10b.com,.com,maybe_available,2,19
-long march 10b,longmarch10b.ai,.ai,maybe_available,2,19
-long march 10b,longmarch10b.io,.io,maybe_available,2,19
 provides principled way,providesprincipledway.com,.com,maybe_available,2,16
 provides principled way,providesprincipledway.ai,.ai,maybe_available,2,16
 provides principled way,providesprincipledway.io,.io,maybe_available,2,16
