@@ -1,11 +1,11 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-07-11 07:16
+Rapor zamanı: 2026-07-12 07:33
 
 ## Kaynak sayıları
-- Hacker News: 30
+- Hacker News: 32
 - arXiv: 75
-- GitHub Trending: 8
+- GitHub Trending: 6
 
 ## Bugünün domain adayları
 
@@ -19,17 +19,17 @@ Rapor zamanı: 2026-07-11 07:16
 | 6 | addressthese.ai | 66/100 | address these | maybe_available |
 | 7 | addressthese.io | 66/100 | address these | maybe_available |
 | 8 | proactiveagents.io | 60/100 | proactive agents | maybe_available |
-| 9 | suchagents.ai | 60/100 | such agents | maybe_available |
-| 10 | suchagents.io | 60/100 | such agents | maybe_available |
-| 11 | economicagents.com | 60/100 | economic agents | maybe_available |
-| 12 | economicagents.ai | 60/100 | economic agents | maybe_available |
-| 13 | economicagents.io | 60/100 | economic agents | maybe_available |
-| 14 | accessagents.ai | 60/100 | access agents | maybe_available |
-| 15 | accessagents.io | 60/100 | access agents | maybe_available |
-| 16 | memorypalace.com | 59/100 | memory palace | maybe_available |
-| 17 | temporalgraph.ai | 59/100 | temporal graph | maybe_available |
-| 18 | temporalgraph.io | 59/100 | temporal graph | maybe_available |
-| 19 | oftenrely.com | 58/100 | often rely | maybe_available |
-| 20 | oftenrely.ai | 58/100 | often rely | maybe_available |
+| 9 | suchagents.com | 60/100 | such agents | maybe_available |
+| 10 | suchagents.ai | 60/100 | such agents | maybe_available |
+| 11 | suchagents.io | 60/100 | such agents | maybe_available |
+| 12 | economicagents.com | 60/100 | economic agents | maybe_available |
+| 13 | economicagents.ai | 60/100 | economic agents | maybe_available |
+| 14 | economicagents.io | 60/100 | economic agents | maybe_available |
+| 15 | accessagents.ai | 60/100 | access agents | maybe_available |
+| 16 | accessagents.io | 60/100 | access agents | maybe_available |
+| 17 | memorypalace.com | 59/100 | memory palace | maybe_available |
+| 18 | temporalgraph.ai | 59/100 | temporal graph | maybe_available |
+| 19 | temporalgraph.io | 59/100 | temporal graph | maybe_available |
+| 20 | oftenrely.com | 58/100 | often rely | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.

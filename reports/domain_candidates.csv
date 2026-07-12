@@ -26,7 +26,7 @@ proactive agents,proactiveagents.io,.io,maybe_available,3,60
 autonomous agents,autonomousagents.com,.com,taken_or_active,3,60
 autonomous agents,autonomousagents.ai,.ai,taken_or_active,3,60
 autonomous agents,autonomousagents.io,.io,taken_or_active,3,60
-such agents,suchagents.com,.com,taken_or_active,2,60
+such agents,suchagents.com,.com,maybe_available,2,60
 such agents,suchagents.ai,.ai,maybe_available,2,60
 such agents,suchagents.io,.io,maybe_available,2,60
 memory agent,memoryagent.com,.com,taken_or_active,2,60
@@ -83,6 +83,9 @@ graph rewiring,graphrewiring.io,.io,maybe_available,2,51
 evaluation via,evaluationvia.com,.com,maybe_available,2,51
 evaluation via,evaluationvia.ai,.ai,maybe_available,2,51
 evaluation via,evaluationvia.io,.io,maybe_available,2,51
+agent skills,agentskills.com,.com,taken_or_active,2,51
+agent skills,agentskills.ai,.ai,taken_or_active,2,51
+agent skills,agentskills.io,.io,taken_or_active,2,51
 however existing,howeverexisting.com,.com,maybe_available,4,50
 however existing,howeverexisting.ai,.ai,maybe_available,4,50
 however existing,howeverexisting.io,.io,maybe_available,4,50
@@ -95,12 +98,6 @@ question answering,questionanswering.io,.io,maybe_available,4,50
 federated learning,federatedlearning.com,.com,taken_or_active,4,50
 federated learning,federatedlearning.ai,.ai,taken_or_active,4,50
 federated learning,federatedlearning.io,.io,taken_or_active,4,50
-apple sues,applesues.com,.com,maybe_available,3,50
-apple sues,applesues.ai,.ai,maybe_available,3,50
-apple sues,applesues.io,.io,maybe_available,3,50
-trade secrets,tradesecrets.com,.com,taken_or_active,3,50
-trade secrets,tradesecrets.ai,.ai,taken_or_active,3,50
-trade secrets,tradesecrets.io,.io,taken_or_active,3,50
 across multiple,acrossmultiple.com,.com,maybe_available,3,50
 across multiple,acrossmultiple.ai,.ai,maybe_available,3,50
 across multiple,acrossmultiple.io,.io,maybe_available,3,50
@@ -182,9 +179,6 @@ urban communities,urbancommunities.io,.io,maybe_available,3,42
 object detection,objectdetection.com,.com,taken_or_active,3,42
 object detection,objectdetection.ai,.ai,taken_or_active,3,42
 object detection,objectdetection.io,.io,taken_or_active,3,42
-claude code,claudecode.com,.com,maybe_available,2,42
-claude code,claudecode.ai,.ai,maybe_available,2,42
-claude code,claudecode.io,.io,taken_or_active,2,42
 cof reasoning,cofreasoning.com,.com,maybe_available,2,42
 cof reasoning,cofreasoning.ai,.ai,maybe_available,2,42
 cof reasoning,cofreasoning.io,.io,maybe_available,2,42
@@ -608,6 +602,9 @@ ensemble diversity,ensemblediversity.io,.io,maybe_available,2,34
 drift-aware temporal,driftawaretemporal.com,.com,maybe_available,2,34
 drift-aware temporal,driftawaretemporal.ai,.ai,maybe_available,2,34
 drift-aware temporal,driftawaretemporal.io,.io,maybe_available,2,34
+natural language,naturallanguage.com,.com,taken_or_active,2,34
+natural language,naturallanguage.ai,.ai,maybe_available,2,34
+natural language,naturallanguage.io,.io,taken_or_active,2,34
 crystal structure,crystalstructure.com,.com,taken_or_active,2,34
 crystal structure,crystalstructure.ai,.ai,maybe_available,2,34
 crystal structure,crystalstructure.io,.io,maybe_available,2,34
@@ -674,6 +671,9 @@ markov decision process,markovdecisionprocess.io,.io,maybe_available,3,24
 disease risk prediction,diseaseriskprediction.com,.com,maybe_available,3,24
 disease risk prediction,diseaseriskprediction.ai,.ai,maybe_available,3,24
 disease risk prediction,diseaseriskprediction.io,.io,maybe_available,3,24
+big tech,bigtech.com,.com,taken_or_active,2,24
+big tech,bigtech.ai,.ai,taken_or_active,2,24
+big tech,bigtech.io,.io,maybe_available,2,24
 small forward-marginal,smallforwardmarginal.com,.com,maybe_available,2,24
 small forward-marginal,smallforwardmarginal.ai,.ai,maybe_available,2,24
 small forward-marginal,smallforwardmarginal.io,.io,maybe_available,2,24
