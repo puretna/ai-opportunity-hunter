@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-07-13 08:21
+Rapor zamanı: 2026-07-14 07:14
 
 ## Kaynak sayıları
-- Hacker News: 31
+- Hacker News: 34
 - arXiv: 75
-- GitHub Trending: 7
+- GitHub Trending: 8
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | reinforcementlearning.io | 88/100 | reinforcement learning | maybe_available |
-| 2 | experttools.ai | 68/100 | expert tools | maybe_available |
-| 3 | experttools.io | 68/100 | expert tools | maybe_available |
-| 4 | languageagents.ai | 60/100 | language agents | maybe_available |
-| 5 | languageagents.io | 60/100 | language agents | maybe_available |
-| 6 | trustxagent.com | 60/100 | trustx agent | maybe_available |
-| 7 | trustxagent.ai | 60/100 | trustx agent | maybe_available |
-| 8 | trustxagent.io | 60/100 | trustx agent | maybe_available |
-| 9 | codingagents.com | 60/100 | coding agents | maybe_available |
-| 10 | codingagents.io | 60/100 | coding agents | maybe_available |
-| 11 | causaldiscovery.io | 58/100 | causal discovery | maybe_available |
-| 12 | addressgap.com | 58/100 | address gap | maybe_available |
-| 13 | addressgap.ai | 58/100 | address gap | maybe_available |
-| 14 | addressgap.io | 58/100 | address gap | maybe_available |
-| 15 | sourcecode.io | 58/100 | source code | maybe_available |
-| 16 | exploitationagents.com | 52/100 | exploitation agents | maybe_available |
-| 17 | exploitationagents.ai | 52/100 | exploitation agents | maybe_available |
-| 18 | exploitationagents.io | 52/100 | exploitation agents | maybe_available |
-| 19 | acyclicgraphs.com | 51/100 | acyclic graphs | maybe_available |
-| 20 | acyclicgraphs.ai | 51/100 | acyclic graphs | maybe_available |
+| 1 | reinforcementlearning.io | 100/100 | reinforcement learning | maybe_available |
+| 2 | codingagents.com | 76/100 | coding agents | maybe_available |
+| 3 | codingagents.io | 76/100 | coding agents | maybe_available |
+| 4 | graphneural.ai | 75/100 | graph neural | maybe_available |
+| 5 | graphneural.io | 75/100 | graph neural | maybe_available |
+| 6 | claudecode.com | 66/100 | claude code | maybe_available |
+| 7 | claudecode.ai | 66/100 | claude code | maybe_available |
+| 8 | neuralnetwork.io | 66/100 | neural network | maybe_available |
+| 9 | toolcallingagents.ai | 61/100 | tool-calling agents | maybe_available |
+| 10 | toolcallingagents.io | 61/100 | tool-calling agents | maybe_available |
+| 11 | trainingdata.ai | 58/100 | training data | maybe_available |
+| 12 | sharedmeaning.ai | 58/100 | shared meaning | maybe_available |
+| 13 | sharedmeaning.io | 58/100 | shared meaning | maybe_available |
+| 14 | deepneural.ai | 58/100 | deep neural | maybe_available |
+| 15 | deepneural.io | 58/100 | deep neural | maybe_available |
+| 16 | productionagents.io | 52/100 | production agents | maybe_available |
+| 17 | motionrobot.ai | 51/100 | motion robot | maybe_available |
+| 18 | motionrobot.io | 51/100 | motion robot | maybe_available |
+| 19 | agenticsystem.io | 51/100 | agentic system | maybe_available |
+| 20 | ttsvoice.ai | 51/100 | tts voice | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
