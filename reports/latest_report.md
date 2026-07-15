@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-07-14 07:14
+Rapor zamanı: 2026-07-15 07:19
 
 ## Kaynak sayıları
-- Hacker News: 34
+- Hacker News: 41
 - arXiv: 75
-- GitHub Trending: 8
+- GitHub Trending: 9
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
 | 1 | reinforcementlearning.io | 100/100 | reinforcement learning | maybe_available |
-| 2 | codingagents.com | 76/100 | coding agents | maybe_available |
-| 3 | codingagents.io | 76/100 | coding agents | maybe_available |
-| 4 | graphneural.ai | 75/100 | graph neural | maybe_available |
-| 5 | graphneural.io | 75/100 | graph neural | maybe_available |
-| 6 | claudecode.com | 66/100 | claude code | maybe_available |
-| 7 | claudecode.ai | 66/100 | claude code | maybe_available |
-| 8 | neuralnetwork.io | 66/100 | neural network | maybe_available |
-| 9 | toolcallingagents.ai | 61/100 | tool-calling agents | maybe_available |
-| 10 | toolcallingagents.io | 61/100 | tool-calling agents | maybe_available |
-| 11 | trainingdata.ai | 58/100 | training data | maybe_available |
-| 12 | sharedmeaning.ai | 58/100 | shared meaning | maybe_available |
-| 13 | sharedmeaning.io | 58/100 | shared meaning | maybe_available |
-| 14 | deepneural.ai | 58/100 | deep neural | maybe_available |
-| 15 | deepneural.io | 58/100 | deep neural | maybe_available |
-| 16 | productionagents.io | 52/100 | production agents | maybe_available |
-| 17 | motionrobot.ai | 51/100 | motion robot | maybe_available |
-| 18 | motionrobot.io | 51/100 | motion robot | maybe_available |
-| 19 | agenticsystem.io | 51/100 | agentic system | maybe_available |
-| 20 | ttsvoice.ai | 51/100 | tts voice | maybe_available |
+| 2 | languageagents.ai | 60/100 | language agents | maybe_available |
+| 3 | languageagents.io | 60/100 | language agents | maybe_available |
+| 4 | predictivecontrol.ai | 58/100 | predictive control | maybe_available |
+| 5 | predictivecontrol.io | 58/100 | predictive control | maybe_available |
+| 6 | attentionheads.ai | 58/100 | attention heads | maybe_available |
+| 7 | attentionheads.io | 58/100 | attention heads | maybe_available |
+| 8 | evaluationframework.ai | 51/100 | evaluation framework | maybe_available |
+| 9 | evaluationframework.io | 51/100 | evaluation framework | maybe_available |
+| 10 | agenticthings.ai | 51/100 | agentic things | maybe_available |
+| 11 | agenticthings.io | 51/100 | agentic things | maybe_available |
+| 12 | analyticgeometry.ai | 50/100 | analytic geometry | maybe_available |
+| 13 | analyticgeometry.io | 50/100 | analytic geometry | maybe_available |
+| 14 | claudecode.com | 50/100 | claude code | maybe_available |
+| 15 | claudecode.ai | 50/100 | claude code | maybe_available |
+| 16 | frozensmall.com | 50/100 | frozen small | maybe_available |
+| 17 | frozensmall.ai | 50/100 | frozen small | maybe_available |
+| 18 | frozensmall.io | 50/100 | frozen small | maybe_available |
+| 19 | smallcode.io | 50/100 | small code | maybe_available |
+| 20 | simplerewards.com | 50/100 | simple rewards | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
