@@ -2,9 +2,9 @@ phrase,domain,tld,rough_status,mentions,score
 large language,largelanguage.com,.com,taken_or_active,18,100
 large language,largelanguage.ai,.ai,taken_or_active,18,100
 large language,largelanguage.io,.io,taken_or_active,18,100
-claude code,claudecode.com,.com,maybe_available,5,66
-claude code,claudecode.ai,.ai,maybe_available,5,66
-claude code,claudecode.io,.io,taken_or_active,5,66
+deep learning,deeplearning.com,.com,taken_or_active,5,66
+deep learning,deeplearning.ai,.ai,taken_or_active,5,66
+deep learning,deeplearning.io,.io,taken_or_active,5,66
 agent memory,agentmemory.com,.com,taken_or_active,2,60
 agent memory,agentmemory.ai,.ai,maybe_available,2,60
 agent memory,agentmemory.io,.io,taken_or_active,2,60
@@ -20,12 +20,6 @@ bridge gap,bridgegap.io,.io,taken_or_active,4,58
 flow maps,flowmaps.com,.com,taken_or_active,4,58
 flow maps,flowmaps.ai,.ai,maybe_available,4,58
 flow maps,flowmaps.io,.io,taken_or_active,4,58
-deep learning,deeplearning.com,.com,taken_or_active,4,58
-deep learning,deeplearning.ai,.ai,taken_or_active,4,58
-deep learning,deeplearning.io,.io,taken_or_active,4,58
-agents working,agentsworking.com,.com,taken_or_active,1,52
-agents working,agentsworking.ai,.ai,maybe_available,1,52
-agents working,agentsworking.io,.io,maybe_available,1,52
 knowledge graphs,knowledgegraphs.com,.com,maybe_available,3,51
 knowledge graphs,knowledgegraphs.ai,.ai,taken_or_active,3,51
 knowledge graphs,knowledgegraphs.io,.io,taken_or_active,3,51
@@ -47,15 +41,15 @@ user memory,usermemory.io,.io,maybe_available,2,51
 logical regression,logicalregression.com,.com,maybe_available,4,50
 logical regression,logicalregression.ai,.ai,maybe_available,4,50
 logical regression,logicalregression.io,.io,maybe_available,4,50
-code codex,codecodex.com,.com,taken_or_active,3,50
-code codex,codecodex.ai,.ai,taken_or_active,3,50
-code codex,codecodex.io,.io,taken_or_active,3,50
 yet existing,yetexisting.com,.com,maybe_available,3,50
 yet existing,yetexisting.ai,.ai,maybe_available,3,50
 yet existing,yetexisting.io,.io,maybe_available,3,50
 quality control,qualitycontrol.com,.com,taken_or_active,3,50
 quality control,qualitycontrol.ai,.ai,taken_or_active,3,50
 quality control,qualitycontrol.io,.io,maybe_available,3,50
+claude code,claudecode.com,.com,maybe_available,3,50
+claude code,claudecode.ai,.ai,maybe_available,3,50
+claude code,claudecode.io,.io,taken_or_active,3,50
 training data,trainingdata.com,.com,taken_or_active,3,50
 training data,trainingdata.ai,.ai,maybe_available,3,50
 training data,trainingdata.io,.io,taken_or_active,3,50
@@ -95,9 +89,12 @@ vision-language guard,visionlanguageguard.io,.io,maybe_available,2,43
 autonomous agentic,autonomousagentic.com,.com,taken_or_active,2,43
 autonomous agentic,autonomousagentic.ai,.ai,taken_or_active,2,43
 autonomous agentic,autonomousagentic.io,.io,maybe_available,2,43
-natural language,naturallanguage.com,.com,taken_or_active,3,42
-natural language,naturallanguage.ai,.ai,maybe_available,3,42
-natural language,naturallanguage.io,.io,taken_or_active,3,42
+humanoid robot,humanoidrobot.com,.com,taken_or_active,1,43
+humanoid robot,humanoidrobot.ai,.ai,taken_or_active,1,43
+humanoid robot,humanoidrobot.io,.io,taken_or_active,1,43
+robot york,robotyork.com,.com,maybe_available,1,43
+robot york,robotyork.ai,.ai,maybe_available,1,43
+robot york,robotyork.io,.io,maybe_available,1,43
 rotogravure printing,rotogravureprinting.com,.com,taken_or_active,3,42
 rotogravure printing,rotogravureprinting.ai,.ai,maybe_available,3,42
 rotogravure printing,rotogravureprinting.io,.io,maybe_available,3,42
@@ -164,6 +161,9 @@ some language,somelanguage.io,.io,maybe_available,2,42
 there exists,thereexists.com,.com,taken_or_active,2,42
 there exists,thereexists.ai,.ai,maybe_available,2,42
 there exists,thereexists.io,.io,maybe_available,2,42
+code codex,codecodex.com,.com,taken_or_active,2,42
+code codex,codecodex.ai,.ai,taken_or_active,2,42
+code codex,codecodex.io,.io,taken_or_active,2,42
 ask whether,askwhether.com,.com,maybe_available,2,42
 ask whether,askwhether.ai,.ai,maybe_available,2,42
 ask whether,askwhether.io,.io,maybe_available,2,42
@@ -329,24 +329,18 @@ sti analytics,stianalytics.io,.io,maybe_available,2,42
 reinforcement learning,reinforcementlearning.com,.com,taken_or_active,4,40
 reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,4,40
 reinforcement learning,reinforcementlearning.io,.io,maybe_available,4,40
-a2a agents,a2aagents.com,.com,taken_or_active,1,37
-a2a agents,a2aagents.ai,.ai,taken_or_active,1,37
-a2a agents,a2aagents.io,.io,maybe_available,1,37
 russian user memory,russianusermemory.com,.com,maybe_available,2,35
 russian user memory,russianusermemory.ai,.ai,maybe_available,2,35
 russian user memory,russianusermemory.io,.io,maybe_available,2,35
 user memory benchmark,usermemorybenchmark.com,.com,maybe_available,2,35
 user memory benchmark,usermemorybenchmark.ai,.ai,maybe_available,2,35
 user memory benchmark,usermemorybenchmark.io,.io,maybe_available,2,35
-claude code codex,claudecodecodex.com,.com,maybe_available,3,34
-claude code codex,claudecodecodex.ai,.ai,maybe_available,3,34
-claude code codex,claudecodecodex.io,.io,maybe_available,3,34
+robot york high,robotyorkhigh.com,.com,maybe_available,1,35
+robot york high,robotyorkhigh.ai,.ai,maybe_available,1,35
+robot york high,robotyorkhigh.io,.io,maybe_available,1,35
 bridge gap propose,bridgegappropose.com,.com,maybe_available,3,34
 bridge gap propose,bridgegappropose.ai,.ai,maybe_available,3,34
 bridge gap propose,bridgegappropose.io,.io,maybe_available,3,34
-speculative decoding,speculativedecoding.com,.com,maybe_available,2,34
-speculative decoding,speculativedecoding.ai,.ai,maybe_available,2,34
-speculative decoding,speculativedecoding.io,.io,maybe_available,2,34
 implicit explicit,implicitexplicit.com,.com,taken_or_active,2,34
 implicit explicit,implicitexplicit.ai,.ai,maybe_available,2,34
 implicit explicit,implicitexplicit.io,.io,maybe_available,2,34
@@ -425,6 +419,9 @@ generation concurrent,generationconcurrent.io,.io,maybe_available,2,34
 test-time tuning,testtimetuning.com,.com,maybe_available,2,34
 test-time tuning,testtimetuning.ai,.ai,maybe_available,2,34
 test-time tuning,testtimetuning.io,.io,maybe_available,2,34
+natural language,naturallanguage.com,.com,taken_or_active,2,34
+natural language,naturallanguage.ai,.ai,maybe_available,2,34
+natural language,naturallanguage.io,.io,taken_or_active,2,34
 dangerous objective,dangerousobjective.com,.com,maybe_available,2,34
 dangerous objective,dangerousobjective.ai,.ai,maybe_available,2,34
 dangerous objective,dangerousobjective.io,.io,maybe_available,2,34
@@ -587,33 +584,51 @@ science technology,sciencetechnology.io,.io,maybe_available,2,34
 technology innovation,technologyinnovation.com,.com,taken_or_active,2,34
 technology innovation,technologyinnovation.ai,.ai,maybe_available,2,34
 technology innovation,technologyinnovation.io,.io,maybe_available,2,34
-ask would,askwould.com,.com,maybe_available,1,34
-ask would,askwould.ai,.ai,maybe_available,1,34
-ask would,askwould.io,.io,maybe_available,1,34
-would harden,wouldharden.com,.com,maybe_available,1,34
-would harden,wouldharden.ai,.ai,maybe_available,1,34
-would harden,wouldharden.io,.io,maybe_available,1,34
-harden changes,hardenchanges.com,.com,maybe_available,1,34
-harden changes,hardenchanges.ai,.ai,maybe_available,1,34
-harden changes,hardenchanges.io,.io,maybe_available,1,34
-legacy saas,legacysaas.com,.com,taken_or_active,1,34
-legacy saas,legacysaas.ai,.ai,maybe_available,1,34
-legacy saas,legacysaas.io,.io,maybe_available,1,34
-saas review,saasreview.com,.com,taken_or_active,1,34
-saas review,saasreview.ai,.ai,taken_or_active,1,34
-saas review,saasreview.io,.io,taken_or_active,1,34
-getting paid,gettingpaid.com,.com,taken_or_active,1,34
-getting paid,gettingpaid.ai,.ai,maybe_available,1,34
-getting paid,gettingpaid.io,.io,maybe_available,1,34
-paid tokens,paidtokens.com,.com,taken_or_active,1,34
-paid tokens,paidtokens.ai,.ai,maybe_available,1,34
-paid tokens,paidtokens.io,.io,maybe_available,1,34
+teachers decry,teachersdecry.com,.com,maybe_available,1,34
+teachers decry,teachersdecry.ai,.ai,maybe_available,1,34
+teachers decry,teachersdecry.io,.io,maybe_available,1,34
+decry plan,decryplan.com,.com,maybe_available,1,34
+decry plan,decryplan.ai,.ai,maybe_available,1,34
+decry plan,decryplan.io,.io,maybe_available,1,34
+plan humanoid,planhumanoid.com,.com,maybe_available,1,34
+plan humanoid,planhumanoid.ai,.ai,maybe_available,1,34
+plan humanoid,planhumanoid.io,.io,maybe_available,1,34
+york high,yorkhigh.com,.com,taken_or_active,1,34
+york high,yorkhigh.ai,.ai,maybe_available,1,34
+york high,yorkhigh.io,.io,maybe_available,1,34
+high school,highschool.com,.com,taken_or_active,1,34
+high school,highschool.ai,.ai,taken_or_active,1,34
+high school,highschool.io,.io,taken_or_active,1,34
+let local,letlocal.com,.com,taken_or_active,1,34
+let local,letlocal.ai,.ai,maybe_available,1,34
+let local,letlocal.io,.io,maybe_available,1,34
+local search,localsearch.com,.com,taken_or_active,1,34
+local search,localsearch.ai,.ai,taken_or_active,1,34
+local search,localsearch.io,.io,maybe_available,1,34
+search web,searchweb.com,.com,taken_or_active,1,34
+search web,searchweb.ai,.ai,maybe_available,1,34
+search web,searchweb.io,.io,taken_or_active,1,34
+web without,webwithout.com,.com,maybe_available,1,34
+web without,webwithout.ai,.ai,maybe_available,1,34
+web without,webwithout.io,.io,maybe_available,1,34
+without burning,withoutburning.com,.com,maybe_available,1,34
+without burning,withoutburning.ai,.ai,maybe_available,1,34
+without burning,withoutburning.io,.io,maybe_available,1,34
 representation learning,representationlearning.com,.com,taken_or_active,3,32
 representation learning,representationlearning.ai,.ai,maybe_available,3,32
 representation learning,representationlearning.io,.io,maybe_available,3,32
+plan humanoid robot,planhumanoidrobot.com,.com,maybe_available,1,27
+plan humanoid robot,planhumanoidrobot.ai,.ai,maybe_available,1,27
+plan humanoid robot,planhumanoidrobot.io,.io,maybe_available,1,27
+humanoid robot york,humanoidrobotyork.com,.com,maybe_available,1,27
+humanoid robot york,humanoidrobotyork.ai,.ai,maybe_available,1,27
+humanoid robot york,humanoidrobotyork.io,.io,maybe_available,1,27
 expanding flow maps,expandingflowmaps.com,.com,maybe_available,2,26
 expanding flow maps,expandingflowmaps.ai,.ai,maybe_available,2,26
 expanding flow maps,expandingflowmaps.io,.io,maybe_available,2,26
+claude code codex,claudecodecodex.com,.com,maybe_available,2,26
+claude code codex,claudecodecodex.ai,.ai,maybe_available,2,26
+claude code codex,claudecodecodex.io,.io,maybe_available,2,26
 coupled ghost gluon,coupledghostgluon.com,.com,maybe_available,2,26
 coupled ghost gluon,coupledghostgluon.ai,.ai,maybe_available,2,26
 coupled ghost gluon,coupledghostgluon.io,.io,maybe_available,2,26
@@ -656,15 +671,9 @@ logical reasoning via,logicalreasoningvia.io,.io,maybe_available,2,26
 supply chain planning,supplychainplanning.com,.com,maybe_available,2,26
 supply chain planning,supplychainplanning.ai,.ai,taken_or_active,2,26
 supply chain planning,supplychainplanning.io,.io,maybe_available,2,26
-ask would harden,askwouldharden.com,.com,maybe_available,1,26
-ask would harden,askwouldharden.ai,.ai,maybe_available,1,26
-ask would harden,askwouldharden.io,.io,maybe_available,1,26
-working together,workingtogether.com,.com,taken_or_active,1,26
-working together,workingtogether.ai,.ai,taken_or_active,1,26
-working together,workingtogether.io,.io,taken_or_active,1,26
-together getting,togethergetting.com,.com,maybe_available,1,26
-together getting,togethergetting.ai,.ai,maybe_available,1,26
-together getting,togethergetting.io,.io,maybe_available,1,26
+york high school,yorkhighschool.com,.com,taken_or_active,1,26
+york high school,yorkhighschool.ai,.ai,maybe_available,1,26
+york high school,yorkhighschool.io,.io,maybe_available,1,26
 dynamic knowledge graphs,dynamicknowledgegraphs.com,.com,maybe_available,2,25
 dynamic knowledge graphs,dynamicknowledgegraphs.ai,.ai,maybe_available,2,25
 dynamic knowledge graphs,dynamicknowledgegraphs.io,.io,maybe_available,2,25
@@ -704,18 +713,18 @@ conversational mandarin,conversationalmandarin.io,.io,maybe_available,2,24
 mathematical framework,mathematicalframework.com,.com,maybe_available,2,24
 mathematical framework,mathematicalframework.ai,.ai,maybe_available,2,24
 mathematical framework,mathematicalframework.io,.io,maybe_available,2,24
-changes 1m-line,changes1mline.com,.com,maybe_available,1,19
-changes 1m-line,changes1mline.ai,.ai,maybe_available,1,19
-changes 1m-line,changes1mline.io,.io,maybe_available,1,19
-1m-line legacy,1mlinelegacy.com,.com,maybe_available,1,19
-1m-line legacy,1mlinelegacy.ai,.ai,maybe_available,1,19
-1m-line legacy,1mlinelegacy.io,.io,maybe_available,1,19
-would harden changes,wouldhardenchanges.com,.com,maybe_available,1,18
-would harden changes,wouldhardenchanges.ai,.ai,maybe_available,1,18
-would harden changes,wouldhardenchanges.io,.io,maybe_available,1,18
-legacy saas review,legacysaasreview.com,.com,maybe_available,1,18
-legacy saas review,legacysaasreview.ai,.ai,maybe_available,1,18
-legacy saas review,legacysaasreview.io,.io,maybe_available,1,18
+burning 100k,burning100k.com,.com,maybe_available,1,19
+burning 100k,burning100k.ai,.ai,maybe_available,1,19
+burning 100k,burning100k.io,.io,maybe_available,1,19
+100k tokens,100ktokens.com,.com,taken_or_active,1,19
+100k tokens,100ktokens.ai,.ai,maybe_available,1,19
+100k tokens,100ktokens.io,.io,maybe_available,1,19
+teachers decry plan,teachersdecryplan.com,.com,maybe_available,1,18
+teachers decry plan,teachersdecryplan.ai,.ai,maybe_available,1,18
+teachers decry plan,teachersdecryplan.io,.io,maybe_available,1,18
+decry plan humanoid,decryplanhumanoid.com,.com,maybe_available,1,18
+decry plan humanoid,decryplanhumanoid.ai,.ai,maybe_available,1,18
+decry plan humanoid,decryplanhumanoid.io,.io,maybe_available,1,18
 remains challenging due,remainschallengingdue.com,.com,maybe_available,2,16
 remains challenging due,remainschallengingdue.ai,.ai,maybe_available,2,16
 remains challenging due,remainschallengingdue.io,.io,maybe_available,2,16
@@ -740,12 +749,3 @@ gene expression profiles,geneexpressionprofiles.io,.io,maybe_available,2,16
 innovation sti analytics,innovationstianalytics.com,.com,maybe_available,2,16
 innovation sti analytics,innovationstianalytics.ai,.ai,maybe_available,2,16
 innovation sti analytics,innovationstianalytics.io,.io,maybe_available,2,16
-harden changes 1m-line,hardenchanges1mline.com,.com,maybe_available,1,3
-harden changes 1m-line,hardenchanges1mline.ai,.ai,maybe_available,1,3
-harden changes 1m-line,hardenchanges1mline.io,.io,maybe_available,1,3
-changes 1m-line legacy,changes1mlinelegacy.com,.com,maybe_available,1,3
-changes 1m-line legacy,changes1mlinelegacy.ai,.ai,maybe_available,1,3
-changes 1m-line legacy,changes1mlinelegacy.io,.io,maybe_available,1,3
-1m-line legacy saas,1mlinelegacysaas.com,.com,maybe_available,1,3
-1m-line legacy saas,1mlinelegacysaas.ai,.ai,maybe_available,1,3
-1m-line legacy saas,1mlinelegacysaas.io,.io,maybe_available,1,3
