@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-07-26 07:40
+Rapor zamanı: 2026-07-27 08:37
 
 ## Kaynak sayıları
-- Hacker News: 26
+- Hacker News: 34
 - arXiv: 75
-- GitHub Trending: 13
+- GitHub Trending: 7
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | agentmemory.ai | 60/100 | agent memory | maybe_available |
-| 2 | existingmethods.com | 58/100 | existing methods | maybe_available |
-| 3 | existingmethods.ai | 58/100 | existing methods | maybe_available |
-| 4 | existingmethods.io | 58/100 | existing methods | maybe_available |
-| 5 | logicalreasoning.io | 58/100 | logical reasoning | maybe_available |
-| 6 | flowmaps.ai | 58/100 | flow maps | maybe_available |
-| 7 | knowledgegraphs.com | 51/100 | knowledge graphs | maybe_available |
-| 8 | graphneural.ai | 51/100 | graph neural | maybe_available |
-| 9 | graphneural.io | 51/100 | graph neural | maybe_available |
-| 10 | agentcreation.io | 51/100 | agent creation | maybe_available |
-| 11 | usermemory.ai | 51/100 | user memory | maybe_available |
-| 12 | usermemory.io | 51/100 | user memory | maybe_available |
-| 13 | logicalregression.com | 50/100 | logical regression | maybe_available |
-| 14 | logicalregression.ai | 50/100 | logical regression | maybe_available |
-| 15 | logicalregression.io | 50/100 | logical regression | maybe_available |
-| 16 | yetexisting.com | 50/100 | yet existing | maybe_available |
-| 17 | yetexisting.ai | 50/100 | yet existing | maybe_available |
-| 18 | yetexisting.io | 50/100 | yet existing | maybe_available |
-| 19 | qualitycontrol.io | 50/100 | quality control | maybe_available |
-| 20 | claudecode.com | 50/100 | claude code | maybe_available |
+| 1 | agenticframework.ai | 59/100 | agentic framework | maybe_available |
+| 2 | agenticframework.io | 59/100 | agentic framework | maybe_available |
+| 3 | latentpde.com | 58/100 | latent pde | maybe_available |
+| 4 | latentpde.ai | 58/100 | latent pde | maybe_available |
+| 5 | latentpde.io | 58/100 | latent pde | maybe_available |
+| 6 | pdemapping.com | 58/100 | pde mapping | maybe_available |
+| 7 | pdemapping.ai | 58/100 | pde mapping | maybe_available |
+| 8 | pdemapping.io | 58/100 | pde mapping | maybe_available |
+| 9 | agentbenchmarks.ai | 51/100 | agent benchmarks | maybe_available |
+| 10 | agentbenchmarks.io | 51/100 | agent benchmarks | maybe_available |
+| 11 | evaluationmetrics.ai | 51/100 | evaluation metrics | maybe_available |
+| 12 | evaluationmetrics.io | 51/100 | evaluation metrics | maybe_available |
+| 13 | graphcoarsening.com | 51/100 | graph coarsening | maybe_available |
+| 14 | graphcoarsening.ai | 51/100 | graph coarsening | maybe_available |
+| 15 | graphcoarsening.io | 51/100 | graph coarsening | maybe_available |
+| 16 | ageagentic.ai | 51/100 | age agentic | maybe_available |
+| 17 | ageagentic.io | 51/100 | age agentic | maybe_available |
+| 18 | graphneural.ai | 51/100 | graph neural | maybe_available |
+| 19 | graphneural.io | 51/100 | graph neural | maybe_available |
+| 20 | polardecomposition.com | 50/100 | polar decomposition | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
