@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-07-28 07:43
+Rapor zamanı: 2026-07-29 07:48
 
 ## Kaynak sayıları
-- Hacker News: 37
+- Hacker News: 36
 - arXiv: 75
 - GitHub Trending: 5
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-07-28 07:43
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | learningagents.ai | 60/100 | learning agents | maybe_available |
-| 2 | knowledgegraph.io | 59/100 | knowledge graph | maybe_available |
-| 3 | schemaintegration.com | 58/100 | schema integration | maybe_available |
-| 4 | schemaintegration.ai | 58/100 | schema integration | maybe_available |
-| 5 | schemaintegration.io | 58/100 | schema integration | maybe_available |
-| 6 | neuralnetwork.io | 58/100 | neural network | maybe_available |
-| 7 | timeseries.com | 58/100 | time series | maybe_available |
-| 8 | earlywarning.io | 58/100 | early warning | maybe_available |
-| 9 | splitlearning.com | 58/100 | split learning | maybe_available |
-| 10 | splitlearning.ai | 58/100 | split learning | maybe_available |
-| 11 | splitlearning.io | 58/100 | split learning | maybe_available |
-| 12 | speakingagents.io | 52/100 | speaking agents | maybe_available |
-| 13 | agentscavemen.com | 52/100 | agents cavemen | maybe_available |
-| 14 | agentscavemen.ai | 52/100 | agents cavemen | maybe_available |
-| 15 | agentscavemen.io | 52/100 | agents cavemen | maybe_available |
-| 16 | toolssays.com | 52/100 | tools says | maybe_available |
-| 17 | toolssays.ai | 52/100 | tools says | maybe_available |
-| 18 | toolssays.io | 52/100 | tools says | maybe_available |
-| 19 | suchrobotics.com | 51/100 | such robotics | maybe_available |
-| 20 | suchrobotics.ai | 51/100 | such robotics | maybe_available |
+| 1 | codingagents.com | 76/100 | coding agents | maybe_available |
+| 2 | codingagents.io | 76/100 | coding agents | maybe_available |
+| 3 | taskevaluation.com | 67/100 | task evaluation | maybe_available |
+| 4 | taskevaluation.ai | 67/100 | task evaluation | maybe_available |
+| 5 | taskevaluation.io | 67/100 | task evaluation | maybe_available |
+| 6 | domainadaptation.ai | 66/100 | domain adaptation | maybe_available |
+| 7 | domainadaptation.io | 66/100 | domain adaptation | maybe_available |
+| 8 | agenttooltrust.com | 61/100 | agent tool trust | maybe_available |
+| 9 | agenttooltrust.ai | 61/100 | agent tool trust | maybe_available |
+| 10 | agenttooltrust.io | 61/100 | agent tool trust | maybe_available |
+| 11 | tooltrust.ai | 60/100 | tool trust | maybe_available |
+| 12 | languageagents.ai | 60/100 | language agents | maybe_available |
+| 13 | languageagents.io | 60/100 | language agents | maybe_available |
+| 14 | agentsoften.com | 60/100 | agents often | maybe_available |
+| 15 | agentsoften.ai | 60/100 | agents often | maybe_available |
+| 16 | agentsoften.io | 60/100 | agents often | maybe_available |
+| 17 | claudecode.com | 58/100 | claude code | maybe_available |
+| 18 | claudecode.ai | 58/100 | claude code | maybe_available |
+| 19 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
+| 20 | llmbasedagents.com | 52/100 | llm-based agents | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
