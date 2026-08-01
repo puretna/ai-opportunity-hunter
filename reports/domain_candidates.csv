@@ -11,9 +11,6 @@ computer-use agents,computeruseagents.io,.io,maybe_available,6,84
 coding agents,codingagents.com,.com,maybe_available,3,68
 coding agents,codingagents.ai,.ai,taken_or_active,3,68
 coding agents,codingagents.io,.io,maybe_available,3,68
-gui agents,guiagents.com,.com,taken_or_active,2,60
-gui agents,guiagents.ai,.ai,maybe_available,2,60
-gui agents,guiagents.io,.io,maybe_available,2,60
 agents cuas,agentscuas.com,.com,maybe_available,2,60
 agents cuas,agentscuas.ai,.ai,maybe_available,2,60
 agents cuas,agentscuas.io,.io,maybe_available,2,60
@@ -32,9 +29,9 @@ belief update,beliefupdate.io,.io,maybe_available,4,58
 epistemic input,epistemicinput.com,.com,maybe_available,4,58
 epistemic input,epistemicinput.ai,.ai,maybe_available,4,58
 epistemic input,epistemicinput.io,.io,maybe_available,4,58
-agents pushing,agentspushing.com,.com,maybe_available,1,52
-agents pushing,agentspushing.ai,.ai,maybe_available,1,52
-agents pushing,agentspushing.io,.io,maybe_available,1,52
+coding agent,codingagent.com,.com,taken_or_active,2,51
+coding agent,codingagent.ai,.ai,taken_or_active,2,51
+coding agent,codingagent.io,.io,taken_or_active,2,51
 graph topology,graphtopology.com,.com,taken_or_active,2,51
 graph topology,graphtopology.ai,.ai,maybe_available,2,51
 graph topology,graphtopology.io,.io,maybe_available,2,51
@@ -80,9 +77,6 @@ quantum error,quantumerror.io,.io,maybe_available,3,50
 reinforcement learning,reinforcementlearning.com,.com,taken_or_active,5,48
 reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,5,48
 reinforcement learning,reinforcementlearning.io,.io,maybe_available,5,48
-babysitting agents,babysittingagents.com,.com,maybe_available,1,44
-babysitting agents,babysittingagents.ai,.ai,maybe_available,1,44
-babysitting agents,babysittingagents.io,.io,maybe_available,1,44
 graph neural network,graphneuralnetwork.com,.com,taken_or_active,3,43
 graph neural network,graphneuralnetwork.ai,.ai,maybe_available,3,43
 graph neural network,graphneuralnetwork.io,.io,maybe_available,3,43
@@ -98,6 +92,9 @@ inspiration retrieval,inspirationretrieval.io,.io,maybe_available,2,43
 short-term graph,shorttermgraph.com,.com,maybe_available,2,43
 short-term graph,shorttermgraph.ai,.ai,maybe_available,2,43
 short-term graph,shorttermgraph.io,.io,maybe_available,2,43
+finding voice,findingvoice.com,.com,taken_or_active,1,43
+finding voice,findingvoice.ai,.ai,maybe_available,1,43
+finding voice,findingvoice.io,.io,maybe_available,1,43
 machine learning,machinelearning.com,.com,taken_or_active,3,42
 machine learning,machinelearning.ai,.ai,taken_or_active,3,42
 machine learning,machinelearning.io,.io,taken_or_active,3,42
@@ -131,9 +128,15 @@ error correction,errorcorrection.io,.io,maybe_available,3,42
 discourse marker,discoursemarker.com,.com,maybe_available,3,42
 discourse marker,discoursemarker.ai,.ai,maybe_available,3,42
 discourse marker,discoursemarker.io,.io,maybe_available,3,42
-hacked three,hackedthree.com,.com,maybe_available,2,42
-hacked three,hackedthree.ai,.ai,maybe_available,2,42
-hacked three,hackedthree.io,.io,maybe_available,2,42
+language assert,languageassert.com,.com,maybe_available,2,42
+language assert,languageassert.ai,.ai,maybe_available,2,42
+language assert,languageassert.io,.io,maybe_available,2,42
+assert own,assertown.com,.com,maybe_available,2,42
+assert own,assertown.ai,.ai,maybe_available,2,42
+assert own,assertown.io,.io,maybe_available,2,42
+restores human,restoreshuman.com,.com,maybe_available,2,42
+restores human,restoreshuman.ai,.ai,maybe_available,2,42
+restores human,restoreshuman.io,.io,maybe_available,2,42
 often requires,oftenrequires.com,.com,maybe_available,2,42
 often requires,oftenrequires.ai,.ai,maybe_available,2,42
 often requires,oftenrequires.io,.io,maybe_available,2,42
@@ -305,18 +308,30 @@ belief updates,beliefupdates.io,.io,maybe_available,2,42
 bounded domains,boundeddomains.com,.com,maybe_available,2,42
 bounded domains,boundeddomains.ai,.ai,maybe_available,2,42
 bounded domains,boundeddomains.io,.io,maybe_available,2,42
-ansible ansible,ansibleansible.com,.com,maybe_available,2,42
-ansible ansible,ansibleansible.ai,.ai,maybe_available,2,42
-ansible ansible,ansibleansible.io,.io,maybe_available,2,42
+claude code,claudecode.com,.com,maybe_available,2,42
+claude code,claudecode.ai,.ai,maybe_available,2,42
+claude code,claudecode.io,.io,taken_or_active,2,42
+code kiro,codekiro.com,.com,maybe_available,2,42
+code kiro,codekiro.ai,.ai,maybe_available,2,42
+code kiro,codekiro.io,.io,maybe_available,2,42
+kiro cursor,kirocursor.com,.com,maybe_available,2,42
+kiro cursor,kirocursor.ai,.ai,maybe_available,2,42
+kiro cursor,kirocursor.io,.io,maybe_available,2,42
+cursor cline,cursorcline.com,.com,maybe_available,2,42
+cursor cline,cursorcline.ai,.ai,maybe_available,2,42
+cursor cline,cursorcline.io,.io,maybe_available,2,42
 on-policy distillation,onpolicydistillation.com,.com,maybe_available,4,40
 on-policy distillation,onpolicydistillation.ai,.ai,maybe_available,4,40
 on-policy distillation,onpolicydistillation.io,.io,maybe_available,4,40
-agents pushing them,agentspushingthem.com,.com,maybe_available,1,36
-agents pushing them,agentspushingthem.ai,.ai,maybe_available,1,36
-agents pushing them,agentspushingthem.io,.io,maybe_available,1,36
-in-browser photo,inbrowserphoto.com,.com,maybe_available,1,35
-in-browser photo,inbrowserphoto.ai,.ai,maybe_available,1,35
-in-browser photo,inbrowserphoto.io,.io,maybe_available,1,35
+large repositories,largerepositories.com,.com,maybe_available,2,34
+large repositories,largerepositories.ai,.ai,maybe_available,2,34
+large repositories,largerepositories.io,.io,maybe_available,2,34
+inducing language,inducinglanguage.com,.com,maybe_available,2,34
+inducing language,inducinglanguage.ai,.ai,maybe_available,2,34
+inducing language,inducinglanguage.io,.io,maybe_available,2,34
+own consciousness,ownconsciousness.com,.com,maybe_available,2,34
+own consciousness,ownconsciousness.ai,.ai,maybe_available,2,34
+own consciousness,ownconsciousness.io,.io,maybe_available,2,34
 seiberg dualities,seibergdualities.com,.com,maybe_available,2,34
 seiberg dualities,seibergdualities.ai,.ai,maybe_available,2,34
 seiberg dualities,seibergdualities.io,.io,maybe_available,2,34
@@ -536,51 +551,51 @@ clustered federated,clusteredfederated.io,.io,maybe_available,2,34
 federated learning,federatedlearning.com,.com,taken_or_active,2,34
 federated learning,federatedlearning.ai,.ai,taken_or_active,2,34
 federated learning,federatedlearning.io,.io,taken_or_active,2,34
-inpainting lama,inpaintinglama.com,.com,maybe_available,1,34
-inpainting lama,inpaintinglama.ai,.ai,maybe_available,1,34
-inpainting lama,inpaintinglama.io,.io,maybe_available,1,34
-lama onnx,lamaonnx.com,.com,maybe_available,1,34
-lama onnx,lamaonnx.ai,.ai,maybe_available,1,34
-lama onnx,lamaonnx.io,.io,maybe_available,1,34
-claude routine,clauderoutine.com,.com,taken_or_active,1,34
-claude routine,clauderoutine.ai,.ai,taken_or_active,1,34
-claude routine,clauderoutine.io,.io,maybe_available,1,34
-routine github,routinegithub.com,.com,maybe_available,1,34
-routine github,routinegithub.ai,.ai,maybe_available,1,34
-routine github,routinegithub.io,.io,maybe_available,1,34
-github pages,githubpages.com,.com,taken_or_active,1,34
-github pages,githubpages.ai,.ai,maybe_available,1,34
-github pages,githubpages.io,.io,taken_or_active,1,34
-fixed chrome,fixedchrome.com,.com,maybe_available,1,34
-fixed chrome,fixedchrome.ai,.ai,maybe_available,1,34
-fixed chrome,fixedchrome.io,.io,maybe_available,1,34
-chrome bugs,chromebugs.com,.com,maybe_available,1,34
-chrome bugs,chromebugs.ai,.ai,maybe_available,1,34
-chrome bugs,chromebugs.io,.io,maybe_available,1,34
-bugs june,bugsjune.com,.com,maybe_available,1,34
-bugs june,bugsjune.ai,.ai,maybe_available,1,34
-bugs june,bugsjune.io,.io,maybe_available,1,34
-june past,junepast.com,.com,maybe_available,1,34
-june past,junepast.ai,.ai,maybe_available,1,34
-june past,junepast.io,.io,maybe_available,1,34
-past years,pastyears.com,.com,taken_or_active,1,34
-past years,pastyears.ai,.ai,maybe_available,1,34
-past years,pastyears.io,.io,maybe_available,1,34
-years thanks,yearsthanks.com,.com,maybe_available,1,34
-years thanks,yearsthanks.ai,.ai,maybe_available,1,34
-years thanks,yearsthanks.io,.io,maybe_available,1,34
-markdown slides,markdownslides.com,.com,taken_or_active,1,34
-markdown slides,markdownslides.ai,.ai,maybe_available,1,34
-markdown slides,markdownslides.io,.io,maybe_available,1,34
-slides writes,slideswrites.com,.com,maybe_available,1,34
-slides writes,slideswrites.ai,.ai,maybe_available,1,34
-slides writes,slideswrites.io,.io,maybe_available,1,34
-pushing them,pushingthem.com,.com,maybe_available,1,34
-pushing them,pushingthem.ai,.ai,maybe_available,1,34
-pushing them,pushingthem.io,.io,maybe_available,1,34
-them telegram,themtelegram.com,.com,maybe_available,1,34
-them telegram,themtelegram.ai,.ai,maybe_available,1,34
-them telegram,themtelegram.io,.io,maybe_available,1,34
+claude code kiro,claudecodekiro.com,.com,maybe_available,2,34
+claude code kiro,claudecodekiro.ai,.ai,maybe_available,2,34
+claude code kiro,claudecodekiro.io,.io,maybe_available,2,34
+code kiro cursor,codekirocursor.com,.com,maybe_available,2,34
+code kiro cursor,codekirocursor.ai,.ai,maybe_available,2,34
+code kiro cursor,codekirocursor.io,.io,maybe_available,2,34
+most speed,mostspeed.com,.com,taken_or_active,1,34
+most speed,mostspeed.ai,.ai,maybe_available,1,34
+most speed,mostspeed.io,.io,maybe_available,1,34
+speed readers,speedreaders.com,.com,taken_or_active,1,34
+speed readers,speedreaders.ai,.ai,maybe_available,1,34
+speed readers,speedreaders.io,.io,maybe_available,1,34
+readers break,readersbreak.com,.com,taken_or_active,1,34
+readers break,readersbreak.ai,.ai,maybe_available,1,34
+readers break,readersbreak.io,.io,maybe_available,1,34
+break japanese,breakjapanese.com,.com,maybe_available,1,34
+break japanese,breakjapanese.ai,.ai,maybe_available,1,34
+break japanese,breakjapanese.io,.io,maybe_available,1,34
+chinese thai,chinesethai.com,.com,taken_or_active,1,34
+chinese thai,chinesethai.ai,.ai,maybe_available,1,34
+chinese thai,chinesethai.io,.io,maybe_available,1,34
+migrant surge,migrantsurge.com,.com,maybe_available,1,34
+migrant surge,migrantsurge.ai,.ai,maybe_available,1,34
+migrant surge,migrantsurge.io,.io,maybe_available,1,34
+surge tests,surgetests.com,.com,maybe_available,1,34
+surge tests,surgetests.ai,.ai,maybe_available,1,34
+surge tests,surgetests.io,.io,maybe_available,1,34
+tests spain,testsspain.com,.com,maybe_available,1,34
+tests spain,testsspain.ai,.ai,maybe_available,1,34
+tests spain,testsspain.io,.io,maybe_available,1,34
+spain open,spainopen.com,.com,taken_or_active,1,34
+spain open,spainopen.ai,.ai,maybe_available,1,34
+spain open,spainopen.io,.io,maybe_available,1,34
+open policies,openpolicies.com,.com,taken_or_active,1,34
+open policies,openpolicies.ai,.ai,maybe_available,1,34
+open policies,openpolicies.io,.io,maybe_available,1,34
+spain regains,spainregains.com,.com,maybe_available,1,34
+spain regains,spainregains.ai,.ai,maybe_available,1,34
+spain regains,spainregains.io,.io,maybe_available,1,34
+regains control,regainscontrol.com,.com,maybe_available,1,34
+regains control,regainscontrol.ai,.ai,maybe_available,1,34
+regains control,regainscontrol.io,.io,maybe_available,1,34
+control enclave,controlenclave.com,.com,maybe_available,1,34
+control enclave,controlenclave.ai,.ai,maybe_available,1,34
+control enclave,controlenclave.io,.io,maybe_available,1,34
 artificial intelligence,artificialintelligence.com,.com,taken_or_active,3,32
 artificial intelligence,artificialintelligence.ai,.ai,taken_or_active,3,32
 artificial intelligence,artificialintelligence.io,.io,taken_or_active,3,32
@@ -599,6 +614,9 @@ numerical intelligence,numericalintelligence.io,.io,maybe_available,3,32
 parent-order execution,parentorderexecution.com,.com,maybe_available,3,32
 parent-order execution,parentorderexecution.ai,.ai,maybe_available,3,32
 parent-order execution,parentorderexecution.io,.io,maybe_available,3,32
+language assert own,languageassertown.com,.com,maybe_available,2,26
+language assert own,languageassertown.ai,.ai,maybe_available,2,26
+language assert own,languageassertown.io,.io,maybe_available,2,26
 human beliefs values,humanbeliefsvalues.com,.com,maybe_available,2,26
 human beliefs values,humanbeliefsvalues.ai,.ai,maybe_available,2,26
 human beliefs values,humanbeliefsvalues.io,.io,maybe_available,2,26
@@ -626,48 +644,33 @@ discourse marker now,discoursemarkernow.io,.io,maybe_available,2,26
 human belief updates,humanbeliefupdates.com,.com,maybe_available,2,26
 human belief updates,humanbeliefupdates.ai,.ai,maybe_available,2,26
 human belief updates,humanbeliefupdates.io,.io,maybe_available,2,26
-photo inpainting,photoinpainting.com,.com,maybe_available,1,26
-photo inpainting,photoinpainting.ai,.ai,maybe_available,1,26
-photo inpainting,photoinpainting.io,.io,maybe_available,1,26
-dissecting automation,dissectingautomation.com,.com,maybe_available,1,26
-dissecting automation,dissectingautomation.ai,.ai,maybe_available,1,26
-dissecting automation,dissectingautomation.io,.io,maybe_available,1,26
-automation newspaper,automationnewspaper.com,.com,maybe_available,1,26
-automation newspaper,automationnewspaper.ai,.ai,maybe_available,1,26
-automation newspaper,automationnewspaper.io,.io,maybe_available,1,26
-newspaper claude,newspaperclaude.com,.com,maybe_available,1,26
-newspaper claude,newspaperclaude.ai,.ai,maybe_available,1,26
-newspaper claude,newspaperclaude.io,.io,maybe_available,1,26
-chrome bugs june,chromebugsjune.com,.com,maybe_available,1,26
-chrome bugs june,chromebugsjune.ai,.ai,maybe_available,1,26
-chrome bugs june,chromebugsjune.io,.io,maybe_available,1,26
-bugs june past,bugsjunepast.com,.com,maybe_available,1,26
-bugs june past,bugsjunepast.ai,.ai,maybe_available,1,26
-bugs june past,bugsjunepast.io,.io,maybe_available,1,26
-june past years,junepastyears.com,.com,maybe_available,1,26
-june past years,junepastyears.ai,.ai,maybe_available,1,26
-june past years,junepastyears.io,.io,maybe_available,1,26
-slaide open-source,slaideopensource.com,.com,maybe_available,1,26
-slaide open-source,slaideopensource.ai,.ai,maybe_available,1,26
-slaide open-source,slaideopensource.io,.io,maybe_available,1,26
-open-source markdown,opensourcemarkdown.com,.com,maybe_available,1,26
-open-source markdown,opensourcemarkdown.ai,.ai,maybe_available,1,26
-open-source markdown,opensourcemarkdown.io,.io,maybe_available,1,26
-writes powerpoint,writespowerpoint.com,.com,maybe_available,1,26
-writes powerpoint,writespowerpoint.ai,.ai,maybe_available,1,26
-writes powerpoint,writespowerpoint.io,.io,maybe_available,1,26
-powerpoint opens,powerpointopens.com,.com,maybe_available,1,26
-powerpoint opens,powerpointopens.ai,.ai,maybe_available,1,26
-powerpoint opens,powerpointopens.io,.io,maybe_available,1,26
-stopped babysitting,stoppedbabysitting.com,.com,maybe_available,1,26
-stopped babysitting,stoppedbabysitting.ai,.ai,maybe_available,1,26
-stopped babysitting,stoppedbabysitting.io,.io,maybe_available,1,26
+kiro cursor cline,kirocursorcline.com,.com,maybe_available,2,26
+kiro cursor cline,kirocursorcline.ai,.ai,maybe_available,2,26
+kiro cursor cline,kirocursorcline.io,.io,maybe_available,2,26
+japanese chinese,japanesechinese.com,.com,taken_or_active,1,26
+japanese chinese,japanesechinese.ai,.ai,maybe_available,1,26
+japanese chinese,japanesechinese.io,.io,maybe_available,1,26
+tests spain open,testsspainopen.com,.com,maybe_available,1,26
+tests spain open,testsspainopen.ai,.ai,maybe_available,1,26
+tests spain open,testsspainopen.io,.io,maybe_available,1,26
+chinese researchers,chineseresearchers.com,.com,maybe_available,1,26
+chinese researchers,chineseresearchers.ai,.ai,maybe_available,1,26
+chinese researchers,chineseresearchers.io,.io,maybe_available,1,26
+researchers finding,researchersfinding.com,.com,maybe_available,1,26
+researchers finding,researchersfinding.ai,.ai,maybe_available,1,26
+researchers finding,researchersfinding.io,.io,maybe_available,1,26
+enclave migrants,enclavemigrants.com,.com,maybe_available,1,26
+enclave migrants,enclavemigrants.ai,.ai,maybe_available,1,26
+enclave migrants,enclavemigrants.io,.io,maybe_available,1,26
 graph neural multilevel,graphneuralmultilevel.com,.com,maybe_available,2,25
 graph neural multilevel,graphneuralmultilevel.ai,.ai,maybe_available,2,25
 graph neural multilevel,graphneuralmultilevel.io,.io,maybe_available,2,25
 quantum error correction,quantumerrorcorrection.com,.com,taken_or_active,3,24
 quantum error correction,quantumerrorcorrection.ai,.ai,maybe_available,3,24
 quantum error correction,quantumerrorcorrection.io,.io,maybe_available,3,24
+consciousness restores,consciousnessrestores.com,.com,maybe_available,2,24
+consciousness restores,consciousnessrestores.ai,.ai,maybe_available,2,24
+consciousness restores,consciousnessrestores.io,.io,maybe_available,2,24
 perception-aware cbf-rl,perceptionawarecbfrl.com,.com,maybe_available,2,24
 perception-aware cbf-rl,perceptionawarecbfrl.ai,.ai,maybe_available,2,24
 perception-aware cbf-rl,perceptionawarecbfrl.io,.io,maybe_available,2,24
@@ -701,30 +704,36 @@ pre-decoding framework,predecodingframework.io,.io,maybe_available,2,24
 decision-time critical,decisiontimecritical.com,.com,maybe_available,2,24
 decision-time critical,decisiontimecritical.ai,.ai,maybe_available,2,24
 decision-time critical,decisiontimecritical.io,.io,maybe_available,2,24
-photo inpainting lama,photoinpaintinglama.com,.com,maybe_available,1,18
-photo inpainting lama,photoinpaintinglama.ai,.ai,maybe_available,1,18
-photo inpainting lama,photoinpaintinglama.io,.io,maybe_available,1,18
-inpainting lama onnx,inpaintinglamaonnx.com,.com,maybe_available,1,18
-inpainting lama onnx,inpaintinglamaonnx.ai,.ai,maybe_available,1,18
-inpainting lama onnx,inpaintinglamaonnx.io,.io,maybe_available,1,18
-claude routine github,clauderoutinegithub.com,.com,maybe_available,1,18
-claude routine github,clauderoutinegithub.ai,.ai,maybe_available,1,18
-claude routine github,clauderoutinegithub.io,.io,maybe_available,1,18
-routine github pages,routinegithubpages.com,.com,maybe_available,1,18
-routine github pages,routinegithubpages.ai,.ai,maybe_available,1,18
-routine github pages,routinegithubpages.io,.io,maybe_available,1,18
-fixed chrome bugs,fixedchromebugs.com,.com,maybe_available,1,18
-fixed chrome bugs,fixedchromebugs.ai,.ai,maybe_available,1,18
-fixed chrome bugs,fixedchromebugs.io,.io,maybe_available,1,18
-past years thanks,pastyearsthanks.com,.com,maybe_available,1,18
-past years thanks,pastyearsthanks.ai,.ai,maybe_available,1,18
-past years thanks,pastyearsthanks.io,.io,maybe_available,1,18
-markdown slides writes,markdownslideswrites.com,.com,maybe_available,1,18
-markdown slides writes,markdownslideswrites.ai,.ai,maybe_available,1,18
-markdown slides writes,markdownslideswrites.io,.io,maybe_available,1,18
-pushing them telegram,pushingthemtelegram.com,.com,maybe_available,1,18
-pushing them telegram,pushingthemtelegram.ai,.ai,maybe_available,1,18
-pushing them telegram,pushingthemtelegram.io,.io,maybe_available,1,18
+most speed readers,mostspeedreaders.com,.com,maybe_available,1,18
+most speed readers,mostspeedreaders.ai,.ai,maybe_available,1,18
+most speed readers,mostspeedreaders.io,.io,maybe_available,1,18
+speed readers break,speedreadersbreak.com,.com,maybe_available,1,18
+speed readers break,speedreadersbreak.ai,.ai,maybe_available,1,18
+speed readers break,speedreadersbreak.io,.io,maybe_available,1,18
+readers break japanese,readersbreakjapanese.com,.com,maybe_available,1,18
+readers break japanese,readersbreakjapanese.ai,.ai,maybe_available,1,18
+readers break japanese,readersbreakjapanese.io,.io,maybe_available,1,18
+break japanese chinese,breakjapanesechinese.com,.com,maybe_available,1,18
+break japanese chinese,breakjapanesechinese.ai,.ai,maybe_available,1,18
+break japanese chinese,breakjapanesechinese.io,.io,maybe_available,1,18
+japanese chinese thai,japanesechinesethai.com,.com,maybe_available,1,18
+japanese chinese thai,japanesechinesethai.ai,.ai,maybe_available,1,18
+japanese chinese thai,japanesechinesethai.io,.io,maybe_available,1,18
+migrant surge tests,migrantsurgetests.com,.com,maybe_available,1,18
+migrant surge tests,migrantsurgetests.ai,.ai,maybe_available,1,18
+migrant surge tests,migrantsurgetests.io,.io,maybe_available,1,18
+surge tests spain,surgetestsspain.com,.com,maybe_available,1,18
+surge tests spain,surgetestsspain.ai,.ai,maybe_available,1,18
+surge tests spain,surgetestsspain.io,.io,maybe_available,1,18
+spain open policies,spainopenpolicies.com,.com,maybe_available,1,18
+spain open policies,spainopenpolicies.ai,.ai,maybe_available,1,18
+spain open policies,spainopenpolicies.io,.io,maybe_available,1,18
+inducing language assert,inducinglanguageassert.com,.com,maybe_available,2,16
+inducing language assert,inducinglanguageassert.ai,.ai,maybe_available,2,16
+inducing language assert,inducinglanguageassert.io,.io,maybe_available,2,16
+assert own consciousness,assertownconsciousness.com,.com,maybe_available,2,16
+assert own consciousness,assertownconsciousness.ai,.ai,maybe_available,2,16
+assert own consciousness,assertownconsciousness.io,.io,maybe_available,2,16
 judges cua trajectories,judgescuatrajectories.com,.com,maybe_available,2,16
 judges cua trajectories,judgescuatrajectories.ai,.ai,maybe_available,2,16
 judges cua trajectories,judgescuatrajectories.io,.io,maybe_available,2,16
@@ -740,12 +749,3 @@ selective belief update,selectivebeliefupdate.io,.io,maybe_available,2,16
 acquire apply knowledge,acquireapplyknowledge.com,.com,maybe_available,2,16
 acquire apply knowledge,acquireapplyknowledge.ai,.ai,maybe_available,2,16
 acquire apply knowledge,acquireapplyknowledge.io,.io,maybe_available,2,16
-newspaper claude routine,newspaperclauderoutine.com,.com,maybe_available,1,8
-newspaper claude routine,newspaperclauderoutine.ai,.ai,maybe_available,1,8
-newspaper claude routine,newspaperclauderoutine.io,.io,maybe_available,1,8
-slides writes powerpoint,slideswritespowerpoint.com,.com,maybe_available,1,8
-slides writes powerpoint,slideswritespowerpoint.ai,.ai,maybe_available,1,8
-slides writes powerpoint,slideswritespowerpoint.io,.io,maybe_available,1,8
-writes powerpoint opens,writespowerpointopens.com,.com,maybe_available,1,8
-writes powerpoint opens,writespowerpointopens.ai,.ai,maybe_available,1,8
-writes powerpoint opens,writespowerpointopens.io,.io,maybe_available,1,8
