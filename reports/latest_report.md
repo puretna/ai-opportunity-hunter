@@ -1,11 +1,11 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-08-01 07:31
+Rapor zamanı: 2026-08-02 07:36
 
 ## Kaynak sayıları
 - Hacker News: 32
 - arXiv: 75
-- GitHub Trending: 7
+- GitHub Trending: 10
 
 ## Bugünün domain adayları
 
@@ -15,11 +15,11 @@ Rapor zamanı: 2026-08-01 07:31
 | 2 | graphneural.io | 91/100 | graph neural | maybe_available |
 | 3 | computeruseagents.ai | 84/100 | computer-use agents | maybe_available |
 | 4 | computeruseagents.io | 84/100 | computer-use agents | maybe_available |
-| 5 | codingagents.com | 68/100 | coding agents | maybe_available |
-| 6 | codingagents.io | 68/100 | coding agents | maybe_available |
-| 7 | agentscuas.com | 60/100 | agents cuas | maybe_available |
-| 8 | agentscuas.ai | 60/100 | agents cuas | maybe_available |
-| 9 | agentscuas.io | 60/100 | agents cuas | maybe_available |
+| 5 | agentscuas.com | 60/100 | agents cuas | maybe_available |
+| 6 | agentscuas.ai | 60/100 | agents cuas | maybe_available |
+| 7 | agentscuas.io | 60/100 | agents cuas | maybe_available |
+| 8 | codingagents.com | 60/100 | coding agents | maybe_available |
+| 9 | codingagents.io | 60/100 | coding agents | maybe_available |
 | 10 | agentsoncall.ai | 60/100 | agents oncall | maybe_available |
 | 11 | agentsoncall.io | 60/100 | agents oncall | maybe_available |
 | 12 | graphmemory.ai | 60/100 | graph memory | maybe_available |
