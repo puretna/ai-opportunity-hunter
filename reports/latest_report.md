@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-08-11 05:57
+Rapor zamanı: 2026-08-12 06:20
 
 ## Kaynak sayıları
-- Hacker News: 27
+- Hacker News: 36
 - arXiv: 75
-- GitHub Trending: 10
+- GitHub Trending: 12
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | codingagents.com | 68/100 | coding agents | maybe_available |
-| 2 | codingagents.io | 68/100 | coding agents | maybe_available |
-| 3 | videogeneration.io | 66/100 | video generation | maybe_available |
-| 4 | audiodescription.io | 66/100 | audio description | maybe_available |
-| 5 | robotautonomy.com | 60/100 | robot autonomy | maybe_available |
-| 6 | robotautonomy.ai | 60/100 | robot autonomy | maybe_available |
-| 7 | robotautonomy.io | 60/100 | robot autonomy | maybe_available |
-| 8 | evaluationagent.ai | 52/100 | evaluation agent | maybe_available |
-| 9 | evaluationagent.io | 52/100 | evaluation agent | maybe_available |
-| 10 | selfevolvingagents.io | 52/100 | self-evolving agents | maybe_available |
-| 11 | agentcoding.io | 51/100 | agent coding | maybe_available |
-| 12 | discoveryagent.io | 51/100 | discovery agent | maybe_available |
-| 13 | testtimescaling.ai | 50/100 | test-time scaling | maybe_available |
-| 14 | testtimescaling.io | 50/100 | test-time scaling | maybe_available |
-| 15 | mospredictors.com | 50/100 | mos predictors | maybe_available |
-| 16 | mospredictors.ai | 50/100 | mos predictors | maybe_available |
-| 17 | mospredictors.io | 50/100 | mos predictors | maybe_available |
-| 18 | frameworkwhich.com | 50/100 | framework which | maybe_available |
-| 19 | frameworkwhich.ai | 50/100 | framework which | maybe_available |
-| 20 | frameworkwhich.io | 50/100 | framework which | maybe_available |
+| 1 | codingagents.com | 76/100 | coding agents | maybe_available |
+| 2 | codingagents.io | 76/100 | coding agents | maybe_available |
+| 3 | reinforcementlearning.io | 72/100 | reinforcement learning | maybe_available |
+| 4 | languagemllms.com | 66/100 | language mllms | maybe_available |
+| 5 | languagemllms.ai | 66/100 | language mllms | maybe_available |
+| 6 | languagemllms.io | 66/100 | language mllms | maybe_available |
+| 7 | railtransit.ai | 66/100 | rail transit | maybe_available |
+| 8 | railtransit.io | 66/100 | rail transit | maybe_available |
+| 9 | graphmemory.ai | 60/100 | graph memory | maybe_available |
+| 10 | multimodallarge.com | 58/100 | multimodal large | maybe_available |
+| 11 | multimodallarge.ai | 58/100 | multimodal large | maybe_available |
+| 12 | multimodallarge.io | 58/100 | multimodal large | maybe_available |
+| 13 | selfevolvingagents.io | 52/100 | self-evolving agents | maybe_available |
+| 14 | combodiedagents.com | 52/100 | combodied agents | maybe_available |
+| 15 | combodiedagents.ai | 52/100 | combodied agents | maybe_available |
+| 16 | combodiedagents.io | 52/100 | combodied agents | maybe_available |
+| 17 | knowledgegraph.io | 51/100 | knowledge graph | maybe_available |
+| 18 | geometricgraph.com | 51/100 | geometric graph | maybe_available |
+| 19 | geometricgraph.ai | 51/100 | geometric graph | maybe_available |
+| 20 | geometricgraph.io | 51/100 | geometric graph | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
