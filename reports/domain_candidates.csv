@@ -2,12 +2,12 @@ phrase,domain,tld,rough_status,mentions,score
 large language,largelanguage.com,.com,taken_or_active,8,90
 large language,largelanguage.ai,.ai,taken_or_active,8,90
 large language,largelanguage.io,.io,taken_or_active,8,90
+coding agents,codingagents.com,.com,maybe_available,5,84
+coding agents,codingagents.ai,.ai,taken_or_active,5,84
+coding agents,codingagents.io,.io,maybe_available,5,84
 agents increasingly,agentsincreasingly.com,.com,maybe_available,3,60
 agents increasingly,agentsincreasingly.ai,.ai,maybe_available,3,60
 agents increasingly,agentsincreasingly.io,.io,maybe_available,3,60
-coding agents,codingagents.com,.com,maybe_available,2,60
-coding agents,codingagents.ai,.ai,taken_or_active,2,60
-coding agents,codingagents.io,.io,maybe_available,2,60
 virtual agents,virtualagents.com,.com,taken_or_active,2,60
 virtual agents,virtualagents.ai,.ai,taken_or_active,2,60
 virtual agents,virtualagents.io,.io,taken_or_active,2,60
@@ -32,24 +32,21 @@ artificial intelligence,artificialintelligence.io,.io,taken_or_active,6,56
 autonomous agents,autonomousagents.com,.com,taken_or_active,2,52
 autonomous agents,autonomousagents.ai,.ai,taken_or_active,2,52
 autonomous agents,autonomousagents.io,.io,taken_or_active,2,52
-lying agents,lyingagents.com,.com,maybe_available,1,52
-lying agents,lyingagents.ai,.ai,maybe_available,1,52
-lying agents,lyingagents.io,.io,maybe_available,1,52
-agents rails,agentsrails.com,.com,maybe_available,1,52
-agents rails,agentsrails.ai,.ai,maybe_available,1,52
-agents rails,agentsrails.io,.io,maybe_available,1,52
-context graph,contextgraph.com,.com,taken_or_active,1,52
-context graph,contextgraph.ai,.ai,taken_or_active,1,52
-context graph,contextgraph.io,.io,maybe_available,1,52
+built agents,builtagents.com,.com,taken_or_active,1,52
+built agents,builtagents.ai,.ai,maybe_available,1,52
+built agents,builtagents.io,.io,maybe_available,1,52
+agents match,agentsmatch.com,.com,taken_or_active,1,52
+agents match,agentsmatch.ai,.ai,maybe_available,1,52
+agents match,agentsmatch.io,.io,maybe_available,1,52
+multi-agent systems,multiagentsystems.com,.com,taken_or_active,3,51
+multi-agent systems,multiagentsystems.ai,.ai,maybe_available,3,51
+multi-agent systems,multiagentsystems.io,.io,taken_or_active,3,51
 learning robot,learningrobot.com,.com,taken_or_active,2,51
 learning robot,learningrobot.ai,.ai,maybe_available,2,51
 learning robot,learningrobot.io,.io,maybe_available,2,51
 robot skills,robotskills.com,.com,taken_or_active,2,51
 robot skills,robotskills.ai,.ai,taken_or_active,2,51
 robot skills,robotskills.io,.io,maybe_available,2,51
-shared memory,sharedmemory.com,.com,taken_or_active,2,51
-shared memory,sharedmemory.ai,.ai,taken_or_active,2,51
-shared memory,sharedmemory.io,.io,taken_or_active,2,51
 tooljet tooljet,tooljettooljet.com,.com,maybe_available,2,51
 tooljet tooljet,tooljettooljet.ai,.ai,maybe_available,2,51
 tooljet tooljet,tooljettooljet.io,.io,maybe_available,2,51
@@ -71,9 +68,6 @@ circuit design,circuitdesign.io,.io,maybe_available,3,50
 achieve strong,achievestrong.com,.com,taken_or_active,3,50
 achieve strong,achievestrong.ai,.ai,maybe_available,3,50
 achieve strong,achievestrong.io,.io,maybe_available,3,50
-claude code,claudecode.com,.com,maybe_available,3,50
-claude code,claudecode.ai,.ai,maybe_available,3,50
-claude code,claudecode.io,.io,taken_or_active,3,50
 long-horizon agentic,longhorizonagentic.com,.com,taken_or_active,2,43
 long-horizon agentic,longhorizonagentic.ai,.ai,maybe_available,2,43
 long-horizon agentic,longhorizonagentic.io,.io,maybe_available,2,43
@@ -92,12 +86,9 @@ robotic policies,roboticpolicies.io,.io,maybe_available,2,43
 systematic evaluation,systematicevaluation.com,.com,maybe_available,2,43
 systematic evaluation,systematicevaluation.ai,.ai,maybe_available,2,43
 systematic evaluation,systematicevaluation.io,.io,maybe_available,2,43
-multi-agent systems,multiagentsystems.com,.com,taken_or_active,2,43
-multi-agent systems,multiagentsystems.ai,.ai,maybe_available,2,43
-multi-agent systems,multiagentsystems.io,.io,taken_or_active,2,43
-robots walk,robotswalk.com,.com,maybe_available,1,43
-robots walk,robotswalk.ai,.ai,maybe_available,1,43
-robots walk,robotswalk.io,.io,maybe_available,1,43
+robots txt,robotstxt.com,.com,taken_or_active,1,43
+robots txt,robotstxt.ai,.ai,taken_or_active,1,43
+robots txt,robotstxt.io,.io,maybe_available,1,43
 scientific discovery,scientificdiscovery.com,.com,taken_or_active,3,42
 scientific discovery,scientificdiscovery.ai,.ai,taken_or_active,3,42
 scientific discovery,scientificdiscovery.io,.io,maybe_available,3,42
@@ -131,6 +122,9 @@ latent communication,latentcommunication.io,.io,maybe_available,3,42
 optimization methods,optimizationmethods.com,.com,taken_or_active,3,42
 optimization methods,optimizationmethods.ai,.ai,maybe_available,3,42
 optimization methods,optimizationmethods.io,.io,maybe_available,3,42
+linguistic bias,linguisticbias.com,.com,maybe_available,2,42
+linguistic bias,linguisticbias.ai,.ai,maybe_available,2,42
+linguistic bias,linguisticbias.io,.io,maybe_available,2,42
 human design,humandesign.com,.com,taken_or_active,2,42
 human design,humandesign.ai,.ai,taken_or_active,2,42
 human design,humandesign.io,.io,taken_or_active,2,42
@@ -233,9 +227,6 @@ final scores,finalscores.io,.io,maybe_available,2,42
 practice budget,practicebudget.com,.com,maybe_available,2,42
 practice budget,practicebudget.ai,.ai,maybe_available,2,42
 practice budget,practicebudget.io,.io,maybe_available,2,42
-generation rag,generationrag.com,.com,maybe_available,2,42
-generation rag,generationrag.ai,.ai,maybe_available,2,42
-generation rag,generationrag.io,.io,maybe_available,2,42
 security intent,securityintent.com,.com,maybe_available,2,42
 security intent,securityintent.ai,.ai,maybe_available,2,42
 security intent,securityintent.io,.io,maybe_available,2,42
@@ -251,7 +242,7 @@ sign language,signlanguage.io,.io,taken_or_active,2,42
 language video,languagevideo.com,.com,taken_or_active,2,42
 language video,languagevideo.ai,.ai,maybe_available,2,42
 language video,languagevideo.io,.io,maybe_available,2,42
-video synthesis,videosynthesis.com,.com,maybe_available,2,42
+video synthesis,videosynthesis.com,.com,taken_or_active,2,42
 video synthesis,videosynthesis.ai,.ai,maybe_available,2,42
 video synthesis,videosynthesis.io,.io,maybe_available,2,42
 scaling laws,scalinglaws.com,.com,maybe_available,2,42
@@ -299,33 +290,27 @@ value evolution,valueevolution.io,.io,maybe_available,2,42
 freezing gait,freezinggait.com,.com,maybe_available,2,42
 freezing gait,freezinggait.ai,.ai,maybe_available,2,42
 freezing gait,freezinggait.io,.io,maybe_available,2,42
-stop lying agents,stoplyingagents.com,.com,maybe_available,1,36
-stop lying agents,stoplyingagents.ai,.ai,maybe_available,1,36
-stop lying agents,stoplyingagents.io,.io,maybe_available,1,36
-agents rails benchmark,agentsrailsbenchmark.com,.com,maybe_available,1,36
-agents rails benchmark,agentsrailsbenchmark.ai,.ai,maybe_available,1,36
-agents rails benchmark,agentsrailsbenchmark.io,.io,maybe_available,1,36
-editable context graph,editablecontextgraph.com,.com,maybe_available,1,36
-editable context graph,editablecontextgraph.ai,.ai,maybe_available,1,36
-editable context graph,editablecontextgraph.io,.io,maybe_available,1,36
+claude code,claudecode.com,.com,maybe_available,2,42
+claude code,claudecode.ai,.ai,maybe_available,2,42
+claude code,claudecode.io,.io,taken_or_active,2,42
+built agents match,builtagentsmatch.com,.com,maybe_available,1,36
+built agents match,builtagentsmatch.ai,.ai,maybe_available,1,36
+built agents match,builtagentsmatch.io,.io,maybe_available,1,36
+agents match people,agentsmatchpeople.com,.com,maybe_available,1,36
+agents match people,agentsmatchpeople.ai,.ai,maybe_available,1,36
+agents match people,agentsmatchpeople.io,.io,maybe_available,1,36
+receipt coding agents,receiptcodingagents.com,.com,maybe_available,1,36
+receipt coding agents,receiptcodingagents.ai,.ai,maybe_available,1,36
+receipt coding agents,receiptcodingagents.io,.io,maybe_available,1,36
 learning robot skills,learningrobotskills.com,.com,maybe_available,2,35
 learning robot skills,learningrobotskills.ai,.ai,maybe_available,2,35
 learning robot skills,learningrobotskills.io,.io,maybe_available,2,35
-robots walk talk,robotswalktalk.com,.com,maybe_available,1,35
-robots walk talk,robotswalktalk.ai,.ai,maybe_available,1,35
-robots walk talk,robotswalktalk.io,.io,maybe_available,1,35
-problems multiagent,problemsmultiagent.com,.com,maybe_available,1,35
-problems multiagent,problemsmultiagent.ai,.ai,maybe_available,1,35
-problems multiagent,problemsmultiagent.io,.io,maybe_available,1,35
-assistant browser,assistantbrowser.com,.com,maybe_available,1,35
-assistant browser,assistantbrowser.ai,.ai,maybe_available,1,35
-assistant browser,assistantbrowser.io,.io,maybe_available,1,35
-editable context,editablecontext.com,.com,maybe_available,1,35
-editable context,editablecontext.ai,.ai,maybe_available,1,35
-editable context,editablecontext.io,.io,maybe_available,1,35
-graph conversations,graphconversations.com,.com,maybe_available,1,35
-graph conversations,graphconversations.ai,.ai,maybe_available,1,35
-graph conversations,graphconversations.io,.io,maybe_available,1,35
+disrespect robots,disrespectrobots.com,.com,maybe_available,1,35
+disrespect robots,disrespectrobots.ai,.ai,maybe_available,1,35
+disrespect robots,disrespectrobots.io,.io,maybe_available,1,35
+ask gender-associated,askgenderassociated.com,.com,maybe_available,2,34
+ask gender-associated,askgenderassociated.ai,.ai,maybe_available,2,34
+ask gender-associated,askgenderassociated.io,.io,maybe_available,2,34
 online probabilistic,onlineprobabilistic.com,.com,maybe_available,2,34
 online probabilistic,onlineprobabilistic.ai,.ai,maybe_available,2,34
 online probabilistic,onlineprobabilistic.io,.io,maybe_available,2,34
@@ -455,7 +440,7 @@ autonomous vehicles,autonomousvehicles.io,.io,taken_or_active,2,34
 league artificial,leagueartificial.com,.com,maybe_available,2,34
 league artificial,leagueartificial.ai,.ai,maybe_available,2,34
 league artificial,leagueartificial.io,.io,maybe_available,2,34
-teaching research,teachingresearch.com,.com,maybe_available,2,34
+teaching research,teachingresearch.com,.com,taken_or_active,2,34
 teaching research,teachingresearch.ai,.ai,maybe_available,2,34
 teaching research,teachingresearch.io,.io,maybe_available,2,34
 framework combines,frameworkcombines.com,.com,maybe_available,2,34
@@ -548,7 +533,7 @@ identifiability audit,identifiabilityaudit.io,.io,maybe_available,2,34
 activities daily,activitiesdaily.com,.com,taken_or_active,2,34
 activities daily,activitiesdaily.ai,.ai,maybe_available,2,34
 activities daily,activitiesdaily.io,.io,maybe_available,2,34
-relaxation times,relaxationtimes.com,.com,maybe_available,2,34
+relaxation times,relaxationtimes.com,.com,taken_or_active,2,34
 relaxation times,relaxationtimes.ai,.ai,maybe_available,2,34
 relaxation times,relaxationtimes.io,.io,maybe_available,2,34
 fuel electrolysis,fuelelectrolysis.com,.com,maybe_available,2,34
@@ -563,57 +548,57 @@ black-box adversarial,blackboxadversarial.io,.io,maybe_available,2,34
 egocentric vision,egocentricvision.com,.com,taken_or_active,2,34
 egocentric vision,egocentricvision.ai,.ai,maybe_available,2,34
 egocentric vision,egocentricvision.io,.io,maybe_available,2,34
-did bubble,didbubble.com,.com,maybe_available,1,34
-did bubble,didbubble.ai,.ai,maybe_available,1,34
-did bubble,didbubble.io,.io,maybe_available,1,34
-bubble pop,bubblepop.com,.com,taken_or_active,1,34
-bubble pop,bubblepop.ai,.ai,taken_or_active,1,34
-bubble pop,bubblepop.io,.io,taken_or_active,1,34
-gpt claude,gptclaude.com,.com,taken_or_active,1,34
-gpt claude,gptclaude.ai,.ai,maybe_available,1,34
-gpt claude,gptclaude.io,.io,maybe_available,1,34
-claude gemini,claudegemini.com,.com,taken_or_active,1,34
-claude gemini,claudegemini.ai,.ai,maybe_available,1,34
-claude gemini,claudegemini.io,.io,maybe_available,1,34
-gemini ask,geminiask.com,.com,maybe_available,1,34
-gemini ask,geminiask.ai,.ai,maybe_available,1,34
-gemini ask,geminiask.io,.io,maybe_available,1,34
-walk talk,walktalk.com,.com,taken_or_active,1,34
-walk talk,walktalk.ai,.ai,taken_or_active,1,34
-walk talk,walktalk.io,.io,taken_or_active,1,34
-talk coming,talkcoming.com,.com,maybe_available,1,34
-talk coming,talkcoming.ai,.ai,maybe_available,1,34
-talk coming,talkcoming.io,.io,maybe_available,1,34
-coming car,comingcar.com,.com,taken_or_active,1,34
-coming car,comingcar.ai,.ai,maybe_available,1,34
-coming car,comingcar.io,.io,maybe_available,1,34
-car factories,carfactories.com,.com,taken_or_active,1,34
-car factories,carfactories.ai,.ai,maybe_available,1,34
-car factories,carfactories.io,.io,maybe_available,1,34
-spent months,spentmonths.com,.com,maybe_available,1,34
-spent months,spentmonths.ai,.ai,maybe_available,1,34
-spent months,spentmonths.io,.io,maybe_available,1,34
-months making,monthsmaking.com,.com,maybe_available,1,34
-months making,monthsmaking.ai,.ai,maybe_available,1,34
-months making,monthsmaking.io,.io,maybe_available,1,34
-making desktop,makingdesktop.com,.com,maybe_available,1,34
-making desktop,makingdesktop.ai,.ai,maybe_available,1,34
-making desktop,makingdesktop.io,.io,maybe_available,1,34
-automation stop,automationstop.com,.com,taken_or_active,1,34
-automation stop,automationstop.ai,.ai,maybe_available,1,34
-automation stop,automationstop.io,.io,maybe_available,1,34
-stop lying,stoplying.com,.com,maybe_available,1,34
-stop lying,stoplying.ai,.ai,maybe_available,1,34
-stop lying,stoplying.io,.io,maybe_available,1,34
-multimodal apps,multimodalapps.com,.com,taken_or_active,1,34
-multimodal apps,multimodalapps.ai,.ai,maybe_available,1,34
-multimodal apps,multimodalapps.io,.io,maybe_available,1,34
-rails benchmark,railsbenchmark.com,.com,maybe_available,1,34
-rails benchmark,railsbenchmark.ai,.ai,maybe_available,1,34
-rails benchmark,railsbenchmark.io,.io,maybe_available,1,34
-us- eu-hosted,useuhosted.com,.com,maybe_available,1,34
-us- eu-hosted,useuhosted.ai,.ai,maybe_available,1,34
-us- eu-hosted,useuhosted.io,.io,maybe_available,1,34
+match people,matchpeople.com,.com,taken_or_active,1,34
+match people,matchpeople.ai,.ai,taken_or_active,1,34
+match people,matchpeople.io,.io,maybe_available,1,34
+people who,peoplewho.com,.com,taken_or_active,1,34
+people who,peoplewho.ai,.ai,maybe_available,1,34
+people who,peoplewho.io,.io,maybe_available,1,34
+need help,needhelp.com,.com,taken_or_active,1,34
+need help,needhelp.ai,.ai,taken_or_active,1,34
+need help,needhelp.io,.io,taken_or_active,1,34
+help people,helppeople.com,.com,taken_or_active,1,34
+help people,helppeople.ai,.ai,maybe_available,1,34
+help people,helppeople.io,.io,maybe_available,1,34
+people offering,peopleoffering.com,.com,maybe_available,1,34
+people offering,peopleoffering.ai,.ai,maybe_available,1,34
+people offering,peopleoffering.io,.io,maybe_available,1,34
+built aim,builtaim.com,.com,maybe_available,1,34
+built aim,builtaim.ai,.ai,maybe_available,1,34
+built aim,builtaim.io,.io,maybe_available,1,34
+maps play,mapsplay.com,.com,taken_or_active,1,34
+maps play,mapsplay.ai,.ai,maybe_available,1,34
+maps play,mapsplay.io,.io,maybe_available,1,34
+ownership age,ownershipage.com,.com,taken_or_active,1,34
+ownership age,ownershipage.ai,.ai,maybe_available,1,34
+ownership age,ownershipage.io,.io,maybe_available,1,34
+frontier cards,frontiercards.com,.com,taken_or_active,1,34
+frontier cards,frontiercards.ai,.ai,maybe_available,1,34
+frontier cards,frontiercards.io,.io,maybe_available,1,34
+cards here,cardshere.com,.com,taken_or_active,1,34
+cards here,cardshere.ai,.ai,maybe_available,1,34
+cards here,cardshere.io,.io,maybe_available,1,34
+here benchmarks,herebenchmarks.com,.com,maybe_available,1,34
+here benchmarks,herebenchmarks.ai,.ai,maybe_available,1,34
+here benchmarks,herebenchmarks.io,.io,maybe_available,1,34
+benchmarks labs,benchmarkslabs.com,.com,maybe_available,1,34
+benchmarks labs,benchmarkslabs.ai,.ai,maybe_available,1,34
+benchmarks labs,benchmarkslabs.io,.io,maybe_available,1,34
+labs report,labsreport.com,.com,taken_or_active,1,34
+labs report,labsreport.ai,.ai,maybe_available,1,34
+labs report,labsreport.io,.io,maybe_available,1,34
+grow saas,growsaas.com,.com,taken_or_active,1,34
+grow saas,growsaas.ai,.ai,taken_or_active,1,34
+grow saas,growsaas.io,.io,taken_or_active,1,34
+saas visibility,saasvisibility.com,.com,taken_or_active,1,34
+saas visibility,saasvisibility.ai,.ai,taken_or_active,1,34
+saas visibility,saasvisibility.io,.io,maybe_available,1,34
+proofrun local,proofrunlocal.com,.com,maybe_available,1,34
+proofrun local,proofrunlocal.ai,.ai,maybe_available,1,34
+proofrun local,proofrunlocal.io,.io,maybe_available,1,34
+receipt coding,receiptcoding.com,.com,maybe_available,1,34
+receipt coding,receiptcoding.ai,.ai,maybe_available,1,34
+receipt coding,receiptcoding.io,.io,maybe_available,1,34
 human design priors,humandesignpriors.com,.com,maybe_available,2,26
 human design priors,humandesignpriors.ai,.ai,maybe_available,2,26
 human design priors,humandesignpriors.io,.io,maybe_available,2,26
@@ -638,36 +623,51 @@ covering tasks across,coveringtasksacross.io,.io,maybe_available,2,26
 time value evolution,timevalueevolution.com,.com,maybe_available,2,26
 time value evolution,timevalueevolution.ai,.ai,maybe_available,2,26
 time value evolution,timevalueevolution.io,.io,maybe_available,2,26
-did bubble pop,didbubblepop.com,.com,maybe_available,1,26
-did bubble pop,didbubblepop.ai,.ai,maybe_available,1,26
-did bubble pop,didbubblepop.io,.io,maybe_available,1,26
-gemini ask them,geminiaskthem.com,.com,maybe_available,1,26
-gemini ask them,geminiaskthem.ai,.ai,maybe_available,1,26
-gemini ask them,geminiaskthem.io,.io,maybe_available,1,26
-ask them pay,askthempay.com,.com,maybe_available,1,26
-ask them pay,askthempay.ai,.ai,maybe_available,1,26
-ask them pay,askthempay.io,.io,maybe_available,1,26
-walk talk coming,walktalkcoming.com,.com,maybe_available,1,26
-walk talk coming,walktalkcoming.ai,.ai,maybe_available,1,26
-walk talk coming,walktalkcoming.io,.io,maybe_available,1,26
-talk coming car,talkcomingcar.com,.com,maybe_available,1,26
-talk coming car,talkcomingcar.ai,.ai,maybe_available,1,26
-talk coming car,talkcomingcar.io,.io,maybe_available,1,26
-patterns problems,patternsproblems.com,.com,maybe_available,1,26
-patterns problems,patternsproblems.ai,.ai,maybe_available,1,26
-patterns problems,patternsproblems.io,.io,maybe_available,1,26
-desktop automation,desktopautomation.com,.com,taken_or_active,1,26
-desktop automation,desktopautomation.ai,.ai,maybe_available,1,26
-desktop automation,desktopautomation.io,.io,maybe_available,1,26
-meeting assistant,meetingassistant.com,.com,taken_or_active,1,26
-meeting assistant,meetingassistant.ai,.ai,taken_or_active,1,26
-meeting assistant,meetingassistant.io,.io,taken_or_active,1,26
-benchmark project,benchmarkproject.com,.com,taken_or_active,1,26
-benchmark project,benchmarkproject.ai,.ai,maybe_available,1,26
-benchmark project,benchmarkproject.io,.io,maybe_available,1,26
-thoughtdag editable,thoughtdageditable.com,.com,maybe_available,1,26
-thoughtdag editable,thoughtdageditable.ai,.ai,maybe_available,1,26
-thoughtdag editable,thoughtdageditable.io,.io,maybe_available,1,26
+match people who,matchpeoplewho.com,.com,maybe_available,1,26
+match people who,matchpeoplewho.ai,.ai,maybe_available,1,26
+match people who,matchpeoplewho.io,.io,maybe_available,1,26
+people who need,peoplewhoneed.com,.com,taken_or_active,1,26
+people who need,peoplewhoneed.ai,.ai,maybe_available,1,26
+people who need,peoplewhoneed.io,.io,maybe_available,1,26
+who need help,whoneedhelp.com,.com,taken_or_active,1,26
+who need help,whoneedhelp.ai,.ai,maybe_available,1,26
+who need help,whoneedhelp.io,.io,maybe_available,1,26
+need help people,needhelppeople.com,.com,maybe_available,1,26
+need help people,needhelppeople.ai,.ai,maybe_available,1,26
+need help people,needhelppeople.io,.io,maybe_available,1,26
+safety reckoning,safetyreckoning.com,.com,maybe_available,1,26
+safety reckoning,safetyreckoning.ai,.ai,maybe_available,1,26
+safety reckoning,safetyreckoning.io,.io,maybe_available,1,26
+reckoning inside,reckoninginside.com,.com,maybe_available,1,26
+reckoning inside,reckoninginside.ai,.ai,maybe_available,1,26
+reckoning inside,reckoninginside.io,.io,maybe_available,1,26
+built aim maps,builtaimmaps.com,.com,maybe_available,1,26
+built aim maps,builtaimmaps.ai,.ai,maybe_available,1,26
+built aim maps,builtaimmaps.io,.io,maybe_available,1,26
+aim maps play,aimmapsplay.com,.com,maybe_available,1,26
+aim maps play,aimmapsplay.ai,.ai,maybe_available,1,26
+aim maps play,aimmapsplay.io,.io,maybe_available,1,26
+checked frontier,checkedfrontier.com,.com,maybe_available,1,26
+checked frontier,checkedfrontier.ai,.ai,maybe_available,1,26
+checked frontier,checkedfrontier.io,.io,maybe_available,1,26
+visibility ai-powered,visibilityaipowered.com,.com,maybe_available,1,26
+visibility ai-powered,visibilityaipowered.ai,.ai,maybe_available,1,26
+visibility ai-powered,visibilityaipowered.io,.io,maybe_available,1,26
+ai-powered discovery,aipowereddiscovery.com,.com,taken_or_active,1,26
+ai-powered discovery,aipowereddiscovery.ai,.ai,maybe_available,1,26
+ai-powered discovery,aipowereddiscovery.io,.io,maybe_available,1,26
+local verification,localverification.com,.com,taken_or_active,1,26
+local verification,localverification.ai,.ai,maybe_available,1,26
+local verification,localverification.io,.io,maybe_available,1,26
+verification receipt,verificationreceipt.com,.com,maybe_available,1,26
+verification receipt,verificationreceipt.ai,.ai,maybe_available,1,26
+verification receipt,verificationreceipt.io,.io,maybe_available,1,26
+bludgeoning scrapers,bludgeoningscrapers.com,.com,maybe_available,1,26
+bludgeoning scrapers,bludgeoningscrapers.ai,.ai,maybe_available,1,26
+bludgeoning scrapers,bludgeoningscrapers.io,.io,maybe_available,1,26
+scrapers disrespect,scrapersdisrespect.com,.com,maybe_available,1,26
+scrapers disrespect,scrapersdisrespect.ai,.ai,maybe_available,1,26
+scrapers disrespect,scrapersdisrespect.io,.io,maybe_available,1,26
 training data influence,trainingdatainfluence.com,.com,maybe_available,3,24
 training data influence,trainingdatainfluence.ai,.ai,maybe_available,3,24
 training data influence,trainingdatainfluence.io,.io,maybe_available,3,24
@@ -701,24 +701,27 @@ impedance spectroscopy,impedancespectroscopy.io,.io,maybe_available,2,24
 optimization benchmark,optimizationbenchmark.com,.com,maybe_available,2,24
 optimization benchmark,optimizationbenchmark.ai,.ai,maybe_available,2,24
 optimization benchmark,optimizationbenchmark.io,.io,maybe_available,2,24
-gpt claude gemini,gptclaudegemini.com,.com,maybe_available,1,18
-gpt claude gemini,gptclaudegemini.ai,.ai,maybe_available,1,18
-gpt claude gemini,gptclaudegemini.io,.io,maybe_available,1,18
-claude gemini ask,claudegeminiask.com,.com,maybe_available,1,18
-claude gemini ask,claudegeminiask.ai,.ai,maybe_available,1,18
-claude gemini ask,claudegeminiask.io,.io,maybe_available,1,18
-coming car factories,comingcarfactories.com,.com,maybe_available,1,18
-coming car factories,comingcarfactories.ai,.ai,maybe_available,1,18
-coming car factories,comingcarfactories.io,.io,maybe_available,1,18
-spent months making,spentmonthsmaking.com,.com,maybe_available,1,18
-spent months making,spentmonthsmaking.ai,.ai,maybe_available,1,18
-spent months making,spentmonthsmaking.io,.io,maybe_available,1,18
-months making desktop,monthsmakingdesktop.com,.com,maybe_available,1,18
-months making desktop,monthsmakingdesktop.ai,.ai,maybe_available,1,18
-months making desktop,monthsmakingdesktop.io,.io,maybe_available,1,18
-automation stop lying,automationstoplying.com,.com,maybe_available,1,18
-automation stop lying,automationstoplying.ai,.ai,maybe_available,1,18
-automation stop lying,automationstoplying.io,.io,maybe_available,1,18
+help people offering,helppeopleoffering.com,.com,maybe_available,1,18
+help people offering,helppeopleoffering.ai,.ai,maybe_available,1,18
+help people offering,helppeopleoffering.io,.io,maybe_available,1,18
+checked frontier cards,checkedfrontiercards.com,.com,maybe_available,1,18
+checked frontier cards,checkedfrontiercards.ai,.ai,maybe_available,1,18
+checked frontier cards,checkedfrontiercards.io,.io,maybe_available,1,18
+frontier cards here,frontiercardshere.com,.com,maybe_available,1,18
+frontier cards here,frontiercardshere.ai,.ai,maybe_available,1,18
+frontier cards here,frontiercardshere.io,.io,maybe_available,1,18
+cards here benchmarks,cardsherebenchmarks.com,.com,maybe_available,1,18
+cards here benchmarks,cardsherebenchmarks.ai,.ai,maybe_available,1,18
+cards here benchmarks,cardsherebenchmarks.io,.io,maybe_available,1,18
+here benchmarks labs,herebenchmarkslabs.com,.com,maybe_available,1,18
+here benchmarks labs,herebenchmarkslabs.ai,.ai,maybe_available,1,18
+here benchmarks labs,herebenchmarkslabs.io,.io,maybe_available,1,18
+benchmarks labs report,benchmarkslabsreport.com,.com,maybe_available,1,18
+benchmarks labs report,benchmarkslabsreport.ai,.ai,maybe_available,1,18
+benchmarks labs report,benchmarkslabsreport.io,.io,maybe_available,1,18
+grow saas visibility,growsaasvisibility.com,.com,maybe_available,1,18
+grow saas visibility,growsaasvisibility.ai,.ai,maybe_available,1,18
+grow saas visibility,growsaasvisibility.io,.io,maybe_available,1,18
 which regular languages,whichregularlanguages.com,.com,maybe_available,2,16
 which regular languages,whichregularlanguages.ai,.ai,maybe_available,2,16
 which regular languages,whichregularlanguages.io,.io,maybe_available,2,16
@@ -734,15 +737,15 @@ activities daily living,activitiesdailyliving.io,.io,maybe_available,2,16
 oxide fuel electrolysis,oxidefuelelectrolysis.com,.com,maybe_available,2,16
 oxide fuel electrolysis,oxidefuelelectrolysis.ai,.ai,maybe_available,2,16
 oxide fuel electrolysis,oxidefuelelectrolysis.io,.io,maybe_available,2,16
-ask them,askthem.com,.com,taken_or_active,1,16
-ask them,askthem.ai,.ai,taken_or_active,1,16
-ask them,askthem.io,.io,taken_or_active,1,16
-them pay,thempay.com,.com,taken_or_active,1,16
-them pay,thempay.ai,.ai,maybe_available,1,16
-them pay,thempay.io,.io,maybe_available,1,16
-desktop automation stop,desktopautomationstop.com,.com,maybe_available,1,8
-desktop automation stop,desktopautomationstop.ai,.ai,maybe_available,1,8
-desktop automation stop,desktopautomationstop.io,.io,maybe_available,1,8
-rails benchmark project,railsbenchmarkproject.com,.com,maybe_available,1,8
-rails benchmark project,railsbenchmarkproject.ai,.ai,maybe_available,1,8
-rails benchmark project,railsbenchmarkproject.io,.io,maybe_available,1,8
+who need,whoneed.com,.com,taken_or_active,1,16
+who need,whoneed.ai,.ai,maybe_available,1,16
+who need,whoneed.io,.io,maybe_available,1,16
+aim maps,aimmaps.com,.com,maybe_available,1,16
+aim maps,aimmaps.ai,.ai,maybe_available,1,16
+aim maps,aimmaps.io,.io,maybe_available,1,16
+shieldfont bludgeoning,shieldfontbludgeoning.com,.com,maybe_available,1,16
+shieldfont bludgeoning,shieldfontbludgeoning.ai,.ai,maybe_available,1,16
+shieldfont bludgeoning,shieldfontbludgeoning.io,.io,maybe_available,1,16
+safety reckoning inside,safetyreckoninginside.com,.com,maybe_available,1,8
+safety reckoning inside,safetyreckoninginside.ai,.ai,maybe_available,1,8
+safety reckoning inside,safetyreckoninginside.io,.io,maybe_available,1,8
