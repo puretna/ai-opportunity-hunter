@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-08-18 05:35
+Rapor zamanı: 2026-08-19 05:36
 
 ## Kaynak sayıları
-- Hacker News: 30
+- Hacker News: 33
 - arXiv: 75
-- GitHub Trending: 7
+- GitHub Trending: 6
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | reinforcementlearning.io | 80/100 | reinforcement learning | maybe_available |
-| 2 | incontextlearning.ai | 67/100 | in-context learning | maybe_available |
-| 3 | incontextlearning.io | 67/100 | in-context learning | maybe_available |
-| 4 | existingmethods.com | 66/100 | existing methods | maybe_available |
-| 5 | existingmethods.ai | 66/100 | existing methods | maybe_available |
-| 6 | existingmethods.io | 66/100 | existing methods | maybe_available |
-| 7 | embodiedagents.io | 60/100 | embodied agents | maybe_available |
-| 8 | agentsagents.ai | 60/100 | agents agents | maybe_available |
-| 9 | agentsagents.io | 60/100 | agents agents | maybe_available |
-| 10 | featurememory.com | 59/100 | feature memory | maybe_available |
-| 11 | featurememory.ai | 59/100 | feature memory | maybe_available |
-| 12 | featurememory.io | 59/100 | feature memory | maybe_available |
-| 13 | naturallanguage.ai | 58/100 | natural language | maybe_available |
-| 14 | unlabeleddata.ai | 58/100 | unlabeled data | maybe_available |
-| 15 | unlabeleddata.io | 58/100 | unlabeled data | maybe_available |
-| 16 | agentscoordinate.com | 52/100 | agents coordinate | maybe_available |
-| 17 | agentscoordinate.ai | 52/100 | agents coordinate | maybe_available |
-| 18 | agentscoordinate.io | 52/100 | agents coordinate | maybe_available |
-| 19 | satelliteagents.ai | 52/100 | satellite agents | maybe_available |
-| 20 | satelliteagents.io | 52/100 | satellite agents | maybe_available |
+| 1 | mrireconstruction.com | 66/100 | mri reconstruction | maybe_available |
+| 2 | mrireconstruction.ai | 66/100 | mri reconstruction | maybe_available |
+| 3 | mrireconstruction.io | 66/100 | mri reconstruction | maybe_available |
+| 4 | codingagents.com | 60/100 | coding agents | maybe_available |
+| 5 | codingagents.io | 60/100 | coding agents | maybe_available |
+| 6 | memoryretrieval.io | 52/100 | memory retrieval | maybe_available |
+| 7 | traceabletrust.com | 51/100 | traceable trust | maybe_available |
+| 8 | traceabletrust.ai | 51/100 | traceable trust | maybe_available |
+| 9 | traceabletrust.io | 51/100 | traceable trust | maybe_available |
+| 10 | longcontexts.com | 51/100 | long contexts | maybe_available |
+| 11 | longcontexts.ai | 51/100 | long contexts | maybe_available |
+| 12 | longcontexts.io | 51/100 | long contexts | maybe_available |
+| 13 | eachagent.ai | 51/100 | each agent | maybe_available |
+| 14 | eachagent.io | 51/100 | each agent | maybe_available |
+| 15 | domainknowledge.ai | 50/100 | domain knowledge | maybe_available |
+| 16 | domainknowledge.io | 50/100 | domain knowledge | maybe_available |
+| 17 | existingbenchmarks.com | 50/100 | existing benchmarks | maybe_available |
+| 18 | existingbenchmarks.ai | 50/100 | existing benchmarks | maybe_available |
+| 19 | existingbenchmarks.io | 50/100 | existing benchmarks | maybe_available |
+| 20 | neuralnetwork.io | 50/100 | neural network | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
