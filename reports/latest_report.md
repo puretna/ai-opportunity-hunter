@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-08-19 05:36
+Rapor zamanı: 2026-08-20 05:36
 
 ## Kaynak sayıları
-- Hacker News: 33
+- Hacker News: 29
 - arXiv: 75
-- GitHub Trending: 6
+- GitHub Trending: 8
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | mrireconstruction.com | 66/100 | mri reconstruction | maybe_available |
-| 2 | mrireconstruction.ai | 66/100 | mri reconstruction | maybe_available |
-| 3 | mrireconstruction.io | 66/100 | mri reconstruction | maybe_available |
-| 4 | codingagents.com | 60/100 | coding agents | maybe_available |
-| 5 | codingagents.io | 60/100 | coding agents | maybe_available |
-| 6 | memoryretrieval.io | 52/100 | memory retrieval | maybe_available |
-| 7 | traceabletrust.com | 51/100 | traceable trust | maybe_available |
-| 8 | traceabletrust.ai | 51/100 | traceable trust | maybe_available |
-| 9 | traceabletrust.io | 51/100 | traceable trust | maybe_available |
-| 10 | longcontexts.com | 51/100 | long contexts | maybe_available |
-| 11 | longcontexts.ai | 51/100 | long contexts | maybe_available |
-| 12 | longcontexts.io | 51/100 | long contexts | maybe_available |
-| 13 | eachagent.ai | 51/100 | each agent | maybe_available |
-| 14 | eachagent.io | 51/100 | each agent | maybe_available |
-| 15 | domainknowledge.ai | 50/100 | domain knowledge | maybe_available |
-| 16 | domainknowledge.io | 50/100 | domain knowledge | maybe_available |
-| 17 | existingbenchmarks.com | 50/100 | existing benchmarks | maybe_available |
-| 18 | existingbenchmarks.ai | 50/100 | existing benchmarks | maybe_available |
-| 19 | existingbenchmarks.io | 50/100 | existing benchmarks | maybe_available |
-| 20 | neuralnetwork.io | 50/100 | neural network | maybe_available |
+| 1 | reinforcementlearning.io | 72/100 | reinforcement learning | maybe_available |
+| 2 | languageagents.ai | 68/100 | language agents | maybe_available |
+| 3 | languageagents.io | 68/100 | language agents | maybe_available |
+| 4 | agentsnow.io | 60/100 | agents now | maybe_available |
+| 5 | timeseries.com | 58/100 | time series | maybe_available |
+| 6 | addressthese.com | 58/100 | address these | maybe_available |
+| 7 | addressthese.ai | 58/100 | address these | maybe_available |
+| 8 | addressthese.io | 58/100 | address these | maybe_available |
+| 9 | generativedata.ai | 58/100 | generative data | maybe_available |
+| 10 | generativedata.io | 58/100 | generative data | maybe_available |
+| 11 | skintone.ai | 58/100 | skin tone | maybe_available |
+| 12 | skintone.io | 58/100 | skin tone | maybe_available |
+| 13 | shouldtrusted.com | 51/100 | should trusted | maybe_available |
+| 14 | shouldtrusted.ai | 51/100 | should trusted | maybe_available |
+| 15 | shouldtrusted.io | 51/100 | should trusted | maybe_available |
+| 16 | graphdrawn.com | 51/100 | graph drawn | maybe_available |
+| 17 | graphdrawn.ai | 51/100 | graph drawn | maybe_available |
+| 18 | graphdrawn.io | 51/100 | graph drawn | maybe_available |
+| 19 | spacegraph.ai | 51/100 | space graph | maybe_available |
+| 20 | spacegraph.io | 51/100 | space graph | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
