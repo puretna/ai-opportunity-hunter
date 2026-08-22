@@ -5,6 +5,9 @@ large language,largelanguage.io,.io,taken_or_active,19,100
 time series,timeseries.com,.com,maybe_available,11,100
 time series,timeseries.ai,.ai,taken_or_active,11,100
 time series,timeseries.io,.io,taken_or_active,11,100
+coding agents,codingagents.com,.com,maybe_available,3,68
+coding agents,codingagents.ai,.ai,taken_or_active,3,68
+coding agents,codingagents.io,.io,maybe_available,3,68
 existing methods,existingmethods.com,.com,maybe_available,6,66
 existing methods,existingmethods.ai,.ai,maybe_available,6,66
 existing methods,existingmethods.io,.io,maybe_available,6,66
@@ -23,12 +26,6 @@ agents need,agentsneed.io,.io,maybe_available,2,60
 language agents,languageagents.com,.com,taken_or_active,2,60
 language agents,languageagents.ai,.ai,maybe_available,2,60
 language agents,languageagents.io,.io,maybe_available,2,60
-coding agents,codingagents.com,.com,maybe_available,2,60
-coding agents,codingagents.ai,.ai,taken_or_active,2,60
-coding agents,codingagents.io,.io,maybe_available,2,60
-agent harness,agentharness.com,.com,taken_or_active,3,59
-agent harness,agentharness.ai,.ai,taken_or_active,3,59
-agent harness,agentharness.io,.io,taken_or_active,3,59
 machine learning,machinelearning.com,.com,taken_or_active,5,58
 machine learning,machinelearning.ai,.ai,taken_or_active,5,58
 machine learning,machinelearning.io,.io,taken_or_active,5,58
@@ -56,15 +53,21 @@ graph generation,graphgeneration.io,.io,maybe_available,3,51
 evaluate these,evaluatethese.com,.com,maybe_available,2,51
 evaluate these,evaluatethese.ai,.ai,maybe_available,2,51
 evaluate these,evaluatethese.io,.io,maybe_available,2,51
+agent harness,agentharness.com,.com,taken_or_active,2,51
+agent harness,agentharness.ai,.ai,taken_or_active,2,51
+agent harness,agentharness.io,.io,taken_or_active,2,51
 humanoid robots,humanoidrobots.com,.com,taken_or_active,2,51
 humanoid robots,humanoidrobots.ai,.ai,taken_or_active,2,51
 humanoid robots,humanoidrobots.io,.io,taken_or_active,2,51
+tool calls,toolcalls.com,.com,taken_or_active,2,51
+tool calls,toolcalls.ai,.ai,taken_or_active,2,51
+tool calls,toolcalls.io,.io,maybe_available,2,51
 agentic systems,agenticsystems.com,.com,taken_or_active,2,51
 agentic systems,agenticsystems.ai,.ai,taken_or_active,2,51
 agentic systems,agenticsystems.io,.io,taken_or_active,2,51
-claude code,claudecode.com,.com,maybe_available,3,50
-claude code,claudecode.ai,.ai,maybe_available,3,50
-claude code,claudecode.io,.io,taken_or_active,3,50
+large reasoning,largereasoning.com,.com,taken_or_active,3,50
+large reasoning,largereasoning.ai,.ai,maybe_available,3,50
+large reasoning,largereasoning.io,.io,maybe_available,3,50
 language large,languagelarge.com,.com,maybe_available,3,50
 language large,languagelarge.ai,.ai,maybe_available,3,50
 language large,languagelarge.io,.io,maybe_available,3,50
@@ -113,6 +116,12 @@ heat load,heatload.io,.io,maybe_available,3,50
 skill selection,skillselection.com,.com,taken_or_active,3,50
 skill selection,skillselection.ai,.ai,maybe_available,3,50
 skill selection,skillselection.io,.io,maybe_available,3,50
+claude code,claudecode.com,.com,maybe_available,3,50
+claude code,claudecode.ai,.ai,maybe_available,3,50
+claude code,claudecode.io,.io,taken_or_active,3,50
+code codex,codecodex.com,.com,taken_or_active,3,50
+code codex,codecodex.ai,.ai,taken_or_active,3,50
+code codex,codecodex.io,.io,taken_or_active,3,50
 large language agents,largelanguageagents.com,.com,maybe_available,2,44
 large language agents,largelanguageagents.ai,.ai,maybe_available,2,44
 large language agents,largelanguageagents.io,.io,maybe_available,2,44
@@ -179,9 +188,6 @@ sentiment analysis,sentimentanalysis.io,.io,maybe_available,3,42
 break-even point,breakevenpoint.com,.com,taken_or_active,3,42
 break-even point,breakevenpoint.ai,.ai,maybe_available,3,42
 break-even point,breakevenpoint.io,.io,maybe_available,3,42
-video editor,videoeditor.com,.com,taken_or_active,2,42
-video editor,videoeditor.ai,.ai,taken_or_active,2,42
-video editor,videoeditor.io,.io,taken_or_active,2,42
 random times,randomtimes.com,.com,taken_or_active,2,42
 random times,randomtimes.ai,.ai,maybe_available,2,42
 random times,randomtimes.io,.io,maybe_available,2,42
@@ -332,9 +338,6 @@ adaptive motion,adaptivemotion.io,.io,maybe_available,2,42
 task motion,taskmotion.com,.com,taken_or_active,2,42
 task motion,taskmotion.ai,.ai,maybe_available,2,42
 task motion,taskmotion.io,.io,taken_or_active,2,42
-large reasoning,largereasoning.com,.com,taken_or_active,2,42
-large reasoning,largereasoning.ai,.ai,maybe_available,2,42
-large reasoning,largereasoning.io,.io,maybe_available,2,42
 trend seasonal,trendseasonal.com,.com,maybe_available,2,42
 trend seasonal,trendseasonal.ai,.ai,maybe_available,2,42
 trend seasonal,trendseasonal.io,.io,maybe_available,2,42
@@ -374,9 +377,6 @@ ml-based data,mlbaseddata.io,.io,maybe_available,2,42
 skill set,skillset.com,.com,taken_or_active,2,42
 skill set,skillset.ai,.ai,taken_or_active,2,42
 skill set,skillset.io,.io,taken_or_active,2,42
-posthog posthog,posthogposthog.com,.com,maybe_available,2,42
-posthog posthog,posthogposthog.ai,.ai,maybe_available,2,42
-posthog posthog,posthogposthog.io,.io,maybe_available,2,42
 time series forecasting,timeseriesforecasting.com,.com,taken_or_active,5,40
 time series forecasting,timeseriesforecasting.ai,.ai,maybe_available,5,40
 time series forecasting,timeseriesforecasting.io,.io,maybe_available,5,40
@@ -386,6 +386,18 @@ large language large,largelanguagelarge.io,.io,maybe_available,3,34
 sequential monte carlo,sequentialmontecarlo.com,.com,maybe_available,3,34
 sequential monte carlo,sequentialmontecarlo.ai,.ai,maybe_available,3,34
 sequential monte carlo,sequentialmontecarlo.io,.io,maybe_available,3,34
+claude code codex,claudecodecodex.com,.com,maybe_available,3,34
+claude code codex,claudecodecodex.ai,.ai,maybe_available,3,34
+claude code codex,claudecodecodex.io,.io,maybe_available,3,34
+generally available,generallyavailable.com,.com,taken_or_active,2,34
+generally available,generallyavailable.ai,.ai,maybe_available,2,34
+generally available,generallyavailable.io,.io,maybe_available,2,34
+echocot extracting,echocotextracting.com,.com,maybe_available,2,34
+echocot extracting,echocotextracting.ai,.ai,maybe_available,2,34
+echocot extracting,echocotextracting.io,.io,maybe_available,2,34
+extracting hidden,extractinghidden.com,.com,maybe_available,2,34
+extracting hidden,extractinghidden.ai,.ai,maybe_available,2,34
+extracting hidden,extractinghidden.io,.io,maybe_available,2,34
 language increasingly,languageincreasingly.com,.com,maybe_available,2,34
 language increasingly,languageincreasingly.ai,.ai,maybe_available,2,34
 language increasingly,languageincreasingly.io,.io,maybe_available,2,34
@@ -611,15 +623,9 @@ series foundation,seriesfoundation.io,.io,maybe_available,2,34
 data compression,datacompression.com,.com,maybe_available,2,34
 data compression,datacompression.ai,.ai,maybe_available,2,34
 data compression,datacompression.io,.io,taken_or_active,2,34
-language medicine,languagemedicine.com,.com,taken_or_active,2,34
-language medicine,languagemedicine.ai,.ai,maybe_available,2,34
-language medicine,languagemedicine.io,.io,maybe_available,2,34
-object detection,objectdetection.com,.com,taken_or_active,2,34
-object detection,objectdetection.ai,.ai,taken_or_active,2,34
-object detection,objectdetection.io,.io,taken_or_active,2,34
-multilingual evaluation,multilingualevaluation.com,.com,maybe_available,2,33
-multilingual evaluation,multilingualevaluation.ai,.ai,maybe_available,2,33
-multilingual evaluation,multilingualevaluation.io,.io,maybe_available,2,33
+hidden chain-of-thought,hiddenchainofthought.com,.com,maybe_available,3,32
+hidden chain-of-thought,hiddenchainofthought.ai,.ai,maybe_available,3,32
+hidden chain-of-thought,hiddenchainofthought.io,.io,maybe_available,3,32
 artificial intelligence,artificialintelligence.com,.com,taken_or_active,3,32
 artificial intelligence,artificialintelligence.ai,.ai,taken_or_active,3,32
 artificial intelligence,artificialintelligence.io,.io,taken_or_active,3,32
@@ -659,6 +665,9 @@ time series foundation,timeseriesfoundation.io,.io,maybe_available,2,26
 language large language,languagelargelanguage.com,.com,maybe_available,3,24
 language large language,languagelargelanguage.ai,.ai,maybe_available,3,24
 language large language,languagelargelanguage.io,.io,maybe_available,3,24
+chain-of-thought large,chainofthoughtlarge.com,.com,maybe_available,2,24
+chain-of-thought large,chainofthoughtlarge.ai,.ai,maybe_available,2,24
+chain-of-thought large,chainofthoughtlarge.io,.io,maybe_available,2,24
 increasingly recognized,increasinglyrecognized.com,.com,maybe_available,2,24
 increasingly recognized,increasinglyrecognized.ai,.ai,maybe_available,2,24
 increasingly recognized,increasinglyrecognized.io,.io,maybe_available,2,24
@@ -674,7 +683,7 @@ electronic navigational,electronicnavigational.io,.io,maybe_available,2,24
 three-tier architecture,threetierarchitecture.com,.com,maybe_available,2,24
 three-tier architecture,threetierarchitecture.ai,.ai,maybe_available,2,24
 three-tier architecture,threetierarchitecture.io,.io,maybe_available,2,24
-technical documentation,technicaldocumentation.com,.com,taken_or_active,2,24
+technical documentation,technicaldocumentation.com,.com,maybe_available,2,24
 technical documentation,technicaldocumentation.ai,.ai,taken_or_active,2,24
 technical documentation,technicaldocumentation.io,.io,maybe_available,2,24
 mathematical traditions,mathematicaltraditions.com,.com,maybe_available,2,24
@@ -695,18 +704,12 @@ base arm,basearm.io,.io,maybe_available,2,24
 hyperparameter transfer,hyperparametertransfer.com,.com,maybe_available,2,24
 hyperparameter transfer,hyperparametertransfer.ai,.ai,maybe_available,2,24
 hyperparameter transfer,hyperparametertransfer.io,.io,maybe_available,2,24
-hidden chain-of-thought,hiddenchainofthought.com,.com,maybe_available,2,24
-hidden chain-of-thought,hiddenchainofthought.ai,.ai,maybe_available,2,24
-hidden chain-of-thought,hiddenchainofthought.io,.io,maybe_available,2,24
 preference optimization,preferenceoptimization.com,.com,maybe_available,2,24
 preference optimization,preferenceoptimization.ai,.ai,maybe_available,2,24
 preference optimization,preferenceoptimization.io,.io,maybe_available,2,24
 multi-object trajectory,multiobjecttrajectory.com,.com,maybe_available,2,24
 multi-object trajectory,multiobjecttrajectory.ai,.ai,maybe_available,2,24
 multi-object trajectory,multiobjecttrajectory.io,.io,maybe_available,2,24
-open-vocabulary object,openvocabularyobject.com,.com,maybe_available,2,24
-open-vocabulary object,openvocabularyobject.ai,.ai,maybe_available,2,24
-open-vocabulary object,openvocabularyobject.io,.io,maybe_available,2,24
 existing methods assume,existingmethodsassume.com,.com,maybe_available,2,16
 existing methods assume,existingmethodsassume.ai,.ai,maybe_available,2,16
 existing methods assume,existingmethodsassume.io,.io,maybe_available,2,16
@@ -743,6 +746,3 @@ analysis unseen modality,analysisunseenmodality.io,.io,maybe_available,2,16
 pretraining time series,pretrainingtimeseries.com,.com,maybe_available,2,16
 pretraining time series,pretrainingtimeseries.ai,.ai,maybe_available,2,16
 pretraining time series,pretrainingtimeseries.io,.io,maybe_available,2,16
-large language medicine,largelanguagemedicine.com,.com,taken_or_active,2,16
-large language medicine,largelanguagemedicine.ai,.ai,taken_or_active,2,16
-large language medicine,largelanguagemedicine.io,.io,maybe_available,2,16
