@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-08-22 05:33
+Rapor zamanı: 2026-08-23 05:35
 
 ## Kaynak sayıları
-- Hacker News: 24
+- Hacker News: 36
 - arXiv: 75
 - GitHub Trending: 10
 
@@ -12,8 +12,8 @@ Rapor zamanı: 2026-08-22 05:33
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
 | 1 | timeseries.com | 100/100 | time series | maybe_available |
-| 2 | codingagents.com | 68/100 | coding agents | maybe_available |
-| 3 | codingagents.io | 68/100 | coding agents | maybe_available |
+| 2 | codingagents.com | 76/100 | coding agents | maybe_available |
+| 3 | codingagents.io | 76/100 | coding agents | maybe_available |
 | 4 | existingmethods.com | 66/100 | existing methods | maybe_available |
 | 5 | existingmethods.ai | 66/100 | existing methods | maybe_available |
 | 6 | existingmethods.io | 66/100 | existing methods | maybe_available |
