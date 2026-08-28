@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-08-27 16:19
+Rapor zamanı: 2026-08-28 17:15
 
 ## Kaynak sayıları
-- Hacker News: 36
+- Hacker News: 34
 - arXiv: 75
-- GitHub Trending: 11
+- GitHub Trending: 13
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | knowledgegraph.io | 83/100 | knowledge graph | maybe_available |
-| 2 | multiagentsystems.ai | 75/100 | multi-agent systems | maybe_available |
-| 3 | codingagents.com | 60/100 | coding agents | maybe_available |
-| 4 | codingagents.io | 60/100 | coding agents | maybe_available |
-| 5 | claudecode.com | 58/100 | claude code | maybe_available |
-| 6 | claudecode.ai | 58/100 | claude code | maybe_available |
-| 7 | remainsunclear.com | 58/100 | remains unclear | maybe_available |
-| 8 | remainsunclear.ai | 58/100 | remains unclear | maybe_available |
-| 9 | remainsunclear.io | 58/100 | remains unclear | maybe_available |
-| 10 | traceintegrity.com | 58/100 | trace integrity | maybe_available |
-| 11 | traceintegrity.ai | 58/100 | trace integrity | maybe_available |
-| 12 | traceintegrity.io | 58/100 | trace integrity | maybe_available |
-| 13 | variablebias.com | 58/100 | variable bias | maybe_available |
-| 14 | variablebias.ai | 58/100 | variable bias | maybe_available |
-| 15 | variablebias.io | 58/100 | variable bias | maybe_available |
-| 16 | languagemodelagents.com | 52/100 | language-model agents | maybe_available |
-| 17 | languagemodelagents.ai | 52/100 | language-model agents | maybe_available |
-| 18 | languagemodelagents.io | 52/100 | language-model agents | maybe_available |
-| 19 | agenticframework.ai | 51/100 | agentic framework | maybe_available |
-| 20 | agenticframework.io | 51/100 | agentic framework | maybe_available |
+| 1 | agentsincreasingly.com | 60/100 | agents increasingly | maybe_available |
+| 2 | agentsincreasingly.ai | 60/100 | agents increasingly | maybe_available |
+| 3 | agentsincreasingly.io | 60/100 | agents increasingly | maybe_available |
+| 4 | codingagents.com | 60/100 | coding agents | maybe_available |
+| 5 | codingagents.io | 60/100 | coding agents | maybe_available |
+| 6 | agentexperience.com | 59/100 | agent experience | maybe_available |
+| 7 | agentexperience.ai | 59/100 | agent experience | maybe_available |
+| 8 | graphneural.ai | 59/100 | graph neural | maybe_available |
+| 9 | graphneural.io | 59/100 | graph neural | maybe_available |
+| 10 | agenticdata.io | 59/100 | agentic data | maybe_available |
+| 11 | priorwork.ai | 58/100 | prior work | maybe_available |
+| 12 | priorwork.io | 58/100 | prior work | maybe_available |
+| 13 | gapintroduce.com | 58/100 | gap introduce | maybe_available |
+| 14 | gapintroduce.ai | 58/100 | gap introduce | maybe_available |
+| 15 | gapintroduce.io | 58/100 | gap introduce | maybe_available |
+| 16 | compilingagent.com | 51/100 | compiling agent | maybe_available |
+| 17 | compilingagent.ai | 51/100 | compiling agent | maybe_available |
+| 18 | compilingagent.io | 51/100 | compiling agent | maybe_available |
+| 19 | graphsevolve.com | 51/100 | graphs evolve | maybe_available |
+| 20 | graphsevolve.ai | 51/100 | graphs evolve | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
