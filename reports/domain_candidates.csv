@@ -2,6 +2,9 @@ phrase,domain,tld,rough_status,mentions,score
 large language,largelanguage.com,.com,taken_or_active,17,100
 large language,largelanguage.ai,.ai,taken_or_active,17,100
 large language,largelanguage.io,.io,taken_or_active,17,100
+coding agents,codingagents.com,.com,maybe_available,3,68
+coding agents,codingagents.ai,.ai,taken_or_active,3,68
+coding agents,codingagents.io,.io,maybe_available,3,68
 agent skills,agentskills.com,.com,taken_or_active,4,67
 agent skills,agentskills.ai,.ai,taken_or_active,4,67
 agent skills,agentskills.io,.io,taken_or_active,4,67
@@ -11,12 +14,6 @@ code review,codereview.io,.io,taken_or_active,5,66
 agents increasingly,agentsincreasingly.com,.com,maybe_available,3,60
 agents increasingly,agentsincreasingly.ai,.ai,maybe_available,3,60
 agents increasingly,agentsincreasingly.io,.io,maybe_available,3,60
-coding agents,codingagents.com,.com,maybe_available,2,60
-coding agents,codingagents.ai,.ai,taken_or_active,2,60
-coding agents,codingagents.io,.io,maybe_available,2,60
-agent experience,agentexperience.com,.com,maybe_available,4,59
-agent experience,agentexperience.ai,.ai,maybe_available,4,59
-agent experience,agentexperience.io,.io,taken_or_active,4,59
 graph neural,graphneural.com,.com,taken_or_active,3,59
 graph neural,graphneural.ai,.ai,maybe_available,3,59
 graph neural,graphneural.io,.io,maybe_available,3,59
@@ -38,6 +35,12 @@ computer vision,computervision.io,.io,taken_or_active,4,58
 autonomous agents,autonomousagents.com,.com,taken_or_active,2,52
 autonomous agents,autonomousagents.ai,.ai,taken_or_active,2,52
 autonomous agents,autonomousagents.io,.io,taken_or_active,2,52
+agent experience,agentexperience.com,.com,maybe_available,3,51
+agent experience,agentexperience.ai,.ai,maybe_available,3,51
+agent experience,agentexperience.io,.io,taken_or_active,3,51
+coding agent,codingagent.com,.com,taken_or_active,2,51
+coding agent,codingagent.ai,.ai,taken_or_active,2,51
+coding agent,codingagent.io,.io,taken_or_active,2,51
 compiling agent,compilingagent.com,.com,maybe_available,2,51
 compiling agent,compilingagent.ai,.ai,maybe_available,2,51
 compiling agent,compilingagent.io,.io,maybe_available,2,51
@@ -113,12 +116,6 @@ agentic misalignment,agenticmisalignment.io,.io,maybe_available,2,43
 existing evaluations,existingevaluations.com,.com,maybe_available,2,43
 existing evaluations,existingevaluations.ai,.ai,maybe_available,2,43
 existing evaluations,existingevaluations.io,.io,maybe_available,2,43
-fix workflows,fixworkflows.com,.com,maybe_available,1,43
-fix workflows,fixworkflows.ai,.ai,maybe_available,1,43
-fix workflows,fixworkflows.io,.io,maybe_available,1,43
-persistent knowledge,persistentknowledge.com,.com,maybe_available,3,42
-persistent knowledge,persistentknowledge.ai,.ai,maybe_available,3,42
-persistent knowledge,persistentknowledge.io,.io,maybe_available,3,42
 methods typically,methodstypically.com,.com,maybe_available,3,42
 methods typically,methodstypically.ai,.ai,maybe_available,3,42
 methods typically,methodstypically.io,.io,maybe_available,3,42
@@ -158,9 +155,12 @@ crowd navigation,crowdnavigation.io,.io,maybe_available,3,42
 object classification,objectclassification.com,.com,maybe_available,3,42
 object classification,objectclassification.ai,.ai,maybe_available,3,42
 object classification,objectclassification.io,.io,maybe_available,3,42
-knowledge skill,knowledgeskill.com,.com,taken_or_active,2,42
-knowledge skill,knowledgeskill.ai,.ai,maybe_available,2,42
-knowledge skill,knowledgeskill.io,.io,maybe_available,2,42
+claude code,claudecode.com,.com,maybe_available,2,42
+claude code,claudecode.ai,.ai,maybe_available,2,42
+claude code,claudecode.io,.io,taken_or_active,2,42
+debian vote,debianvote.com,.com,maybe_available,2,42
+debian vote,debianvote.ai,.ai,maybe_available,2,42
+debian vote,debianvote.io,.io,maybe_available,2,42
 these methods,thesemethods.com,.com,maybe_available,2,42
 these methods,thesemethods.ai,.ai,maybe_available,2,42
 these methods,thesemethods.io,.io,maybe_available,2,42
@@ -374,21 +374,18 @@ retrieval across typed,retrievalacrosstyped.io,.io,maybe_available,2,35
 robot crowd navigation,robotcrowdnavigation.com,.com,maybe_available,2,35
 robot crowd navigation,robotcrowdnavigation.ai,.ai,maybe_available,2,35
 robot crowd navigation,robotcrowdnavigation.io,.io,maybe_available,2,35
-contextswitch make,contextswitchmake.com,.com,maybe_available,1,35
-contextswitch make,contextswitchmake.ai,.ai,maybe_available,1,35
-contextswitch make,contextswitchmake.io,.io,maybe_available,1,35
-experience persistent,experiencepersistent.com,.com,maybe_available,2,34
-experience persistent,experiencepersistent.ai,.ai,maybe_available,2,34
-experience persistent,experiencepersistent.io,.io,maybe_available,2,34
-design near-optimal,designnearoptimal.com,.com,maybe_available,2,34
-design near-optimal,designnearoptimal.ai,.ai,maybe_available,2,34
-design near-optimal,designnearoptimal.io,.io,maybe_available,2,34
+wikiskill compiling,wikiskillcompiling.com,.com,maybe_available,2,34
+wikiskill compiling,wikiskillcompiling.ai,.ai,maybe_available,2,34
+wikiskill compiling,wikiskillcompiling.io,.io,maybe_available,2,34
 language however,languagehowever.com,.com,maybe_available,2,34
 language however,languagehowever.ai,.ai,maybe_available,2,34
 language however,languagehowever.io,.io,maybe_available,2,34
 improves reasoning,improvesreasoning.com,.com,maybe_available,2,34
 improves reasoning,improvesreasoning.ai,.ai,maybe_available,2,34
 improves reasoning,improvesreasoning.io,.io,maybe_available,2,34
+persistent knowledge,persistentknowledge.com,.com,maybe_available,2,34
+persistent knowledge,persistentknowledge.ai,.ai,maybe_available,2,34
+persistent knowledge,persistentknowledge.io,.io,maybe_available,2,34
 better performance,betterperformance.com,.com,taken_or_active,2,34
 better performance,betterperformance.ai,.ai,taken_or_active,2,34
 better performance,betterperformance.io,.io,maybe_available,2,34
@@ -578,48 +575,42 @@ diffusion policy,diffusionpolicy.io,.io,maybe_available,2,34
 video production,videoproduction.com,.com,taken_or_active,2,34
 video production,videoproduction.ai,.ai,taken_or_active,2,34
 video production,videoproduction.io,.io,taken_or_active,2,34
-bitcoin great,bitcoingreat.com,.com,taken_or_active,1,34
-bitcoin great,bitcoingreat.ai,.ai,maybe_available,1,34
-bitcoin great,bitcoingreat.io,.io,maybe_available,1,34
-great systemic,greatsystemic.com,.com,maybe_available,1,34
-great systemic,greatsystemic.ai,.ai,maybe_available,1,34
-great systemic,greatsystemic.io,.io,maybe_available,1,34
-systemic theft,systemictheft.com,.com,maybe_available,1,34
-systemic theft,systemictheft.ai,.ai,maybe_available,1,34
-systemic theft,systemictheft.io,.io,maybe_available,1,34
-theft aid,theftaid.com,.com,maybe_available,1,34
-theft aid,theftaid.ai,.ai,maybe_available,1,34
-theft aid,theftaid.io,.io,maybe_available,1,34
-aid money,aidmoney.com,.com,taken_or_active,1,34
-aid money,aidmoney.ai,.ai,maybe_available,1,34
-aid money,aidmoney.io,.io,maybe_available,1,34
-luna reserve,lunareserve.com,.com,maybe_available,1,34
-luna reserve,lunareserve.ai,.ai,maybe_available,1,34
-luna reserve,lunareserve.io,.io,maybe_available,1,34
-remover clean,removerclean.com,.com,maybe_available,1,34
-remover clean,removerclean.ai,.ai,maybe_available,1,34
-remover clean,removerclean.io,.io,maybe_available,1,34
-watermarks text,watermarkstext.com,.com,maybe_available,1,34
-watermarks text,watermarkstext.ai,.ai,maybe_available,1,34
-watermarks text,watermarkstext.io,.io,maybe_available,1,34
-text files,textfiles.com,.com,taken_or_active,1,34
-text files,textfiles.ai,.ai,maybe_available,1,34
-text files,textfiles.io,.io,maybe_available,1,34
-ruining san,ruiningsan.com,.com,maybe_available,1,34
-ruining san,ruiningsan.ai,.ai,maybe_available,1,34
-ruining san,ruiningsan.io,.io,maybe_available,1,34
-san francisco,sanfrancisco.com,.com,taken_or_active,1,34
-san francisco,sanfrancisco.ai,.ai,taken_or_active,1,34
-san francisco,sanfrancisco.io,.io,maybe_available,1,34
-make chats,makechats.com,.com,taken_or_active,1,34
-make chats,makechats.ai,.ai,maybe_available,1,34
-make chats,makechats.io,.io,maybe_available,1,34
-chats provider,chatsprovider.com,.com,maybe_available,1,34
-chats provider,chatsprovider.ai,.ai,maybe_available,1,34
-chats provider,chatsprovider.io,.io,maybe_available,1,34
-fix fix workflows,fixfixworkflows.com,.com,maybe_available,1,27
-fix fix workflows,fixfixworkflows.ai,.ai,maybe_available,1,27
-fix fix workflows,fixfixworkflows.io,.io,maybe_available,1,27
+explosion proof,explosionproof.com,.com,taken_or_active,1,34
+explosion proof,explosionproof.ai,.ai,maybe_available,1,34
+explosion proof,explosionproof.io,.io,maybe_available,1,34
+proof solid,proofsolid.com,.com,maybe_available,1,34
+proof solid,proofsolid.ai,.ai,maybe_available,1,34
+proof solid,proofsolid.io,.io,maybe_available,1,34
+solid state,solidstate.com,.com,taken_or_active,1,34
+solid state,solidstate.ai,.ai,taken_or_active,1,34
+solid state,solidstate.io,.io,taken_or_active,1,34
+state stainless,statestainless.com,.com,maybe_available,1,34
+state stainless,statestainless.ai,.ai,maybe_available,1,34
+state stainless,statestainless.io,.io,maybe_available,1,34
+stainless steel,stainlesssteel.com,.com,taken_or_active,1,34
+stainless steel,stainlesssteel.ai,.ai,taken_or_active,1,34
+stainless steel,stainlesssteel.io,.io,taken_or_active,1,34
+steel ketamine,steelketamine.com,.com,maybe_available,1,34
+steel ketamine,steelketamine.ai,.ai,maybe_available,1,34
+steel ketamine,steelketamine.io,.io,maybe_available,1,34
+cut claude,cutclaude.com,.com,maybe_available,1,34
+cut claude,cutclaude.ai,.ai,maybe_available,1,34
+cut claude,cutclaude.io,.io,maybe_available,1,34
+code bill,codebill.com,.com,taken_or_active,1,34
+code bill,codebill.ai,.ai,maybe_available,1,34
+code bill,codebill.io,.io,maybe_available,1,34
+bill routing,billrouting.com,.com,maybe_available,1,34
+bill routing,billrouting.ai,.ai,maybe_available,1,34
+bill routing,billrouting.io,.io,maybe_available,1,34
+deepseek grok,deepseekgrok.com,.com,maybe_available,1,34
+deepseek grok,deepseekgrok.ai,.ai,maybe_available,1,34
+deepseek grok,deepseekgrok.io,.io,maybe_available,1,34
+opa sidecar,opasidecar.com,.com,maybe_available,1,34
+opa sidecar,opasidecar.ai,.ai,maybe_available,1,34
+opa sidecar,opasidecar.io,.io,maybe_available,1,34
+sidecar pattern,sidecarpattern.com,.com,maybe_available,1,34
+sidecar pattern,sidecarpattern.ai,.ai,maybe_available,1,34
+sidecar pattern,sidecarpattern.io,.io,maybe_available,1,34
 code review mcr-bench,codereviewmcrbench.com,.com,maybe_available,2,26
 code review mcr-bench,codereviewmcrbench.ai,.ai,maybe_available,2,26
 code review mcr-bench,codereviewmcrbench.io,.io,maybe_available,2,26
@@ -656,24 +647,24 @@ action plans natural,actionplansnatural.io,.io,maybe_available,2,26
 plans natural language,plansnaturallanguage.com,.com,maybe_available,2,26
 plans natural language,plansnaturallanguage.ai,.ai,maybe_available,2,26
 plans natural language,plansnaturallanguage.io,.io,maybe_available,2,26
-theft aid money,theftaidmoney.com,.com,maybe_available,1,26
-theft aid money,theftaidmoney.ai,.ai,maybe_available,1,26
-theft aid money,theftaidmoney.io,.io,maybe_available,1,26
-watermarks remover,watermarksremover.com,.com,taken_or_active,1,26
-watermarks remover,watermarksremover.ai,.ai,maybe_available,1,26
-watermarks remover,watermarksremover.io,.io,taken_or_active,1,26
-clean watermarks,cleanwatermarks.com,.com,taken_or_active,1,26
-clean watermarks,cleanwatermarks.ai,.ai,maybe_available,1,26
-clean watermarks,cleanwatermarks.io,.io,maybe_available,1,26
-columnist ruining,columnistruining.com,.com,maybe_available,1,26
-columnist ruining,columnistruining.ai,.ai,maybe_available,1,26
-columnist ruining,columnistruining.io,.io,maybe_available,1,26
-provider agnostic,provideragnostic.com,.com,maybe_available,1,26
-provider agnostic,provideragnostic.ai,.ai,maybe_available,1,26
-provider agnostic,provideragnostic.io,.io,maybe_available,1,26
-near-optimal algorithms,nearoptimalalgorithms.com,.com,maybe_available,2,24
-near-optimal algorithms,nearoptimalalgorithms.ai,.ai,maybe_available,2,24
-near-optimal algorithms,nearoptimalalgorithms.io,.io,maybe_available,2,24
+ketamine alkaline,ketaminealkaline.com,.com,maybe_available,1,26
+ketamine alkaline,ketaminealkaline.ai,.ai,maybe_available,1,26
+ketamine alkaline,ketaminealkaline.io,.io,maybe_available,1,26
+alkaline battery,alkalinebattery.com,.com,taken_or_active,1,26
+alkaline battery,alkalinebattery.ai,.ai,maybe_available,1,26
+alkaline battery,alkalinebattery.io,.io,maybe_available,1,26
+routing deepseek,routingdeepseek.com,.com,maybe_available,1,26
+routing deepseek,routingdeepseek.ai,.ai,maybe_available,1,26
+routing deepseek,routingdeepseek.io,.io,maybe_available,1,26
+cut claude code,cutclaudecode.com,.com,maybe_available,1,26
+cut claude code,cutclaudecode.ai,.ai,maybe_available,1,26
+cut claude code,cutclaudecode.io,.io,maybe_available,1,26
+claude code bill,claudecodebill.com,.com,maybe_available,1,26
+claude code bill,claudecodebill.ai,.ai,maybe_available,1,26
+claude code bill,claudecodebill.io,.io,maybe_available,1,26
+authorization opa,authorizationopa.com,.com,maybe_available,1,26
+authorization opa,authorizationopa.ai,.ai,maybe_available,1,26
+authorization opa,authorizationopa.io,.io,maybe_available,1,26
 successful trajectories,successfultrajectories.com,.com,maybe_available,2,24
 successful trajectories,successfultrajectories.ai,.ai,maybe_available,2,24
 successful trajectories,successfultrajectories.io,.io,maybe_available,2,24
@@ -713,27 +704,30 @@ surface interpretations,surfaceinterpretations.io,.io,maybe_available,2,24
 correlation clustering,correlationclustering.com,.com,maybe_available,2,24
 correlation clustering,correlationclustering.ai,.ai,maybe_available,2,24
 correlation clustering,correlationclustering.io,.io,maybe_available,2,24
-bitcoin great systemic,bitcoingreatsystemic.com,.com,maybe_available,1,18
-bitcoin great systemic,bitcoingreatsystemic.ai,.ai,maybe_available,1,18
-bitcoin great systemic,bitcoingreatsystemic.io,.io,maybe_available,1,18
-great systemic theft,greatsystemictheft.com,.com,maybe_available,1,18
-great systemic theft,greatsystemictheft.ai,.ai,maybe_available,1,18
-great systemic theft,greatsystemictheft.io,.io,maybe_available,1,18
-systemic theft aid,systemictheftaid.com,.com,maybe_available,1,18
-systemic theft aid,systemictheftaid.ai,.ai,maybe_available,1,18
-systemic theft aid,systemictheftaid.io,.io,maybe_available,1,18
-clean watermarks text,cleanwatermarkstext.com,.com,maybe_available,1,18
-clean watermarks text,cleanwatermarkstext.ai,.ai,maybe_available,1,18
-clean watermarks text,cleanwatermarkstext.io,.io,maybe_available,1,18
-watermarks text files,watermarkstextfiles.com,.com,maybe_available,1,18
-watermarks text files,watermarkstextfiles.ai,.ai,maybe_available,1,18
-watermarks text files,watermarkstextfiles.io,.io,maybe_available,1,18
-columnist ruining san,columnistruiningsan.com,.com,maybe_available,1,18
-columnist ruining san,columnistruiningsan.ai,.ai,maybe_available,1,18
-columnist ruining san,columnistruiningsan.io,.io,maybe_available,1,18
-ruining san francisco,ruiningsanfrancisco.com,.com,maybe_available,1,18
-ruining san francisco,ruiningsanfrancisco.ai,.ai,maybe_available,1,18
-ruining san francisco,ruiningsanfrancisco.io,.io,maybe_available,1,18
+chain-aware a2a,chainawarea2a.com,.com,maybe_available,1,19
+chain-aware a2a,chainawarea2a.ai,.ai,maybe_available,1,19
+chain-aware a2a,chainawarea2a.io,.io,maybe_available,1,19
+explosion proof solid,explosionproofsolid.com,.com,maybe_available,1,18
+explosion proof solid,explosionproofsolid.ai,.ai,maybe_available,1,18
+explosion proof solid,explosionproofsolid.io,.io,maybe_available,1,18
+proof solid state,proofsolidstate.com,.com,maybe_available,1,18
+proof solid state,proofsolidstate.ai,.ai,maybe_available,1,18
+proof solid state,proofsolidstate.io,.io,maybe_available,1,18
+solid state stainless,solidstatestainless.com,.com,maybe_available,1,18
+solid state stainless,solidstatestainless.ai,.ai,maybe_available,1,18
+solid state stainless,solidstatestainless.io,.io,maybe_available,1,18
+state stainless steel,statestainlesssteel.com,.com,maybe_available,1,18
+state stainless steel,statestainlesssteel.ai,.ai,maybe_available,1,18
+state stainless steel,statestainlesssteel.io,.io,maybe_available,1,18
+code bill routing,codebillrouting.com,.com,maybe_available,1,18
+code bill routing,codebillrouting.ai,.ai,maybe_available,1,18
+code bill routing,codebillrouting.io,.io,maybe_available,1,18
+bill routing deepseek,billroutingdeepseek.com,.com,maybe_available,1,18
+bill routing deepseek,billroutingdeepseek.ai,.ai,maybe_available,1,18
+bill routing deepseek,billroutingdeepseek.io,.io,maybe_available,1,18
+routing deepseek grok,routingdeepseekgrok.com,.com,maybe_available,1,18
+routing deepseek grok,routingdeepseekgrok.ai,.ai,maybe_available,1,18
+routing deepseek grok,routingdeepseekgrok.io,.io,maybe_available,1,18
 verifiable rewards rlvr,verifiablerewardsrlvr.com,.com,maybe_available,2,16
 verifiable rewards rlvr,verifiablerewardsrlvr.ai,.ai,maybe_available,2,16
 verifiable rewards rlvr,verifiablerewardsrlvr.io,.io,maybe_available,2,16
@@ -743,9 +737,15 @@ origin expression origin,originexpressionorigin.io,.io,maybe_available,2,16
 semantic data processing,semanticdataprocessing.com,.com,maybe_available,2,16
 semantic data processing,semanticdataprocessing.ai,.ai,maybe_available,2,16
 semantic data processing,semanticdataprocessing.io,.io,maybe_available,2,16
-watermarks remover clean,watermarksremoverclean.com,.com,maybe_available,1,8
-watermarks remover clean,watermarksremoverclean.ai,.ai,maybe_available,1,8
-watermarks remover clean,watermarksremoverclean.io,.io,maybe_available,1,8
-remover clean watermarks,removercleanwatermarks.com,.com,maybe_available,1,8
-remover clean watermarks,removercleanwatermarks.ai,.ai,maybe_available,1,8
-remover clean watermarks,removercleanwatermarks.io,.io,maybe_available,1,8
+a2a authorization,a2aauthorization.com,.com,taken_or_active,1,11
+a2a authorization,a2aauthorization.ai,.ai,maybe_available,1,11
+a2a authorization,a2aauthorization.io,.io,maybe_available,1,11
+stainless steel ketamine,stainlesssteelketamine.com,.com,maybe_available,1,8
+stainless steel ketamine,stainlesssteelketamine.ai,.ai,maybe_available,1,8
+stainless steel ketamine,stainlesssteelketamine.io,.io,maybe_available,1,8
+steel ketamine alkaline,steelketaminealkaline.com,.com,maybe_available,1,8
+steel ketamine alkaline,steelketaminealkaline.ai,.ai,maybe_available,1,8
+steel ketamine alkaline,steelketaminealkaline.io,.io,maybe_available,1,8
+a2a authorization opa,a2aauthorizationopa.com,.com,maybe_available,1,3
+a2a authorization opa,a2aauthorizationopa.ai,.ai,maybe_available,1,3
+a2a authorization opa,a2aauthorizationopa.io,.io,maybe_available,1,3
