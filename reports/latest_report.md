@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-09-03 09:34
+Rapor zamanı: 2026-09-04 09:26
 
 ## Kaynak sayıları
-- Hacker News: 32
+- Hacker News: 27
 - arXiv: 75
 - GitHub Trending: 11
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-09-03 09:34
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | codingagents.com | 84/100 | coding agents | maybe_available |
-| 2 | reinforcementlearning.io | 64/100 | reinforcement learning | maybe_available |
-| 3 | misleadingcontext.com | 59/100 | misleading context | maybe_available |
-| 4 | misleadingcontext.ai | 59/100 | misleading context | maybe_available |
-| 5 | misleadingcontext.io | 59/100 | misleading context | maybe_available |
-| 6 | knowledgegraphs.com | 59/100 | knowledge graphs | maybe_available |
-| 7 | signlanguage.ai | 58/100 | sign language | maybe_available |
-| 8 | zeroshotgraph.com | 51/100 | zero-shot graph | maybe_available |
-| 9 | zeroshotgraph.ai | 51/100 | zero-shot graph | maybe_available |
-| 10 | zeroshotgraph.io | 51/100 | zero-shot graph | maybe_available |
-| 11 | graphanomaly.com | 51/100 | graph anomaly | maybe_available |
-| 12 | graphanomaly.ai | 51/100 | graph anomaly | maybe_available |
-| 13 | graphanomaly.io | 51/100 | graph anomaly | maybe_available |
-| 14 | existingapproaches.com | 50/100 | existing approaches | maybe_available |
-| 15 | existingapproaches.ai | 50/100 | existing approaches | maybe_available |
-| 16 | existingapproaches.io | 50/100 | existing approaches | maybe_available |
-| 17 | generativepriors.com | 50/100 | generative priors | maybe_available |
-| 18 | generativepriors.ai | 50/100 | generative priors | maybe_available |
-| 19 | generativepriors.io | 50/100 | generative priors | maybe_available |
-| 20 | questionanswering.ai | 50/100 | question answering | maybe_available |
+| 1 | codingagents.com | 68/100 | coding agents | maybe_available |
+| 2 | testcases.ai | 66/100 | test cases | maybe_available |
+| 3 | testcases.io | 66/100 | test cases | maybe_available |
+| 4 | reinforcementlearning.io | 64/100 | reinforcement learning | maybe_available |
+| 5 | terminalagents.ai | 60/100 | terminal agents | maybe_available |
+| 6 | terminalagents.io | 60/100 | terminal agents | maybe_available |
+| 7 | auxiliaryviews.com | 58/100 | auxiliary views | maybe_available |
+| 8 | auxiliaryviews.ai | 58/100 | auxiliary views | maybe_available |
+| 9 | auxiliaryviews.io | 58/100 | auxiliary views | maybe_available |
+| 10 | graspsynthesis.com | 58/100 | grasp synthesis | maybe_available |
+| 11 | graspsynthesis.ai | 58/100 | grasp synthesis | maybe_available |
+| 12 | graspsynthesis.io | 58/100 | grasp synthesis | maybe_available |
+| 13 | engineeringagents.ai | 52/100 | engineering agents | maybe_available |
+| 14 | engineeringagents.io | 52/100 | engineering agents | maybe_available |
+| 15 | agentsincreasingly.com | 52/100 | agents increasingly | maybe_available |
+| 16 | agentsincreasingly.ai | 52/100 | agents increasingly | maybe_available |
+| 17 | agentsincreasingly.io | 52/100 | agents increasingly | maybe_available |
+| 18 | parameterisedgraph.com | 51/100 | parameterised graph | maybe_available |
+| 19 | parameterisedgraph.ai | 51/100 | parameterised graph | maybe_available |
+| 20 | parameterisedgraph.io | 51/100 | parameterised graph | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
