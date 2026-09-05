@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-09-04 09:26
+Rapor zamanı: 2026-09-05 08:55
 
 ## Kaynak sayıları
-- Hacker News: 27
+- Hacker News: 28
 - arXiv: 75
 - GitHub Trending: 11
 
@@ -11,10 +11,10 @@ Rapor zamanı: 2026-09-04 09:26
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | codingagents.com | 68/100 | coding agents | maybe_available |
+| 1 | reinforcementlearning.io | 72/100 | reinforcement learning | maybe_available |
 | 2 | testcases.ai | 66/100 | test cases | maybe_available |
 | 3 | testcases.io | 66/100 | test cases | maybe_available |
-| 4 | reinforcementlearning.io | 64/100 | reinforcement learning | maybe_available |
+| 4 | codingagents.com | 60/100 | coding agents | maybe_available |
 | 5 | terminalagents.ai | 60/100 | terminal agents | maybe_available |
 | 6 | terminalagents.io | 60/100 | terminal agents | maybe_available |
 | 7 | auxiliaryviews.com | 58/100 | auxiliary views | maybe_available |
@@ -28,8 +28,8 @@ Rapor zamanı: 2026-09-04 09:26
 | 15 | agentsincreasingly.com | 52/100 | agents increasingly | maybe_available |
 | 16 | agentsincreasingly.ai | 52/100 | agents increasingly | maybe_available |
 | 17 | agentsincreasingly.io | 52/100 | agents increasingly | maybe_available |
-| 18 | parameterisedgraph.com | 51/100 | parameterised graph | maybe_available |
-| 19 | parameterisedgraph.ai | 51/100 | parameterised graph | maybe_available |
-| 20 | parameterisedgraph.io | 51/100 | parameterised graph | maybe_available |
+| 18 | agentsdead.com | 52/100 | agents dead | maybe_available |
+| 19 | agentsdead.ai | 52/100 | agents dead | maybe_available |
+| 20 | agentsdead.io | 52/100 | agents dead | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.

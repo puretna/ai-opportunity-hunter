@@ -2,15 +2,15 @@ phrase,domain,tld,rough_status,mentions,score
 large language,largelanguage.com,.com,taken_or_active,21,100
 large language,largelanguage.ai,.ai,taken_or_active,21,100
 large language,largelanguage.io,.io,taken_or_active,21,100
-coding agents,codingagents.com,.com,maybe_available,3,68
-coding agents,codingagents.ai,.ai,taken_or_active,3,68
-coding agents,codingagents.io,.io,taken_or_active,3,68
+reinforcement learning,reinforcementlearning.com,.com,taken_or_active,8,72
+reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,8,72
+reinforcement learning,reinforcementlearning.io,.io,maybe_available,8,72
 test cases,testcases.com,.com,taken_or_active,5,66
 test cases,testcases.ai,.ai,maybe_available,5,66
 test cases,testcases.io,.io,maybe_available,5,66
-reinforcement learning,reinforcementlearning.com,.com,taken_or_active,7,64
-reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,7,64
-reinforcement learning,reinforcementlearning.io,.io,maybe_available,7,64
+coding agents,codingagents.com,.com,maybe_available,2,60
+coding agents,codingagents.ai,.ai,taken_or_active,2,60
+coding agents,codingagents.io,.io,taken_or_active,2,60
 terminal agents,terminalagents.com,.com,taken_or_active,2,60
 terminal agents,terminalagents.ai,.ai,maybe_available,2,60
 terminal agents,terminalagents.io,.io,maybe_available,2,60
@@ -29,12 +29,18 @@ engineering agents,engineeringagents.io,.io,maybe_available,2,52
 agents increasingly,agentsincreasingly.com,.com,maybe_available,2,52
 agents increasingly,agentsincreasingly.ai,.ai,maybe_available,2,52
 agents increasingly,agentsincreasingly.io,.io,maybe_available,2,52
+agents dead,agentsdead.com,.com,maybe_available,1,52
+agents dead,agentsdead.ai,.ai,maybe_available,1,52
+agents dead,agentsdead.io,.io,maybe_available,1,52
 parameterised graph,parameterisedgraph.com,.com,maybe_available,3,51
 parameterised graph,parameterisedgraph.ai,.ai,maybe_available,3,51
 parameterised graph,parameterisedgraph.io,.io,maybe_available,3,51
 evaluation protocol,evaluationprotocol.com,.com,maybe_available,3,51
 evaluation protocol,evaluationprotocol.ai,.ai,maybe_available,3,51
 evaluation protocol,evaluationprotocol.io,.io,maybe_available,3,51
+coding agent,codingagent.com,.com,taken_or_active,2,51
+coding agent,codingagent.ai,.ai,taken_or_active,2,51
+coding agent,codingagent.io,.io,taken_or_active,2,51
 voice dubbing,voicedubbing.com,.com,taken_or_active,2,51
 voice dubbing,voicedubbing.ai,.ai,taken_or_active,2,51
 voice dubbing,voicedubbing.io,.io,maybe_available,2,51
@@ -62,6 +68,12 @@ factual errors,factualerrors.io,.io,maybe_available,3,50
 tohtn planning,tohtnplanning.com,.com,maybe_available,3,50
 tohtn planning,tohtnplanning.ai,.ai,maybe_available,3,50
 tohtn planning,tohtnplanning.io,.io,maybe_available,3,50
+claude code,claudecode.com,.com,maybe_available,3,50
+claude code,claudecode.ai,.ai,maybe_available,3,50
+claude code,claudecode.io,.io,taken_or_active,3,50
+agents dead web,agentsdeadweb.com,.com,maybe_available,1,44
+agents dead web,agentsdeadweb.ai,.ai,maybe_available,1,44
+agents dead web,agentsdeadweb.io,.io,maybe_available,1,44
 agent trajectories,agenttrajectories.com,.com,maybe_available,2,43
 agent trajectories,agenttrajectories.ai,.ai,maybe_available,2,43
 agent trajectories,agenttrajectories.io,.io,maybe_available,2,43
@@ -71,15 +83,6 @@ long-horizon agent,longhorizonagent.io,.io,maybe_available,2,43
 catalogue photography,cataloguephotography.com,.com,taken_or_active,2,43
 catalogue photography,cataloguephotography.ai,.ai,maybe_available,2,43
 catalogue photography,cataloguephotography.io,.io,maybe_available,2,43
-vault agent,vaultagent.com,.com,taken_or_active,1,43
-vault agent,vaultagent.ai,.ai,taken_or_active,1,43
-vault agent,vaultagent.io,.io,taken_or_active,1,43
-agent rust,agentrust.com,.com,taken_or_active,1,43
-agent rust,agentrust.ai,.ai,taken_or_active,1,43
-agent rust,agentrust.io,.io,taken_or_active,1,43
-robotaxi austin,robotaxiaustin.com,.com,taken_or_active,1,43
-robotaxi austin,robotaxiaustin.ai,.ai,maybe_available,1,43
-robotaxi austin,robotaxiaustin.io,.io,maybe_available,1,43
 compile training,compiletraining.com,.com,maybe_available,3,42
 compile training,compiletraining.ai,.ai,maybe_available,3,42
 compile training,compiletraining.io,.io,maybe_available,3,42
@@ -107,6 +110,9 @@ finite syntactic,finitesyntactic.io,.io,maybe_available,3,42
 brand recommendations,brandrecommendations.com,.com,maybe_available,3,42
 brand recommendations,brandrecommendations.ai,.ai,maybe_available,3,42
 brand recommendations,brandrecommendations.io,.io,maybe_available,3,42
+ascii smuggling,asciismuggling.com,.com,maybe_available,2,42
+ascii smuggling,asciismuggling.ai,.ai,maybe_available,2,42
+ascii smuggling,asciismuggling.io,.io,maybe_available,2,42
 which turns,whichturns.com,.com,maybe_available,2,42
 which turns,whichturns.ai,.ai,maybe_available,2,42
 which turns,whichturns.io,.io,maybe_available,2,42
@@ -293,7 +299,7 @@ effective test,effectivetest.io,.io,maybe_available,2,42
 better review,betterreview.com,.com,taken_or_active,2,42
 better review,betterreview.ai,.ai,maybe_available,2,42
 better review,betterreview.io,.io,maybe_available,2,42
-replay control,replaycontrol.com,.com,taken_or_active,2,42
+replay control,replaycontrol.com,.com,maybe_available,2,42
 replay control,replaycontrol.ai,.ai,maybe_available,2,42
 replay control,replaycontrol.io,.io,maybe_available,2,42
 neural audio,neuralaudio.com,.com,taken_or_active,2,42
@@ -308,18 +314,15 @@ htn planning,htnplanning.io,.io,maybe_available,2,42
 fixed suffix,fixedsuffix.com,.com,maybe_available,2,42
 fixed suffix,fixedsuffix.ai,.ai,maybe_available,2,42
 fixed suffix,fixedsuffix.io,.io,maybe_available,2,42
-claude code,claudecode.com,.com,maybe_available,2,42
-claude code,claudecode.ai,.ai,maybe_available,2,42
-claude code,claudecode.io,.io,taken_or_active,2,42
+code codex,codecodex.com,.com,taken_or_active,2,42
+code codex,codecodex.ai,.ai,taken_or_active,2,42
+code codex,codecodex.io,.io,taken_or_active,2,42
+open source,opensource.com,.com,taken_or_active,2,42
+open source,opensource.ai,.ai,taken_or_active,2,42
+open source,opensource.io,.io,taken_or_active,2,42
 on-policy distillation,onpolicydistillation.com,.com,maybe_available,4,40
 on-policy distillation,onpolicydistillation.ai,.ai,maybe_available,4,40
 on-policy distillation,onpolicydistillation.io,.io,maybe_available,4,40
-vault agent rust,vaultagentrust.com,.com,maybe_available,1,35
-vault agent rust,vaultagentrust.ai,.ai,maybe_available,1,35
-vault agent rust,vaultagentrust.io,.io,maybe_available,1,35
-cybercab robotaxi,cybercabrobotaxi.com,.com,taken_or_active,1,35
-cybercab robotaxi,cybercabrobotaxi.ai,.ai,maybe_available,1,35
-cybercab robotaxi,cybercabrobotaxi.io,.io,maybe_available,1,35
 against required,againstrequired.com,.com,maybe_available,2,34
 against required,againstrequired.ai,.ai,maybe_available,2,34
 against required,againstrequired.io,.io,maybe_available,2,34
@@ -338,6 +341,9 @@ concurrent stochastic,concurrentstochastic.io,.io,maybe_available,2,34
 stochastic games,stochasticgames.com,.com,maybe_available,2,34
 stochastic games,stochasticgames.ai,.ai,maybe_available,2,34
 stochastic games,stochasticgames.io,.io,maybe_available,2,34
+learning framework,learningframework.com,.com,taken_or_active,2,34
+learning framework,learningframework.ai,.ai,maybe_available,2,34
+learning framework,learningframework.io,.io,maybe_available,2,34
 equilibrium existence,equilibriumexistence.com,.com,maybe_available,2,34
 equilibrium existence,equilibriumexistence.ai,.ai,maybe_available,2,34
 equilibrium existence,equilibriumexistence.io,.io,maybe_available,2,34
@@ -380,9 +386,6 @@ existing benchmarks,existingbenchmarks.io,.io,maybe_available,2,34
 review constraints,reviewconstraints.com,.com,maybe_available,2,34
 review constraints,reviewconstraints.ai,.ai,maybe_available,2,34
 review constraints,reviewconstraints.io,.io,maybe_available,2,34
-software development,softwaredevelopment.com,.com,taken_or_active,2,34
-software development,softwaredevelopment.ai,.ai,taken_or_active,2,34
-software development,softwaredevelopment.io,.io,taken_or_active,2,34
 topological reasoning,topologicalreasoning.com,.com,maybe_available,2,34
 topological reasoning,topologicalreasoning.ai,.ai,maybe_available,2,34
 topological reasoning,topologicalreasoning.io,.io,maybe_available,2,34
@@ -557,36 +560,39 @@ suffix dependency,suffixdependency.io,.io,maybe_available,2,34
 dependency ratio,dependencyratio.com,.com,maybe_available,2,34
 dependency ratio,dependencyratio.ai,.ai,maybe_available,2,34
 dependency ratio,dependencyratio.io,.io,maybe_available,2,34
-grammar-enforced tools,grammarenforcedtools.com,.com,maybe_available,1,34
-grammar-enforced tools,grammarenforcedtools.ai,.ai,maybe_available,1,34
-grammar-enforced tools,grammarenforcedtools.io,.io,maybe_available,1,34
-termy fast,termyfast.com,.com,maybe_available,1,34
-termy fast,termyfast.ai,.ai,maybe_available,1,34
-termy fast,termyfast.io,.io,maybe_available,1,34
-fast terminal,fastterminal.com,.com,taken_or_active,1,34
-fast terminal,fastterminal.ai,.ai,maybe_available,1,34
-fast terminal,fastterminal.io,.io,maybe_available,1,34
-assistant does,assistantdoes.com,.com,maybe_available,1,34
-assistant does,assistantdoes.ai,.ai,maybe_available,1,34
-assistant does,assistantdoes.io,.io,maybe_available,1,34
-tesla launches,teslalaunches.com,.com,maybe_available,1,34
-tesla launches,teslalaunches.ai,.ai,maybe_available,1,34
-tesla launches,teslalaunches.io,.io,maybe_available,1,34
-gbnf grammars,gbnfgrammars.com,.com,maybe_available,1,34
-gbnf grammars,gbnfgrammars.ai,.ai,maybe_available,1,34
-gbnf grammars,gbnfgrammars.io,.io,maybe_available,1,34
-grammars make,grammarsmake.com,.com,maybe_available,1,34
-grammars make,grammarsmake.ai,.ai,maybe_available,1,34
-grammars make,grammarsmake.io,.io,maybe_available,1,34
-make small,makesmall.com,.com,taken_or_active,1,34
-make small,makesmall.ai,.ai,maybe_available,1,34
-make small,makesmall.io,.io,maybe_available,1,34
-small local,smalllocal.com,.com,taken_or_active,1,34
-small local,smalllocal.ai,.ai,maybe_available,1,34
-small local,smalllocal.io,.io,maybe_available,1,34
-local stop,localstop.com,.com,taken_or_active,1,34
-local stop,localstop.ai,.ai,maybe_available,1,34
-local stop,localstop.io,.io,maybe_available,1,34
+study watched,studywatched.com,.com,maybe_available,1,34
+study watched,studywatched.ai,.ai,maybe_available,1,34
+study watched,studywatched.io,.io,maybe_available,1,34
+watched kids,watchedkids.com,.com,maybe_available,1,34
+watched kids,watchedkids.ai,.ai,maybe_available,1,34
+watched kids,watchedkids.io,.io,maybe_available,1,34
+kids interact,kidsinteract.com,.com,taken_or_active,1,34
+kids interact,kidsinteract.ai,.ai,maybe_available,1,34
+kids interact,kidsinteract.io,.io,maybe_available,1,34
+interact toys,interacttoys.com,.com,taken_or_active,1,34
+interact toys,interacttoys.ai,.ai,maybe_available,1,34
+interact toys,interacttoys.io,.io,maybe_available,1,34
+toys play,toysplay.com,.com,taken_or_active,1,34
+toys play,toysplay.ai,.ai,maybe_available,1,34
+toys play,toysplay.io,.io,maybe_available,1,34
+play turned,playturned.com,.com,maybe_available,1,34
+play turned,playturned.ai,.ai,maybe_available,1,34
+play turned,playturned.io,.io,maybe_available,1,34
+turned hostile,turnedhostile.com,.com,maybe_available,1,34
+turned hostile,turnedhostile.ai,.ai,maybe_available,1,34
+turned hostile,turnedhostile.io,.io,maybe_available,1,34
+hostile fast,hostilefast.com,.com,maybe_available,1,34
+hostile fast,hostilefast.ai,.ai,maybe_available,1,34
+hostile fast,hostilefast.io,.io,maybe_available,1,34
+wiki incident,wikiincident.com,.com,maybe_available,1,34
+wiki incident,wikiincident.ai,.ai,maybe_available,1,34
+wiki incident,wikiincident.io,.io,maybe_available,1,34
+communicate may,communicatemay.com,.com,maybe_available,1,34
+communicate may,communicatemay.ai,.ai,maybe_available,1,34
+communicate may,communicatemay.io,.io,maybe_available,1,34
+well incident,wellincident.com,.com,maybe_available,1,34
+well incident,wellincident.ai,.ai,maybe_available,1,34
+well incident,wellincident.io,.io,maybe_available,1,34
 vulnerability patching,vulnerabilitypatching.com,.com,maybe_available,3,32
 vulnerability patching,vulnerabilitypatching.ai,.ai,maybe_available,3,32
 vulnerability patching,vulnerabilitypatching.io,.io,maybe_available,3,32
@@ -623,33 +629,18 @@ chronic kidney disease,chronickidneydisease.io,.io,maybe_available,2,26
 ability large language,abilitylargelanguage.com,.com,maybe_available,2,26
 ability large language,abilitylargelanguage.ai,.ai,maybe_available,2,26
 ability large language,abilitylargelanguage.io,.io,maybe_available,2,26
-eris local-first,erislocalfirst.com,.com,maybe_available,1,26
-eris local-first,erislocalfirst.ai,.ai,maybe_available,1,26
-eris local-first,erislocalfirst.io,.io,maybe_available,1,26
-local-first vault,localfirstvault.com,.com,maybe_available,1,26
-local-first vault,localfirstvault.ai,.ai,maybe_available,1,26
-local-first vault,localfirstvault.io,.io,maybe_available,1,26
-rust grammar-enforced,rustgrammarenforced.com,.com,maybe_available,1,26
-rust grammar-enforced,rustgrammarenforced.ai,.ai,maybe_available,1,26
-rust grammar-enforced,rustgrammarenforced.io,.io,maybe_available,1,26
-terminal assistant,terminalassistant.com,.com,taken_or_active,1,26
-terminal assistant,terminalassistant.ai,.ai,maybe_available,1,26
-terminal assistant,terminalassistant.io,.io,maybe_available,1,26
-launches cybercab,launchescybercab.com,.com,maybe_available,1,26
-launches cybercab,launchescybercab.ai,.ai,maybe_available,1,26
-launches cybercab,launchescybercab.io,.io,maybe_available,1,26
-stop hallucinating,stophallucinating.com,.com,taken_or_active,1,26
-stop hallucinating,stophallucinating.ai,.ai,maybe_available,1,26
-stop hallucinating,stophallucinating.io,.io,maybe_available,1,26
-hallucinating json,hallucinatingjson.com,.com,maybe_available,1,26
-hallucinating json,hallucinatingjson.ai,.ai,maybe_available,1,26
-hallucinating json,hallucinatingjson.io,.io,maybe_available,1,26
-make small local,makesmalllocal.com,.com,maybe_available,1,26
-make small local,makesmalllocal.ai,.ai,maybe_available,1,26
-make small local,makesmalllocal.io,.io,maybe_available,1,26
-small local stop,smalllocalstop.com,.com,maybe_available,1,26
-small local stop,smalllocalstop.ai,.ai,maybe_available,1,26
-small local stop,smalllocalstop.io,.io,maybe_available,1,26
+claude code codex,claudecodecodex.com,.com,maybe_available,2,26
+claude code codex,claudecodecodex.ai,.ai,maybe_available,2,26
+claude code codex,claudecodecodex.io,.io,maybe_available,2,26
+toys play turned,toysplayturned.com,.com,maybe_available,1,26
+toys play turned,toysplayturned.ai,.ai,maybe_available,1,26
+toys play turned,toysplayturned.io,.io,maybe_available,1,26
+site communicate,sitecommunicate.com,.com,maybe_available,1,26
+site communicate,sitecommunicate.ai,.ai,maybe_available,1,26
+site communicate,sitecommunicate.io,.io,maybe_available,1,26
+dead web site,deadwebsite.com,.com,maybe_available,1,26
+dead web site,deadwebsite.ai,.ai,maybe_available,1,26
+dead web site,deadwebsite.io,.io,maybe_available,1,26
 error-structured prompt,errorstructuredprompt.com,.com,maybe_available,2,24
 error-structured prompt,errorstructuredprompt.ai,.ai,maybe_available,2,24
 error-structured prompt,errorstructuredprompt.io,.io,maybe_available,2,24
@@ -701,24 +692,36 @@ semantic communication,semanticcommunication.io,.io,maybe_available,2,24
 region-aware rectified,regionawarerectified.com,.com,maybe_available,2,24
 region-aware rectified,regionawarerectified.ai,.ai,maybe_available,2,24
 region-aware rectified,regionawarerectified.io,.io,maybe_available,2,24
-eris local-first vault,erislocalfirstvault.com,.com,maybe_available,1,18
-eris local-first vault,erislocalfirstvault.ai,.ai,maybe_available,1,18
-eris local-first vault,erislocalfirstvault.io,.io,maybe_available,1,18
-termy fast terminal,termyfastterminal.com,.com,maybe_available,1,18
-termy fast terminal,termyfastterminal.ai,.ai,maybe_available,1,18
-termy fast terminal,termyfastterminal.io,.io,maybe_available,1,18
-gbnf grammars make,gbnfgrammarsmake.com,.com,maybe_available,1,18
-gbnf grammars make,gbnfgrammarsmake.ai,.ai,maybe_available,1,18
-gbnf grammars make,gbnfgrammarsmake.io,.io,maybe_available,1,18
-grammars make small,grammarsmakesmall.com,.com,maybe_available,1,18
-grammars make small,grammarsmakesmall.ai,.ai,maybe_available,1,18
-grammars make small,grammarsmakesmall.io,.io,maybe_available,1,18
-local-first vault agent,localfirstvaultagent.com,.com,maybe_available,1,17
-local-first vault agent,localfirstvaultagent.ai,.ai,maybe_available,1,17
-local-first vault agent,localfirstvaultagent.io,.io,maybe_available,1,17
-cybercab robotaxi austin,cybercabrobotaxiaustin.com,.com,maybe_available,1,17
-cybercab robotaxi austin,cybercabrobotaxiaustin.ai,.ai,maybe_available,1,17
-cybercab robotaxi austin,cybercabrobotaxiaustin.io,.io,maybe_available,1,17
+study watched kids,studywatchedkids.com,.com,maybe_available,1,18
+study watched kids,studywatchedkids.ai,.ai,maybe_available,1,18
+study watched kids,studywatchedkids.io,.io,maybe_available,1,18
+watched kids interact,watchedkidsinteract.com,.com,maybe_available,1,18
+watched kids interact,watchedkidsinteract.ai,.ai,maybe_available,1,18
+watched kids interact,watchedkidsinteract.io,.io,maybe_available,1,18
+kids interact toys,kidsinteracttoys.com,.com,maybe_available,1,18
+kids interact toys,kidsinteracttoys.ai,.ai,maybe_available,1,18
+kids interact toys,kidsinteracttoys.io,.io,maybe_available,1,18
+interact toys play,interacttoysplay.com,.com,maybe_available,1,18
+interact toys play,interacttoysplay.ai,.ai,maybe_available,1,18
+interact toys play,interacttoysplay.io,.io,maybe_available,1,18
+play turned hostile,playturnedhostile.com,.com,maybe_available,1,18
+play turned hostile,playturnedhostile.ai,.ai,maybe_available,1,18
+play turned hostile,playturnedhostile.io,.io,maybe_available,1,18
+turned hostile fast,turnedhostilefast.com,.com,maybe_available,1,18
+turned hostile fast,turnedhostilefast.ai,.ai,maybe_available,1,18
+turned hostile fast,turnedhostilefast.io,.io,maybe_available,1,18
+web site communicate,websitecommunicate.com,.com,maybe_available,1,18
+web site communicate,websitecommunicate.ai,.ai,maybe_available,1,18
+web site communicate,websitecommunicate.io,.io,maybe_available,1,18
+site communicate may,sitecommunicatemay.com,.com,maybe_available,1,18
+site communicate may,sitecommunicatemay.ai,.ai,maybe_available,1,18
+site communicate may,sitecommunicatemay.io,.io,maybe_available,1,18
+communicate may well,communicatemaywell.com,.com,maybe_available,1,18
+communicate may well,communicatemaywell.ai,.ai,maybe_available,1,18
+communicate may well,communicatemaywell.io,.io,maybe_available,1,18
+may well incident,maywellincident.com,.com,maybe_available,1,18
+may well incident,maywellincident.ai,.ai,maybe_available,1,18
+may well incident,maywellincident.io,.io,maybe_available,1,18
 causal optimal transport,causaloptimaltransport.com,.com,maybe_available,2,16
 causal optimal transport,causaloptimaltransport.ai,.ai,maybe_available,2,16
 causal optimal transport,causaloptimaltransport.io,.io,maybe_available,2,16
@@ -734,15 +737,12 @@ fixed suffix dependency,fixedsuffixdependency.io,.io,maybe_available,2,16
 suffix dependency ratio,suffixdependencyratio.com,.com,maybe_available,2,16
 suffix dependency ratio,suffixdependencyratio.ai,.ai,maybe_available,2,16
 suffix dependency ratio,suffixdependencyratio.io,.io,maybe_available,2,16
-fast terminal assistant,fastterminalassistant.com,.com,maybe_available,1,8
-fast terminal assistant,fastterminalassistant.ai,.ai,maybe_available,1,8
-fast terminal assistant,fastterminalassistant.io,.io,maybe_available,1,8
-terminal assistant does,terminalassistantdoes.com,.com,maybe_available,1,8
-terminal assistant does,terminalassistantdoes.ai,.ai,maybe_available,1,8
-terminal assistant does,terminalassistantdoes.io,.io,maybe_available,1,8
-tesla launches cybercab,teslalaunchescybercab.com,.com,maybe_available,1,8
-tesla launches cybercab,teslalaunchescybercab.ai,.ai,maybe_available,1,8
-tesla launches cybercab,teslalaunchescybercab.io,.io,maybe_available,1,8
-local stop hallucinating,localstophallucinating.com,.com,maybe_available,1,8
-local stop hallucinating,localstophallucinating.ai,.ai,maybe_available,1,8
-local stop hallucinating,localstophallucinating.io,.io,maybe_available,1,8
+dead web,deadweb.com,.com,taken_or_active,1,16
+dead web,deadweb.ai,.ai,taken_or_active,1,16
+dead web,deadweb.io,.io,maybe_available,1,16
+web site,website.com,.com,taken_or_active,1,16
+web site,website.ai,.ai,taken_or_active,1,16
+web site,website.io,.io,taken_or_active,1,16
+may well,maywell.com,.com,taken_or_active,1,16
+may well,maywell.ai,.ai,maybe_available,1,16
+may well,maywell.io,.io,maybe_available,1,16
