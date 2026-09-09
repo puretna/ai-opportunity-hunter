@@ -1,751 +1,751 @@
 phrase,domain,tld,rough_status,mentions,score
-large language,largelanguage.com,.com,taken_or_active,20,100
-large language,largelanguage.ai,.ai,taken_or_active,20,100
-large language,largelanguage.io,.io,taken_or_active,20,100
-time series,timeseries.com,.com,maybe_available,9,98
-time series,timeseries.ai,.ai,taken_or_active,9,98
-time series,timeseries.io,.io,taken_or_active,9,98
-coding agents,codingagents.com,.com,taken_or_active,5,84
-coding agents,codingagents.ai,.ai,taken_or_active,5,84
-coding agents,codingagents.io,.io,taken_or_active,5,84
-machine learning,machinelearning.com,.com,taken_or_active,7,74
-machine learning,machinelearning.ai,.ai,taken_or_active,7,74
-machine learning,machinelearning.io,.io,taken_or_active,7,74
-mirror agent,mirroragent.com,.com,taken_or_active,3,59
-mirror agent,mirroragent.ai,.ai,taken_or_active,3,59
-mirror agent,mirroragent.io,.io,maybe_available,3,59
-neural network,neuralnetwork.com,.com,taken_or_active,4,58
-neural network,neuralnetwork.ai,.ai,taken_or_active,4,58
-neural network,neuralnetwork.io,.io,maybe_available,4,58
-knowledge units,knowledgeunits.com,.com,taken_or_active,4,58
-knowledge units,knowledgeunits.ai,.ai,maybe_available,4,58
-knowledge units,knowledgeunits.io,.io,maybe_available,4,58
-agents increasingly,agentsincreasingly.com,.com,maybe_available,2,52
-agents increasingly,agentsincreasingly.ai,.ai,maybe_available,2,52
-agents increasingly,agentsincreasingly.io,.io,maybe_available,2,52
-evaluation methods,evaluationmethods.com,.com,taken_or_active,3,51
-evaluation methods,evaluationmethods.ai,.ai,maybe_available,3,51
-evaluation methods,evaluationmethods.io,.io,maybe_available,3,51
-tool output,tooloutput.com,.com,maybe_available,2,51
-tool output,tooloutput.ai,.ai,maybe_available,2,51
-tool output,tooloutput.io,.io,maybe_available,2,51
-evaluate these,evaluatethese.com,.com,maybe_available,2,51
-evaluate these,evaluatethese.ai,.ai,maybe_available,2,51
-evaluate these,evaluatethese.io,.io,maybe_available,2,51
-embedded graph,embeddedgraph.com,.com,maybe_available,2,51
-embedded graph,embeddedgraph.ai,.ai,maybe_available,2,51
-embedded graph,embeddedgraph.io,.io,maybe_available,2,51
-graph flows,graphflows.com,.com,taken_or_active,2,51
-graph flows,graphflows.ai,.ai,maybe_available,2,51
-graph flows,graphflows.io,.io,maybe_available,2,51
+large language,largelanguage.com,.com,taken_or_active,16,100
+large language,largelanguage.ai,.ai,taken_or_active,16,100
+large language,largelanguage.io,.io,taken_or_active,16,100
+coding agents,codingagents.com,.com,taken_or_active,3,68
+coding agents,codingagents.ai,.ai,taken_or_active,3,68
+coding agents,codingagents.io,.io,taken_or_active,3,68
+knowledge graph,knowledgegraph.com,.com,taken_or_active,4,67
+knowledge graph,knowledgegraph.ai,.ai,taken_or_active,4,67
+knowledge graph,knowledgegraph.io,.io,maybe_available,4,67
+external tools,externaltools.com,.com,taken_or_active,2,60
+external tools,externaltools.ai,.ai,maybe_available,2,60
+external tools,externaltools.io,.io,maybe_available,2,60
+language agents,languageagents.com,.com,taken_or_active,2,60
+language agents,languageagents.ai,.ai,maybe_available,2,60
+language agents,languageagents.io,.io,maybe_available,2,60
+graph feature,graphfeature.com,.com,maybe_available,3,59
+graph feature,graphfeature.ai,.ai,maybe_available,3,59
+graph feature,graphfeature.io,.io,maybe_available,3,59
+question answering,questionanswering.com,.com,taken_or_active,5,58
+question answering,questionanswering.ai,.ai,maybe_available,5,58
+question answering,questionanswering.io,.io,maybe_available,5,58
+mathrm sil,mathrmsil.com,.com,maybe_available,4,58
+mathrm sil,mathrmsil.ai,.ai,maybe_available,4,58
+mathrm sil,mathrmsil.io,.io,maybe_available,4,58
+claude code,claudecode.com,.com,maybe_available,4,58
+claude code,claudecode.ai,.ai,maybe_available,4,58
+claude code,claudecode.io,.io,taken_or_active,4,58
+reinforcement learning,reinforcementlearning.com,.com,taken_or_active,6,56
+reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,6,56
+reinforcement learning,reinforcementlearning.io,.io,maybe_available,6,56
+self-evolving agents,selfevolvingagents.com,.com,taken_or_active,2,52
+self-evolving agents,selfevolvingagents.ai,.ai,taken_or_active,2,52
+self-evolving agents,selfevolvingagents.io,.io,maybe_available,2,52
+graph organizes,graphorganizes.com,.com,maybe_available,2,51
+graph organizes,graphorganizes.ai,.ai,maybe_available,2,51
+graph organizes,graphorganizes.io,.io,maybe_available,2,51
 each agent,eachagent.com,.com,taken_or_active,2,51
 each agent,eachagent.ai,.ai,maybe_available,2,51
 each agent,eachagent.io,.io,maybe_available,2,51
-agent behavior,agentbehavior.com,.com,taken_or_active,2,51
-agent behavior,agentbehavior.ai,.ai,taken_or_active,2,51
-agent behavior,agentbehavior.io,.io,maybe_available,2,51
-carlo graph,carlograph.com,.com,maybe_available,2,51
-carlo graph,carlograph.ai,.ai,maybe_available,2,51
-carlo graph,carlograph.io,.io,maybe_available,2,51
-graph search,graphsearch.com,.com,taken_or_active,2,51
-graph search,graphsearch.ai,.ai,taken_or_active,2,51
-graph search,graphsearch.io,.io,maybe_available,2,51
-soft context,softcontext.com,.com,taken_or_active,2,51
-soft context,softcontext.ai,.ai,maybe_available,2,51
-soft context,softcontext.io,.io,maybe_available,2,51
-federated learning,federatedlearning.com,.com,taken_or_active,4,50
-federated learning,federatedlearning.ai,.ai,taken_or_active,4,50
-federated learning,federatedlearning.io,.io,taken_or_active,4,50
-wireless signals,wirelesssignals.com,.com,taken_or_active,4,50
-wireless signals,wirelesssignals.ai,.ai,maybe_available,4,50
-wireless signals,wirelesssignals.io,.io,maybe_available,4,50
-scientific papers,scientificpapers.com,.com,taken_or_active,4,50
-scientific papers,scientificpapers.ai,.ai,maybe_available,4,50
-scientific papers,scientificpapers.io,.io,maybe_available,4,50
-often produce,oftenproduce.com,.com,maybe_available,3,50
-often produce,oftenproduce.ai,.ai,maybe_available,3,50
-often produce,oftenproduce.io,.io,maybe_available,3,50
-periodic orbits,periodicorbits.com,.com,maybe_available,3,50
-periodic orbits,periodicorbits.ai,.ai,maybe_available,3,50
-periodic orbits,periodicorbits.io,.io,maybe_available,3,50
-legal force,legalforce.com,.com,taken_or_active,3,50
-legal force,legalforce.ai,.ai,taken_or_active,3,50
-legal force,legalforce.io,.io,taken_or_active,3,50
-layer dropout,layerdropout.com,.com,maybe_available,3,50
-layer dropout,layerdropout.ai,.ai,maybe_available,3,50
-layer dropout,layerdropout.io,.io,maybe_available,3,50
-design science,designscience.com,.com,taken_or_active,3,50
-design science,designscience.ai,.ai,taken_or_active,3,50
-design science,designscience.io,.io,taken_or_active,3,50
+agent harnesses,agentharnesses.com,.com,taken_or_active,2,51
+agent harnesses,agentharnesses.ai,.ai,taken_or_active,2,51
+agent harnesses,agentharnesses.io,.io,taken_or_active,2,51
+evaluate four,evaluatefour.com,.com,maybe_available,2,51
+evaluate four,evaluatefour.ai,.ai,maybe_available,2,51
+evaluate four,evaluatefour.io,.io,maybe_available,2,51
+tool-use data,toolusedata.com,.com,maybe_available,2,51
+tool-use data,toolusedata.ai,.ai,maybe_available,2,51
+tool-use data,toolusedata.io,.io,maybe_available,2,51
+training stack,trainingstack.com,.com,taken_or_active,2,51
+training stack,trainingstack.ai,.ai,maybe_available,2,51
+training stack,trainingstack.io,.io,maybe_available,2,51
+evaluation sets,evaluationsets.com,.com,maybe_available,2,51
+evaluation sets,evaluationsets.ai,.ai,maybe_available,2,51
+evaluation sets,evaluationsets.io,.io,maybe_available,2,51
+agentic rag,agenticrag.com,.com,taken_or_active,2,51
+agentic rag,agenticrag.ai,.ai,maybe_available,2,51
+agentic rag,agenticrag.io,.io,taken_or_active,2,51
+safety frameworks,safetyframeworks.com,.com,taken_or_active,4,50
+safety frameworks,safetyframeworks.ai,.ai,maybe_available,4,50
+safety frameworks,safetyframeworks.io,.io,maybe_available,4,50
+bayesian duality,bayesianduality.com,.com,maybe_available,4,50
+bayesian duality,bayesianduality.ai,.ai,maybe_available,4,50
+bayesian duality,bayesianduality.io,.io,maybe_available,4,50
+distribution function,distributionfunction.com,.com,maybe_available,4,50
+distribution function,distributionfunction.ai,.ai,maybe_available,4,50
+distribution function,distributionfunction.io,.io,maybe_available,4,50
+benchmark scores,benchmarkscores.com,.com,maybe_available,4,50
+benchmark scores,benchmarkscores.ai,.ai,maybe_available,4,50
+benchmark scores,benchmarkscores.io,.io,maybe_available,4,50
+silent revision,silentrevision.com,.com,maybe_available,3,50
+silent revision,silentrevision.ai,.ai,maybe_available,3,50
+silent revision,silentrevision.io,.io,maybe_available,3,50
+code generation,codegeneration.com,.com,taken_or_active,3,50
+code generation,codegeneration.ai,.ai,taken_or_active,3,50
+code generation,codegeneration.io,.io,taken_or_active,3,50
 neural networks,neuralnetworks.com,.com,taken_or_active,3,50
 neural networks,neuralnetworks.ai,.ai,taken_or_active,3,50
 neural networks,neuralnetworks.io,.io,taken_or_active,3,50
-lower error,lowererror.com,.com,maybe_available,3,50
-lower error,lowererror.ai,.ai,maybe_available,3,50
-lower error,lowererror.io,.io,maybe_available,3,50
-claude code,claudecode.com,.com,maybe_available,3,50
-claude code,claudecode.ai,.ai,maybe_available,3,50
-claude code,claudecode.io,.io,taken_or_active,3,50
-verbatim retrieval,verbatimretrieval.com,.com,maybe_available,2,43
-verbatim retrieval,verbatimretrieval.ai,.ai,maybe_available,2,43
-verbatim retrieval,verbatimretrieval.io,.io,maybe_available,2,43
-robotic manipulation,roboticmanipulation.com,.com,taken_or_active,2,43
-robotic manipulation,roboticmanipulation.ai,.ai,maybe_available,2,43
-robotic manipulation,roboticmanipulation.io,.io,maybe_available,2,43
-automatic evaluation,automaticevaluation.com,.com,maybe_available,2,43
-automatic evaluation,automaticevaluation.ai,.ai,maybe_available,2,43
-automatic evaluation,automaticevaluation.io,.io,maybe_available,2,43
-framework evaluating,frameworkevaluating.com,.com,maybe_available,2,43
-framework evaluating,frameworkevaluating.ai,.ai,maybe_available,2,43
-framework evaluating,frameworkevaluating.io,.io,maybe_available,2,43
-graph-level anomaly,graphlevelanomaly.com,.com,maybe_available,2,43
-graph-level anomaly,graphlevelanomaly.ai,.ai,maybe_available,2,43
-graph-level anomaly,graphlevelanomaly.io,.io,maybe_available,2,43
-execution context,executioncontext.com,.com,taken_or_active,2,43
-execution context,executioncontext.ai,.ai,maybe_available,2,43
-execution context,executioncontext.io,.io,maybe_available,2,43
-multi-agent simulacra,multiagentsimulacra.com,.com,maybe_available,2,43
-multi-agent simulacra,multiagentsimulacra.ai,.ai,maybe_available,2,43
-multi-agent simulacra,multiagentsimulacra.io,.io,maybe_available,2,43
-context compression,contextcompression.com,.com,maybe_available,2,43
-context compression,contextcompression.ai,.ai,maybe_available,2,43
-context compression,contextcompression.io,.io,maybe_available,2,43
-learning framework,learningframework.com,.com,taken_or_active,3,42
-learning framework,learningframework.ai,.ai,maybe_available,3,42
-learning framework,learningframework.io,.io,maybe_available,3,42
-labeled wireless,labeledwireless.com,.com,maybe_available,3,42
-labeled wireless,labeledwireless.ai,.ai,maybe_available,3,42
-labeled wireless,labeledwireless.io,.io,maybe_available,3,42
-quantum circuits,quantumcircuits.com,.com,taken_or_active,3,42
-quantum circuits,quantumcircuits.ai,.ai,taken_or_active,3,42
-quantum circuits,quantumcircuits.io,.io,taken_or_active,3,42
-deepfake detection,deepfakedetection.com,.com,taken_or_active,3,42
-deepfake detection,deepfakedetection.ai,.ai,maybe_available,3,42
-deepfake detection,deepfakedetection.io,.io,taken_or_active,3,42
-residual pathway,residualpathway.com,.com,maybe_available,3,42
-residual pathway,residualpathway.ai,.ai,maybe_available,3,42
-residual pathway,residualpathway.io,.io,maybe_available,3,42
-computational design,computationaldesign.com,.com,taken_or_active,3,42
-computational design,computationaldesign.ai,.ai,maybe_available,3,42
-computational design,computationaldesign.io,.io,maybe_available,3,42
-knowledge structure,knowledgestructure.com,.com,taken_or_active,3,42
-knowledge structure,knowledgestructure.ai,.ai,maybe_available,3,42
-knowledge structure,knowledgestructure.io,.io,maybe_available,3,42
-study introduces,studyintroduces.com,.com,maybe_available,3,42
-study introduces,studyintroduces.ai,.ai,maybe_available,3,42
-study introduces,studyintroduces.io,.io,maybe_available,3,42
-medical diagnosis,medicaldiagnosis.com,.com,taken_or_active,3,42
-medical diagnosis,medicaldiagnosis.ai,.ai,taken_or_active,3,42
-medical diagnosis,medicaldiagnosis.io,.io,maybe_available,3,42
-between knowledge,betweenknowledge.com,.com,maybe_available,3,42
-between knowledge,betweenknowledge.ai,.ai,maybe_available,3,42
-between knowledge,betweenknowledge.io,.io,maybe_available,3,42
-novelty scientific,noveltyscientific.com,.com,maybe_available,3,42
-novelty scientific,noveltyscientific.ai,.ai,maybe_available,3,42
-novelty scientific,noveltyscientific.io,.io,maybe_available,3,42
-offensive security,offensivesecurity.com,.com,taken_or_active,3,42
-offensive security,offensivesecurity.ai,.ai,maybe_available,3,42
-offensive security,offensivesecurity.io,.io,maybe_available,3,42
-causal structure,causalstructure.com,.com,taken_or_active,3,42
-causal structure,causalstructure.ai,.ai,maybe_available,3,42
-causal structure,causalstructure.io,.io,maybe_available,3,42
-star trek,startrek.com,.com,taken_or_active,2,42
-star trek,startrek.ai,.ai,taken_or_active,2,42
-star trek,startrek.io,.io,taken_or_active,2,42
-unimate unified,unimateunified.com,.com,maybe_available,2,42
-unimate unified,unimateunified.ai,.ai,maybe_available,2,42
-unimate unified,unimateunified.io,.io,maybe_available,2,42
-recent advances,recentadvances.com,.com,taken_or_active,2,42
-recent advances,recentadvances.ai,.ai,maybe_available,2,42
-recent advances,recentadvances.io,.io,maybe_available,2,42
-data recent,datarecent.com,.com,maybe_available,2,42
-data recent,datarecent.ai,.ai,maybe_available,2,42
-data recent,datarecent.io,.io,maybe_available,2,42
-yet existing,yetexisting.com,.com,maybe_available,2,42
-yet existing,yetexisting.ai,.ai,maybe_available,2,42
-yet existing,yetexisting.io,.io,maybe_available,2,42
-both training,bothtraining.com,.com,maybe_available,2,42
-both training,bothtraining.ai,.ai,maybe_available,2,42
-both training,bothtraining.io,.io,maybe_available,2,42
-same trajectory,sametrajectory.com,.com,maybe_available,2,42
-same trajectory,sametrajectory.ai,.ai,maybe_available,2,42
-same trajectory,sametrajectory.io,.io,maybe_available,2,42
-vision language,visionlanguage.com,.com,taken_or_active,2,42
-vision language,visionlanguage.ai,.ai,taken_or_active,2,42
-vision language,visionlanguage.io,.io,maybe_available,2,42
-failure mode,failuremode.com,.com,taken_or_active,2,42
-failure mode,failuremode.ai,.ai,taken_or_active,2,42
-failure mode,failuremode.io,.io,taken_or_active,2,42
-address these,addressthese.com,.com,maybe_available,2,42
-address these,addressthese.ai,.ai,maybe_available,2,42
-address these,addressthese.io,.io,maybe_available,2,42
-korean open,koreanopen.com,.com,taken_or_active,2,42
-korean open,koreanopen.ai,.ai,maybe_available,2,42
-korean open,koreanopen.io,.io,maybe_available,2,42
-open public,openpublic.com,.com,taken_or_active,2,42
-open public,openpublic.ai,.ai,taken_or_active,2,42
-open public,openpublic.io,.io,taken_or_active,2,42
-gap introduce,gapintroduce.com,.com,maybe_available,2,42
-gap introduce,gapintroduce.ai,.ai,maybe_available,2,42
-gap introduce,gapintroduce.io,.io,maybe_available,2,42
-named factors,namedfactors.com,.com,maybe_available,2,42
-named factors,namedfactors.ai,.ai,maybe_available,2,42
-named factors,namedfactors.io,.io,maybe_available,2,42
-novel view,novelview.com,.com,taken_or_active,2,42
-novel view,novelview.ai,.ai,maybe_available,2,42
-novel view,novelview.io,.io,maybe_available,2,42
-view synthesis,viewsynthesis.com,.com,maybe_available,2,42
-view synthesis,viewsynthesis.ai,.ai,maybe_available,2,42
-view synthesis,viewsynthesis.io,.io,maybe_available,2,42
-design docs,designdocs.com,.com,taken_or_active,2,42
-design docs,designdocs.ai,.ai,taken_or_active,2,42
-design docs,designdocs.io,.io,maybe_available,2,42
-generation rag,generationrag.com,.com,maybe_available,2,42
-generation rag,generationrag.ai,.ai,maybe_available,2,42
-generation rag,generationrag.io,.io,maybe_available,2,42
-propose unified,proposeunified.com,.com,maybe_available,2,42
-propose unified,proposeunified.ai,.ai,maybe_available,2,42
-propose unified,proposeunified.io,.io,maybe_available,2,42
-form fixed,formfixed.com,.com,taken_or_active,2,42
-form fixed,formfixed.ai,.ai,maybe_available,2,42
-form fixed,formfixed.io,.io,maybe_available,2,42
-fixed while,fixedwhile.com,.com,maybe_available,2,42
-fixed while,fixedwhile.ai,.ai,maybe_available,2,42
-fixed while,fixedwhile.io,.io,maybe_available,2,42
-binary decision,binarydecision.com,.com,taken_or_active,2,42
-binary decision,binarydecision.ai,.ai,maybe_available,2,42
-binary decision,binarydecision.io,.io,maybe_available,2,42
-limited insight,limitedinsight.com,.com,taken_or_active,2,42
-limited insight,limitedinsight.ai,.ai,maybe_available,2,42
-limited insight,limitedinsight.io,.io,maybe_available,2,42
-tasks each,taskseach.com,.com,maybe_available,2,42
-tasks each,taskseach.ai,.ai,maybe_available,2,42
-tasks each,taskseach.io,.io,maybe_available,2,42
-each task,eachtask.com,.com,taken_or_active,2,42
-each task,eachtask.ai,.ai,maybe_available,2,42
-each task,eachtask.io,.io,maybe_available,2,42
-adaptive gated,adaptivegated.com,.com,maybe_available,2,42
-adaptive gated,adaptivegated.ai,.ai,maybe_available,2,42
-adaptive gated,adaptivegated.io,.io,maybe_available,2,42
-gated deepfake,gateddeepfake.com,.com,maybe_available,2,42
-gated deepfake,gateddeepfake.ai,.ai,maybe_available,2,42
-gated deepfake,gateddeepfake.io,.io,maybe_available,2,42
-often rely,oftenrely.com,.com,maybe_available,2,42
-often rely,oftenrely.ai,.ai,maybe_available,2,42
-often rely,oftenrely.io,.io,maybe_available,2,42
-sees only,seesonly.com,.com,maybe_available,2,42
-sees only,seesonly.ai,.ai,maybe_available,2,42
-sees only,seesonly.io,.io,maybe_available,2,42
-passes only,passesonly.com,.com,maybe_available,2,42
-passes only,passesonly.ai,.ai,maybe_available,2,42
-passes only,passesonly.io,.io,maybe_available,2,42
-raw features,rawfeatures.com,.com,maybe_available,2,42
-raw features,rawfeatures.ai,.ai,maybe_available,2,42
-raw features,rawfeatures.io,.io,maybe_available,2,42
-language hvac,languagehvac.com,.com,maybe_available,2,42
-language hvac,languagehvac.ai,.ai,maybe_available,2,42
-language hvac,languagehvac.io,.io,maybe_available,2,42
-hvac operations,hvacoperations.com,.com,taken_or_active,2,42
-hvac operations,hvacoperations.ai,.ai,maybe_available,2,42
-hvac operations,hvacoperations.io,.io,maybe_available,2,42
-energy systems,energysystems.com,.com,taken_or_active,2,42
-energy systems,energysystems.ai,.ai,taken_or_active,2,42
-energy systems,energysystems.io,.io,maybe_available,2,42
+amari bayesian,amaribayesian.com,.com,maybe_available,3,50
+amari bayesian,amaribayesian.ai,.ai,maybe_available,3,50
+amari bayesian,amaribayesian.io,.io,maybe_available,3,50
+canonical color,canonicalcolor.com,.com,maybe_available,3,50
+canonical color,canonicalcolor.ai,.ai,maybe_available,3,50
+canonical color,canonicalcolor.io,.io,maybe_available,3,50
+vision encoders,visionencoders.com,.com,maybe_available,3,50
+vision encoders,visionencoders.ai,.ai,maybe_available,3,50
+vision encoders,visionencoders.io,.io,maybe_available,3,50
+case study,casestudy.com,.com,taken_or_active,3,50
+case study,casestudy.ai,.ai,taken_or_active,3,50
+case study,casestudy.io,.io,maybe_available,3,50
+cold hardiness,coldhardiness.com,.com,maybe_available,3,50
+cold hardiness,coldhardiness.ai,.ai,maybe_available,3,50
+cold hardiness,coldhardiness.io,.io,maybe_available,3,50
+task vectors,taskvectors.com,.com,maybe_available,3,50
+task vectors,taskvectors.ai,.ai,maybe_available,3,50
+task vectors,taskvectors.io,.io,maybe_available,3,50
+large language agents,largelanguageagents.com,.com,maybe_available,2,44
+large language agents,largelanguageagents.ai,.ai,maybe_available,2,44
+large language agents,largelanguageagents.io,.io,maybe_available,2,44
+procedural graph,proceduralgraph.com,.com,maybe_available,2,43
+procedural graph,proceduralgraph.ai,.ai,maybe_available,2,43
+procedural graph,proceduralgraph.io,.io,maybe_available,2,43
+memory clearance,memoryclearance.com,.com,taken_or_active,2,43
+memory clearance,memoryclearance.ai,.ai,maybe_available,2,43
+memory clearance,memoryclearance.io,.io,maybe_available,2,43
+toolloop closed-loop,toolloopclosedloop.com,.com,maybe_available,2,43
+toolloop closed-loop,toolloopclosedloop.ai,.ai,maybe_available,2,43
+toolloop closed-loop,toolloopclosedloop.io,.io,maybe_available,2,43
+evaluate responses,evaluateresponses.com,.com,maybe_available,2,43
+evaluate responses,evaluateresponses.ai,.ai,maybe_available,2,43
+evaluate responses,evaluateresponses.io,.io,maybe_available,2,43
+evaluation framework,evaluationframework.com,.com,taken_or_active,2,43
+evaluation framework,evaluationframework.ai,.ai,maybe_available,2,43
+evaluation framework,evaluationframework.io,.io,maybe_available,2,43
+in-context learning,incontextlearning.com,.com,taken_or_active,2,43
+in-context learning,incontextlearning.ai,.ai,maybe_available,2,43
+in-context learning,incontextlearning.io,.io,maybe_available,2,43
+llm-agent framework,llmagentframework.com,.com,taken_or_active,2,43
+llm-agent framework,llmagentframework.ai,.ai,maybe_available,2,43
+llm-agent framework,llmagentframework.io,.io,maybe_available,2,43
+graph-based surrogate,graphbasedsurrogate.com,.com,maybe_available,2,43
+graph-based surrogate,graphbasedsurrogate.ai,.ai,maybe_available,2,43
+graph-based surrogate,graphbasedsurrogate.io,.io,maybe_available,2,43
+evaluation machine,evaluationmachine.com,.com,maybe_available,2,43
+evaluation machine,evaluationmachine.ai,.ai,maybe_available,2,43
+evaluation machine,evaluationmachine.io,.io,maybe_available,2,43
+better voice,bettervoice.com,.com,taken_or_active,1,43
+better voice,bettervoice.ai,.ai,taken_or_active,1,43
+better voice,bettervoice.io,.io,maybe_available,1,43
+voice starts,voicestarts.com,.com,taken_or_active,1,43
+voice starts,voicestarts.ai,.ai,maybe_available,1,43
+voice starts,voicestarts.io,.io,maybe_available,1,43
+percentage points,percentagepoints.com,.com,taken_or_active,3,42
+percentage points,percentagepoints.ai,.ai,maybe_available,3,42
+percentage points,percentagepoints.io,.io,maybe_available,3,42
+multi-task learning,multitasklearning.com,.com,taken_or_active,3,42
+multi-task learning,multitasklearning.ai,.ai,maybe_available,3,42
+multi-task learning,multitasklearning.io,.io,maybe_available,3,42
+linear regression,linearregression.com,.com,taken_or_active,3,42
+linear regression,linearregression.ai,.ai,maybe_available,3,42
+linear regression,linearregression.io,.io,maybe_available,3,42
+autonomous driving,autonomousdriving.com,.com,taken_or_active,3,42
+autonomous driving,autonomousdriving.ai,.ai,taken_or_active,3,42
+autonomous driving,autonomousdriving.io,.io,taken_or_active,3,42
+speech generation,speechgeneration.com,.com,taken_or_active,3,42
+speech generation,speechgeneration.ai,.ai,taken_or_active,3,42
+speech generation,speechgeneration.io,.io,maybe_available,3,42
+length generalization,lengthgeneralization.com,.com,maybe_available,3,42
+length generalization,lengthgeneralization.ai,.ai,maybe_available,3,42
+length generalization,lengthgeneralization.io,.io,maybe_available,3,42
+gambling lives,gamblinglives.com,.com,maybe_available,2,42
+gambling lives,gamblinglives.ai,.ai,maybe_available,2,42
+gambling lives,gamblinglives.io,.io,maybe_available,2,42
+change safety,changesafety.com,.com,maybe_available,2,42
+change safety,changesafety.ai,.ai,maybe_available,2,42
+change safety,changesafety.io,.io,maybe_available,2,42
+through time,throughtime.com,.com,taken_or_active,2,42
+through time,throughtime.ai,.ai,maybe_available,2,42
+through time,throughtime.io,.io,taken_or_active,2,42
+state credit,statecredit.com,.com,taken_or_active,2,42
+state credit,statecredit.ai,.ai,maybe_available,2,42
+state credit,statecredit.io,.io,maybe_available,2,42
+log right,logright.com,.com,taken_or_active,2,42
+log right,logright.ai,.ai,maybe_available,2,42
+log right,logright.io,.io,maybe_available,2,42
+upper bound,upperbound.com,.com,taken_or_active,2,42
+upper bound,upperbound.ai,.ai,taken_or_active,2,42
+upper bound,upperbound.io,.io,taken_or_active,2,42
+patient records,patientrecords.com,.com,taken_or_active,2,42
+patient records,patientrecords.ai,.ai,taken_or_active,2,42
+patient records,patientrecords.io,.io,maybe_available,2,42
 across five,acrossfive.com,.com,maybe_available,2,42
 across five,acrossfive.ai,.ai,maybe_available,2,42
 across five,acrossfive.io,.io,maybe_available,2,42
-remains unclear,remainsunclear.com,.com,maybe_available,2,42
-remains unclear,remainsunclear.ai,.ai,maybe_available,2,42
-remains unclear,remainsunclear.io,.io,maybe_available,2,42
-read write,readwrite.com,.com,taken_or_active,2,42
-read write,readwrite.ai,.ai,taken_or_active,2,42
-read write,readwrite.io,.io,taken_or_active,2,42
-myocardial scar,myocardialscar.com,.com,maybe_available,2,42
-myocardial scar,myocardialscar.ai,.ai,maybe_available,2,42
-myocardial scar,myocardialscar.io,.io,maybe_available,2,42
-often exhibit,oftenexhibit.com,.com,maybe_available,2,42
-often exhibit,oftenexhibit.ai,.ai,maybe_available,2,42
-often exhibit,oftenexhibit.io,.io,maybe_available,2,42
-branches each,brancheseach.com,.com,maybe_available,2,42
-branches each,brancheseach.ai,.ai,maybe_available,2,42
-branches each,brancheseach.io,.io,maybe_available,2,42
-each reasoning,eachreasoning.com,.com,maybe_available,2,42
-each reasoning,eachreasoning.ai,.ai,maybe_available,2,42
-each reasoning,eachreasoning.io,.io,maybe_available,2,42
-prior work,priorwork.com,.com,taken_or_active,2,42
-prior work,priorwork.ai,.ai,maybe_available,2,42
-prior work,priorwork.io,.io,maybe_available,2,42
-design search,designsearch.com,.com,taken_or_active,2,42
-design search,designsearch.ai,.ai,maybe_available,2,42
-design search,designsearch.io,.io,maybe_available,2,42
-shallow neural,shallowneural.com,.com,maybe_available,2,42
-shallow neural,shallowneural.ai,.ai,maybe_available,2,42
-shallow neural,shallowneural.io,.io,maybe_available,2,42
-mixed sobolev,mixedsobolev.com,.com,maybe_available,2,42
-mixed sobolev,mixedsobolev.ai,.ai,maybe_available,2,42
-mixed sobolev,mixedsobolev.io,.io,maybe_available,2,42
-sobolev spaces,sobolevspaces.com,.com,maybe_available,2,42
-sobolev spaces,sobolevspaces.ai,.ai,maybe_available,2,42
-sobolev spaces,sobolevspaces.io,.io,maybe_available,2,42
-lower bound,lowerbound.com,.com,taken_or_active,2,42
-lower bound,lowerbound.ai,.ai,taken_or_active,2,42
-lower bound,lowerbound.io,.io,taken_or_active,2,42
-computer vision,computervision.com,.com,maybe_available,2,42
-computer vision,computervision.ai,.ai,taken_or_active,2,42
-computer vision,computervision.io,.io,taken_or_active,2,42
-ioff tighter,iofftighter.com,.com,maybe_available,2,42
-ioff tighter,iofftighter.ai,.ai,maybe_available,2,42
-ioff tighter,iofftighter.io,.io,maybe_available,2,42
-tighter fold,tighterfold.com,.com,maybe_available,2,42
-tighter fold,tighterfold.ai,.ai,maybe_available,2,42
-tighter fold,tighterfold.io,.io,maybe_available,2,42
-zynq ultrascale,zynqultrascale.com,.com,maybe_available,2,42
-zynq ultrascale,zynqultrascale.ai,.ai,maybe_available,2,42
-zynq ultrascale,zynqultrascale.io,.io,maybe_available,2,42
-knowledge space,knowledgespace.com,.com,taken_or_active,2,42
-knowledge space,knowledgespace.ai,.ai,taken_or_active,2,42
-knowledge space,knowledgespace.io,.io,maybe_available,2,42
-space theory,spacetheory.com,.com,taken_or_active,2,42
-space theory,spacetheory.ai,.ai,maybe_available,2,42
-space theory,spacetheory.io,.io,maybe_available,2,42
-human knowledge,humanknowledge.com,.com,taken_or_active,2,42
-human knowledge,humanknowledge.ai,.ai,maybe_available,2,42
-human knowledge,humanknowledge.io,.io,maybe_available,2,42
+training signal,trainingsignal.com,.com,taken_or_active,2,42
+training signal,trainingsignal.ai,.ai,maybe_available,2,42
+training signal,trainingsignal.io,.io,maybe_available,2,42
+across seven,acrossseven.com,.com,taken_or_active,2,42
+across seven,acrossseven.ai,.ai,maybe_available,2,42
+across seven,acrossseven.io,.io,maybe_available,2,42
+ask whether,askwhether.com,.com,maybe_available,2,42
+ask whether,askwhether.ai,.ai,maybe_available,2,42
+ask whether,askwhether.io,.io,maybe_available,2,42
+object identity,objectidentity.com,.com,taken_or_active,2,42
+object identity,objectidentity.ai,.ai,maybe_available,2,42
+object identity,objectidentity.io,.io,maybe_available,2,42
+work present,workpresent.com,.com,taken_or_active,2,42
+work present,workpresent.ai,.ai,maybe_available,2,42
+work present,workpresent.io,.io,maybe_available,2,42
+weight decay,weightdecay.com,.com,taken_or_active,2,42
+weight decay,weightdecay.ai,.ai,maybe_available,2,42
+weight decay,weightdecay.io,.io,maybe_available,2,42
+value iteration,valueiteration.com,.com,taken_or_active,2,42
+value iteration,valueiteration.ai,.ai,maybe_available,2,42
+value iteration,valueiteration.io,.io,maybe_available,2,42
+benchmark which,benchmarkwhich.com,.com,maybe_available,2,42
+benchmark which,benchmarkwhich.ai,.ai,maybe_available,2,42
+benchmark which,benchmarkwhich.io,.io,maybe_available,2,42
+language often,languageoften.com,.com,maybe_available,2,42
+language often,languageoften.ai,.ai,maybe_available,2,42
+language often,languageoften.io,.io,maybe_available,2,42
+annotation free,annotationfree.com,.com,maybe_available,2,42
+annotation free,annotationfree.ai,.ai,maybe_available,2,42
+annotation free,annotationfree.io,.io,maybe_available,2,42
+training corpus,trainingcorpus.com,.com,taken_or_active,2,42
+training corpus,trainingcorpus.ai,.ai,maybe_available,2,42
+training corpus,trainingcorpus.io,.io,maybe_available,2,42
+training data,trainingdata.com,.com,taken_or_active,2,42
+training data,trainingdata.ai,.ai,maybe_available,2,42
+training data,trainingdata.io,.io,taken_or_active,2,42
+user queries,userqueries.com,.com,maybe_available,2,42
+user queries,userqueries.ai,.ai,maybe_available,2,42
+user queries,userqueries.io,.io,maybe_available,2,42
+time series,timeseries.com,.com,maybe_available,2,42
+time series,timeseries.ai,.ai,taken_or_active,2,42
+time series,timeseries.io,.io,taken_or_active,2,42
 unclear whether,unclearwhether.com,.com,maybe_available,2,42
 unclear whether,unclearwhether.ai,.ai,maybe_available,2,42
 unclear whether,unclearwhether.io,.io,maybe_available,2,42
-bitcoin price,bitcoinprice.com,.com,taken_or_active,2,42
-bitcoin price,bitcoinprice.ai,.ai,taken_or_active,2,42
-bitcoin price,bitcoinprice.io,.io,taken_or_active,2,42
-expert skipping,expertskipping.com,.com,maybe_available,2,42
-expert skipping,expertskipping.ai,.ai,maybe_available,2,42
-expert skipping,expertskipping.io,.io,maybe_available,2,42
-methods often,methodsoften.com,.com,maybe_available,2,42
-methods often,methodsoften.ai,.ai,maybe_available,2,42
-methods often,methodsoften.io,.io,maybe_available,2,42
-data which,datawhich.com,.com,maybe_available,2,42
-data which,datawhich.ai,.ai,maybe_available,2,42
-data which,datawhich.io,.io,maybe_available,2,42
-latent variable,latentvariable.com,.com,taken_or_active,2,42
-latent variable,latentvariable.ai,.ai,taken_or_active,2,42
-latent variable,latentvariable.io,.io,maybe_available,2,42
-monte carlo,montecarlo.com,.com,taken_or_active,2,42
-monte carlo,montecarlo.ai,.ai,taken_or_active,2,42
-monte carlo,montecarlo.io,.io,taken_or_active,2,42
-data efficiency,dataefficiency.com,.com,taken_or_active,2,42
-data efficiency,dataefficiency.ai,.ai,maybe_available,2,42
-data efficiency,dataefficiency.io,.io,maybe_available,2,42
-efficiency data,efficiencydata.com,.com,taken_or_active,2,42
-efficiency data,efficiencydata.ai,.ai,maybe_available,2,42
-efficiency data,efficiencydata.io,.io,maybe_available,2,42
-data selection,dataselection.com,.com,taken_or_active,2,42
-data selection,dataselection.ai,.ai,maybe_available,2,42
-data selection,dataselection.io,.io,maybe_available,2,42
-test accuracy,testaccuracy.com,.com,maybe_available,2,42
-test accuracy,testaccuracy.ai,.ai,maybe_available,2,42
-test accuracy,testaccuracy.io,.io,maybe_available,2,42
-most existing,mostexisting.com,.com,maybe_available,2,42
-most existing,mostexisting.ai,.ai,maybe_available,2,42
-most existing,mostexisting.io,.io,maybe_available,2,42
-standard rigor,standardrigor.com,.com,maybe_available,2,42
-standard rigor,standardrigor.ai,.ai,maybe_available,2,42
-standard rigor,standardrigor.io,.io,maybe_available,2,42
-training recipe,trainingrecipe.com,.com,maybe_available,2,42
-training recipe,trainingrecipe.ai,.ai,maybe_available,2,42
-training recipe,trainingrecipe.io,.io,maybe_available,2,42
-most spike,mostspike.com,.com,maybe_available,2,42
-most spike,mostspike.ai,.ai,maybe_available,2,42
-most spike,mostspike.io,.io,maybe_available,2,42
-spike per,spikeper.com,.com,maybe_available,2,42
-spike per,spikeper.ai,.ai,maybe_available,2,42
-spike per,spikeper.io,.io,maybe_available,2,42
-per neuron,perneuron.com,.com,maybe_available,2,42
-per neuron,perneuron.ai,.ai,maybe_available,2,42
-per neuron,perneuron.io,.io,maybe_available,2,42
-markov blankets,markovblankets.com,.com,maybe_available,2,42
-markov blankets,markovblankets.ai,.ai,maybe_available,2,42
-markov blankets,markovblankets.io,.io,maybe_available,2,42
-time points,timepoints.com,.com,taken_or_active,2,42
-time points,timepoints.ai,.ai,maybe_available,2,42
-time points,timepoints.io,.io,taken_or_active,2,42
-learning deep,learningdeep.com,.com,taken_or_active,2,42
-learning deep,learningdeep.ai,.ai,maybe_available,2,42
-learning deep,learningdeep.io,.io,maybe_available,2,42
-deep neural,deepneural.com,.com,taken_or_active,2,42
-deep neural,deepneural.ai,.ai,maybe_available,2,42
-deep neural,deepneural.io,.io,maybe_available,2,42
-embedded graph flows,embeddedgraphflows.com,.com,maybe_available,2,35
-embedded graph flows,embeddedgraphflows.ai,.ai,maybe_available,2,35
-embedded graph flows,embeddedgraphflows.io,.io,maybe_available,2,35
-monte carlo graph,montecarlograph.com,.com,maybe_available,2,35
-monte carlo graph,montecarlograph.ai,.ai,maybe_available,2,35
-monte carlo graph,montecarlograph.io,.io,maybe_available,2,35
-carlo graph search,carlographsearch.com,.com,maybe_available,2,35
-carlo graph search,carlographsearch.ai,.ai,maybe_available,2,35
-carlo graph search,carlographsearch.io,.io,maybe_available,2,35
-wearableqa benchmark,wearableqabenchmark.com,.com,maybe_available,2,34
-wearableqa benchmark,wearableqabenchmark.ai,.ai,maybe_available,2,34
-wearableqa benchmark,wearableqabenchmark.io,.io,maybe_available,2,34
-existing benchmarks,existingbenchmarks.com,.com,maybe_available,2,34
-existing benchmarks,existingbenchmarks.ai,.ai,maybe_available,2,34
-existing benchmarks,existingbenchmarks.io,.io,maybe_available,2,34
-diffusion through,diffusionthrough.com,.com,maybe_available,2,34
-diffusion through,diffusionthrough.ai,.ai,maybe_available,2,34
-diffusion through,diffusionthrough.io,.io,maybe_available,2,34
-tangible embodied,tangibleembodied.com,.com,maybe_available,2,34
-tangible embodied,tangibleembodied.ai,.ai,maybe_available,2,34
-tangible embodied,tangibleembodied.io,.io,maybe_available,2,34
-interaction diffusion,interactiondiffusion.com,.com,maybe_available,2,34
-interaction diffusion,interactiondiffusion.ai,.ai,maybe_available,2,34
-interaction diffusion,interactiondiffusion.io,.io,maybe_available,2,34
-standard methods,standardmethods.com,.com,taken_or_active,2,34
-standard methods,standardmethods.ai,.ai,maybe_available,2,34
-standard methods,standardmethods.io,.io,maybe_available,2,34
-synthesizing labeled,synthesizinglabeled.com,.com,maybe_available,2,34
-synthesizing labeled,synthesizinglabeled.ai,.ai,maybe_available,2,34
-synthesizing labeled,synthesizinglabeled.io,.io,maybe_available,2,34
-these limitations,theselimitations.com,.com,maybe_available,2,34
-these limitations,theselimitations.ai,.ai,maybe_available,2,34
-these limitations,theselimitations.io,.io,maybe_available,2,34
-generative novel,generativenovel.com,.com,taken_or_active,2,34
-generative novel,generativenovel.ai,.ai,maybe_available,2,34
-generative novel,generativenovel.io,.io,maybe_available,2,34
-additional training,additionaltraining.com,.com,taken_or_active,2,34
-additional training,additionaltraining.ai,.ai,maybe_available,2,34
-additional training,additionaltraining.io,.io,maybe_available,2,34
+discrete tasks,discretetasks.com,.com,maybe_available,2,42
+discrete tasks,discretetasks.ai,.ai,maybe_available,2,42
+discrete tasks,discretetasks.io,.io,maybe_available,2,42
+tasks such,taskssuch.com,.com,maybe_available,2,42
+tasks such,taskssuch.ai,.ai,maybe_available,2,42
+tasks such,taskssuch.io,.io,maybe_available,2,42
+reasoning paths,reasoningpaths.com,.com,maybe_available,2,42
+reasoning paths,reasoningpaths.ai,.ai,maybe_available,2,42
+reasoning paths,reasoningpaths.io,.io,maybe_available,2,42
+deep learning,deeplearning.com,.com,taken_or_active,2,42
+deep learning,deeplearning.ai,.ai,taken_or_active,2,42
+deep learning,deeplearning.io,.io,taken_or_active,2,42
+same questions,samequestions.com,.com,maybe_available,2,42
+same questions,samequestions.ai,.ai,maybe_available,2,42
+same questions,samequestions.io,.io,maybe_available,2,42
+query mutation,querymutation.com,.com,maybe_available,2,42
+query mutation,querymutation.ai,.ai,maybe_available,2,42
+query mutation,querymutation.io,.io,maybe_available,2,42
+efficient skill,efficientskill.com,.com,taken_or_active,2,42
+efficient skill,efficientskill.ai,.ai,maybe_available,2,42
+efficient skill,efficientskill.io,.io,maybe_available,2,42
+rely parametric,relyparametric.com,.com,maybe_available,2,42
+rely parametric,relyparametric.ai,.ai,maybe_available,2,42
+rely parametric,relyparametric.io,.io,maybe_available,2,42
+speech deepfake,speechdeepfake.com,.com,maybe_available,2,42
+speech deepfake,speechdeepfake.ai,.ai,maybe_available,2,42
+speech deepfake,speechdeepfake.io,.io,maybe_available,2,42
+bayesian sparse,bayesiansparse.com,.com,maybe_available,2,42
+bayesian sparse,bayesiansparse.ai,.ai,maybe_available,2,42
+bayesian sparse,bayesiansparse.io,.io,maybe_available,2,42
+sparse linear,sparselinear.com,.com,maybe_available,2,42
+sparse linear,sparselinear.ai,.ai,maybe_available,2,42
+sparse linear,sparselinear.io,.io,maybe_available,2,42
+points higher,pointshigher.com,.com,maybe_available,2,42
+points higher,pointshigher.ai,.ai,maybe_available,2,42
+points higher,pointshigher.io,.io,maybe_available,2,42
+address these,addressthese.com,.com,maybe_available,2,42
+address these,addressthese.ai,.ai,maybe_available,2,42
+address these,addressthese.io,.io,maybe_available,2,42
+consistency gap,consistencygap.com,.com,maybe_available,2,42
+consistency gap,consistencygap.ai,.ai,maybe_available,2,42
+consistency gap,consistencygap.io,.io,maybe_available,2,42
+hunt leads,huntleads.com,.com,taken_or_active,2,42
+hunt leads,huntleads.ai,.ai,taken_or_active,2,42
+hunt leads,huntleads.io,.io,maybe_available,2,42
+each token,eachtoken.com,.com,taken_or_active,2,42
+each token,eachtoken.ai,.ai,maybe_available,2,42
+each token,eachtoken.io,.io,maybe_available,2,42
+attends tokens,attendstokens.com,.com,maybe_available,2,42
+attends tokens,attendstokens.ai,.ai,maybe_available,2,42
+attends tokens,attendstokens.io,.io,maybe_available,2,42
+code codex,codecodex.com,.com,taken_or_active,2,42
+code codex,codecodex.ai,.ai,taken_or_active,2,42
+code codex,codecodex.io,.io,taken_or_active,2,42
+scenario-based testing,scenariobasedtesting.com,.com,maybe_available,4,40
+scenario-based testing,scenariobasedtesting.ai,.ai,maybe_available,4,40
+scenario-based testing,scenariobasedtesting.io,.io,maybe_available,4,40
+amari bayesian duality,amaribayesianduality.com,.com,maybe_available,3,34
+amari bayesian duality,amaribayesianduality.ai,.ai,maybe_available,3,34
+amari bayesian duality,amaribayesianduality.io,.io,maybe_available,3,34
+lives researcher,livesresearcher.com,.com,maybe_available,2,34
+lives researcher,livesresearcher.ai,.ai,maybe_available,2,34
+lives researcher,livesresearcher.io,.io,maybe_available,2,34
+researcher quits,researcherquits.com,.com,maybe_available,2,34
+researcher quits,researcherquits.ai,.ai,maybe_available,2,34
+researcher quits,researcherquits.io,.io,maybe_available,2,34
+revision measuring,revisionmeasuring.com,.com,taken_or_active,2,34
+revision measuring,revisionmeasuring.ai,.ai,maybe_available,2,34
+revision measuring,revisionmeasuring.io,.io,maybe_available,2,34
+measuring undisclosed,measuringundisclosed.com,.com,maybe_available,2,34
+measuring undisclosed,measuringundisclosed.ai,.ai,maybe_available,2,34
+measuring undisclosed,measuringundisclosed.io,.io,maybe_available,2,34
+undisclosed change,undisclosedchange.com,.com,maybe_available,2,34
+undisclosed change,undisclosedchange.ai,.ai,maybe_available,2,34
+undisclosed change,undisclosedchange.io,.io,maybe_available,2,34
+humanoid traversal,humanoidtraversal.com,.com,maybe_available,2,34
+humanoid traversal,humanoidtraversal.ai,.ai,maybe_available,2,34
+humanoid traversal,humanoidtraversal.io,.io,maybe_available,2,34
+traversal cluttered,traversalcluttered.com,.com,maybe_available,2,34
+traversal cluttered,traversalcluttered.ai,.ai,maybe_available,2,34
+traversal cluttered,traversalcluttered.io,.io,maybe_available,2,34
+determine whether,determinewhether.com,.com,maybe_available,2,34
+determine whether,determinewhether.ai,.ai,maybe_available,2,34
+determine whether,determinewhether.io,.io,maybe_available,2,34
+parameter updates,parameterupdates.com,.com,maybe_available,2,34
+parameter updates,parameterupdates.ai,.ai,maybe_available,2,34
+parameter updates,parameterupdates.io,.io,maybe_available,2,34
 language increasingly,languageincreasingly.com,.com,maybe_available,2,34
 language increasingly,languageincreasingly.ai,.ai,maybe_available,2,34
 language increasingly,languageincreasingly.io,.io,maybe_available,2,34
-conditional visual,conditionalvisual.com,.com,maybe_available,2,34
-conditional visual,conditionalvisual.ai,.ai,maybe_available,2,34
-conditional visual,conditionalvisual.io,.io,maybe_available,2,34
-visual grounding,visualgrounding.com,.com,taken_or_active,2,34
-visual grounding,visualgrounding.ai,.ai,maybe_available,2,34
-visual grounding,visualgrounding.io,.io,maybe_available,2,34
-visuomotor imitation,visuomotorimitation.com,.com,maybe_available,2,34
-visuomotor imitation,visuomotorimitation.ai,.ai,maybe_available,2,34
-visuomotor imitation,visuomotorimitation.io,.io,maybe_available,2,34
-imitation policies,imitationpolicies.com,.com,maybe_available,2,34
-imitation policies,imitationpolicies.ai,.ai,maybe_available,2,34
-imitation policies,imitationpolicies.io,.io,maybe_available,2,34
-objects receptacles,objectsreceptacles.com,.com,maybe_available,2,34
-objects receptacles,objectsreceptacles.ai,.ai,maybe_available,2,34
-objects receptacles,objectsreceptacles.io,.io,maybe_available,2,34
-framework distills,frameworkdistills.com,.com,maybe_available,2,34
-framework distills,frameworkdistills.ai,.ai,maybe_available,2,34
-framework distills,frameworkdistills.io,.io,maybe_available,2,34
-writing assessment,writingassessment.com,.com,taken_or_active,2,34
-writing assessment,writingassessment.ai,.ai,maybe_available,2,34
-writing assessment,writingassessment.io,.io,maybe_available,2,34
-higher education,highereducation.com,.com,taken_or_active,2,34
-higher education,highereducation.ai,.ai,taken_or_active,2,34
-higher education,highereducation.io,.io,taken_or_active,2,34
-dynamical systems,dynamicalsystems.com,.com,taken_or_active,2,34
-dynamical systems,dynamicalsystems.ai,.ai,taken_or_active,2,34
-dynamical systems,dynamicalsystems.io,.io,taken_or_active,2,34
-vision transformer,visiontransformer.com,.com,taken_or_active,2,34
-vision transformer,visiontransformer.ai,.ai,taken_or_active,2,34
-vision transformer,visiontransformer.io,.io,maybe_available,2,34
-vision transformers,visiontransformers.com,.com,taken_or_active,2,34
-vision transformers,visiontransformers.ai,.ai,maybe_available,2,34
-vision transformers,visiontransformers.io,.io,maybe_available,2,34
-isolation leaving,isolationleaving.com,.com,maybe_available,2,34
-isolation leaving,isolationleaving.ai,.ai,maybe_available,2,34
-isolation leaving,isolationleaving.io,.io,maybe_available,2,34
-transformer language,transformerlanguage.com,.com,maybe_available,2,34
-transformer language,transformerlanguage.ai,.ai,maybe_available,2,34
-transformer language,transformerlanguage.io,.io,maybe_available,2,34
-form fixed while,formfixedwhile.com,.com,maybe_available,2,34
-form fixed while,formfixedwhile.ai,.ai,maybe_available,2,34
-form fixed while,formfixedwhile.io,.io,maybe_available,2,34
-circuit synthesis,circuitsynthesis.com,.com,maybe_available,2,34
-circuit synthesis,circuitsynthesis.ai,.ai,maybe_available,2,34
-circuit synthesis,circuitsynthesis.io,.io,maybe_available,2,34
-decision diagrams,decisiondiagrams.com,.com,maybe_available,2,34
-decision diagrams,decisiondiagrams.ai,.ai,maybe_available,2,34
-decision diagrams,decisiondiagrams.io,.io,maybe_available,2,34
-quantum algorithms,quantumalgorithms.com,.com,taken_or_active,2,34
-quantum algorithms,quantumalgorithms.ai,.ai,taken_or_active,2,34
-quantum algorithms,quantumalgorithms.io,.io,taken_or_active,2,34
-boolean functions,booleanfunctions.com,.com,maybe_available,2,34
-boolean functions,booleanfunctions.ai,.ai,maybe_available,2,34
-boolean functions,booleanfunctions.io,.io,maybe_available,2,34
-training inference,traininginference.com,.com,taken_or_active,2,34
-training inference,traininginference.ai,.ai,maybe_available,2,34
-training inference,traininginference.io,.io,maybe_available,2,34
-inference efficiency,inferenceefficiency.com,.com,taken_or_active,2,34
-inference efficiency,inferenceefficiency.ai,.ai,maybe_available,2,34
-inference efficiency,inferenceefficiency.io,.io,maybe_available,2,34
-passes only its,passesonlyits.com,.com,maybe_available,2,34
-passes only its,passesonlyits.ai,.ai,maybe_available,2,34
-passes only its,passesonlyits.io,.io,maybe_available,2,34
-deployment readiness,deploymentreadiness.com,.com,taken_or_active,2,34
-deployment readiness,deploymentreadiness.ai,.ai,maybe_available,2,34
-deployment readiness,deploymentreadiness.io,.io,maybe_available,2,34
-online change-point,onlinechangepoint.com,.com,maybe_available,2,34
-online change-point,onlinechangepoint.ai,.ai,maybe_available,2,34
-online change-point,onlinechangepoint.io,.io,maybe_available,2,34
-detection cooperative,detectioncooperative.com,.com,maybe_available,2,34
-detection cooperative,detectioncooperative.ai,.ai,maybe_available,2,34
-detection cooperative,detectioncooperative.io,.io,maybe_available,2,34
-while preserving,whilepreserving.com,.com,maybe_available,2,34
-while preserving,whilepreserving.ai,.ai,maybe_available,2,34
-while preserving,whilepreserving.io,.io,maybe_available,2,34
-policy distillation,policydistillation.com,.com,taken_or_active,2,34
-policy distillation,policydistillation.ai,.ai,maybe_available,2,34
-policy distillation,policydistillation.io,.io,maybe_available,2,34
-distillation opd,distillationopd.com,.com,maybe_available,2,34
-distillation opd,distillationopd.ai,.ai,maybe_available,2,34
-distillation opd,distillationopd.io,.io,maybe_available,2,34
-reasoning uncertainty,reasoninguncertainty.com,.com,maybe_available,2,34
-reasoning uncertainty,reasoninguncertainty.ai,.ai,maybe_available,2,34
-reasoning uncertainty,reasoninguncertainty.io,.io,maybe_available,2,34
-reasoning ability,reasoningability.com,.com,taken_or_active,2,34
-reasoning ability,reasoningability.ai,.ai,maybe_available,2,34
-reasoning ability,reasoningability.io,.io,maybe_available,2,34
-potential branches,potentialbranches.com,.com,maybe_available,2,34
-potential branches,potentialbranches.ai,.ai,maybe_available,2,34
-potential branches,potentialbranches.io,.io,maybe_available,2,34
-systems increasingly,systemsincreasingly.com,.com,maybe_available,2,34
-systems increasingly,systemsincreasingly.ai,.ai,maybe_available,2,34
-systems increasingly,systemsincreasingly.io,.io,maybe_available,2,34
-approximation mixed,approximationmixed.com,.com,maybe_available,2,34
-approximation mixed,approximationmixed.ai,.ai,maybe_available,2,34
-approximation mixed,approximationmixed.io,.io,maybe_available,2,34
-increasingly rely,increasinglyrely.com,.com,maybe_available,2,34
-increasingly rely,increasinglyrely.ai,.ai,maybe_available,2,34
-increasingly rely,increasinglyrely.io,.io,maybe_available,2,34
-commonsense reasoning,commonsensereasoning.com,.com,maybe_available,2,34
-commonsense reasoning,commonsensereasoning.ai,.ai,maybe_available,2,34
-commonsense reasoning,commonsensereasoning.io,.io,maybe_available,2,34
-reasoning computer,reasoningcomputer.com,.com,taken_or_active,2,34
-reasoning computer,reasoningcomputer.ai,.ai,maybe_available,2,34
-reasoning computer,reasoningcomputer.io,.io,maybe_available,2,34
-anomaly detection,anomalydetection.com,.com,taken_or_active,2,34
-anomaly detection,anomalydetection.ai,.ai,taken_or_active,2,34
-anomaly detection,anomalydetection.io,.io,taken_or_active,2,34
-fold variability,foldvariability.com,.com,maybe_available,2,34
-fold variability,foldvariability.ai,.ai,maybe_available,2,34
-fold variability,foldvariability.io,.io,maybe_available,2,34
-proton irradiation,protonirradiation.com,.com,maybe_available,2,34
-proton irradiation,protonirradiation.ai,.ai,maybe_available,2,34
-proton irradiation,protonirradiation.io,.io,maybe_available,2,34
-exhibit coherent,exhibitcoherent.com,.com,maybe_available,2,34
-exhibit coherent,exhibitcoherent.ai,.ai,maybe_available,2,34
-exhibit coherent,exhibitcoherent.io,.io,maybe_available,2,34
-adaptation choices,adaptationchoices.com,.com,maybe_available,2,34
-adaptation choices,adaptationchoices.ai,.ai,maybe_available,2,34
-adaptation choices,adaptationchoices.io,.io,maybe_available,2,34
-price forecasting,priceforecasting.com,.com,taken_or_active,2,34
-price forecasting,priceforecasting.ai,.ai,maybe_available,2,34
-price forecasting,priceforecasting.io,.io,maybe_available,2,34
-skipping moe-based,skippingmoebased.com,.com,maybe_available,2,34
-skipping moe-based,skippingmoebased.ai,.ai,maybe_available,2,34
-skipping moe-based,skippingmoebased.io,.io,maybe_available,2,34
-effects collusive,effectscollusive.com,.com,maybe_available,2,34
-effects collusive,effectscollusive.ai,.ai,maybe_available,2,34
-effects collusive,effectscollusive.io,.io,maybe_available,2,34
-collusive bidding,collusivebidding.com,.com,maybe_available,2,34
-collusive bidding,collusivebidding.ai,.ai,maybe_available,2,34
-collusive bidding,collusivebidding.io,.io,maybe_available,2,34
-reviewer assignment,reviewerassignment.com,.com,maybe_available,2,34
-reviewer assignment,reviewerassignment.ai,.ai,maybe_available,2,34
-reviewer assignment,reviewerassignment.io,.io,maybe_available,2,34
-distributed across,distributedacross.com,.com,maybe_available,2,34
-distributed across,distributedacross.ai,.ai,maybe_available,2,34
-distributed across,distributedacross.io,.io,maybe_available,2,34
-explainable reasoning,explainablereasoning.com,.com,maybe_available,2,34
-explainable reasoning,explainablereasoning.ai,.ai,maybe_available,2,34
-explainable reasoning,explainablereasoning.io,.io,maybe_available,2,34
-reasoning framework,reasoningframework.com,.com,maybe_available,2,34
-reasoning framework,reasoningframework.ai,.ai,maybe_available,2,34
-reasoning framework,reasoningframework.io,.io,maybe_available,2,34
-gold-anchored qlora,goldanchoredqlora.com,.com,maybe_available,2,34
-gold-anchored qlora,goldanchoredqlora.ai,.ai,maybe_available,2,34
-gold-anchored qlora,goldanchoredqlora.io,.io,maybe_available,2,34
-qlora task-aware,qlorataskaware.com,.com,maybe_available,2,34
-qlora task-aware,qlorataskaware.ai,.ai,maybe_available,2,34
-qlora task-aware,qlorataskaware.io,.io,maybe_available,2,34
-group-relative rlvr,grouprelativerlvr.com,.com,maybe_available,2,34
-group-relative rlvr,grouprelativerlvr.ai,.ai,maybe_available,2,34
-group-relative rlvr,grouprelativerlvr.io,.io,maybe_available,2,34
-zooming dimension,zoomingdimension.com,.com,maybe_available,2,34
-zooming dimension,zoomingdimension.ai,.ai,maybe_available,2,34
-zooming dimension,zoomingdimension.io,.io,maybe_available,2,34
-symbolic regression,symbolicregression.com,.com,maybe_available,2,34
-symbolic regression,symbolicregression.ai,.ai,maybe_available,2,34
-symbolic regression,symbolicregression.io,.io,maybe_available,2,34
-flexible workers,flexibleworkers.com,.com,taken_or_active,2,34
-flexible workers,flexibleworkers.ai,.ai,maybe_available,2,34
-flexible workers,flexibleworkers.io,.io,maybe_available,2,34
-measuring novelty,measuringnovelty.com,.com,maybe_available,2,34
-measuring novelty,measuringnovelty.ai,.ai,maybe_available,2,34
-measuring novelty,measuringnovelty.io,.io,maybe_available,2,34
-latent distances,latentdistances.com,.com,maybe_available,2,34
-latent distances,latentdistances.ai,.ai,maybe_available,2,34
-latent distances,latentdistances.io,.io,maybe_available,2,34
-relationships between,relationshipsbetween.com,.com,maybe_available,2,34
-relationships between,relationshipsbetween.ai,.ai,maybe_available,2,34
-relationships between,relationshipsbetween.io,.io,maybe_available,2,34
-conformal prediction,conformalprediction.com,.com,taken_or_active,2,34
-conformal prediction,conformalprediction.ai,.ai,taken_or_active,2,34
-conformal prediction,conformalprediction.io,.io,taken_or_active,2,34
-two-stage training,twostagetraining.com,.com,maybe_available,2,34
-two-stage training,twostagetraining.ai,.ai,maybe_available,2,34
-two-stage training,twostagetraining.io,.io,maybe_available,2,34
-uncompressed rag,uncompressedrag.com,.com,maybe_available,2,34
-uncompressed rag,uncompressedrag.ai,.ai,maybe_available,2,34
-uncompressed rag,uncompressedrag.io,.io,maybe_available,2,34
-layer normalization,layernormalization.com,.com,maybe_available,2,34
-layer normalization,layernormalization.ai,.ai,maybe_available,2,34
-layer normalization,layernormalization.io,.io,maybe_available,2,34
-most spike per,mostspikeper.com,.com,maybe_available,2,34
-most spike per,mostspikeper.ai,.ai,maybe_available,2,34
-most spike per,mostspikeper.io,.io,maybe_available,2,34
-spike per neuron,spikeperneuron.com,.com,maybe_available,2,34
-spike per neuron,spikeperneuron.ai,.ai,maybe_available,2,34
-spike per neuron,spikeperneuron.io,.io,maybe_available,2,34
-causal discovery,causaldiscovery.com,.com,taken_or_active,2,34
-causal discovery,causaldiscovery.ai,.ai,taken_or_active,2,34
-causal discovery,causaldiscovery.io,.io,maybe_available,2,34
-information flow,informationflow.com,.com,taken_or_active,2,34
-information flow,informationflow.ai,.ai,maybe_available,2,34
-information flow,informationflow.io,.io,maybe_available,2,34
-visual information,visualinformation.com,.com,taken_or_active,2,34
-visual information,visualinformation.ai,.ai,maybe_available,2,34
-visual information,visualinformation.io,.io,taken_or_active,2,34
-framework integrates,frameworkintegrates.com,.com,maybe_available,2,34
-framework integrates,frameworkintegrates.ai,.ai,maybe_available,2,34
-framework integrates,frameworkintegrates.io,.io,maybe_available,2,34
-ai-assisted scoring,aiassistedscoring.com,.com,maybe_available,2,34
-ai-assisted scoring,aiassistedscoring.ai,.ai,maybe_available,2,34
-ai-assisted scoring,aiassistedscoring.io,.io,maybe_available,2,34
-cooperative multi-agent,cooperativemultiagent.com,.com,maybe_available,2,33
-cooperative multi-agent,cooperativemultiagent.ai,.ai,maybe_available,2,33
-cooperative multi-agent,cooperativemultiagent.io,.io,maybe_available,2,33
-reinforcement learning,reinforcementlearning.com,.com,taken_or_active,3,32
-reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,3,32
-reinforcement learning,reinforcementlearning.io,.io,maybe_available,3,32
-on-policy distillation,onpolicydistillation.com,.com,maybe_available,3,32
-on-policy distillation,onpolicydistillation.ai,.ai,maybe_available,3,32
-on-policy distillation,onpolicydistillation.io,.io,maybe_available,3,32
-artificial intelligence,artificialintelligence.com,.com,taken_or_active,3,32
-artificial intelligence,artificialintelligence.ai,.ai,taken_or_active,3,32
-artificial intelligence,artificialintelligence.io,.io,taken_or_active,3,32
-march 2026,march2026.com,.com,taken_or_active,2,27
-march 2026,march2026.ai,.ai,maybe_available,2,27
-march 2026,march2026.io,.io,maybe_available,2,27
-1-shot opd,1shotopd.com,.com,maybe_available,2,27
-1-shot opd,1shotopd.ai,.ai,maybe_available,2,27
-1-shot opd,1shotopd.io,.io,maybe_available,2,27
-korean open public,koreanopenpublic.com,.com,maybe_available,2,26
-korean open public,koreanopenpublic.ai,.ai,maybe_available,2,26
-korean open public,koreanopenpublic.io,.io,maybe_available,2,26
-generative novel view,generativenovelview.com,.com,maybe_available,2,26
-generative novel view,generativenovelview.ai,.ai,maybe_available,2,26
-generative novel view,generativenovelview.io,.io,maybe_available,2,26
-novel view synthesis,novelviewsynthesis.com,.com,maybe_available,2,26
-novel view synthesis,novelviewsynthesis.ai,.ai,maybe_available,2,26
-novel view synthesis,novelviewsynthesis.io,.io,maybe_available,2,26
-sees raw features,seesrawfeatures.com,.com,maybe_available,2,26
-sees raw features,seesrawfeatures.ai,.ai,maybe_available,2,26
-sees raw features,seesrawfeatures.io,.io,maybe_available,2,26
-large language hvac,largelanguagehvac.com,.com,maybe_available,2,26
-large language hvac,largelanguagehvac.ai,.ai,maybe_available,2,26
-large language hvac,largelanguagehvac.io,.io,maybe_available,2,26
-mixed sobolev spaces,mixedsobolevspaces.com,.com,maybe_available,2,26
-mixed sobolev spaces,mixedsobolevspaces.ai,.ai,maybe_available,2,26
-mixed sobolev spaces,mixedsobolevspaces.io,.io,maybe_available,2,26
-ioff tighter fold,iofftighterfold.com,.com,maybe_available,2,26
-ioff tighter fold,iofftighterfold.ai,.ai,maybe_available,2,26
-ioff tighter fold,iofftighterfold.io,.io,maybe_available,2,26
-knowledge space theory,knowledgespacetheory.com,.com,maybe_available,2,26
-knowledge space theory,knowledgespacetheory.ai,.ai,maybe_available,2,26
-knowledge space theory,knowledgespacetheory.io,.io,maybe_available,2,26
-data efficiency data,dataefficiencydata.com,.com,maybe_available,2,26
-data efficiency data,dataefficiencydata.ai,.ai,maybe_available,2,26
-data efficiency data,dataefficiencydata.io,.io,maybe_available,2,26
-machine learning deep,machinelearningdeep.com,.com,maybe_available,2,26
-machine learning deep,machinelearningdeep.ai,.ai,maybe_available,2,26
-machine learning deep,machinelearningdeep.io,.io,maybe_available,2,26
-learning deep neural,learningdeepneural.com,.com,maybe_available,2,26
-learning deep neural,learningdeepneural.ai,.ai,maybe_available,2,26
-learning deep neural,learningdeepneural.io,.io,maybe_available,2,26
-soft context compression,softcontextcompression.com,.com,maybe_available,2,25
-soft context compression,softcontextcompression.ai,.ai,maybe_available,2,25
-soft context compression,softcontextcompression.io,.io,maybe_available,2,25
-labeled wireless signals,labeledwirelesssignals.com,.com,maybe_available,3,24
-labeled wireless signals,labeledwirelesssignals.ai,.ai,maybe_available,3,24
-labeled wireless signals,labeledwirelesssignals.io,.io,maybe_available,3,24
-between knowledge units,betweenknowledgeunits.com,.com,maybe_available,3,24
-between knowledge units,betweenknowledgeunits.ai,.ai,maybe_available,3,24
-between knowledge units,betweenknowledgeunits.io,.io,maybe_available,3,24
-key idea,keyidea.com,.com,taken_or_active,2,24
-key idea,keyidea.ai,.ai,maybe_available,2,24
-key idea,keyidea.io,.io,maybe_available,2,24
-trade-up recommendation,tradeuprecommendation.com,.com,maybe_available,2,24
-trade-up recommendation,tradeuprecommendation.ai,.ai,maybe_available,2,24
-trade-up recommendation,tradeuprecommendation.io,.io,maybe_available,2,24
-differential equations,differentialequations.com,.com,taken_or_active,2,24
-differential equations,differentialequations.ai,.ai,maybe_available,2,24
-differential equations,differentialequations.io,.io,maybe_available,2,24
-transformer compression,transformercompression.com,.com,maybe_available,2,24
-transformer compression,transformercompression.ai,.ai,maybe_available,2,24
-transformer compression,transformercompression.io,.io,maybe_available,2,24
-bdd size,bddsize.com,.com,maybe_available,2,24
-bdd size,bddsize.ai,.ai,maybe_available,2,24
-bdd size,bddsize.io,.io,maybe_available,2,24
-information aggregation,informationaggregation.com,.com,maybe_available,2,24
-information aggregation,informationaggregation.ai,.ai,maybe_available,2,24
-information aggregation,informationaggregation.io,.io,maybe_available,2,24
-only its,onlyits.com,.com,taken_or_active,2,24
-only its,onlyits.ai,.ai,maybe_available,2,24
-only its,onlyits.io,.io,maybe_available,2,24
-sees raw,seesraw.com,.com,maybe_available,2,24
-sees raw,seesraw.ai,.ai,maybe_available,2,24
-sees raw,seesraw.io,.io,maybe_available,2,24
-change-point detection,changepointdetection.com,.com,maybe_available,2,24
-change-point detection,changepointdetection.ai,.ai,maybe_available,2,24
-change-point detection,changepointdetection.io,.io,maybe_available,2,24
-behavioral correctness,behavioralcorrectness.com,.com,maybe_available,2,24
-behavioral correctness,behavioralcorrectness.ai,.ai,maybe_available,2,24
-behavioral correctness,behavioralcorrectness.io,.io,maybe_available,2,24
-correctness assumptions,correctnessassumptions.com,.com,maybe_available,2,24
-correctness assumptions,correctnessassumptions.ai,.ai,maybe_available,2,24
-correctness assumptions,correctnessassumptions.io,.io,maybe_available,2,24
-fourier-block property,fourierblockproperty.com,.com,maybe_available,2,24
-fourier-block property,fourierblockproperty.ai,.ai,maybe_available,2,24
-fourier-block property,fourierblockproperty.io,.io,maybe_available,2,24
-mathematical reasoning,mathematicalreasoning.com,.com,taken_or_active,2,24
-mathematical reasoning,mathematicalreasoning.ai,.ai,maybe_available,2,24
-mathematical reasoning,mathematicalreasoning.io,.io,maybe_available,2,24
-interatomic potentials,interatomicpotentials.com,.com,maybe_available,2,24
-interatomic potentials,interatomicpotentials.ai,.ai,maybe_available,2,24
-interatomic potentials,interatomicpotentials.io,.io,maybe_available,2,24
-information bottleneck,informationbottleneck.com,.com,taken_or_active,2,24
-information bottleneck,informationbottleneck.ai,.ai,maybe_available,2,24
-information bottleneck,informationbottleneck.io,.io,maybe_available,2,24
-benchmarks cifar-10,benchmarkscifar10.com,.com,maybe_available,2,19
-benchmarks cifar-10,benchmarkscifar10.ai,.ai,maybe_available,2,19
-benchmarks cifar-10,benchmarkscifar10.io,.io,maybe_available,2,19
-cifar-10 cifar-100,cifar10cifar100.com,.com,maybe_available,2,19
-cifar-10 cifar-100,cifar10cifar100.ai,.ai,maybe_available,2,19
-cifar-10 cifar-100,cifar10cifar100.io,.io,maybe_available,2,19
-binary decision diagrams,binarydecisiondiagrams.com,.com,maybe_available,2,16
-binary decision diagrams,binarydecisiondiagrams.ai,.ai,maybe_available,2,16
-binary decision diagrams,binarydecisiondiagrams.io,.io,maybe_available,2,16
-adaptive gated deepfake,adaptivegateddeepfake.com,.com,maybe_available,2,16
-adaptive gated deepfake,adaptivegateddeepfake.ai,.ai,maybe_available,2,16
-adaptive gated deepfake,adaptivegateddeepfake.io,.io,maybe_available,2,16
-gated deepfake detection,gateddeepfakedetection.com,.com,maybe_available,2,16
-gated deepfake detection,gateddeepfakedetection.ai,.ai,maybe_available,2,16
-gated deepfake detection,gateddeepfakedetection.io,.io,maybe_available,2,16
-language hvac operations,languagehvacoperations.com,.com,maybe_available,2,16
-language hvac operations,languagehvacoperations.ai,.ai,maybe_available,2,16
-language hvac operations,languagehvacoperations.io,.io,maybe_available,2,16
-branches each reasoning,brancheseachreasoning.com,.com,maybe_available,2,16
-branches each reasoning,brancheseachreasoning.ai,.ai,maybe_available,2,16
-branches each reasoning,brancheseachreasoning.io,.io,maybe_available,2,16
-tighter fold variability,tighterfoldvariability.com,.com,maybe_available,2,16
-tighter fold variability,tighterfoldvariability.ai,.ai,maybe_available,2,16
-tighter fold variability,tighterfoldvariability.io,.io,maybe_available,2,16
+procedural knowledge,proceduralknowledge.com,.com,taken_or_active,2,34
+procedural knowledge,proceduralknowledge.ai,.ai,maybe_available,2,34
+procedural knowledge,proceduralknowledge.io,.io,maybe_available,2,34
+gradient descent,gradientdescent.com,.com,taken_or_active,2,34
+gradient descent,gradientdescent.ai,.ai,taken_or_active,2,34
+gradient descent,gradientdescent.io,.io,maybe_available,2,34
+mathrm sil sqrt,mathrmsilsqrt.com,.com,maybe_available,2,34
+mathrm sil sqrt,mathrmsilsqrt.ai,.ai,maybe_available,2,34
+mathrm sil sqrt,mathrmsilsqrt.io,.io,maybe_available,2,34
+sil sqrt log,silsqrtlog.com,.com,maybe_available,2,34
+sil sqrt log,silsqrtlog.ai,.ai,maybe_available,2,34
+sil sqrt log,silsqrtlog.io,.io,maybe_available,2,34
+sqrt log log,sqrtloglog.com,.com,maybe_available,2,34
+sqrt log log,sqrtloglog.ai,.ai,maybe_available,2,34
+sqrt log log,sqrtloglog.io,.io,maybe_available,2,34
+log log log,logloglog.com,.com,taken_or_active,2,34
+log log log,logloglog.ai,.ai,maybe_available,2,34
+log log log,logloglog.io,.io,maybe_available,2,34
+log log right,loglogright.com,.com,maybe_available,2,34
+log log right,loglogright.ai,.ai,maybe_available,2,34
+log log right,loglogright.io,.io,maybe_available,2,34
+image tokenizers,imagetokenizers.com,.com,maybe_available,2,34
+image tokenizers,imagetokenizers.ai,.ai,maybe_available,2,34
+image tokenizers,imagetokenizers.io,.io,maybe_available,2,34
+unified multimodal,unifiedmultimodal.com,.com,maybe_available,2,34
+unified multimodal,unifiedmultimodal.ai,.ai,maybe_available,2,34
+unified multimodal,unifiedmultimodal.io,.io,maybe_available,2,34
+multimodal patient,multimodalpatient.com,.com,maybe_available,2,34
+multimodal patient,multimodalpatient.ai,.ai,maybe_available,2,34
+multimodal patient,multimodalpatient.io,.io,maybe_available,2,34
+critical challenge,criticalchallenge.com,.com,taken_or_active,2,34
+critical challenge,criticalchallenge.ai,.ai,maybe_available,2,34
+critical challenge,criticalchallenge.io,.io,maybe_available,2,34
+existing approaches,existingapproaches.com,.com,maybe_available,2,34
+existing approaches,existingapproaches.ai,.ai,maybe_available,2,34
+existing approaches,existingapproaches.io,.io,maybe_available,2,34
+data-driven framework,datadrivenframework.com,.com,maybe_available,2,34
+data-driven framework,datadrivenframework.ai,.ai,maybe_available,2,34
+data-driven framework,datadrivenframework.io,.io,maybe_available,2,34
+policy optimization,policyoptimization.com,.com,taken_or_active,2,34
+policy optimization,policyoptimization.ai,.ai,maybe_available,2,34
+policy optimization,policyoptimization.io,.io,maybe_available,2,34
+existing methods,existingmethods.com,.com,maybe_available,2,34
+existing methods,existingmethods.ai,.ai,maybe_available,2,34
+existing methods,existingmethods.io,.io,maybe_available,2,34
+harness evolution,harnessevolution.com,.com,taken_or_active,2,34
+harness evolution,harnessevolution.ai,.ai,maybe_available,2,34
+harness evolution,harnessevolution.io,.io,maybe_available,2,34
+execution feedback,executionfeedback.com,.com,maybe_available,2,34
+execution feedback,executionfeedback.ai,.ai,maybe_available,2,34
+execution feedback,executionfeedback.io,.io,maybe_available,2,34
+generalization amari,generalizationamari.com,.com,maybe_available,2,34
+generalization amari,generalizationamari.ai,.ai,maybe_available,2,34
+generalization amari,generalizationamari.io,.io,maybe_available,2,34
+machine learning,machinelearning.com,.com,taken_or_active,2,34
+machine learning,machinelearning.ai,.ai,taken_or_active,2,34
+machine learning,machinelearning.io,.io,taken_or_active,2,34
+grayscale images,grayscaleimages.com,.com,taken_or_active,2,34
+grayscale images,grayscaleimages.ai,.ai,maybe_available,2,34
+grayscale images,grayscaleimages.io,.io,maybe_available,2,34
+downstream utility,downstreamutility.com,.com,maybe_available,2,34
+downstream utility,downstreamutility.ai,.ai,maybe_available,2,34
+downstream utility,downstreamutility.io,.io,maybe_available,2,34
+curriculum learning,curriculumlearning.com,.com,taken_or_active,2,34
+curriculum learning,curriculumlearning.ai,.ai,maybe_available,2,34
+curriculum learning,curriculumlearning.io,.io,maybe_available,2,34
+approximate value,approximatevalue.com,.com,taken_or_active,2,34
+approximate value,approximatevalue.ai,.ai,maybe_available,2,34
+approximate value,approximatevalue.io,.io,maybe_available,2,34
+initial position,initialposition.com,.com,maybe_available,2,34
+initial position,initialposition.ai,.ai,maybe_available,2,34
+initial position,initialposition.io,.io,maybe_available,2,34
+prompt selection,promptselection.com,.com,maybe_available,2,34
+prompt selection,promptselection.ai,.ai,maybe_available,2,34
+prompt selection,promptselection.io,.io,maybe_available,2,34
+dynamic self-feedback,dynamicselffeedback.com,.com,maybe_available,2,34
+dynamic self-feedback,dynamicselffeedback.ai,.ai,maybe_available,2,34
+dynamic self-feedback,dynamicselffeedback.io,.io,maybe_available,2,34
+frontier language,frontierlanguage.com,.com,maybe_available,2,34
+frontier language,frontierlanguage.ai,.ai,maybe_available,2,34
+frontier language,frontierlanguage.io,.io,maybe_available,2,34
+learning framework,learningframework.com,.com,taken_or_active,2,34
+learning framework,learningframework.ai,.ai,maybe_available,2,34
+learning framework,learningframework.io,.io,maybe_available,2,34
+javascript games,javascriptgames.com,.com,taken_or_active,2,34
+javascript games,javascriptgames.ai,.ai,maybe_available,2,34
+javascript games,javascriptgames.io,.io,maybe_available,2,34
+time-varying data,timevaryingdata.com,.com,maybe_available,2,34
+time-varying data,timevaryingdata.ai,.ai,maybe_available,2,34
+time-varying data,timevaryingdata.io,.io,maybe_available,2,34
+training-free task,trainingfreetask.com,.com,maybe_available,2,34
+training-free task,trainingfreetask.ai,.ai,maybe_available,2,34
+training-free task,trainingfreetask.io,.io,maybe_available,2,34
+post-training editing,posttrainingediting.com,.com,maybe_available,2,34
+post-training editing,posttrainingediting.ai,.ai,maybe_available,2,34
+post-training editing,posttrainingediting.io,.io,maybe_available,2,34
+constrained discrete,constraineddiscrete.com,.com,maybe_available,2,34
+constrained discrete,constraineddiscrete.ai,.ai,maybe_available,2,34
+constrained discrete,constraineddiscrete.io,.io,maybe_available,2,34
+without retraining,withoutretraining.com,.com,maybe_available,2,34
+without retraining,withoutretraining.ai,.ai,maybe_available,2,34
+without retraining,withoutretraining.io,.io,maybe_available,2,34
+scattering layer,scatteringlayer.com,.com,maybe_available,2,34
+scattering layer,scatteringlayer.ai,.ai,maybe_available,2,34
+scattering layer,scatteringlayer.io,.io,maybe_available,2,34
+false ventricular,falseventricular.com,.com,maybe_available,2,34
+false ventricular,falseventricular.ai,.ai,maybe_available,2,34
+false ventricular,falseventricular.io,.io,maybe_available,2,34
+closed-form diffusion,closedformdiffusion.com,.com,maybe_available,2,34
+closed-form diffusion,closedformdiffusion.ai,.ai,maybe_available,2,34
+closed-form diffusion,closedformdiffusion.io,.io,maybe_available,2,34
+technical report,technicalreport.com,.com,taken_or_active,2,34
+technical report,technicalreport.ai,.ai,maybe_available,2,34
+technical report,technicalreport.io,.io,maybe_available,2,34
+feature generation,featuregeneration.com,.com,maybe_available,2,34
+feature generation,featuregeneration.ai,.ai,maybe_available,2,34
+feature generation,featuregeneration.io,.io,maybe_available,2,34
+distributed feature,distributedfeature.com,.com,maybe_available,2,34
+distributed feature,distributedfeature.ai,.ai,maybe_available,2,34
+distributed feature,distributedfeature.io,.io,maybe_available,2,34
+feature selection,featureselection.com,.com,taken_or_active,2,34
+feature selection,featureselection.ai,.ai,maybe_available,2,34
+feature selection,featureselection.io,.io,maybe_available,2,34
+fitting learning,fittinglearning.com,.com,maybe_available,2,34
+fitting learning,fittinglearning.ai,.ai,maybe_available,2,34
+fitting learning,fittinglearning.io,.io,maybe_available,2,34
+cylinder benchmark,cylinderbenchmark.com,.com,maybe_available,2,34
+cylinder benchmark,cylinderbenchmark.ai,.ai,maybe_available,2,34
+cylinder benchmark,cylinderbenchmark.io,.io,maybe_available,2,34
+stable efficient,stableefficient.com,.com,maybe_available,2,34
+stable efficient,stableefficient.ai,.ai,maybe_available,2,34
+stable efficient,stableefficient.io,.io,maybe_available,2,34
+skill self-evolution,skillselfevolution.com,.com,maybe_available,2,34
+skill self-evolution,skillselfevolution.ai,.ai,maybe_available,2,34
+skill self-evolution,skillselfevolution.io,.io,maybe_available,2,34
+fact-checking systems,factcheckingsystems.com,.com,maybe_available,2,34
+fact-checking systems,factcheckingsystems.ai,.ai,maybe_available,2,34
+fact-checking systems,factcheckingsystems.io,.io,maybe_available,2,34
+relevant documents,relevantdocuments.com,.com,maybe_available,2,34
+relevant documents,relevantdocuments.ai,.ai,maybe_available,2,34
+relevant documents,relevantdocuments.io,.io,maybe_available,2,34
+parametric knowledge,parametricknowledge.com,.com,maybe_available,2,34
+parametric knowledge,parametricknowledge.ai,.ai,maybe_available,2,34
+parametric knowledge,parametricknowledge.io,.io,maybe_available,2,34
+generation editing,generationediting.com,.com,maybe_available,2,34
+generation editing,generationediting.ai,.ai,maybe_available,2,34
+generation editing,generationediting.io,.io,maybe_available,2,34
+experience funnel,experiencefunnel.com,.com,maybe_available,2,34
+experience funnel,experiencefunnel.ai,.ai,maybe_available,2,34
+experience funnel,experiencefunnel.io,.io,maybe_available,2,34
+reusable competence,reusablecompetence.com,.com,maybe_available,2,34
+reusable competence,reusablecompetence.ai,.ai,maybe_available,2,34
+reusable competence,reusablecompetence.io,.io,maybe_available,2,34
+machine unlearning,machineunlearning.com,.com,maybe_available,2,34
+machine unlearning,machineunlearning.ai,.ai,taken_or_active,2,34
+machine unlearning,machineunlearning.io,.io,maybe_available,2,34
+deepfake detection,deepfakedetection.com,.com,taken_or_active,2,34
+deepfake detection,deepfakedetection.ai,.ai,maybe_available,2,34
+deepfake detection,deepfakedetection.io,.io,taken_or_active,2,34
+evolution multimodal,evolutionmultimodal.com,.com,maybe_available,2,34
+evolution multimodal,evolutionmultimodal.ai,.ai,maybe_available,2,34
+evolution multimodal,evolutionmultimodal.io,.io,maybe_available,2,34
+multimodal question,multimodalquestion.com,.com,maybe_available,2,34
+multimodal question,multimodalquestion.ai,.ai,maybe_available,2,34
+multimodal question,multimodalquestion.io,.io,maybe_available,2,34
+c-rasp hypothesis,crasphypothesis.com,.com,maybe_available,2,34
+c-rasp hypothesis,crasphypothesis.ai,.ai,maybe_available,2,34
+c-rasp hypothesis,crasphypothesis.io,.io,maybe_available,2,34
+on-policy reverse,onpolicyreverse.com,.com,maybe_available,2,34
+on-policy reverse,onpolicyreverse.ai,.ai,maybe_available,2,34
+on-policy reverse,onpolicyreverse.io,.io,maybe_available,2,34
+reverse distillation,reversedistillation.com,.com,maybe_available,2,34
+reverse distillation,reversedistillation.ai,.ai,maybe_available,2,34
+reverse distillation,reversedistillation.io,.io,maybe_available,2,34
+rater ising-potts,raterisingpotts.com,.com,maybe_available,2,34
+rater ising-potts,raterisingpotts.ai,.ai,maybe_available,2,34
+rater ising-potts,raterisingpotts.io,.io,maybe_available,2,34
+scoring reliability,scoringreliability.com,.com,maybe_available,2,34
+scoring reliability,scoringreliability.ai,.ai,maybe_available,2,34
+scoring reliability,scoringreliability.io,.io,maybe_available,2,34
+frontier developers,frontierdevelopers.com,.com,taken_or_active,2,34
+frontier developers,frontierdevelopers.ai,.ai,maybe_available,2,34
+frontier developers,frontierdevelopers.io,.io,maybe_available,2,34
+adaptive anisotropic,adaptiveanisotropic.com,.com,maybe_available,2,34
+adaptive anisotropic,adaptiveanisotropic.ai,.ai,maybe_available,2,34
+adaptive anisotropic,adaptiveanisotropic.io,.io,maybe_available,2,34
+anisotropic attention,anisotropicattention.com,.com,maybe_available,2,34
+anisotropic attention,anisotropicattention.ai,.ai,maybe_available,2,34
+anisotropic attention,anisotropicattention.io,.io,maybe_available,2,34
+machine translation,machinetranslation.com,.com,taken_or_active,2,34
+machine translation,machinetranslation.ai,.ai,taken_or_active,2,34
+machine translation,machinetranslation.io,.io,taken_or_active,2,34
+human translators,humantranslators.com,.com,taken_or_active,2,34
+human translators,humantranslators.ai,.ai,maybe_available,2,34
+human translators,humantranslators.io,.io,maybe_available,2,34
+aligment lead,aligmentlead.com,.com,maybe_available,1,34
+aligment lead,aligmentlead.ai,.ai,maybe_available,1,34
+aligment lead,aligmentlead.io,.io,maybe_available,1,34
+lead warns,leadwarns.com,.com,maybe_available,1,34
+lead warns,leadwarns.ai,.ai,maybe_available,1,34
+lead warns,leadwarns.io,.io,maybe_available,1,34
+dead blame,deadblame.com,.com,maybe_available,1,34
+dead blame,deadblame.ai,.ai,maybe_available,1,34
+dead blame,deadblame.io,.io,maybe_available,1,34
+claims chinese,claimschinese.com,.com,maybe_available,1,34
+claims chinese,claimschinese.ai,.ai,maybe_available,1,34
+claims chinese,claimschinese.io,.io,maybe_available,1,34
+chinese firms,chinesefirms.com,.com,taken_or_active,1,34
+chinese firms,chinesefirms.ai,.ai,maybe_available,1,34
+chinese firms,chinesefirms.io,.io,maybe_available,1,34
+firms carrying,firmscarrying.com,.com,maybe_available,1,34
+firms carrying,firmscarrying.ai,.ai,maybe_available,1,34
+firms carrying,firmscarrying.io,.io,maybe_available,1,34
+much internet,muchinternet.com,.com,maybe_available,1,34
+much internet,muchinternet.ai,.ai,maybe_available,1,34
+much internet,muchinternet.io,.io,maybe_available,1,34
+law schools,lawschools.com,.com,taken_or_active,1,34
+law schools,lawschools.ai,.ai,maybe_available,1,34
+law schools,lawschools.io,.io,maybe_available,1,34
+schools tell,schoolstell.com,.com,maybe_available,1,34
+schools tell,schoolstell.ai,.ai,maybe_available,1,34
+schools tell,schoolstell.io,.io,maybe_available,1,34
+tell students,tellstudents.com,.com,maybe_available,1,34
+tell students,tellstudents.ai,.ai,maybe_available,1,34
+tell students,tellstudents.io,.io,maybe_available,1,34
+students put,studentsput.com,.com,maybe_available,1,34
+students put,studentsput.ai,.ai,maybe_available,1,34
+students put,studentsput.io,.io,maybe_available,1,34
+ryanair atc,ryanairatc.com,.com,maybe_available,1,34
+ryanair atc,ryanairatc.ai,.ai,maybe_available,1,34
+ryanair atc,ryanairatc.io,.io,maybe_available,1,34
+atc disruption,atcdisruption.com,.com,maybe_available,1,34
+atc disruption,atcdisruption.ai,.ai,maybe_available,1,34
+atc disruption,atcdisruption.io,.io,maybe_available,1,34
+limits scale,limitsscale.com,.com,maybe_available,1,34
+limits scale,limitsscale.ai,.ai,maybe_available,1,34
+limits scale,limitsscale.io,.io,maybe_available,1,34
+quits warning,quitswarning.com,.com,maybe_available,1,34
+quits warning,quitswarning.ai,.ai,maybe_available,1,34
+quits warning,quitswarning.io,.io,maybe_available,1,34
+warning safety,warningsafety.com,.com,maybe_available,1,34
+warning safety,warningsafety.ai,.ai,maybe_available,1,34
+warning safety,warningsafety.io,.io,maybe_available,1,34
+cognifind now,cognifindnow.com,.com,maybe_available,1,34
+cognifind now,cognifindnow.ai,.ai,maybe_available,1,34
+cognifind now,cognifindnow.io,.io,maybe_available,1,34
+now available,nowavailable.com,.com,taken_or_active,1,34
+now available,nowavailable.ai,.ai,maybe_available,1,34
+now available,nowavailable.io,.io,maybe_available,1,34
+wanted maximize,wantedmaximize.com,.com,maybe_available,1,34
+wanted maximize,wantedmaximize.ai,.ai,maybe_available,1,34
+wanted maximize,wantedmaximize.io,.io,maybe_available,1,34
+maximize risk,maximizerisk.com,.com,maybe_available,1,34
+maximize risk,maximizerisk.ai,.ai,maybe_available,1,34
+maximize risk,maximizerisk.io,.io,maybe_available,1,34
+jarvis better,jarvisbetter.com,.com,maybe_available,1,34
+jarvis better,jarvisbetter.ai,.ai,maybe_available,1,34
+jarvis better,jarvisbetter.io,.io,maybe_available,1,34
+starts training,startstraining.com,.com,maybe_available,1,34
+starts training,startstraining.ai,.ai,maybe_available,1,34
+starts training,startstraining.io,.io,maybe_available,1,34
+rails devs,railsdevs.com,.com,maybe_available,1,34
+rails devs,railsdevs.ai,.ai,maybe_available,1,34
+rails devs,railsdevs.io,.io,maybe_available,1,34
+devs heads,devsheads.com,.com,maybe_available,1,34
+devs heads,devsheads.ai,.ai,maybe_available,1,34
+devs heads,devsheads.io,.io,maybe_available,1,34
+heads json,headsjson.com,.com,maybe_available,1,34
+heads json,headsjson.ai,.ai,maybe_available,1,34
+heads json,headsjson.io,.io,maybe_available,1,34
+text-to-sql evaluation,texttosqlevaluation.com,.com,maybe_available,2,33
+text-to-sql evaluation,texttosqlevaluation.ai,.ai,maybe_available,2,33
+text-to-sql evaluation,texttosqlevaluation.io,.io,maybe_available,2,33
+cluttered environments,clutteredenvironments.com,.com,maybe_available,3,32
+cluttered environments,clutteredenvironments.ai,.ai,maybe_available,3,32
+cluttered environments,clutteredenvironments.io,.io,maybe_available,3,32
+sqrt log,sqrtlog.com,.com,maybe_available,3,32
+sqrt log,sqrtlog.ai,.ai,maybe_available,3,32
+sqrt log,sqrtlog.io,.io,maybe_available,3,32
+jarvis better voice,jarvisbettervoice.com,.com,maybe_available,1,27
+jarvis better voice,jarvisbettervoice.ai,.ai,maybe_available,1,27
+jarvis better voice,jarvisbettervoice.io,.io,maybe_available,1,27
+better voice starts,bettervoicestarts.com,.com,maybe_available,1,27
+better voice starts,bettervoicestarts.ai,.ai,maybe_available,1,27
+better voice starts,bettervoicestarts.io,.io,maybe_available,1,27
+voice starts training,voicestartstraining.com,.com,maybe_available,1,27
+voice starts training,voicestartstraining.ai,.ai,maybe_available,1,27
+voice starts training,voicestartstraining.io,.io,maybe_available,1,27
+lives researcher quits,livesresearcherquits.com,.com,maybe_available,2,26
+lives researcher quits,livesresearcherquits.ai,.ai,maybe_available,2,26
+lives researcher quits,livesresearcherquits.io,.io,maybe_available,2,26
+stable efficient skill,stableefficientskill.com,.com,maybe_available,2,26
+stable efficient skill,stableefficientskill.ai,.ai,maybe_available,2,26
+stable efficient skill,stableefficientskill.io,.io,maybe_available,2,26
+bayesian sparse linear,bayesiansparselinear.com,.com,maybe_available,2,26
+bayesian sparse linear,bayesiansparselinear.ai,.ai,maybe_available,2,26
+bayesian sparse linear,bayesiansparselinear.io,.io,maybe_available,2,26
+claude code codex,claudecodecodex.com,.com,maybe_available,2,26
+claude code codex,claudecodecodex.ai,.ai,maybe_available,2,26
+claude code codex,claudecodecodex.io,.io,maybe_available,2,26
+warns extinction,warnsextinction.com,.com,maybe_available,1,26
+warns extinction,warnsextinction.ai,.ai,maybe_available,1,26
+warns extinction,warnsextinction.io,.io,maybe_available,1,26
+php dead blame,phpdeadblame.com,.com,maybe_available,1,26
+php dead blame,phpdeadblame.ai,.ai,maybe_available,1,26
+php dead blame,phpdeadblame.io,.io,maybe_available,1,26
+internet written,internetwritten.com,.com,maybe_available,1,26
+internet written,internetwritten.ai,.ai,maybe_available,1,26
+internet written,internetwritten.io,.io,maybe_available,1,26
+law schools tell,lawschoolstell.com,.com,maybe_available,1,26
+law schools tell,lawschoolstell.ai,.ai,maybe_available,1,26
+law schools tell,lawschoolstell.io,.io,maybe_available,1,26
+disruption update,disruptionupdate.com,.com,maybe_available,1,26
+disruption update,disruptionupdate.ai,.ai,maybe_available,1,26
+disruption update,disruptionupdate.io,.io,maybe_available,1,26
+update synthesia,updatesynthesia.com,.com,maybe_available,1,26
+update synthesia,updatesynthesia.ai,.ai,maybe_available,1,26
+update synthesia,updatesynthesia.io,.io,maybe_available,1,26
+representative video,representativevideo.com,.com,maybe_available,1,26
+representative video,representativevideo.ai,.ai,maybe_available,1,26
+representative video,representativevideo.io,.io,maybe_available,1,26
+fundamental limits,fundamentallimits.com,.com,maybe_available,1,26
+fundamental limits,fundamentallimits.ai,.ai,maybe_available,1,26
+fundamental limits,fundamentallimits.io,.io,maybe_available,1,26
+available windows,availablewindows.com,.com,maybe_available,1,26
+available windows,availablewindows.ai,.ai,maybe_available,1,26
+available windows,availablewindows.io,.io,maybe_available,1,26
+rails devs heads,railsdevsheads.com,.com,maybe_available,1,26
+rails devs heads,railsdevsheads.ai,.ai,maybe_available,1,26
+rails devs heads,railsdevsheads.io,.io,maybe_available,1,26
+devs heads json,devsheadsjson.com,.com,maybe_available,1,26
+devs heads json,devsheadsjson.ai,.ai,maybe_available,1,26
+devs heads json,devsheadsjson.io,.io,maybe_available,1,26
+graph feature generation,graphfeaturegeneration.com,.com,maybe_available,2,25
+graph feature generation,graphfeaturegeneration.ai,.ai,maybe_available,2,25
+graph feature generation,graphfeaturegeneration.io,.io,maybe_available,2,25
+log sqrt,logsqrt.com,.com,maybe_available,2,24
+log sqrt,logsqrt.ai,.ai,maybe_available,2,24
+log sqrt,logsqrt.io,.io,maybe_available,2,24
+sil sqrt,silsqrt.com,.com,maybe_available,2,24
+sil sqrt,silsqrt.ai,.ai,maybe_available,2,24
+sil sqrt,silsqrt.io,.io,maybe_available,2,24
+downstream performance,downstreamperformance.com,.com,maybe_available,2,24
+downstream performance,downstreamperformance.ai,.ai,maybe_available,2,24
+downstream performance,downstreamperformance.io,.io,maybe_available,2,24
+longitudinal multimodal,longitudinalmultimodal.com,.com,maybe_available,2,24
+longitudinal multimodal,longitudinalmultimodal.ai,.ai,maybe_available,2,24
+longitudinal multimodal,longitudinalmultimodal.io,.io,maybe_available,2,24
+test-time reinforcement,testtimereinforcement.com,.com,maybe_available,2,24
+test-time reinforcement,testtimereinforcement.ai,.ai,maybe_available,2,24
+test-time reinforcement,testtimereinforcement.io,.io,maybe_available,2,24
+dexterous manipulation,dexterousmanipulation.com,.com,taken_or_active,2,24
+dexterous manipulation,dexterousmanipulation.ai,.ai,maybe_available,2,24
+dexterous manipulation,dexterousmanipulation.io,.io,maybe_available,2,24
+zero-rollout difficulty,zerorolloutdifficulty.com,.com,maybe_available,2,24
+zero-rollout difficulty,zerorolloutdifficulty.ai,.ai,maybe_available,2,24
+zero-rollout difficulty,zerorolloutdifficulty.io,.io,maybe_available,2,24
+ventricular tachycardia,ventriculartachycardia.com,.com,taken_or_active,2,24
+ventricular tachycardia,ventriculartachycardia.ai,.ai,maybe_available,2,24
+ventricular tachycardia,ventriculartachycardia.io,.io,maybe_available,2,24
+propositional formulas,propositionalformulas.com,.com,maybe_available,2,24
+propositional formulas,propositionalformulas.ai,.ai,maybe_available,2,24
+propositional formulas,propositionalformulas.io,.io,maybe_available,2,24
+first-stage retrievers,firststageretrievers.com,.com,maybe_available,2,24
+first-stage retrievers,firststageretrievers.ai,.ai,maybe_available,2,24
+first-stage retrievers,firststageretrievers.io,.io,maybe_available,2,24
+simulator trajectories,simulatortrajectories.com,.com,maybe_available,2,24
+simulator trajectories,simulatortrajectories.ai,.ai,maybe_available,2,24
+simulator trajectories,simulatortrajectories.io,.io,maybe_available,2,24
+multi-category scoring,multicategoryscoring.com,.com,maybe_available,2,24
+multi-category scoring,multicategoryscoring.ai,.ai,maybe_available,2,24
+multi-category scoring,multicategoryscoring.io,.io,maybe_available,2,24
+aligment lead warns,aligmentleadwarns.com,.com,maybe_available,1,18
+aligment lead warns,aligmentleadwarns.ai,.ai,maybe_available,1,18
+aligment lead warns,aligmentleadwarns.io,.io,maybe_available,1,18
+lead warns extinction,leadwarnsextinction.com,.com,maybe_available,1,18
+lead warns extinction,leadwarnsextinction.ai,.ai,maybe_available,1,18
+lead warns extinction,leadwarnsextinction.io,.io,maybe_available,1,18
+claims chinese firms,claimschinesefirms.com,.com,maybe_available,1,18
+claims chinese firms,claimschinesefirms.ai,.ai,maybe_available,1,18
+claims chinese firms,claimschinesefirms.io,.io,maybe_available,1,18
+chinese firms carrying,chinesefirmscarrying.com,.com,maybe_available,1,18
+chinese firms carrying,chinesefirmscarrying.ai,.ai,maybe_available,1,18
+chinese firms carrying,chinesefirmscarrying.io,.io,maybe_available,1,18
+much internet written,muchinternetwritten.com,.com,maybe_available,1,18
+much internet written,muchinternetwritten.ai,.ai,maybe_available,1,18
+much internet written,muchinternetwritten.io,.io,maybe_available,1,18
+schools tell students,schoolstellstudents.com,.com,maybe_available,1,18
+schools tell students,schoolstellstudents.ai,.ai,maybe_available,1,18
+schools tell students,schoolstellstudents.io,.io,maybe_available,1,18
+tell students put,tellstudentsput.com,.com,maybe_available,1,18
+tell students put,tellstudentsput.ai,.ai,maybe_available,1,18
+tell students put,tellstudentsput.io,.io,maybe_available,1,18
+students put away,studentsputaway.com,.com,maybe_available,1,18
+students put away,studentsputaway.ai,.ai,maybe_available,1,18
+students put away,studentsputaway.io,.io,maybe_available,1,18
+ryanair atc disruption,ryanairatcdisruption.com,.com,maybe_available,1,18
+ryanair atc disruption,ryanairatcdisruption.ai,.ai,maybe_available,1,18
+ryanair atc disruption,ryanairatcdisruption.io,.io,maybe_available,1,18
+atc disruption update,atcdisruptionupdate.com,.com,maybe_available,1,18
+atc disruption update,atcdisruptionupdate.ai,.ai,maybe_available,1,18
+atc disruption update,atcdisruptionupdate.io,.io,maybe_available,1,18
+quits warning safety,quitswarningsafety.com,.com,maybe_available,1,18
+quits warning safety,quitswarningsafety.ai,.ai,maybe_available,1,18
+quits warning safety,quitswarningsafety.io,.io,maybe_available,1,18
+now available windows,nowavailablewindows.com,.com,maybe_available,1,18
+now available windows,nowavailablewindows.ai,.ai,maybe_available,1,18
+now available windows,nowavailablewindows.io,.io,maybe_available,1,18
+wanted maximize risk,wantedmaximizerisk.com,.com,maybe_available,1,18
+wanted maximize risk,wantedmaximizerisk.ai,.ai,maybe_available,1,18
+wanted maximize risk,wantedmaximizerisk.io,.io,maybe_available,1,18
+change safety frameworks,changesafetyframeworks.com,.com,maybe_available,2,16
+change safety frameworks,changesafetyframeworks.ai,.ai,maybe_available,2,16
+change safety frameworks,changesafetyframeworks.io,.io,maybe_available,2,16
+sparse linear regression,sparselinearregression.com,.com,maybe_available,2,16
+sparse linear regression,sparselinearregression.ai,.ai,maybe_available,2,16
+sparse linear regression,sparselinearregression.io,.io,maybe_available,2,16
+percentage points higher,percentagepointshigher.com,.com,maybe_available,2,16
+percentage points higher,percentagepointshigher.ai,.ai,maybe_available,2,16
+percentage points higher,percentagepointshigher.io,.io,maybe_available,2,16
+php dead,phpdead.com,.com,taken_or_active,1,16
+php dead,phpdead.ai,.ai,maybe_available,1,16
+php dead,phpdead.io,.io,maybe_available,1,16
+industrial-scale theft,industrialscaletheft.com,.com,maybe_available,1,16
+industrial-scale theft,industrialscaletheft.ai,.ai,maybe_available,1,16
+industrial-scale theft,industrialscaletheft.io,.io,maybe_available,1,16
+put away,putaway.com,.com,maybe_available,1,16
+put away,putaway.ai,.ai,taken_or_active,1,16
+put away,putaway.io,.io,maybe_available,1,16
+json gem,jsongem.com,.com,maybe_available,1,16
+json gem,jsongem.ai,.ai,maybe_available,1,16
+json gem,jsongem.io,.io,maybe_available,1,16
+fundamental limits scale,fundamentallimitsscale.com,.com,maybe_available,1,8
+fundamental limits scale,fundamentallimitsscale.ai,.ai,maybe_available,1,8
+fundamental limits scale,fundamentallimitsscale.io,.io,maybe_available,1,8
+researcher quits warning,researcherquitswarning.com,.com,maybe_available,1,8
+researcher quits warning,researcherquitswarning.ai,.ai,maybe_available,1,8
+researcher quits warning,researcherquitswarning.io,.io,maybe_available,1,8
+cognifind now available,cognifindnowavailable.com,.com,maybe_available,1,8
+cognifind now available,cognifindnowavailable.ai,.ai,maybe_available,1,8
+cognifind now available,cognifindnowavailable.io,.io,maybe_available,1,8
