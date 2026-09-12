@@ -1,10 +1,13 @@
 phrase,domain,tld,rough_status,mentions,score
-large language,largelanguage.com,.com,taken_or_active,18,100
-large language,largelanguage.ai,.ai,taken_or_active,18,100
-large language,largelanguage.io,.io,taken_or_active,18,100
+large language,largelanguage.com,.com,taken_or_active,17,100
+large language,largelanguage.ai,.ai,taken_or_active,17,100
+large language,largelanguage.io,.io,taken_or_active,17,100
 automated tools,automatedtools.com,.com,taken_or_active,3,68
 automated tools,automatedtools.ai,.ai,maybe_available,3,68
 automated tools,automatedtools.io,.io,maybe_available,3,68
+agents attacked,agentsattacked.com,.com,maybe_available,2,60
+agents attacked,agentsattacked.ai,.ai,maybe_available,2,60
+agents attacked,agentsattacked.io,.io,maybe_available,2,60
 language agents,languageagents.com,.com,taken_or_active,2,60
 language agents,languageagents.ai,.ai,maybe_available,2,60
 language agents,languageagents.io,.io,maybe_available,2,60
@@ -50,12 +53,6 @@ optimal transport,optimaltransport.io,.io,maybe_available,4,50
 causal discovery,causaldiscovery.com,.com,taken_or_active,4,50
 causal discovery,causaldiscovery.ai,.ai,taken_or_active,4,50
 causal discovery,causaldiscovery.io,.io,maybe_available,4,50
-decision making,decisionmaking.com,.com,taken_or_active,3,50
-decision making,decisionmaking.ai,.ai,taken_or_active,3,50
-decision making,decisionmaking.io,.io,taken_or_active,3,50
-claude code,claudecode.com,.com,maybe_available,3,50
-claude code,claudecode.ai,.ai,maybe_available,3,50
-claude code,claudecode.io,.io,taken_or_active,3,50
 yet existing,yetexisting.com,.com,maybe_available,3,50
 yet existing,yetexisting.ai,.ai,maybe_available,3,50
 yet existing,yetexisting.io,.io,maybe_available,3,50
@@ -113,6 +110,12 @@ kernel-based robust,kernelbasedrobust.io,.io,maybe_available,2,43
 runtime harnesses,runtimeharnesses.com,.com,maybe_available,2,43
 runtime harnesses,runtimeharnesses.ai,.ai,maybe_available,2,43
 runtime harnesses,runtimeharnesses.io,.io,maybe_available,2,43
+agent via,agentvia.com,.com,taken_or_active,1,43
+agent via,agentvia.ai,.ai,maybe_available,1,43
+agent via,agentvia.io,.io,maybe_available,1,43
+terminal agent,terminalagent.com,.com,taken_or_active,1,43
+terminal agent,terminalagent.ai,.ai,taken_or_active,1,43
+terminal agent,terminalagent.io,.io,taken_or_active,1,43
 positional encoding,positionalencoding.com,.com,taken_or_active,3,42
 positional encoding,positionalencoding.ai,.ai,maybe_available,3,42
 positional encoding,positionalencoding.io,.io,maybe_available,3,42
@@ -137,6 +140,9 @@ spectral clipping,spectralclipping.io,.io,maybe_available,3,42
 video generation,videogeneration.com,.com,taken_or_active,3,42
 video generation,videogeneration.ai,.ai,taken_or_active,3,42
 video generation,videogeneration.io,.io,taken_or_active,3,42
+answers while,answerswhile.com,.com,maybe_available,2,42
+answers while,answerswhile.ai,.ai,maybe_available,2,42
+answers while,answerswhile.io,.io,maybe_available,2,42
 bridge gap,bridgegap.com,.com,taken_or_active,2,42
 bridge gap,bridgegap.ai,.ai,taken_or_active,2,42
 bridge gap,bridgegap.io,.io,taken_or_active,2,42
@@ -170,6 +176,9 @@ tart modular,tartmodular.io,.io,maybe_available,2,42
 depends only,dependsonly.com,.com,maybe_available,2,42
 depends only,dependsonly.ai,.ai,maybe_available,2,42
 depends only,dependsonly.io,.io,maybe_available,2,42
+decision making,decisionmaking.com,.com,taken_or_active,2,42
+decision making,decisionmaking.ai,.ai,taken_or_active,2,42
+decision making,decisionmaking.io,.io,taken_or_active,2,42
 point splatting,pointsplatting.com,.com,maybe_available,2,42
 point splatting,pointsplatting.ai,.ai,maybe_available,2,42
 point splatting,pointsplatting.io,.io,maybe_available,2,42
@@ -344,12 +353,9 @@ missing values,missingvalues.io,.io,maybe_available,2,42
 spatial video,spatialvideo.com,.com,taken_or_active,2,42
 spatial video,spatialvideo.ai,.ai,taken_or_active,2,42
 spatial video,spatialvideo.io,.io,maybe_available,2,42
-stop coding,stopcoding.com,.com,taken_or_active,2,42
-stop coding,stopcoding.ai,.ai,taken_or_active,2,42
-stop coding,stopcoding.io,.io,maybe_available,2,42
-code codex,codecodex.com,.com,taken_or_active,2,42
-code codex,codecodex.ai,.ai,taken_or_active,2,42
-code codex,codecodex.io,.io,taken_or_active,2,42
+knowledge base,knowledgebase.com,.com,taken_or_active,2,42
+knowledge base,knowledgebase.ai,.ai,taken_or_active,2,42
+knowledge base,knowledgebase.io,.io,taken_or_active,2,42
 language identification,languageidentification.com,.com,taken_or_active,4,40
 language identification,languageidentification.ai,.ai,maybe_available,4,40
 language identification,languageidentification.io,.io,maybe_available,4,40
@@ -359,12 +365,24 @@ vidu s2-avatar,vidus2avatar.io,.io,maybe_available,3,35
 vidu s2-editing,vidus2editing.com,.com,maybe_available,3,35
 vidu s2-editing,vidus2editing.ai,.ai,maybe_available,3,35
 vidu s2-editing,vidus2editing.io,.io,maybe_available,3,35
+controlling agent,controllingagent.com,.com,maybe_available,1,35
+controlling agent,controllingagent.ai,.ai,maybe_available,1,35
+controlling agent,controllingagent.io,.io,maybe_available,1,35
+agent via siri,agentviasiri.com,.com,maybe_available,1,35
+agent via siri,agentviasiri.ai,.ai,maybe_available,1,35
+agent via siri,agentviasiri.io,.io,maybe_available,1,35
 speech large language,speechlargelanguage.com,.com,maybe_available,3,34
 speech large language,speechlargelanguage.ai,.ai,maybe_available,3,34
 speech large language,speechlargelanguage.io,.io,maybe_available,3,34
 adaptive hit discovery,adaptivehitdiscovery.com,.com,maybe_available,3,34
 adaptive hit discovery,adaptivehitdiscovery.ai,.ai,maybe_available,3,34
 adaptive hit discovery,adaptivehitdiscovery.io,.io,maybe_available,3,34
+attacked rubygems,attackedrubygems.com,.com,maybe_available,2,34
+attacked rubygems,attackedrubygems.ai,.ai,maybe_available,2,34
+attacked rubygems,attackedrubygems.io,.io,maybe_available,2,34
+agents attacked rubygems,agentsattackedrubygems.com,.com,maybe_available,2,34
+agents attacked rubygems,agentsattackedrubygems.ai,.ai,maybe_available,2,34
+agents attacked rubygems,agentsattackedrubygems.io,.io,maybe_available,2,34
 counterfactual regret,counterfactualregret.com,.com,maybe_available,2,34
 counterfactual regret,counterfactualregret.ai,.ai,maybe_available,2,34
 counterfactual regret,counterfactualregret.io,.io,maybe_available,2,34
@@ -608,21 +626,12 @@ scrape-off layer,scrapeofflayer.io,.io,maybe_available,2,34
 density temperature,densitytemperature.com,.com,maybe_available,2,34
 density temperature,densitytemperature.ai,.ai,maybe_available,2,34
 density temperature,densitytemperature.io,.io,maybe_available,2,34
-language pass,languagepass.com,.com,taken_or_active,1,34
-language pass,languagepass.ai,.ai,maybe_available,1,34
-language pass,languagepass.io,.io,maybe_available,1,34
-turing test,turingtest.com,.com,taken_or_active,1,34
-turing test,turingtest.ai,.ai,taken_or_active,1,34
-turing test,turingtest.io,.io,taken_or_active,1,34
-test outscoring,testoutscoring.com,.com,maybe_available,1,34
-test outscoring,testoutscoring.ai,.ai,maybe_available,1,34
-test outscoring,testoutscoring.io,.io,maybe_available,1,34
-actual humans,actualhumans.com,.com,taken_or_active,1,34
-actual humans,actualhumans.ai,.ai,taken_or_active,1,34
-actual humans,actualhumans.io,.io,taken_or_active,1,34
 maple memory-augmented,maplememoryaugmented.com,.com,maybe_available,2,33
 maple memory-augmented,maplememoryaugmented.ai,.ai,maybe_available,2,33
 maple memory-augmented,maplememoryaugmented.io,.io,maybe_available,2,33
+controlling agent via,controllingagentvia.com,.com,maybe_available,1,27
+controlling agent via,controllingagentvia.ai,.ai,maybe_available,1,27
+controlling agent via,controllingagentvia.io,.io,maybe_available,1,27
 marketing mix modeling,marketingmixmodeling.com,.com,taken_or_active,2,26
 marketing mix modeling,marketingmixmodeling.ai,.ai,taken_or_active,2,26
 marketing mix modeling,marketingmixmodeling.io,.io,maybe_available,2,26
@@ -647,18 +656,15 @@ bounded infinity norm,boundedinfinitynorm.io,.io,maybe_available,2,26
 time series imputation,timeseriesimputation.com,.com,maybe_available,2,26
 time series imputation,timeseriesimputation.ai,.ai,maybe_available,2,26
 time series imputation,timeseriesimputation.io,.io,maybe_available,2,26
-claude code codex,claudecodecodex.com,.com,maybe_available,2,26
-claude code codex,claudecodecodex.ai,.ai,maybe_available,2,26
-claude code codex,claudecodecodex.io,.io,maybe_available,2,26
-pass three-party,passthreeparty.com,.com,maybe_available,1,26
-pass three-party,passthreeparty.ai,.ai,maybe_available,1,26
-pass three-party,passthreeparty.io,.io,maybe_available,1,26
-three-party turing,threepartyturing.com,.com,maybe_available,1,26
-three-party turing,threepartyturing.ai,.ai,maybe_available,1,26
-three-party turing,threepartyturing.io,.io,maybe_available,1,26
-outscoring actual,outscoringactual.com,.com,maybe_available,1,26
-outscoring actual,outscoringactual.ai,.ai,maybe_available,1,26
-outscoring actual,outscoringactual.io,.io,maybe_available,1,26
+think controlling,thinkcontrolling.com,.com,maybe_available,1,26
+think controlling,thinkcontrolling.ai,.ai,maybe_available,1,26
+think controlling,thinkcontrolling.io,.io,maybe_available,1,26
+goatcode open-source,goatcodeopensource.com,.com,maybe_available,1,26
+goatcode open-source,goatcodeopensource.ai,.ai,maybe_available,1,26
+goatcode open-source,goatcodeopensource.io,.io,maybe_available,1,26
+open-source terminal,opensourceterminal.com,.com,maybe_available,1,26
+open-source terminal,opensourceterminal.ai,.ai,maybe_available,1,26
+open-source terminal,opensourceterminal.io,.io,maybe_available,1,26
 switch aware evaluation,switchawareevaluation.com,.com,maybe_available,2,25
 switch aware evaluation,switchawareevaluation.ai,.ai,maybe_available,2,25
 switch aware evaluation,switchawareevaluation.io,.io,maybe_available,2,25
@@ -713,12 +719,9 @@ physics-informed neural,physicsinformedneural.io,.io,maybe_available,2,24
 interspeech 2026,interspeech2026.com,.com,maybe_available,2,19
 interspeech 2026,interspeech2026.ai,.ai,maybe_available,2,19
 interspeech 2026,interspeech2026.io,.io,maybe_available,2,19
-large language pass,largelanguagepass.com,.com,maybe_available,1,18
-large language pass,largelanguagepass.ai,.ai,maybe_available,1,18
-large language pass,largelanguagepass.io,.io,maybe_available,1,18
-turing test outscoring,turingtestoutscoring.com,.com,maybe_available,1,18
-turing test outscoring,turingtestoutscoring.ai,.ai,maybe_available,1,18
-turing test outscoring,turingtestoutscoring.io,.io,maybe_available,1,18
+think controlling agent,thinkcontrollingagent.com,.com,maybe_available,1,17
+think controlling agent,thinkcontrollingagent.ai,.ai,maybe_available,1,17
+think controlling agent,thinkcontrollingagent.io,.io,maybe_available,1,17
 generative marketing mix,generativemarketingmix.com,.com,maybe_available,2,16
 generative marketing mix,generativemarketingmix.ai,.ai,maybe_available,2,16
 generative marketing mix,generativemarketingmix.io,.io,maybe_available,2,16
@@ -743,9 +746,6 @@ multivariate time series,multivariatetimeseries.io,.io,maybe_available,2,16
 spatial video generation,spatialvideogeneration.com,.com,maybe_available,2,16
 spatial video generation,spatialvideogeneration.ai,.ai,maybe_available,2,16
 spatial video generation,spatialvideogeneration.io,.io,maybe_available,2,16
-pass three-party turing,passthreepartyturing.com,.com,maybe_available,1,8
-pass three-party turing,passthreepartyturing.ai,.ai,maybe_available,1,8
-pass three-party turing,passthreepartyturing.io,.io,maybe_available,1,8
-three-party turing test,threepartyturingtest.com,.com,maybe_available,1,8
-three-party turing test,threepartyturingtest.ai,.ai,maybe_available,1,8
-three-party turing test,threepartyturingtest.io,.io,maybe_available,1,8
+via siri,viasiri.com,.com,maybe_available,1,16
+via siri,viasiri.ai,.ai,maybe_available,1,16
+via siri,viasiri.io,.io,maybe_available,1,16
