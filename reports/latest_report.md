@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-09-12 09:09
+Rapor zamanı: 2026-09-13 10:06
 
 ## Kaynak sayıları
 - Hacker News: 33
-- arXiv: 75
-- GitHub Trending: 11
+- arXiv: 0
+- GitHub Trending: 10
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | automatedtools.ai | 68/100 | automated tools | maybe_available |
-| 2 | automatedtools.io | 68/100 | automated tools | maybe_available |
-| 3 | agentsattacked.com | 60/100 | agents attacked | maybe_available |
-| 4 | agentsattacked.ai | 60/100 | agents attacked | maybe_available |
-| 5 | agentsattacked.io | 60/100 | agents attacked | maybe_available |
-| 6 | languageagents.ai | 60/100 | language agents | maybe_available |
-| 7 | languageagents.io | 60/100 | language agents | maybe_available |
-| 8 | gradientdescent.io | 58/100 | gradient descent | maybe_available |
-| 9 | datarepetition.com | 58/100 | data repetition | maybe_available |
-| 10 | datarepetition.ai | 58/100 | data repetition | maybe_available |
-| 11 | datarepetition.io | 58/100 | data repetition | maybe_available |
-| 12 | errorrate.ai | 58/100 | error rate | maybe_available |
-| 13 | errorrate.io | 58/100 | error rate | maybe_available |
-| 14 | autonomyautonomy.com | 51/100 | autonomy autonomy | maybe_available |
-| 15 | autonomyautonomy.ai | 51/100 | autonomy autonomy | maybe_available |
-| 16 | autonomyautonomy.io | 51/100 | autonomy autonomy | maybe_available |
-| 17 | trainevaluate.com | 51/100 | train evaluate | maybe_available |
-| 18 | trainevaluate.ai | 51/100 | train evaluate | maybe_available |
-| 19 | trainevaluate.io | 51/100 | train evaluate | maybe_available |
-| 20 | dietarycontext.com | 51/100 | dietary context | maybe_available |
+| 1 | agentssera.com | 52/100 | agents sera | maybe_available |
+| 2 | agentssera.ai | 52/100 | agents sera | maybe_available |
+| 3 | agentssera.io | 52/100 | agents sera | maybe_available |
+| 4 | agentsown.ai | 52/100 | agents own | maybe_available |
+| 5 | agentsown.io | 52/100 | agents own | maybe_available |
+| 6 | agentstested.com | 52/100 | agents tested | maybe_available |
+| 7 | agentstested.ai | 52/100 | agents tested | maybe_available |
+| 8 | agentstested.io | 52/100 | agents tested | maybe_available |
+| 9 | nativeagents.io | 52/100 | native agents | maybe_available |
+| 10 | agentswhatsapp.ai | 52/100 | agents whatsapp | maybe_available |
+| 11 | agentswhatsapp.io | 52/100 | agents whatsapp | maybe_available |
+| 12 | customagent.io | 43/100 | custom agent | maybe_available |
+| 13 | robotsprotest.com | 43/100 | robots protest | maybe_available |
+| 14 | robotsprotest.ai | 43/100 | robots protest | maybe_available |
+| 15 | robotsprotest.io | 43/100 | robots protest | maybe_available |
+| 16 | desktopbrowser.ai | 43/100 | desktop browser | maybe_available |
+| 17 | desktopbrowser.io | 43/100 | desktop browser | maybe_available |
+| 18 | agentdaily.io | 43/100 | agent daily | maybe_available |
+| 19 | agentfired.com | 43/100 | agent fired | maybe_available |
+| 20 | agentfired.ai | 43/100 | agent fired | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
