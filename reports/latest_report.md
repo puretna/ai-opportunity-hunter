@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-09-15 09:55
+Rapor zamanı: 2026-09-16 09:48
 
 ## Kaynak sayıları
-- Hacker News: 35
-- arXiv: 0
-- GitHub Trending: 12
+- Hacker News: 33
+- arXiv: 75
+- GitHub Trending: 9
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | placeagents.io | 52/100 | place agents | maybe_available |
-| 2 | agentscollude.com | 52/100 | agents collude | maybe_available |
-| 3 | agentscollude.ai | 52/100 | agents collude | maybe_available |
-| 4 | agentscollude.io | 52/100 | agents collude | maybe_available |
-| 5 | agentsmicrovm.com | 52/100 | agents microvm | maybe_available |
-| 6 | agentsmicrovm.ai | 52/100 | agents microvm | maybe_available |
-| 7 | agentsmicrovm.io | 52/100 | agents microvm | maybe_available |
-| 8 | languageagents.ai | 52/100 | language agents | maybe_available |
-| 9 | languageagents.io | 52/100 | language agents | maybe_available |
-| 10 | planningagents.ai | 52/100 | planning agents | maybe_available |
-| 11 | planningagents.io | 52/100 | planning agents | maybe_available |
-| 12 | agentsdivided.com | 52/100 | agents divided | maybe_available |
-| 13 | agentsdivided.ai | 52/100 | agents divided | maybe_available |
-| 14 | agentsdivided.io | 52/100 | agents divided | maybe_available |
-| 15 | claudecode.com | 50/100 | claude code | maybe_available |
-| 16 | claudecode.ai | 50/100 | claude code | maybe_available |
-| 17 | ownworkflow.com | 43/100 | own workflow | maybe_available |
-| 18 | ownworkflow.ai | 43/100 | own workflow | maybe_available |
-| 19 | ownworkflow.io | 43/100 | own workflow | maybe_available |
-| 20 | robotarm.ai | 43/100 | robot arm | maybe_available |
+| 1 | addressthese.com | 74/100 | address these | maybe_available |
+| 2 | addressthese.ai | 74/100 | address these | maybe_available |
+| 3 | addressthese.io | 74/100 | address these | maybe_available |
+| 4 | thesechallenges.com | 58/100 | these challenges | maybe_available |
+| 5 | thesechallenges.ai | 58/100 | these challenges | maybe_available |
+| 6 | thesechallenges.io | 58/100 | these challenges | maybe_available |
+| 7 | gapbetween.com | 58/100 | gap between | maybe_available |
+| 8 | gapbetween.ai | 58/100 | gap between | maybe_available |
+| 9 | gapbetween.io | 58/100 | gap between | maybe_available |
+| 10 | thesemethods.com | 58/100 | these methods | maybe_available |
+| 11 | thesemethods.ai | 58/100 | these methods | maybe_available |
+| 12 | thesemethods.io | 58/100 | these methods | maybe_available |
+| 13 | trainingdata.ai | 58/100 | training data | maybe_available |
+| 14 | policylearning.io | 58/100 | policy learning | maybe_available |
+| 15 | agentsconverged.com | 52/100 | agents converged | maybe_available |
+| 16 | agentsconverged.ai | 52/100 | agents converged | maybe_available |
+| 17 | agentsconverged.io | 52/100 | agents converged | maybe_available |
+| 18 | scientificagents.ai | 52/100 | scientific agents | maybe_available |
+| 19 | scientificagents.io | 52/100 | scientific agents | maybe_available |
+| 20 | agenticsocieties.ai | 51/100 | agentic societies | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
