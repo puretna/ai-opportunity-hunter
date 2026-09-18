@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-09-17 09:55
+Rapor zamanı: 2026-09-18 09:31
 
 ## Kaynak sayıları
-- Hacker News: 33
+- Hacker News: 34
 - arXiv: 0
 - GitHub Trending: 14
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-09-17 09:55
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | toolsagents.ai | 70/100 | tools agents | maybe_available |
-| 2 | toolsagents.io | 70/100 | tools agents | maybe_available |
-| 3 | dontoolsagents.com | 62/100 | don tools agents | maybe_available |
-| 4 | dontoolsagents.ai | 62/100 | don tools agents | maybe_available |
-| 5 | dontoolsagents.io | 62/100 | don tools agents | maybe_available |
-| 6 | dontools.com | 52/100 | don tools | maybe_available |
-| 7 | dontools.ai | 52/100 | don tools | maybe_available |
-| 8 | dontools.io | 52/100 | don tools | maybe_available |
-| 9 | bringsagents.com | 52/100 | brings agents | maybe_available |
-| 10 | bringsagents.ai | 52/100 | brings agents | maybe_available |
-| 11 | bringsagents.io | 52/100 | brings agents | maybe_available |
-| 12 | agentsfull.com | 52/100 | agents full | maybe_available |
-| 13 | agentsfull.ai | 52/100 | agents full | maybe_available |
-| 14 | agentsfull.io | 52/100 | agents full | maybe_available |
-| 15 | optimizationtools.ai | 44/100 | optimization tools | maybe_available |
-| 16 | optimizationtools.io | 44/100 | optimization tools | maybe_available |
-| 17 | toolsclaudecode.com | 44/100 | tools claudecode | maybe_available |
-| 18 | toolsclaudecode.ai | 44/100 | tools claudecode | maybe_available |
-| 19 | toolsclaudecode.io | 44/100 | tools claudecode | maybe_available |
-| 20 | agentsfullfpga.com | 44/100 | agents full fpga | maybe_available |
+| 1 | atlarixbrowser.com | 43/100 | atlarix browser | maybe_available |
+| 2 | atlarixbrowser.ai | 43/100 | atlarix browser | maybe_available |
+| 3 | atlarixbrowser.io | 43/100 | atlarix browser | maybe_available |
+| 4 | roboticlab.ai | 43/100 | robotic lab | maybe_available |
+| 5 | couldsynthetic.com | 43/100 | could synthetic | maybe_available |
+| 6 | couldsynthetic.ai | 43/100 | could synthetic | maybe_available |
+| 7 | couldsynthetic.io | 43/100 | could synthetic | maybe_available |
+| 8 | huangtrust.com | 43/100 | huang trust | maybe_available |
+| 9 | huangtrust.ai | 43/100 | huang trust | maybe_available |
+| 10 | huangtrust.io | 43/100 | huang trust | maybe_available |
+| 11 | trustgonna.com | 43/100 | trust gonna | maybe_available |
+| 12 | trustgonna.ai | 43/100 | trust gonna | maybe_available |
+| 13 | trustgonna.io | 43/100 | trust gonna | maybe_available |
+| 14 | datarobots.ai | 43/100 | data robots | maybe_available |
+| 15 | robotscourt.com | 43/100 | robots court | maybe_available |
+| 16 | robotscourt.ai | 43/100 | robots court | maybe_available |
+| 17 | robotscourt.io | 43/100 | robots court | maybe_available |
+| 18 | reviewtool.ai | 43/100 | review tool | maybe_available |
+| 19 | pipelinesagent.com | 43/100 | pipelines agent | maybe_available |
+| 20 | pipelinesagent.ai | 43/100 | pipelines agent | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
