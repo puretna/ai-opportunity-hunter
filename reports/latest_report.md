@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-09-20 09:41
+Rapor zamanı: 2026-09-21 10:34
 
 ## Kaynak sayıları
-- Hacker News: 43
+- Hacker News: 27
 - arXiv: 0
 - GitHub Trending: 10
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-09-20 09:41
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | swarmsagents.ai | 52/100 | swarms agents | maybe_available |
-| 2 | swarmsagents.io | 52/100 | swarms agents | maybe_available |
-| 3 | agentspython.ai | 52/100 | agents python | maybe_available |
-| 4 | agentspython.io | 52/100 | agents python | maybe_available |
-| 5 | kernelswarmsagents.com | 45/100 | kernel swarms agents | maybe_available |
-| 6 | kernelswarmsagents.ai | 45/100 | kernel swarms agents | maybe_available |
-| 7 | kernelswarmsagents.io | 45/100 | kernel swarms agents | maybe_available |
-| 8 | copilotruntime.com | 43/100 | copilot runtime | maybe_available |
-| 9 | copilotruntime.ai | 43/100 | copilot runtime | maybe_available |
-| 10 | copilotruntime.io | 43/100 | copilot runtime | maybe_available |
-| 11 | runtimerust.com | 43/100 | runtime rust | maybe_available |
-| 12 | runtimerust.ai | 43/100 | runtime rust | maybe_available |
-| 13 | runtimerust.io | 43/100 | runtime rust | maybe_available |
-| 14 | durablekernel.com | 43/100 | durable kernel | maybe_available |
-| 15 | durablekernel.ai | 43/100 | durable kernel | maybe_available |
-| 16 | durablekernel.io | 43/100 | durable kernel | maybe_available |
-| 17 | kernelswarms.com | 43/100 | kernel swarms | maybe_available |
-| 18 | kernelswarms.ai | 43/100 | kernel swarms | maybe_available |
-| 19 | kernelswarms.io | 43/100 | kernel swarms | maybe_available |
-| 20 | claudecode.com | 42/100 | claude code | maybe_available |
+| 1 | agentneeds.ai | 43/100 | agent needs | maybe_available |
+| 2 | agentneeds.io | 43/100 | agent needs | maybe_available |
+| 3 | renderermemory.com | 43/100 | renderer memory | maybe_available |
+| 4 | renderermemory.ai | 43/100 | renderer memory | maybe_available |
+| 5 | renderermemory.io | 43/100 | renderer memory | maybe_available |
+| 6 | memoryusage.ai | 43/100 | memory usage | maybe_available |
+| 7 | memoryusage.io | 43/100 | memory usage | maybe_available |
+| 8 | machineagent.io | 43/100 | machine agent | maybe_available |
+| 9 | linuxkernel.ai | 43/100 | linux kernel | maybe_available |
+| 10 | linuxkernel.io | 43/100 | linux kernel | maybe_available |
+| 11 | kernelpatches.com | 43/100 | kernel patches | maybe_available |
+| 12 | kernelpatches.ai | 43/100 | kernel patches | maybe_available |
+| 13 | kernelpatches.io | 43/100 | kernel patches | maybe_available |
+| 14 | fabricatequote.com | 43/100 | fabricate quote | maybe_available |
+| 15 | fabricatequote.ai | 43/100 | fabricate quote | maybe_available |
+| 16 | fabricatequote.io | 43/100 | fabricate quote | maybe_available |
+| 17 | eccagent.ai | 43/100 | ecc agent | maybe_available |
+| 18 | eccagent.io | 43/100 | ecc agent | maybe_available |
+| 19 | memorysecurity.ai | 43/100 | memory security | maybe_available |
+| 20 | memorysecurity.io | 43/100 | memory security | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
