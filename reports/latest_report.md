@@ -1,11 +1,11 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-03 10:18
+Rapor zamanı: 2026-10-04 11:02
 
 ## Kaynak sayıları
-- Hacker News: 35
+- Hacker News: 33
 - arXiv: 75
-- GitHub Trending: 13
+- GitHub Trending: 14
 
 ## Bugünün domain adayları
 
@@ -29,7 +29,7 @@ Rapor zamanı: 2026-10-03 10:18
 | 16 | agentsincreasingly.com | 52/100 | agents increasingly | maybe_available |
 | 17 | agentsincreasingly.ai | 52/100 | agents increasingly | maybe_available |
 | 18 | agentsincreasingly.io | 52/100 | agents increasingly | maybe_available |
-| 19 | endagents.ai | 52/100 | end agents | maybe_available |
-| 20 | endagents.io | 52/100 | end agents | maybe_available |
+| 19 | robotpartner.ai | 51/100 | robot partner | maybe_available |
+| 20 | robotpartner.io | 51/100 | robot partner | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
