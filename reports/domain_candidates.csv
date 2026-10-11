@@ -2,15 +2,9 @@ phrase,domain,tld,rough_status,mentions,score
 large language,largelanguage.com,.com,taken_or_active,14,100
 large language,largelanguage.ai,.ai,taken_or_active,14,100
 large language,largelanguage.io,.io,taken_or_active,14,100
-coding agents,codingagents.com,.com,taken_or_active,5,84
-coding agents,codingagents.ai,.ai,taken_or_active,5,84
-coding agents,codingagents.io,.io,taken_or_active,5,84
 reinforcement learning,reinforcementlearning.com,.com,taken_or_active,7,64
 reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,7,64
 reinforcement learning,reinforcementlearning.io,.io,maybe_available,7,64
-agents now,agentsnow.com,.com,taken_or_active,2,60
-agents now,agentsnow.ai,.ai,taken_or_active,2,60
-agents now,agentsnow.io,.io,maybe_available,2,60
 agents act,agentsact.com,.com,taken_or_active,2,60
 agents act,agentsact.ai,.ai,maybe_available,2,60
 agents act,agentsact.io,.io,maybe_available,2,60
@@ -35,12 +29,18 @@ problem solving,problemsolving.io,.io,taken_or_active,4,58
 misaligned agents,misalignedagents.com,.com,maybe_available,2,52
 misaligned agents,misalignedagents.ai,.ai,maybe_available,2,52
 misaligned agents,misalignedagents.io,.io,maybe_available,2,52
-does agents,doesagents.com,.com,maybe_available,1,52
-does agents,doesagents.ai,.ai,maybe_available,1,52
-does agents,doesagents.io,.io,maybe_available,1,52
-agents review,agentsreview.com,.com,taken_or_active,1,52
-agents review,agentsreview.ai,.ai,maybe_available,1,52
-agents review,agentsreview.io,.io,maybe_available,1,52
+agents tried,agentstried.com,.com,maybe_available,1,52
+agents tried,agentstried.ai,.ai,maybe_available,1,52
+agents tried,agentstried.io,.io,maybe_available,1,52
+wikipedia tools,wikipediatools.com,.com,maybe_available,1,52
+wikipedia tools,wikipediatools.ai,.ai,maybe_available,1,52
+wikipedia tools,wikipediatools.io,.io,maybe_available,1,52
+tools flooded,toolsflooded.com,.com,maybe_available,1,52
+tools flooded,toolsflooded.ai,.ai,maybe_available,1,52
+tools flooded,toolsflooded.io,.io,maybe_available,1,52
+coding agent,codingagent.com,.com,taken_or_active,2,51
+coding agent,codingagent.ai,.ai,taken_or_active,2,51
+coding agent,codingagent.io,.io,taken_or_active,2,51
 argus agentic,argusagentic.com,.com,taken_or_active,2,51
 argus agentic,argusagentic.ai,.ai,maybe_available,2,51
 argus agentic,argusagentic.io,.io,maybe_available,2,51
@@ -53,6 +53,9 @@ policy optimization,policyoptimization.io,.io,maybe_available,4,50
 however existing,howeverexisting.com,.com,maybe_available,4,50
 however existing,howeverexisting.ai,.ai,maybe_available,4,50
 however existing,howeverexisting.io,.io,maybe_available,4,50
+claude code,claudecode.com,.com,maybe_available,3,50
+claude code,claudecode.ai,.ai,maybe_available,3,50
+claude code,claudecode.io,.io,taken_or_active,3,50
 safety value,safetyvalue.com,.com,taken_or_active,3,50
 safety value,safetyvalue.ai,.ai,maybe_available,3,50
 safety value,safetyvalue.io,.io,maybe_available,3,50
@@ -80,18 +83,6 @@ contextual safety,contextualsafety.io,.io,maybe_available,2,43
 robot foundation,robotfoundation.com,.com,taken_or_active,2,43
 robot foundation,robotfoundation.ai,.ai,taken_or_active,2,43
 robot foundation,robotfoundation.io,.io,maybe_available,2,43
-personal agent,personalagent.com,.com,taken_or_active,1,43
-personal agent,personalagent.ai,.ai,taken_or_active,1,43
-personal agent,personalagent.io,.io,taken_or_active,1,43
-rogue agent,rogueagent.com,.com,maybe_available,1,43
-rogue agent,rogueagent.ai,.ai,taken_or_active,1,43
-rogue agent,rogueagent.io,.io,taken_or_active,1,43
-agent gave,agentgave.com,.com,maybe_available,1,43
-agent gave,agentgave.ai,.ai,maybe_available,1,43
-agent gave,agentgave.io,.io,maybe_available,1,43
-agent mode,agentmode.com,.com,taken_or_active,1,43
-agent mode,agentmode.ai,.ai,taken_or_active,1,43
-agent mode,agentmode.io,.io,taken_or_active,1,43
 distribution shift,distributionshift.com,.com,maybe_available,3,42
 distribution shift,distributionshift.ai,.ai,maybe_available,3,42
 distribution shift,distributionshift.io,.io,maybe_available,3,42
@@ -131,9 +122,6 @@ anomaly detection,anomalydetection.io,.io,taken_or_active,3,42
 token-level routing,tokenlevelrouting.com,.com,maybe_available,3,42
 token-level routing,tokenlevelrouting.ai,.ai,maybe_available,3,42
 token-level routing,tokenlevelrouting.io,.io,maybe_available,3,42
-data centers,datacenters.com,.com,taken_or_active,2,42
-data centers,datacenters.ai,.ai,taken_or_active,2,42
-data centers,datacenters.io,.io,maybe_available,2,42
 same action,sameaction.com,.com,maybe_available,2,42
 same action,sameaction.ai,.ai,maybe_available,2,42
 same action,sameaction.io,.io,maybe_available,2,42
@@ -326,24 +314,15 @@ isolation trees,isolationtrees.io,.io,maybe_available,2,42
 anchor relation,anchorrelation.com,.com,maybe_available,2,42
 anchor relation,anchorrelation.ai,.ai,maybe_available,2,42
 anchor relation,anchorrelation.io,.io,maybe_available,2,42
-claude code,claudecode.com,.com,maybe_available,2,42
-claude code,claudecode.ai,.ai,maybe_available,2,42
-claude code,claudecode.io,.io,taken_or_active,2,42
-code codex,codecodex.com,.com,taken_or_active,2,42
-code codex,codecodex.ai,.ai,taken_or_active,2,42
-code codex,codecodex.io,.io,taken_or_active,2,42
-does agents review,doesagentsreview.com,.com,maybe_available,1,36
-does agents review,doesagentsreview.ai,.ai,maybe_available,1,36
-does agents review,doesagentsreview.io,.io,maybe_available,1,36
-agents review pitch,agentsreviewpitch.com,.com,maybe_available,1,36
-agents review pitch,agentsreviewpitch.ai,.ai,maybe_available,1,36
-agents review pitch,agentsreviewpitch.io,.io,maybe_available,1,36
-agent cloudflare,agentcloudflare.com,.com,maybe_available,1,35
-agent cloudflare,agentcloudflare.ai,.ai,maybe_available,1,35
-agent cloudflare,agentcloudflare.io,.io,maybe_available,1,35
-rogue agent gave,rogueagentgave.com,.com,maybe_available,1,35
-rogue agent gave,rogueagentgave.ai,.ai,maybe_available,1,35
-rogue agent gave,rogueagentgave.io,.io,maybe_available,1,35
+agents tried hack,agentstriedhack.com,.com,maybe_available,1,36
+agents tried hack,agentstriedhack.ai,.ai,maybe_available,1,36
+agents tried hack,agentstriedhack.io,.io,maybe_available,1,36
+hack wikipedia tools,hackwikipediatools.com,.com,maybe_available,1,36
+hack wikipedia tools,hackwikipediatools.ai,.ai,maybe_available,1,36
+hack wikipedia tools,hackwikipediatools.io,.io,maybe_available,1,36
+tools flooded traffic,toolsfloodedtraffic.com,.com,maybe_available,1,36
+tools flooded traffic,toolsfloodedtraffic.ai,.ai,maybe_available,1,36
+tools flooded traffic,toolsfloodedtraffic.io,.io,maybe_available,1,36
 safety filtering,safetyfiltering.com,.com,taken_or_active,2,34
 safety filtering,safetyfiltering.ai,.ai,maybe_available,2,34
 safety filtering,safetyfiltering.io,.io,maybe_available,2,34
@@ -575,60 +554,60 @@ relative isolation,relativeisolation.io,.io,maybe_available,2,34
 one-dimensional data,onedimensionaldata.com,.com,maybe_available,2,34
 one-dimensional data,onedimensionaldata.ai,.ai,maybe_available,2,34
 one-dimensional data,onedimensionaldata.io,.io,maybe_available,2,34
-effect research,effectresearch.com,.com,taken_or_active,1,34
-effect research,effectresearch.ai,.ai,maybe_available,1,34
-effect research,effectresearch.io,.io,maybe_available,1,34
-research mills,researchmills.com,.com,maybe_available,1,34
-research mills,researchmills.ai,.ai,maybe_available,1,34
-research mills,researchmills.io,.io,maybe_available,1,34
-mills enough,millsenough.com,.com,maybe_available,1,34
-mills enough,millsenough.ai,.ai,maybe_available,1,34
-mills enough,millsenough.io,.io,maybe_available,1,34
-enough start,enoughstart.com,.com,maybe_available,1,34
-enough start,enoughstart.ai,.ai,maybe_available,1,34
-enough start,enoughstart.io,.io,maybe_available,1,34
-start affecting,startaffecting.com,.com,maybe_available,1,34
-start affecting,startaffecting.ai,.ai,maybe_available,1,34
-start affecting,startaffecting.io,.io,maybe_available,1,34
-affecting query,affectingquery.com,.com,maybe_available,1,34
-affecting query,affectingquery.ai,.ai,maybe_available,1,34
-affecting query,affectingquery.io,.io,maybe_available,1,34
-query results,queryresults.com,.com,taken_or_active,1,34
-query results,queryresults.ai,.ai,maybe_available,1,34
-query results,queryresults.io,.io,maybe_available,1,34
-ctx traits,ctxtraits.com,.com,maybe_available,1,34
-ctx traits,ctxtraits.ai,.ai,maybe_available,1,34
-ctx traits,ctxtraits.io,.io,maybe_available,1,34
-cloudflare free,cloudflarefree.com,.com,maybe_available,1,34
-cloudflare free,cloudflarefree.ai,.ai,maybe_available,1,34
-cloudflare free,cloudflarefree.io,.io,maybe_available,1,34
-free tier,freetier.com,.com,taken_or_active,1,34
-free tier,freetier.ai,.ai,taken_or_active,1,34
-free tier,freetier.io,.io,maybe_available,1,34
-review pitch,reviewpitch.com,.com,maybe_available,1,34
-review pitch,reviewpitch.ai,.ai,maybe_available,1,34
-review pitch,reviewpitch.io,.io,maybe_available,1,34
-gave police,gavepolice.com,.com,maybe_available,1,34
-gave police,gavepolice.ai,.ai,maybe_available,1,34
-gave police,gavepolice.io,.io,maybe_available,1,34
-police fake,policefake.com,.com,maybe_available,1,34
-police fake,policefake.ai,.ai,maybe_available,1,34
-police fake,policefake.io,.io,maybe_available,1,34
-tip unsolved,tipunsolved.com,.com,maybe_available,1,34
-tip unsolved,tipunsolved.ai,.ai,maybe_available,1,34
-tip unsolved,tipunsolved.io,.io,maybe_available,1,34
-unsolved murder,unsolvedmurder.com,.com,taken_or_active,1,34
-unsolved murder,unsolvedmurder.ai,.ai,maybe_available,1,34
-unsolved murder,unsolvedmurder.io,.io,maybe_available,1,34
-murder case,murdercase.com,.com,taken_or_active,1,34
-murder case,murdercase.ai,.ai,taken_or_active,1,34
-murder case,murdercase.io,.io,maybe_available,1,34
-mode duckdb,modeduckdb.com,.com,maybe_available,1,34
-mode duckdb,modeduckdb.ai,.ai,maybe_available,1,34
-mode duckdb,modeduckdb.io,.io,maybe_available,1,34
-duckdb cli,duckdbcli.com,.com,maybe_available,1,34
-duckdb cli,duckdbcli.ai,.ai,maybe_available,1,34
-duckdb cli,duckdbcli.io,.io,maybe_available,1,34
+reflect orbital,reflectorbital.com,.com,taken_or_active,1,34
+reflect orbital,reflectorbital.ai,.ai,maybe_available,1,34
+reflect orbital,reflectorbital.io,.io,maybe_available,1,34
+claim checked,claimchecked.com,.com,taken_or_active,1,34
+claim checked,claimchecked.ai,.ai,maybe_available,1,34
+claim checked,claimchecked.io,.io,maybe_available,1,34
+checked against,checkedagainst.com,.com,maybe_available,1,34
+checked against,checkedagainst.ai,.ai,maybe_available,1,34
+checked against,checkedagainst.io,.io,maybe_available,1,34
+against fcc,againstfcc.com,.com,maybe_available,1,34
+against fcc,againstfcc.ai,.ai,maybe_available,1,34
+against fcc,againstfcc.io,.io,maybe_available,1,34
+fcc order,fccorder.com,.com,maybe_available,1,34
+fcc order,fccorder.ai,.ai,maybe_available,1,34
+fcc order,fccorder.io,.io,maybe_available,1,34
+client ios,clientios.com,.com,maybe_available,1,34
+client ios,clientios.ai,.ai,maybe_available,1,34
+client ios,clientios.io,.io,maybe_available,1,34
+ios works,iosworks.com,.com,maybe_available,1,34
+ios works,iosworks.ai,.ai,maybe_available,1,34
+ios works,iosworks.io,.io,maybe_available,1,34
+works without,workswithout.com,.com,maybe_available,1,34
+works without,workswithout.ai,.ai,maybe_available,1,34
+works without,workswithout.io,.io,maybe_available,1,34
+nicolas cage,nicolascage.com,.com,maybe_available,1,34
+nicolas cage,nicolascage.ai,.ai,taken_or_active,1,34
+nicolas cage,nicolascage.io,.io,taken_or_active,1,34
+cage says,cagesays.com,.com,maybe_available,1,34
+cage says,cagesays.ai,.ai,maybe_available,1,34
+cage says,cagesays.io,.io,maybe_available,1,34
+work amazon,workamazon.com,.com,taken_or_active,1,34
+work amazon,workamazon.ai,.ai,maybe_available,1,34
+work amazon,workamazon.io,.io,maybe_available,1,34
+amazon again,amazonagain.com,.com,maybe_available,1,34
+amazon again,amazonagain.ai,.ai,maybe_available,1,34
+amazon again,amazonagain.io,.io,maybe_available,1,34
+again dispute,againdispute.com,.com,maybe_available,1,34
+again dispute,againdispute.ai,.ai,maybe_available,1,34
+again dispute,againdispute.io,.io,maybe_available,1,34
+tried hack,triedhack.com,.com,maybe_available,1,34
+tried hack,triedhack.ai,.ai,maybe_available,1,34
+tried hack,triedhack.io,.io,maybe_available,1,34
+hack wikipedia,hackwikipedia.com,.com,maybe_available,1,34
+hack wikipedia,hackwikipedia.ai,.ai,maybe_available,1,34
+hack wikipedia,hackwikipedia.io,.io,maybe_available,1,34
+flooded traffic,floodedtraffic.com,.com,maybe_available,1,34
+flooded traffic,floodedtraffic.ai,.ai,maybe_available,1,34
+flooded traffic,floodedtraffic.io,.io,maybe_available,1,34
+fixated world,fixatedworld.com,.com,maybe_available,1,34
+fixated world,fixatedworld.ai,.ai,maybe_available,1,34
+fixated world,fixatedworld.io,.io,maybe_available,1,34
+world forgotten,worldforgotten.com,.com,taken_or_active,1,34
+world forgotten,worldforgotten.ai,.ai,maybe_available,1,34
+world forgotten,worldforgotten.io,.io,maybe_available,1,34
 multi-agent egocentric,multiagentegocentric.com,.com,maybe_available,2,33
 multi-agent egocentric,multiagentegocentric.ai,.ai,maybe_available,2,33
 multi-agent egocentric,multiagentegocentric.io,.io,maybe_available,2,33
@@ -638,15 +617,6 @@ supervised fine-tuning,supervisedfinetuning.io,.io,maybe_available,3,32
 learning-based methods,learningbasedmethods.com,.com,maybe_available,3,32
 learning-based methods,learningbasedmethods.ai,.ai,maybe_available,3,32
 learning-based methods,learningbasedmethods.io,.io,maybe_available,3,32
-agent cloudflare free,agentcloudflarefree.com,.com,maybe_available,1,27
-agent cloudflare free,agentcloudflarefree.ai,.ai,maybe_available,1,27
-agent cloudflare free,agentcloudflarefree.io,.io,maybe_available,1,27
-agent gave police,agentgavepolice.com,.com,maybe_available,1,27
-agent gave police,agentgavepolice.ai,.ai,maybe_available,1,27
-agent gave police,agentgavepolice.io,.io,maybe_available,1,27
-agent mode duckdb,agentmodeduckdb.com,.com,maybe_available,1,27
-agent mode duckdb,agentmodeduckdb.ai,.ai,maybe_available,1,27
-agent mode duckdb,agentmodeduckdb.io,.io,maybe_available,1,27
 safe unsafe reference,safeunsafereference.com,.com,maybe_available,2,26
 safe unsafe reference,safeunsafereference.ai,.ai,maybe_available,2,26
 safe unsafe reference,safeunsafereference.io,.io,maybe_available,2,26
@@ -656,21 +626,33 @@ large language mllms,largelanguagemllms.io,.io,maybe_available,2,26
 latent core tokenizer,latentcoretokenizer.com,.com,maybe_available,2,26
 latent core tokenizer,latentcoretokenizer.ai,.ai,maybe_available,2,26
 latent core tokenizer,latentcoretokenizer.io,.io,maybe_available,2,26
-claude code codex,claudecodecodex.com,.com,maybe_available,2,26
-claude code codex,claudecodecodex.ai,.ai,maybe_available,2,26
-claude code codex,claudecodecodex.io,.io,maybe_available,2,26
-talorys self-hosted,talorysselfhosted.com,.com,maybe_available,1,26
-talorys self-hosted,talorysselfhosted.ai,.ai,maybe_available,1,26
-talorys self-hosted,talorysselfhosted.io,.io,maybe_available,1,26
-self-hosted personal,selfhostedpersonal.com,.com,maybe_available,1,26
-self-hosted personal,selfhostedpersonal.ai,.ai,maybe_available,1,26
-self-hosted personal,selfhostedpersonal.io,.io,maybe_available,1,26
-gave police fake,gavepolicefake.com,.com,maybe_available,1,26
-gave police fake,gavepolicefake.ai,.ai,maybe_available,1,26
-gave police fake,gavepolicefake.io,.io,maybe_available,1,26
-police fake tip,policefaketip.com,.com,maybe_available,1,26
-police fake tip,policefaketip.ai,.ai,maybe_available,1,26
-police fake tip,policefaketip.io,.io,maybe_available,1,26
+orbital eye-safety,orbitaleyesafety.com,.com,maybe_available,1,26
+orbital eye-safety,orbitaleyesafety.ai,.ai,maybe_available,1,26
+orbital eye-safety,orbitaleyesafety.io,.io,maybe_available,1,26
+eye-safety claim,eyesafetyclaim.com,.com,maybe_available,1,26
+eye-safety claim,eyesafetyclaim.ai,.ai,maybe_available,1,26
+eye-safety claim,eyesafetyclaim.io,.io,maybe_available,1,26
+without jailbreak,withoutjailbreak.com,.com,maybe_available,1,26
+without jailbreak,withoutjailbreak.ai,.ai,maybe_available,1,26
+without jailbreak,withoutjailbreak.io,.io,maybe_available,1,26
+client ios works,clientiosworks.com,.com,maybe_available,1,26
+client ios works,clientiosworks.ai,.ai,maybe_available,1,26
+client ios works,clientiosworks.io,.io,maybe_available,1,26
+cage says won,cagesayswon.com,.com,maybe_available,1,26
+cage says won,cagesayswon.ai,.ai,maybe_available,1,26
+cage says won,cagesayswon.io,.io,maybe_available,1,26
+says won work,sayswonwork.com,.com,maybe_available,1,26
+says won work,sayswonwork.ai,.ai,maybe_available,1,26
+says won work,sayswonwork.io,.io,maybe_available,1,26
+won work amazon,wonworkamazon.com,.com,maybe_available,1,26
+won work amazon,wonworkamazon.ai,.ai,maybe_available,1,26
+won work amazon,wonworkamazon.io,.io,maybe_available,1,26
+wikipedia tools flooded,wikipediatoolsflooded.com,.com,maybe_available,1,26
+wikipedia tools flooded,wikipediatoolsflooded.ai,.ai,maybe_available,1,26
+wikipedia tools flooded,wikipediatoolsflooded.io,.io,maybe_available,1,26
+forgotten staring,forgottenstaring.com,.com,maybe_available,1,26
+forgotten staring,forgottenstaring.ai,.ai,maybe_available,1,26
+forgotten staring,forgottenstaring.io,.io,maybe_available,1,26
 reference trajectories,referencetrajectories.com,.com,maybe_available,2,24
 reference trajectories,referencetrajectories.ai,.ai,maybe_available,2,24
 reference trajectories,referencetrajectories.io,.io,maybe_available,2,24
@@ -704,33 +686,36 @@ sparse differentiation,sparsedifferentiation.io,.io,maybe_available,2,24
 rigid-body interactions,rigidbodyinteractions.com,.com,maybe_available,2,24
 rigid-body interactions,rigidbodyinteractions.ai,.ai,maybe_available,2,24
 rigid-body interactions,rigidbodyinteractions.io,.io,maybe_available,2,24
-effect research mills,effectresearchmills.com,.com,maybe_available,1,18
-effect research mills,effectresearchmills.ai,.ai,maybe_available,1,18
-effect research mills,effectresearchmills.io,.io,maybe_available,1,18
-research mills enough,researchmillsenough.com,.com,maybe_available,1,18
-research mills enough,researchmillsenough.ai,.ai,maybe_available,1,18
-research mills enough,researchmillsenough.io,.io,maybe_available,1,18
-mills enough start,millsenoughstart.com,.com,maybe_available,1,18
-mills enough start,millsenoughstart.ai,.ai,maybe_available,1,18
-mills enough start,millsenoughstart.io,.io,maybe_available,1,18
-enough start affecting,enoughstartaffecting.com,.com,maybe_available,1,18
-enough start affecting,enoughstartaffecting.ai,.ai,maybe_available,1,18
-enough start affecting,enoughstartaffecting.io,.io,maybe_available,1,18
-start affecting query,startaffectingquery.com,.com,maybe_available,1,18
-start affecting query,startaffectingquery.ai,.ai,maybe_available,1,18
-start affecting query,startaffectingquery.io,.io,maybe_available,1,18
-cloudflare free tier,cloudflarefreetier.com,.com,maybe_available,1,18
-cloudflare free tier,cloudflarefreetier.ai,.ai,maybe_available,1,18
-cloudflare free tier,cloudflarefreetier.io,.io,maybe_available,1,18
-fake tip unsolved,faketipunsolved.com,.com,maybe_available,1,18
-fake tip unsolved,faketipunsolved.ai,.ai,maybe_available,1,18
-fake tip unsolved,faketipunsolved.io,.io,maybe_available,1,18
-tip unsolved murder,tipunsolvedmurder.com,.com,maybe_available,1,18
-tip unsolved murder,tipunsolvedmurder.ai,.ai,maybe_available,1,18
-tip unsolved murder,tipunsolvedmurder.io,.io,maybe_available,1,18
-unsolved murder case,unsolvedmurdercase.com,.com,maybe_available,1,18
-unsolved murder case,unsolvedmurdercase.ai,.ai,maybe_available,1,18
-unsolved murder case,unsolvedmurdercase.io,.io,maybe_available,1,18
+made i2pd,madei2pd.com,.com,maybe_available,1,19
+made i2pd,madei2pd.ai,.ai,maybe_available,1,19
+made i2pd,madei2pd.io,.io,maybe_available,1,19
+i2pd client,i2pdclient.com,.com,maybe_available,1,19
+i2pd client,i2pdclient.ai,.ai,maybe_available,1,19
+i2pd client,i2pdclient.io,.io,maybe_available,1,19
+claim checked against,claimcheckedagainst.com,.com,maybe_available,1,18
+claim checked against,claimcheckedagainst.ai,.ai,maybe_available,1,18
+claim checked against,claimcheckedagainst.io,.io,maybe_available,1,18
+checked against fcc,checkedagainstfcc.com,.com,maybe_available,1,18
+checked against fcc,checkedagainstfcc.ai,.ai,maybe_available,1,18
+checked against fcc,checkedagainstfcc.io,.io,maybe_available,1,18
+against fcc order,againstfccorder.com,.com,maybe_available,1,18
+against fcc order,againstfccorder.ai,.ai,maybe_available,1,18
+against fcc order,againstfccorder.io,.io,maybe_available,1,18
+ios works without,iosworkswithout.com,.com,maybe_available,1,18
+ios works without,iosworkswithout.ai,.ai,maybe_available,1,18
+ios works without,iosworkswithout.io,.io,maybe_available,1,18
+nicolas cage says,nicolascagesays.com,.com,maybe_available,1,18
+nicolas cage says,nicolascagesays.ai,.ai,maybe_available,1,18
+nicolas cage says,nicolascagesays.io,.io,maybe_available,1,18
+work amazon again,workamazonagain.com,.com,maybe_available,1,18
+work amazon again,workamazonagain.ai,.ai,maybe_available,1,18
+work amazon again,workamazonagain.io,.io,maybe_available,1,18
+amazon again dispute,amazonagaindispute.com,.com,maybe_available,1,18
+amazon again dispute,amazonagaindispute.ai,.ai,maybe_available,1,18
+amazon again dispute,amazonagaindispute.io,.io,maybe_available,1,18
+tried hack wikipedia,triedhackwikipedia.com,.com,maybe_available,1,18
+tried hack wikipedia,triedhackwikipedia.ai,.ai,maybe_available,1,18
+tried hack wikipedia,triedhackwikipedia.io,.io,maybe_available,1,18
 dynamic vector decoding,dynamicvectordecoding.com,.com,maybe_available,2,16
 dynamic vector decoding,dynamicvectordecoding.ai,.ai,maybe_available,2,16
 dynamic vector decoding,dynamicvectordecoding.io,.io,maybe_available,2,16
@@ -743,9 +728,24 @@ rift relative isolation,riftrelativeisolation.io,.io,maybe_available,2,16
 relative isolation trees,relativeisolationtrees.com,.com,maybe_available,2,16
 relative isolation trees,relativeisolationtrees.ai,.ai,maybe_available,2,16
 relative isolation trees,relativeisolationtrees.io,.io,maybe_available,2,16
-fake tip,faketip.com,.com,maybe_available,1,16
-fake tip,faketip.ai,.ai,maybe_available,1,16
-fake tip,faketip.io,.io,maybe_available,1,16
-affecting query results,affectingqueryresults.com,.com,maybe_available,1,8
-affecting query results,affectingqueryresults.ai,.ai,maybe_available,1,8
-affecting query results,affectingqueryresults.io,.io,maybe_available,1,8
+says won,sayswon.com,.com,maybe_available,1,16
+says won,sayswon.ai,.ai,maybe_available,1,16
+says won,sayswon.io,.io,maybe_available,1,16
+won work,wonwork.com,.com,taken_or_active,1,16
+won work,wonwork.ai,.ai,maybe_available,1,16
+won work,wonwork.io,.io,maybe_available,1,16
+made i2pd client,madei2pdclient.com,.com,maybe_available,1,11
+made i2pd client,madei2pdclient.ai,.ai,maybe_available,1,11
+made i2pd client,madei2pdclient.io,.io,maybe_available,1,11
+i2pd client ios,i2pdclientios.com,.com,maybe_available,1,11
+i2pd client ios,i2pdclientios.ai,.ai,maybe_available,1,11
+i2pd client ios,i2pdclientios.io,.io,maybe_available,1,11
+orbital eye-safety claim,orbitaleyesafetyclaim.com,.com,maybe_available,1,8
+orbital eye-safety claim,orbitaleyesafetyclaim.ai,.ai,maybe_available,1,8
+orbital eye-safety claim,orbitaleyesafetyclaim.io,.io,maybe_available,1,8
+eye-safety claim checked,eyesafetyclaimchecked.com,.com,maybe_available,1,8
+eye-safety claim checked,eyesafetyclaimchecked.ai,.ai,maybe_available,1,8
+eye-safety claim checked,eyesafetyclaimchecked.io,.io,maybe_available,1,8
+works without jailbreak,workswithoutjailbreak.com,.com,maybe_available,1,8
+works without jailbreak,workswithoutjailbreak.ai,.ai,maybe_available,1,8
+works without jailbreak,workswithoutjailbreak.io,.io,maybe_available,1,8
