@@ -11,12 +11,18 @@ neural networks,neuralnetworks.io,.io,taken_or_active,6,74
 coding agents,codingagents.com,.com,taken_or_active,3,68
 coding agents,codingagents.ai,.ai,taken_or_active,3,68
 coding agents,codingagents.io,.io,taken_or_active,3,68
+let agents,letagents.com,.com,taken_or_active,2,60
+let agents,letagents.ai,.ai,maybe_available,2,60
+let agents,letagents.io,.io,maybe_available,2,60
 tool retrieval,toolretrieval.com,.com,maybe_available,2,60
 tool retrieval,toolretrieval.ai,.ai,maybe_available,2,60
 tool retrieval,toolretrieval.io,.io,maybe_available,2,60
 personal agents,personalagents.com,.com,taken_or_active,2,60
 personal agents,personalagents.ai,.ai,taken_or_active,2,60
 personal agents,personalagents.io,.io,taken_or_active,2,60
+coding agent,codingagent.com,.com,taken_or_active,3,59
+coding agent,codingagent.ai,.ai,taken_or_active,3,59
+coding agent,codingagent.io,.io,taken_or_active,3,59
 discrete graph,discretegraph.com,.com,maybe_available,3,59
 discrete graph,discretegraph.ai,.ai,maybe_available,3,59
 discrete graph,discretegraph.io,.io,maybe_available,3,59
@@ -59,9 +65,6 @@ variance reduction,variancereduction.io,.io,maybe_available,4,50
 speculative decoding,speculativedecoding.com,.com,taken_or_active,4,50
 speculative decoding,speculativedecoding.ai,.ai,maybe_available,4,50
 speculative decoding,speculativedecoding.io,.io,maybe_available,4,50
-linus torvalds,linustorvalds.com,.com,taken_or_active,3,50
-linus torvalds,linustorvalds.ai,.ai,maybe_available,3,50
-linus torvalds,linustorvalds.io,.io,maybe_available,3,50
 claude code,claudecode.com,.com,maybe_available,3,50
 claude code,claudecode.ai,.ai,taken_or_active,3,50
 claude code,claudecode.io,.io,taken_or_active,3,50
@@ -95,6 +98,9 @@ reinforcement learning,reinforcementlearning.io,.io,maybe_available,5,48
 tool retrieval via,toolretrievalvia.com,.com,maybe_available,2,44
 tool retrieval via,toolretrievalvia.ai,.ai,maybe_available,2,44
 tool retrieval via,toolretrievalvia.io,.io,maybe_available,2,44
+omni-modal agents,omnimodalagents.com,.com,taken_or_active,1,44
+omni-modal agents,omnimodalagents.ai,.ai,maybe_available,1,44
+omni-modal agents,omnimodalagents.io,.io,maybe_available,1,44
 information retrieval,informationretrieval.com,.com,maybe_available,2,43
 information retrieval,informationretrieval.ai,.ai,taken_or_active,2,43
 information retrieval,informationretrieval.io,.io,maybe_available,2,43
@@ -110,18 +116,6 @@ assessment agentic,assessmentagentic.io,.io,maybe_available,2,43
 in-context score,incontextscore.com,.com,maybe_available,2,43
 in-context score,incontextscore.ai,.ai,maybe_available,2,43
 in-context score,incontextscore.io,.io,maybe_available,2,43
-ask voice,askvoice.com,.com,taken_or_active,1,43
-ask voice,askvoice.ai,.ai,maybe_available,1,43
-ask voice,askvoice.io,.io,maybe_available,1,43
-voice becoming,voicebecoming.com,.com,maybe_available,1,43
-voice becoming,voicebecoming.ai,.ai,maybe_available,1,43
-voice becoming,voicebecoming.io,.io,maybe_available,1,43
-french supermarket,frenchsupermarket.com,.com,maybe_available,3,42
-french supermarket,frenchsupermarket.ai,.ai,maybe_available,3,42
-french supermarket,frenchsupermarket.io,.io,maybe_available,3,42
-supermarket chains,supermarketchains.com,.com,taken_or_active,3,42
-supermarket chains,supermarketchains.ai,.ai,maybe_available,3,42
-supermarket chains,supermarketchains.io,.io,maybe_available,3,42
 central challenge,centralchallenge.com,.com,maybe_available,3,42
 central challenge,centralchallenge.ai,.ai,maybe_available,3,42
 central challenge,centralchallenge.io,.io,maybe_available,3,42
@@ -149,24 +143,6 @@ sentiment emotion,sentimentemotion.io,.io,maybe_available,3,42
 audio-visual dataset,audiovisualdataset.com,.com,maybe_available,3,42
 audio-visual dataset,audiovisualdataset.ai,.ai,maybe_available,3,42
 audio-visual dataset,audiovisualdataset.io,.io,maybe_available,3,42
-less regulated,lessregulated.com,.com,maybe_available,2,42
-less regulated,lessregulated.ai,.ai,maybe_available,2,42
-less regulated,lessregulated.io,.io,maybe_available,2,42
-regulated milk,regulatedmilk.com,.com,maybe_available,2,42
-regulated milk,regulatedmilk.ai,.ai,maybe_available,2,42
-regulated milk,regulatedmilk.io,.io,maybe_available,2,42
-milk president,milkpresident.com,.com,maybe_available,2,42
-milk president,milkpresident.ai,.ai,maybe_available,2,42
-milk president,milkpresident.io,.io,maybe_available,2,42
-president says,presidentsays.com,.com,taken_or_active,2,42
-president says,presidentsays.ai,.ai,maybe_available,2,42
-president says,presidentsays.io,.io,maybe_available,2,42
-chains say,chainssay.com,.com,maybe_available,2,42
-chains say,chainssay.ai,.ai,maybe_available,2,42
-chains say,chainssay.io,.io,maybe_available,2,42
-say cyberattack,saycyberattack.com,.com,maybe_available,2,42
-say cyberattack,saycyberattack.ai,.ai,maybe_available,2,42
-say cyberattack,saycyberattack.io,.io,maybe_available,2,42
 wikipedia game,wikipediagame.com,.com,taken_or_active,2,42
 wikipedia game,wikipediagame.ai,.ai,maybe_available,2,42
 wikipedia game,wikipediagame.io,.io,maybe_available,2,42
@@ -371,24 +347,12 @@ vqil visible,vqilvisible.io,.io,maybe_available,2,42
 visible quantum,visiblequantum.com,.com,maybe_available,2,42
 visible quantum,visiblequantum.ai,.ai,maybe_available,2,42
 visible quantum,visiblequantum.io,.io,maybe_available,2,42
-code codex,codecodex.com,.com,taken_or_active,2,42
-code codex,codecodex.ai,.ai,taken_or_active,2,42
-code codex,codecodex.io,.io,taken_or_active,2,42
 stochastic optimization,stochasticoptimization.com,.com,taken_or_active,4,40
 stochastic optimization,stochasticoptimization.ai,.ai,maybe_available,4,40
 stochastic optimization,stochasticoptimization.io,.io,maybe_available,4,40
 assessment agentic web,assessmentagenticweb.com,.com,maybe_available,2,35
 assessment agentic web,assessmentagenticweb.ai,.ai,maybe_available,2,35
 assessment agentic web,assessmentagenticweb.io,.io,maybe_available,2,35
-cyberattack forced,cyberattackforced.com,.com,maybe_available,2,34
-cyberattack forced,cyberattackforced.ai,.ai,maybe_available,2,34
-cyberattack forced,cyberattackforced.io,.io,maybe_available,2,34
-forced refrigerator,forcedrefrigerator.com,.com,maybe_available,2,34
-forced refrigerator,forcedrefrigerator.ai,.ai,maybe_available,2,34
-forced refrigerator,forcedrefrigerator.io,.io,maybe_available,2,34
-refrigerator shutdown,refrigeratorshutdown.com,.com,maybe_available,2,34
-refrigerator shutdown,refrigeratorshutdown.ai,.ai,maybe_available,2,34
-refrigerator shutdown,refrigeratorshutdown.io,.io,maybe_available,2,34
 language analogous,languageanalogous.com,.com,maybe_available,2,34
 language analogous,languageanalogous.ai,.ai,maybe_available,2,34
 language analogous,languageanalogous.io,.io,maybe_available,2,34
@@ -629,18 +593,42 @@ dataset distillation,datasetdistillation.io,.io,maybe_available,2,34
 replication extension,replicationextension.com,.com,maybe_available,2,34
 replication extension,replicationextension.ai,.ai,maybe_available,2,34
 replication extension,replicationextension.io,.io,maybe_available,2,34
-devine linvega,devinelinvega.com,.com,maybe_available,1,34
-devine linvega,devinelinvega.ai,.ai,maybe_available,1,34
-devine linvega,devinelinvega.io,.io,maybe_available,1,34
-linvega sailor,linvegasailor.com,.com,maybe_available,1,34
-linvega sailor,linvegasailor.ai,.ai,maybe_available,1,34
-linvega sailor,linvegasailor.io,.io,maybe_available,1,34
-sailor designer,sailordesigner.com,.com,maybe_available,1,34
-sailor designer,sailordesigner.ai,.ai,maybe_available,1,34
-sailor designer,sailordesigner.io,.io,maybe_available,1,34
-designer video,designervideo.com,.com,taken_or_active,1,34
-designer video,designervideo.ai,.ai,maybe_available,1,34
-designer video,designervideo.io,.io,maybe_available,1,34
+python holy,pythonholy.com,.com,maybe_available,1,34
+python holy,pythonholy.ai,.ai,maybe_available,1,34
+python holy,pythonholy.io,.io,maybe_available,1,34
+holy grail,holygrail.com,.com,taken_or_active,1,34
+holy grail,holygrail.ai,.ai,taken_or_active,1,34
+holy grail,holygrail.io,.io,taken_or_active,1,34
+apple minions,appleminions.com,.com,maybe_available,1,34
+apple minions,appleminions.ai,.ai,maybe_available,1,34
+apple minions,appleminions.io,.io,maybe_available,1,34
+minions virtual,minionsvirtual.com,.com,maybe_available,1,34
+minions virtual,minionsvirtual.ai,.ai,maybe_available,1,34
+minions virtual,minionsvirtual.io,.io,maybe_available,1,34
+virtual gpu,virtualgpu.com,.com,taken_or_active,1,34
+virtual gpu,virtualgpu.ai,.ai,maybe_available,1,34
+virtual gpu,virtualgpu.io,.io,maybe_available,1,34
+gpu cloud,gpucloud.com,.com,taken_or_active,1,34
+gpu cloud,gpucloud.ai,.ai,maybe_available,1,34
+gpu cloud,gpucloud.io,.io,taken_or_active,1,34
+cloud built,cloudbuilt.com,.com,maybe_available,1,34
+cloud built,cloudbuilt.ai,.ai,maybe_available,1,34
+cloud built,cloudbuilt.io,.io,taken_or_active,1,34
+built idle,builtidle.com,.com,maybe_available,1,34
+built idle,builtidle.ai,.ai,maybe_available,1,34
+built idle,builtidle.io,.io,maybe_available,1,34
+idle apple,idleapple.com,.com,maybe_available,1,34
+idle apple,idleapple.ai,.ai,maybe_available,1,34
+idle apple,idleapple.io,.io,maybe_available,1,34
+apple silicon,applesilicon.com,.com,taken_or_active,1,34
+apple silicon,applesilicon.ai,.ai,maybe_available,1,34
+apple silicon,applesilicon.io,.io,maybe_available,1,34
+silicon macs,siliconmacs.com,.com,maybe_available,1,34
+silicon macs,siliconmacs.ai,.ai,maybe_available,1,34
+silicon macs,siliconmacs.io,.io,maybe_available,1,34
+towards native,towardsnative.com,.com,maybe_available,1,34
+towards native,towardsnative.ai,.ai,maybe_available,1,34
+towards native,towardsnative.io,.io,maybe_available,1,34
 discrete graph diffusion,discretegraphdiffusion.com,.com,maybe_available,3,33
 discrete graph diffusion,discretegraphdiffusion.ai,.ai,maybe_available,3,33
 discrete graph diffusion,discretegraphdiffusion.io,.io,maybe_available,3,33
@@ -653,21 +641,6 @@ linguistic obfuscation,linguisticobfuscation.io,.io,maybe_available,3,32
 dspark dflash2,dsparkdflash2.com,.com,maybe_available,2,27
 dspark dflash2,dsparkdflash2.ai,.ai,maybe_available,2,27
 dspark dflash2,dsparkdflash2.io,.io,maybe_available,2,27
-less regulated milk,lessregulatedmilk.com,.com,maybe_available,2,26
-less regulated milk,lessregulatedmilk.ai,.ai,maybe_available,2,26
-less regulated milk,lessregulatedmilk.io,.io,maybe_available,2,26
-milk president says,milkpresidentsays.com,.com,maybe_available,2,26
-milk president says,milkpresidentsays.ai,.ai,maybe_available,2,26
-milk president says,milkpresidentsays.io,.io,maybe_available,2,26
-supermarket chains say,supermarketchainssay.com,.com,maybe_available,2,26
-supermarket chains say,supermarketchainssay.ai,.ai,maybe_available,2,26
-supermarket chains say,supermarketchainssay.io,.io,maybe_available,2,26
-chains say cyberattack,chainssaycyberattack.com,.com,maybe_available,2,26
-chains say cyberattack,chainssaycyberattack.ai,.ai,maybe_available,2,26
-chains say cyberattack,chainssaycyberattack.io,.io,maybe_available,2,26
-say cyberattack forced,saycyberattackforced.com,.com,maybe_available,2,26
-say cyberattack forced,saycyberattackforced.ai,.ai,maybe_available,2,26
-say cyberattack forced,saycyberattackforced.io,.io,maybe_available,2,26
 require access weights,requireaccessweights.com,.com,maybe_available,2,26
 require access weights,requireaccessweights.ai,.ai,maybe_available,2,26
 require access weights,requireaccessweights.io,.io,maybe_available,2,26
@@ -695,9 +668,18 @@ without node features,withoutnodefeatures.io,.io,maybe_available,2,26
 vqil visible quantum,vqilvisiblequantum.com,.com,maybe_available,2,26
 vqil visible quantum,vqilvisiblequantum.ai,.ai,maybe_available,2,26
 vqil visible quantum,vqilvisiblequantum.io,.io,maybe_available,2,26
-claude code codex,claudecodecodex.com,.com,maybe_available,2,26
-claude code codex,claudecodecodex.ai,.ai,maybe_available,2,26
-claude code codex,claudecodecodex.io,.io,maybe_available,2,26
+gpu cloud built,gpucloudbuilt.com,.com,maybe_available,1,26
+gpu cloud built,gpucloudbuilt.ai,.ai,maybe_available,1,26
+gpu cloud built,gpucloudbuilt.io,.io,maybe_available,1,26
+cloud built idle,cloudbuiltidle.com,.com,maybe_available,1,26
+cloud built idle,cloudbuiltidle.ai,.ai,maybe_available,1,26
+cloud built idle,cloudbuiltidle.io,.io,maybe_available,1,26
+built idle apple,builtidleapple.com,.com,maybe_available,1,26
+built idle apple,builtidleapple.ai,.ai,maybe_available,1,26
+built idle apple,builtidleapple.io,.io,maybe_available,1,26
+native omni-modal,nativeomnimodal.com,.com,maybe_available,1,26
+native omni-modal,nativeomnimodal.ai,.ai,maybe_available,1,26
+native omni-modal,nativeomnimodal.io,.io,maybe_available,1,26
 retrieval via execution,retrievalviaexecution.com,.com,maybe_available,2,25
 retrieval via execution,retrievalviaexecution.ai,.ai,maybe_available,2,25
 retrieval via execution,retrievalviaexecution.io,.io,maybe_available,2,25
@@ -728,15 +710,30 @@ activation quantization,activationquantization.io,.io,maybe_available,2,24
 multi-task pre-training,multitaskpretraining.com,.com,maybe_available,2,24
 multi-task pre-training,multitaskpretraining.ai,.ai,maybe_available,2,24
 multi-task pre-training,multitaskpretraining.io,.io,maybe_available,2,24
-devine linvega sailor,devinelinvegasailor.com,.com,maybe_available,1,18
-devine linvega sailor,devinelinvegasailor.ai,.ai,maybe_available,1,18
-devine linvega sailor,devinelinvegasailor.io,.io,maybe_available,1,18
-sailor designer video,sailordesignervideo.com,.com,maybe_available,1,18
-sailor designer video,sailordesignervideo.ai,.ai,maybe_available,1,18
-sailor designer video,sailordesignervideo.io,.io,maybe_available,1,18
-regulated milk president,regulatedmilkpresident.com,.com,maybe_available,2,16
-regulated milk president,regulatedmilkpresident.ai,.ai,maybe_available,2,16
-regulated milk president,regulatedmilkpresident.io,.io,maybe_available,2,16
+qwen3 8-omni,qwen38omni.com,.com,maybe_available,1,19
+qwen3 8-omni,qwen38omni.ai,.ai,maybe_available,1,19
+qwen3 8-omni,qwen38omni.io,.io,maybe_available,1,19
+8-omni towards,8omnitowards.com,.com,maybe_available,1,19
+8-omni towards,8omnitowards.ai,.ai,maybe_available,1,19
+8-omni towards,8omnitowards.io,.io,maybe_available,1,19
+python holy grail,pythonholygrail.com,.com,maybe_available,1,18
+python holy grail,pythonholygrail.ai,.ai,maybe_available,1,18
+python holy grail,pythonholygrail.io,.io,maybe_available,1,18
+apple minions virtual,appleminionsvirtual.com,.com,maybe_available,1,18
+apple minions virtual,appleminionsvirtual.ai,.ai,maybe_available,1,18
+apple minions virtual,appleminionsvirtual.io,.io,maybe_available,1,18
+minions virtual gpu,minionsvirtualgpu.com,.com,maybe_available,1,18
+minions virtual gpu,minionsvirtualgpu.ai,.ai,maybe_available,1,18
+minions virtual gpu,minionsvirtualgpu.io,.io,maybe_available,1,18
+virtual gpu cloud,virtualgpucloud.com,.com,maybe_available,1,18
+virtual gpu cloud,virtualgpucloud.ai,.ai,maybe_available,1,18
+virtual gpu cloud,virtualgpucloud.io,.io,maybe_available,1,18
+idle apple silicon,idleapplesilicon.com,.com,maybe_available,1,18
+idle apple silicon,idleapplesilicon.ai,.ai,maybe_available,1,18
+idle apple silicon,idleapplesilicon.io,.io,maybe_available,1,18
+apple silicon macs,applesiliconmacs.com,.com,maybe_available,1,18
+apple silicon macs,applesiliconmacs.ai,.ai,maybe_available,1,18
+apple silicon macs,applesiliconmacs.io,.io,maybe_available,1,18
 gaussian process solvers,gaussianprocesssolvers.com,.com,maybe_available,2,16
 gaussian process solvers,gaussianprocesssolvers.ai,.ai,maybe_available,2,16
 gaussian process solvers,gaussianprocesssolvers.io,.io,maybe_available,2,16
@@ -746,6 +743,9 @@ federated socially fair,federatedsociallyfair.io,.io,maybe_available,2,16
 balance loss approximate,balancelossapproximate.com,.com,maybe_available,2,16
 balance loss approximate,balancelossapproximate.ai,.ai,maybe_available,2,16
 balance loss approximate,balancelossapproximate.io,.io,maybe_available,2,16
-linvega sailor designer,linvegasailordesigner.com,.com,maybe_available,1,8
-linvega sailor designer,linvegasailordesigner.ai,.ai,maybe_available,1,8
-linvega sailor designer,linvegasailordesigner.io,.io,maybe_available,1,8
+qwen3 8-omni towards,qwen38omnitowards.com,.com,maybe_available,1,3
+qwen3 8-omni towards,qwen38omnitowards.ai,.ai,maybe_available,1,3
+qwen3 8-omni towards,qwen38omnitowards.io,.io,maybe_available,1,3
+8-omni towards native,8omnitowardsnative.com,.com,maybe_available,1,3
+8-omni towards native,8omnitowardsnative.ai,.ai,maybe_available,1,3
+8-omni towards native,8omnitowardsnative.io,.io,maybe_available,1,3
