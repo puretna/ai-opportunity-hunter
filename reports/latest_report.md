@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-13 12:33
+Rapor zamanı: 2026-10-14 10:01
 
 ## Kaynak sayıları
-- Hacker News: 45
+- Hacker News: 35
 - arXiv: 75
 - GitHub Trending: 5
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-10-13 12:33
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | graphdiffusion.com | 75/100 | graph diffusion | maybe_available |
-| 2 | graphdiffusion.ai | 75/100 | graph diffusion | maybe_available |
-| 3 | graphdiffusion.io | 75/100 | graph diffusion | maybe_available |
-| 4 | agenticweb.ai | 75/100 | agentic web | maybe_available |
-| 5 | letagents.ai | 60/100 | let agents | maybe_available |
-| 6 | letagents.io | 60/100 | let agents | maybe_available |
-| 7 | toolretrieval.com | 60/100 | tool retrieval | maybe_available |
-| 8 | toolretrieval.ai | 60/100 | tool retrieval | maybe_available |
-| 9 | toolretrieval.io | 60/100 | tool retrieval | maybe_available |
-| 10 | discretegraph.com | 59/100 | discrete graph | maybe_available |
-| 11 | discretegraph.ai | 59/100 | discrete graph | maybe_available |
-| 12 | discretegraph.io | 59/100 | discrete graph | maybe_available |
-| 13 | knowledgegraph.io | 59/100 | knowledge graph | maybe_available |
-| 14 | neuralnetwork.io | 58/100 | neural network | maybe_available |
-| 15 | agentsincreasingly.com | 52/100 | agents increasingly | maybe_available |
-| 16 | agentsincreasingly.ai | 52/100 | agents increasingly | maybe_available |
-| 17 | agentsincreasingly.io | 52/100 | agents increasingly | maybe_available |
-| 18 | retrievalvia.com | 51/100 | retrieval via | maybe_available |
-| 19 | retrievalvia.ai | 51/100 | retrieval via | maybe_available |
-| 20 | retrievalvia.io | 51/100 | retrieval via | maybe_available |
+| 1 | reinforcementlearning.io | 100/100 | reinforcement learning | maybe_available |
+| 2 | longhorizonagents.ai | 60/100 | long-horizon agents | maybe_available |
+| 3 | longhorizonagents.io | 60/100 | long-horizon agents | maybe_available |
+| 4 | stochasticgradient.ai | 58/100 | stochastic gradient | maybe_available |
+| 5 | stochasticgradient.io | 58/100 | stochastic gradient | maybe_available |
+| 6 | messagepassing.io | 58/100 | message passing | maybe_available |
+| 7 | reasoningagents.io | 52/100 | reasoning agents | maybe_available |
+| 8 | agenticreinforcement.ai | 51/100 | agentic reinforcement | maybe_available |
+| 9 | agenticreinforcement.io | 51/100 | agentic reinforcement | maybe_available |
+| 10 | graphswhose.com | 51/100 | graphs whose | maybe_available |
+| 11 | graphswhose.ai | 51/100 | graphs whose | maybe_available |
+| 12 | graphswhose.io | 51/100 | graphs whose | maybe_available |
+| 13 | agentmay.ai | 51/100 | agent may | maybe_available |
+| 14 | agentmay.io | 51/100 | agent may | maybe_available |
+| 15 | depthmemory.ai | 51/100 | depth memory | maybe_available |
+| 16 | depthmemory.io | 51/100 | depth memory | maybe_available |
+| 17 | graphneural.ai | 51/100 | graph neural | maybe_available |
+| 18 | graphneural.io | 51/100 | graph neural | maybe_available |
+| 19 | planargraphs.com | 51/100 | planar graphs | maybe_available |
+| 20 | planargraphs.ai | 51/100 | planar graphs | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
