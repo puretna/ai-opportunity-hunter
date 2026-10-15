@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-14 10:01
+Rapor zamanı: 2026-10-15 09:43
 
 ## Kaynak sayıları
 - Hacker News: 35
 - arXiv: 75
-- GitHub Trending: 5
+- GitHub Trending: 6
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | reinforcementlearning.io | 100/100 | reinforcement learning | maybe_available |
-| 2 | longhorizonagents.ai | 60/100 | long-horizon agents | maybe_available |
-| 3 | longhorizonagents.io | 60/100 | long-horizon agents | maybe_available |
-| 4 | stochasticgradient.ai | 58/100 | stochastic gradient | maybe_available |
-| 5 | stochasticgradient.io | 58/100 | stochastic gradient | maybe_available |
-| 6 | messagepassing.io | 58/100 | message passing | maybe_available |
-| 7 | reasoningagents.io | 52/100 | reasoning agents | maybe_available |
-| 8 | agenticreinforcement.ai | 51/100 | agentic reinforcement | maybe_available |
-| 9 | agenticreinforcement.io | 51/100 | agentic reinforcement | maybe_available |
-| 10 | graphswhose.com | 51/100 | graphs whose | maybe_available |
-| 11 | graphswhose.ai | 51/100 | graphs whose | maybe_available |
-| 12 | graphswhose.io | 51/100 | graphs whose | maybe_available |
-| 13 | agentmay.ai | 51/100 | agent may | maybe_available |
-| 14 | agentmay.io | 51/100 | agent may | maybe_available |
-| 15 | depthmemory.ai | 51/100 | depth memory | maybe_available |
-| 16 | depthmemory.io | 51/100 | depth memory | maybe_available |
-| 17 | graphneural.ai | 51/100 | graph neural | maybe_available |
-| 18 | graphneural.io | 51/100 | graph neural | maybe_available |
-| 19 | planargraphs.com | 51/100 | planar graphs | maybe_available |
-| 20 | planargraphs.ai | 51/100 | planar graphs | maybe_available |
+| 1 | reinforcementlearning.io | 80/100 | reinforcement learning | maybe_available |
+| 2 | languageagents.ai | 76/100 | language agents | maybe_available |
+| 3 | languageagents.io | 76/100 | language agents | maybe_available |
+| 4 | embodiedagents.io | 60/100 | embodied agents | maybe_available |
+| 5 | actionspace.ai | 58/100 | action space | maybe_available |
+| 6 | actionspace.io | 58/100 | action space | maybe_available |
+| 7 | healthrecords.ai | 58/100 | health records | maybe_available |
+| 8 | hatespeech.io | 58/100 | hate speech | maybe_available |
+| 9 | escalationagents.com | 52/100 | escalation agents | maybe_available |
+| 10 | escalationagents.ai | 52/100 | escalation agents | maybe_available |
+| 11 | escalationagents.io | 52/100 | escalation agents | maybe_available |
+| 12 | scientificagent.ai | 51/100 | scientific agent | maybe_available |
+| 13 | scientificagent.io | 51/100 | scientific agent | maybe_available |
+| 14 | agentmust.com | 51/100 | agent must | maybe_available |
+| 15 | agentmust.ai | 51/100 | agent must | maybe_available |
+| 16 | agentmust.io | 51/100 | agent must | maybe_available |
+| 17 | hostmemory.ai | 51/100 | host memory | maybe_available |
+| 18 | hostmemory.io | 51/100 | host memory | maybe_available |
+| 19 | agentswarms.ai | 51/100 | agent swarms | maybe_available |
+| 20 | agentswarms.io | 51/100 | agent swarms | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
