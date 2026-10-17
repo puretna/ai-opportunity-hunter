@@ -1,19 +1,19 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-16 09:36
+Rapor zamanı: 2026-10-17 09:08
 
 ## Kaynak sayıları
-- Hacker News: 33
+- Hacker News: 28
 - arXiv: 75
-- GitHub Trending: 9
+- GitHub Trending: 8
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
 | 1 | reinforcementlearning.io | 100/100 | reinforcement learning | maybe_available |
-| 2 | claudecode.com | 74/100 | claude code | maybe_available |
-| 3 | agentmemory.ai | 68/100 | agent memory | maybe_available |
+| 2 | agentmemory.ai | 76/100 | agent memory | maybe_available |
+| 3 | claudecode.com | 74/100 | claude code | maybe_available |
 | 4 | duringtraining.com | 66/100 | during training | maybe_available |
 | 5 | duringtraining.ai | 66/100 | during training | maybe_available |
 | 6 | duringtraining.io | 66/100 | during training | maybe_available |
