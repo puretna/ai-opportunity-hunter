@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-20 09:55
+Rapor zamanı: 2026-10-21 09:56
 
 ## Kaynak sayıları
 - Hacker News: 30
 - arXiv: 75
-- GitHub Trending: 10
+- GitHub Trending: 13
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | reinforcementlearning.io | 80/100 | reinforcement learning | maybe_available |
-| 2 | biasevaluation.com | 67/100 | bias evaluation | maybe_available |
-| 3 | biasevaluation.ai | 67/100 | bias evaluation | maybe_available |
-| 4 | biasevaluation.io | 67/100 | bias evaluation | maybe_available |
-| 5 | frontieragents.ai | 60/100 | frontier agents | maybe_available |
-| 6 | frontieragents.io | 60/100 | frontier agents | maybe_available |
-| 7 | guiagents.ai | 60/100 | gui agents | maybe_available |
-| 8 | guiagents.io | 60/100 | gui agents | maybe_available |
-| 9 | vlmagents.ai | 60/100 | vlm agents | maybe_available |
-| 10 | vlmagents.io | 60/100 | vlm agents | maybe_available |
-| 11 | agentsactively.com | 60/100 | agents actively | maybe_available |
-| 12 | agentsactively.ai | 60/100 | agents actively | maybe_available |
-| 13 | agentsactively.io | 60/100 | agents actively | maybe_available |
-| 14 | evaluationdataset.ai | 59/100 | evaluation dataset | maybe_available |
-| 15 | evaluationdataset.io | 59/100 | evaluation dataset | maybe_available |
-| 16 | speechrecognition.ai | 58/100 | speech recognition | maybe_available |
-| 17 | trainingdata.ai | 58/100 | training data | maybe_available |
-| 18 | claudecode.com | 58/100 | claude code | maybe_available |
-| 19 | maliciousagents.com | 52/100 | malicious agents | maybe_available |
-| 20 | maliciousagents.ai | 52/100 | malicious agents | maybe_available |
+| 1 | claudecode.com | 90/100 | claude code | maybe_available |
+| 2 | otheragents.ai | 60/100 | other agents | maybe_available |
+| 3 | otheragents.io | 60/100 | other agents | maybe_available |
+| 4 | robotfleets.com | 59/100 | robot fleets | maybe_available |
+| 5 | robotfleets.ai | 59/100 | robot fleets | maybe_available |
+| 6 | robotfleets.io | 59/100 | robot fleets | maybe_available |
+| 7 | agenticsystem.ai | 59/100 | agentic system | maybe_available |
+| 8 | agenticsystem.io | 59/100 | agentic system | maybe_available |
+| 9 | flowlanguage.ai | 58/100 | flow language | maybe_available |
+| 10 | flowlanguage.io | 58/100 | flow language | maybe_available |
+| 11 | temporalcontext.ai | 51/100 | temporal context | maybe_available |
+| 12 | temporalcontext.io | 51/100 | temporal context | maybe_available |
+| 13 | gbclawagentic.com | 51/100 | gbclaw agentic | maybe_available |
+| 14 | gbclawagentic.ai | 51/100 | gbclaw agentic | maybe_available |
+| 15 | gbclawagentic.io | 51/100 | gbclaw agentic | maybe_available |
+| 16 | evolvingagent.io | 51/100 | evolving agent | maybe_available |
+| 17 | agentits.ai | 51/100 | agent its | maybe_available |
+| 18 | agentits.io | 51/100 | agent its | maybe_available |
+| 19 | agentmust.com | 51/100 | agent must | maybe_available |
+| 20 | agentmust.ai | 51/100 | agent must | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
