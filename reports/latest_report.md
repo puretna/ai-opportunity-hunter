@@ -1,35 +1,35 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-22 09:57
+Rapor zamanı: 2026-10-23 09:52
 
 ## Kaynak sayıları
-- Hacker News: 38
+- Hacker News: 39
 - arXiv: 75
-- GitHub Trending: 11
+- GitHub Trending: 6
 
 ## Bugünün domain adayları
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | reinforcementlearning.io | 72/100 | reinforcement learning | maybe_available |
-| 2 | agentmemory.ai | 68/100 | agent memory | maybe_available |
-| 3 | toolusingagents.com | 61/100 | tool-using agents | maybe_available |
-| 4 | toolusingagents.ai | 61/100 | tool-using agents | maybe_available |
-| 5 | toolusingagents.io | 61/100 | tool-using agents | maybe_available |
-| 6 | multimodalagents.ai | 60/100 | multimodal agents | maybe_available |
-| 7 | multimodalagents.io | 60/100 | multimodal agents | maybe_available |
-| 8 | embodiedagents.io | 60/100 | embodied agents | maybe_available |
-| 9 | agentsbuilt.ai | 60/100 | agents built | maybe_available |
-| 10 | trainingdata.ai | 58/100 | training data | maybe_available |
-| 11 | addressthese.com | 58/100 | address these | maybe_available |
-| 12 | addressthese.ai | 58/100 | address these | maybe_available |
-| 13 | addressthese.io | 58/100 | address these | maybe_available |
-| 14 | duringtraining.com | 58/100 | during training | maybe_available |
-| 15 | duringtraining.ai | 58/100 | during training | maybe_available |
-| 16 | duringtraining.io | 58/100 | during training | maybe_available |
-| 17 | hypergraphmemory.com | 52/100 | hypergraph memory | maybe_available |
-| 18 | hypergraphmemory.ai | 52/100 | hypergraph memory | maybe_available |
-| 19 | hypergraphmemory.io | 52/100 | hypergraph memory | maybe_available |
-| 20 | selfevolvingagent.io | 51/100 | self-evolving agent | maybe_available |
+| 1 | continuallearning.io | 74/100 | continual learning | maybe_available |
+| 2 | agentsretrieve.com | 60/100 | agents retrieve | maybe_available |
+| 3 | agentsretrieve.ai | 60/100 | agents retrieve | maybe_available |
+| 4 | agentsretrieve.io | 60/100 | agents retrieve | maybe_available |
+| 5 | recoveryagents.ai | 60/100 | recovery agents | maybe_available |
+| 6 | recoveryagents.io | 60/100 | recovery agents | maybe_available |
+| 7 | agentsmissing.com | 60/100 | agents missing | maybe_available |
+| 8 | agentsmissing.ai | 60/100 | agents missing | maybe_available |
+| 9 | agentsmissing.io | 60/100 | agents missing | maybe_available |
+| 10 | languageagents.ai | 60/100 | language agents | maybe_available |
+| 11 | languageagents.io | 60/100 | language agents | maybe_available |
+| 12 | graphsoft.ai | 59/100 | graph soft | maybe_available |
+| 13 | graphsoft.io | 59/100 | graph soft | maybe_available |
+| 14 | knowledgegraph.io | 59/100 | knowledge graph | maybe_available |
+| 15 | priorwork.ai | 58/100 | prior work | maybe_available |
+| 16 | priorwork.io | 58/100 | prior work | maybe_available |
+| 17 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
+| 18 | benchmarkevaluating.com | 51/100 | benchmark evaluating | maybe_available |
+| 19 | benchmarkevaluating.ai | 51/100 | benchmark evaluating | maybe_available |
+| 20 | benchmarkevaluating.io | 51/100 | benchmark evaluating | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
