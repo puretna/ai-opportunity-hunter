@@ -26,18 +26,27 @@ email agents,emailagents.io,.io,taken_or_active,2,60
 graph soft,graphsoft.com,.com,taken_or_active,3,59
 graph soft,graphsoft.ai,.ai,maybe_available,3,59
 graph soft,graphsoft.io,.io,maybe_available,3,59
-knowledge graph,knowledgegraph.com,.com,taken_or_active,3,59
-knowledge graph,knowledgegraph.ai,.ai,taken_or_active,3,59
-knowledge graph,knowledgegraph.io,.io,maybe_available,3,59
 anomaly detection,anomalydetection.com,.com,taken_or_active,5,58
 anomaly detection,anomalydetection.ai,.ai,taken_or_active,5,58
 anomaly detection,anomalydetection.io,.io,taken_or_active,5,58
+apple silicon,applesilicon.com,.com,taken_or_active,4,58
+apple silicon,applesilicon.ai,.ai,maybe_available,4,58
+apple silicon,applesilicon.io,.io,maybe_available,4,58
 prior work,priorwork.com,.com,taken_or_active,4,58
 prior work,priorwork.ai,.ai,maybe_available,4,58
 prior work,priorwork.io,.io,maybe_available,4,58
 reinforcement learning,reinforcementlearning.com,.com,taken_or_active,6,56
 reinforcement learning,reinforcementlearning.ai,.ai,taken_or_active,6,56
 reinforcement learning,reinforcementlearning.io,.io,maybe_available,6,56
+people agents,peopleagents.com,.com,taken_or_active,1,52
+people agents,peopleagents.ai,.ai,maybe_available,1,52
+people agents,peopleagents.io,.io,maybe_available,1,52
+double agents,doubleagents.com,.com,taken_or_active,1,52
+double agents,doubleagents.ai,.ai,taken_or_active,1,52
+double agents,doubleagents.io,.io,maybe_available,1,52
+agents amid,agentsamid.com,.com,maybe_available,1,52
+agents amid,agentsamid.ai,.ai,maybe_available,1,52
+agents amid,agentsamid.io,.io,maybe_available,1,52
 benchmark evaluating,benchmarkevaluating.com,.com,maybe_available,3,51
 benchmark evaluating,benchmarkevaluating.ai,.ai,maybe_available,3,51
 benchmark evaluating,benchmarkevaluating.io,.io,maybe_available,3,51
@@ -47,6 +56,9 @@ control evaluations,controlevaluations.io,.io,maybe_available,3,51
 agent may,agentmay.com,.com,taken_or_active,2,51
 agent may,agentmay.ai,.ai,maybe_available,2,51
 agent may,agentmay.io,.io,maybe_available,2,51
+knowledge graph,knowledgegraph.com,.com,taken_or_active,2,51
+knowledge graph,knowledgegraph.ai,.ai,taken_or_active,2,51
+knowledge graph,knowledgegraph.io,.io,maybe_available,2,51
 evaluate four,evaluatefour.com,.com,maybe_available,2,51
 evaluate four,evaluatefour.ai,.ai,maybe_available,2,51
 evaluate four,evaluatefour.io,.io,maybe_available,2,51
@@ -68,12 +80,12 @@ these methods,thesemethods.io,.io,maybe_available,3,50
 user simulators,usersimulators.com,.com,maybe_available,3,50
 user simulators,usersimulators.ai,.ai,maybe_available,3,50
 user simulators,usersimulators.io,.io,maybe_available,3,50
-apple silicon,applesilicon.com,.com,taken_or_active,3,50
-apple silicon,applesilicon.ai,.ai,maybe_available,3,50
-apple silicon,applesilicon.io,.io,maybe_available,3,50
 very rare,veryrare.com,.com,taken_or_active,3,50
 very rare,veryrare.ai,.ai,taken_or_active,3,50
 very rare,veryrare.io,.io,taken_or_active,3,50
+canvas people agents,canvaspeopleagents.com,.com,maybe_available,1,45
+canvas people agents,canvaspeopleagents.ai,.ai,maybe_available,1,45
+canvas people agents,canvaspeopleagents.io,.io,maybe_available,1,45
 typically evaluated,typicallyevaluated.com,.com,maybe_available,2,43
 typically evaluated,typicallyevaluated.ai,.ai,maybe_available,2,43
 typically evaluated,typicallyevaluated.io,.io,maybe_available,2,43
@@ -95,18 +107,12 @@ in-context learning,incontextlearning.io,.io,maybe_available,2,43
 synthetic speech,syntheticspeech.com,.com,taken_or_active,2,43
 synthetic speech,syntheticspeech.ai,.ai,taken_or_active,2,43
 synthetic speech,syntheticspeech.io,.io,maybe_available,2,43
-desktop agent,desktopagent.com,.com,taken_or_active,1,43
-desktop agent,desktopagent.ai,.ai,taken_or_active,1,43
-desktop agent,desktopagent.io,.io,maybe_available,1,43
-agent runs,agentruns.com,.com,taken_or_active,1,43
-agent runs,agentruns.ai,.ai,taken_or_active,1,43
-agent runs,agentruns.io,.io,maybe_available,1,43
-top-tier agent,toptieragent.com,.com,taken_or_active,1,43
-top-tier agent,toptieragent.ai,.ai,maybe_available,1,43
-top-tier agent,toptieragent.io,.io,maybe_available,1,43
-agent user,agentuser.com,.com,taken_or_active,1,43
-agent user,agentuser.ai,.ai,taken_or_active,1,43
-agent user,agentuser.io,.io,maybe_available,1,43
+infinite canvas,infinitecanvas.com,.com,taken_or_active,1,43
+infinite canvas,infinitecanvas.ai,.ai,taken_or_active,1,43
+infinite canvas,infinitecanvas.io,.io,taken_or_active,1,43
+canvas people,canvaspeople.com,.com,taken_or_active,1,43
+canvas people,canvaspeople.ai,.ai,maybe_available,1,43
+canvas people,canvaspeople.io,.io,maybe_available,1,43
 investigate whether,investigatewhether.com,.com,maybe_available,3,42
 investigate whether,investigatewhether.ai,.ai,maybe_available,3,42
 investigate whether,investigatewhether.io,.io,maybe_available,3,42
@@ -125,9 +131,9 @@ skill granularity,skillgranularity.io,.io,maybe_available,3,42
 fine-grained control,finegrainedcontrol.com,.com,maybe_available,3,42
 fine-grained control,finegrainedcontrol.ai,.ai,maybe_available,3,42
 fine-grained control,finegrainedcontrol.io,.io,maybe_available,3,42
-harness built,harnessbuilt.com,.com,taken_or_active,2,42
-harness built,harnessbuilt.ai,.ai,maybe_available,2,42
-harness built,harnessbuilt.io,.io,maybe_available,2,42
+its weights,itsweights.com,.com,maybe_available,2,42
+its weights,itsweights.ai,.ai,maybe_available,2,42
+its weights,itsweights.io,.io,maybe_available,2,42
 converge toward,convergetoward.com,.com,maybe_available,2,42
 converge toward,convergetoward.ai,.ai,maybe_available,2,42
 converge toward,convergetoward.io,.io,maybe_available,2,42
@@ -323,15 +329,24 @@ post-hoc fsl,posthocfsl.io,.io,maybe_available,2,42
 peer review,peerreview.com,.com,taken_or_active,2,42
 peer review,peerreview.ai,.ai,maybe_available,2,42
 peer review,peerreview.io,.io,taken_or_active,2,42
-claude code,claudecode.com,.com,maybe_available,2,42
-claude code,claudecode.ai,.ai,taken_or_active,2,42
-claude code,claudecode.io,.io,taken_or_active,2,42
 catastrophic forgetting,catastrophicforgetting.com,.com,taken_or_active,3,41
 catastrophic forgetting,catastrophicforgetting.ai,.ai,maybe_available,3,41
 catastrophic forgetting,catastrophicforgetting.io,.io,maybe_available,3,41
+warn double agents,warndoubleagents.com,.com,maybe_available,1,36
+warn double agents,warndoubleagents.ai,.ai,maybe_available,1,36
+warn double agents,warndoubleagents.io,.io,maybe_available,1,36
+double agents amid,doubleagentsamid.com,.com,maybe_available,1,36
+double agents amid,doubleagentsamid.ai,.ai,maybe_available,1,36
+double agents amid,doubleagentsamid.io,.io,maybe_available,1,36
+agents amid banks,agentsamidbanks.com,.com,maybe_available,1,36
+agents amid banks,agentsamidbanks.ai,.ai,maybe_available,1,36
+agents amid banks,agentsamidbanks.io,.io,maybe_available,1,36
 graph soft prompting,graphsoftprompting.com,.com,maybe_available,2,35
 graph soft prompting,graphsoftprompting.ai,.ai,maybe_available,2,35
 graph soft prompting,graphsoftprompting.io,.io,maybe_available,2,35
+privacy security,privacysecurity.com,.com,taken_or_active,2,34
+privacy security,privacysecurity.ai,.ai,maybe_available,2,34
+privacy security,privacysecurity.io,.io,maybe_available,2,34
 candidate solutions,candidatesolutions.com,.com,taken_or_active,2,34
 candidate solutions,candidatesolutions.ai,.ai,maybe_available,2,34
 candidate solutions,candidatesolutions.io,.io,maybe_available,2,34
@@ -542,60 +557,42 @@ malicious requests,maliciousrequests.io,.io,maybe_available,2,34
 herd harness-evolving,herdharnessevolving.com,.com,maybe_available,2,34
 herd harness-evolving,herdharnessevolving.ai,.ai,maybe_available,2,34
 herd harness-evolving,herdharnessevolving.io,.io,maybe_available,2,34
-strongly worded,stronglyworded.com,.com,maybe_available,1,34
-strongly worded,stronglyworded.ai,.ai,maybe_available,1,34
-strongly worded,stronglyworded.io,.io,maybe_available,1,34
-worded letter,wordedletter.com,.com,maybe_available,1,34
-worded letter,wordedletter.ai,.ai,maybe_available,1,34
-worded letter,wordedletter.io,.io,maybe_available,1,34
-letter mistakes,lettermistakes.com,.com,maybe_available,1,34
-letter mistakes,lettermistakes.ai,.ai,maybe_available,1,34
-letter mistakes,lettermistakes.io,.io,maybe_available,1,34
-mistakes claude,mistakesclaude.com,.com,maybe_available,1,34
-mistakes claude,mistakesclaude.ai,.ai,maybe_available,1,34
-mistakes claude,mistakesclaude.io,.io,maybe_available,1,34
-claude makes,claudemakes.com,.com,maybe_available,1,34
-claude makes,claudemakes.ai,.ai,maybe_available,1,34
-claude makes,claudemakes.io,.io,maybe_available,1,34
-makes hardware,makeshardware.com,.com,maybe_available,1,34
-makes hardware,makeshardware.ai,.ai,maybe_available,1,34
-makes hardware,makeshardware.io,.io,maybe_available,1,34
-hardware loop,hardwareloop.com,.com,taken_or_active,1,34
-hardware loop,hardwareloop.ai,.ai,maybe_available,1,34
-hardware loop,hardwareloop.io,.io,maybe_available,1,34
-text unnatural,textunnatural.com,.com,maybe_available,1,34
-text unnatural,textunnatural.ai,.ai,maybe_available,1,34
-text unnatural,textunnatural.io,.io,maybe_available,1,34
-unnatural built,unnaturalbuilt.com,.com,maybe_available,1,34
-unnatural built,unnaturalbuilt.ai,.ai,maybe_available,1,34
-unnatural built,unnaturalbuilt.io,.io,maybe_available,1,34
-sun zhiwei,sunzhiwei.com,.com,taken_or_active,1,34
-sun zhiwei,sunzhiwei.ai,.ai,maybe_available,1,34
-sun zhiwei,sunzhiwei.io,.io,maybe_available,1,34
-zhiwei proposes,zhiweiproposes.com,.com,maybe_available,1,34
-zhiwei proposes,zhiweiproposes.ai,.ai,maybe_available,1,34
-zhiwei proposes,zhiweiproposes.io,.io,maybe_available,1,34
-kucedr friday,kucedrfriday.com,.com,maybe_available,1,34
-kucedr friday,kucedrfriday.ai,.ai,maybe_available,1,34
-kucedr friday,kucedrfriday.io,.io,maybe_available,1,34
-friday desktop,fridaydesktop.com,.com,maybe_available,1,34
-friday desktop,fridaydesktop.ai,.ai,maybe_available,1,34
-friday desktop,fridaydesktop.io,.io,maybe_available,1,34
-runs machine,runsmachine.com,.com,taken_or_active,1,34
-runs machine,runsmachine.ai,.ai,maybe_available,1,34
-runs machine,runsmachine.io,.io,maybe_available,1,34
-lobsters rename,lobstersrename.com,.com,maybe_available,1,34
-lobsters rename,lobstersrename.ai,.ai,maybe_available,1,34
-lobsters rename,lobstersrename.io,.io,maybe_available,1,34
-become top-tier,becometoptier.com,.com,taken_or_active,1,34
-become top-tier,becometoptier.ai,.ai,maybe_available,1,34
-become top-tier,becometoptier.io,.io,maybe_available,1,34
-ukraine wiping,ukrainewiping.com,.com,maybe_available,1,34
-ukraine wiping,ukrainewiping.ai,.ai,maybe_available,1,34
-ukraine wiping,ukrainewiping.io,.io,maybe_available,1,34
-wiping russian,wipingrussian.com,.com,maybe_available,1,34
-wiping russian,wipingrussian.ai,.ai,maybe_available,1,34
-wiping russian,wipingrussian.io,.io,maybe_available,1,34
+daddy long-legs,daddylonglegs.com,.com,taken_or_active,1,34
+daddy long-legs,daddylonglegs.ai,.ai,maybe_available,1,34
+daddy long-legs,daddylonglegs.io,.io,maybe_available,1,34
+long-legs weird,longlegsweird.com,.com,maybe_available,1,34
+long-legs weird,longlegsweird.ai,.ai,maybe_available,1,34
+long-legs weird,longlegsweird.io,.io,maybe_available,1,34
+weird wonderful,weirdwonderful.com,.com,taken_or_active,1,34
+weird wonderful,weirdwonderful.ai,.ai,maybe_available,1,34
+weird wonderful,weirdwonderful.io,.io,maybe_available,1,34
+brief history,briefhistory.com,.com,taken_or_active,1,34
+brief history,briefhistory.ai,.ai,maybe_available,1,34
+brief history,briefhistory.io,.io,maybe_available,1,34
+power plants,powerplants.com,.com,taken_or_active,1,34
+power plants,powerplants.ai,.ai,taken_or_active,1,34
+power plants,powerplants.io,.io,maybe_available,1,34
+plants data,plantsdata.com,.com,taken_or_active,1,34
+plants data,plantsdata.ai,.ai,maybe_available,1,34
+plants data,plantsdata.io,.io,maybe_available,1,34
+data centers,datacenters.com,.com,taken_or_active,1,34
+data centers,datacenters.ai,.ai,taken_or_active,1,34
+data centers,datacenters.io,.io,maybe_available,1,34
+mace founders,macefounders.com,.com,maybe_available,1,34
+mace founders,macefounders.ai,.ai,maybe_available,1,34
+mace founders,macefounders.io,.io,maybe_available,1,34
+founders warn,founderswarn.com,.com,maybe_available,1,34
+founders warn,founderswarn.ai,.ai,maybe_available,1,34
+founders warn,founderswarn.io,.io,maybe_available,1,34
+warn double,warndouble.com,.com,maybe_available,1,34
+warn double,warndouble.ai,.ai,maybe_available,1,34
+warn double,warndouble.io,.io,maybe_available,1,34
+amid banks,amidbanks.com,.com,maybe_available,1,34
+amid banks,amidbanks.ai,.ai,maybe_available,1,34
+amid banks,amidbanks.io,.io,maybe_available,1,34
+banks detecting,banksdetecting.com,.com,maybe_available,1,34
+banks detecting,banksdetecting.ai,.ai,maybe_available,1,34
+banks detecting,banksdetecting.io,.io,maybe_available,1,34
 conservative meta-agent,conservativemetaagent.com,.com,maybe_available,2,33
 conservative meta-agent,conservativemetaagent.ai,.ai,maybe_available,2,33
 conservative meta-agent,conservativemetaagent.io,.io,maybe_available,2,33
@@ -605,21 +602,9 @@ agentphishing benchmark,agentphishingbenchmark.io,.io,maybe_available,2,33
 on-policy distillation,onpolicydistillation.com,.com,maybe_available,3,32
 on-policy distillation,onpolicydistillation.ai,.ai,maybe_available,3,32
 on-policy distillation,onpolicydistillation.io,.io,maybe_available,3,32
-friday desktop agent,fridaydesktopagent.com,.com,maybe_available,1,27
-friday desktop agent,fridaydesktopagent.ai,.ai,maybe_available,1,27
-friday desktop agent,fridaydesktopagent.io,.io,maybe_available,1,27
-desktop agent runs,desktopagentruns.com,.com,maybe_available,1,27
-desktop agent runs,desktopagentruns.ai,.ai,maybe_available,1,27
-desktop agent runs,desktopagentruns.io,.io,maybe_available,1,27
-agent runs machine,agentrunsmachine.com,.com,maybe_available,1,27
-agent runs machine,agentrunsmachine.ai,.ai,maybe_available,1,27
-agent runs machine,agentrunsmachine.io,.io,maybe_available,1,27
-become top-tier agent,becometoptieragent.com,.com,maybe_available,1,27
-become top-tier agent,becometoptieragent.ai,.ai,maybe_available,1,27
-become top-tier agent,becometoptieragent.io,.io,maybe_available,1,27
-top-tier agent user,toptieragentuser.com,.com,maybe_available,1,27
-top-tier agent user,toptieragentuser.ai,.ai,maybe_available,1,27
-top-tier agent user,toptieragentuser.io,.io,maybe_available,1,27
+infinite canvas people,infinitecanvaspeople.com,.com,maybe_available,1,27
+infinite canvas people,infinitecanvaspeople.ai,.ai,maybe_available,1,27
+infinite canvas people,infinitecanvaspeople.io,.io,maybe_available,1,27
 random features fully,randomfeaturesfully.com,.com,maybe_available,2,26
 random features fully,randomfeaturesfully.ai,.ai,maybe_available,2,26
 random features fully,randomfeaturesfully.io,.io,maybe_available,2,26
@@ -650,24 +635,18 @@ complex user intents,complexuserintents.io,.io,maybe_available,2,26
 speech recognition asr,speechrecognitionasr.com,.com,maybe_available,2,26
 speech recognition asr,speechrecognitionasr.ai,.ai,maybe_available,2,26
 speech recognition asr,speechrecognitionasr.io,.io,maybe_available,2,26
-chinese mathematician,chinesemathematician.com,.com,maybe_available,1,26
-chinese mathematician,chinesemathematician.ai,.ai,maybe_available,1,26
-chinese mathematician,chinesemathematician.io,.io,maybe_available,1,26
-mathematician sun,mathematiciansun.com,.com,maybe_available,1,26
-mathematician sun,mathematiciansun.ai,.ai,maybe_available,1,26
-mathematician sun,mathematiciansun.io,.io,maybe_available,1,26
-proposes problems,proposesproblems.com,.com,maybe_available,1,26
-proposes problems,proposesproblems.ai,.ai,maybe_available,1,26
-proposes problems,proposesproblems.io,.io,maybe_available,1,26
-problems challenge,problemschallenge.com,.com,maybe_available,1,26
-problems challenge,problemschallenge.ai,.ai,maybe_available,1,26
-problems challenge,problemschallenge.io,.io,maybe_available,1,26
-rename vibecoding,renamevibecoding.com,.com,maybe_available,1,26
-rename vibecoding,renamevibecoding.ai,.ai,maybe_available,1,26
-rename vibecoding,renamevibecoding.io,.io,maybe_available,1,26
-greasemonkey script,greasemonkeyscript.com,.com,maybe_available,1,26
-greasemonkey script,greasemonkeyscript.ai,.ai,maybe_available,1,26
-greasemonkey script,greasemonkeyscript.io,.io,maybe_available,1,26
+wonderful railway,wonderfulrailway.com,.com,maybe_available,1,26
+wonderful railway,wonderfulrailway.ai,.ai,maybe_available,1,26
+wonderful railway,wonderfulrailway.io,.io,maybe_available,1,26
+history containers,historycontainers.com,.com,maybe_available,1,26
+history containers,historycontainers.ai,.ai,maybe_available,1,26
+history containers,historycontainers.io,.io,maybe_available,1,26
+multipeer multiplayer,multipeermultiplayer.com,.com,maybe_available,1,26
+multipeer multiplayer,multipeermultiplayer.ai,.ai,maybe_available,1,26
+multipeer multiplayer,multipeermultiplayer.io,.io,maybe_available,1,26
+multiplayer infinite,multiplayerinfinite.com,.com,maybe_available,1,26
+multiplayer infinite,multiplayerinfinite.ai,.ai,maybe_available,1,26
+multiplayer infinite,multiplayerinfinite.io,.io,maybe_available,1,26
 sensorimotor alignment,sensorimotoralignment.com,.com,maybe_available,2,24
 sensorimotor alignment,sensorimotoralignment.ai,.ai,maybe_available,2,24
 sensorimotor alignment,sensorimotoralignment.io,.io,maybe_available,2,24
@@ -698,33 +677,30 @@ performance prediction,performanceprediction.io,.io,maybe_available,2,24
 recursive distillation,recursivedistillation.com,.com,maybe_available,2,24
 recursive distillation,recursivedistillation.ai,.ai,maybe_available,2,24
 recursive distillation,recursivedistillation.io,.io,maybe_available,2,24
-strongly worded letter,stronglywordedletter.com,.com,taken_or_active,1,18
-strongly worded letter,stronglywordedletter.ai,.ai,maybe_available,1,18
-strongly worded letter,stronglywordedletter.io,.io,maybe_available,1,18
-worded letter mistakes,wordedlettermistakes.com,.com,maybe_available,1,18
-worded letter mistakes,wordedlettermistakes.ai,.ai,maybe_available,1,18
-worded letter mistakes,wordedlettermistakes.io,.io,maybe_available,1,18
-letter mistakes claude,lettermistakesclaude.com,.com,maybe_available,1,18
-letter mistakes claude,lettermistakesclaude.ai,.ai,maybe_available,1,18
-letter mistakes claude,lettermistakesclaude.io,.io,maybe_available,1,18
-mistakes claude makes,mistakesclaudemakes.com,.com,maybe_available,1,18
-mistakes claude makes,mistakesclaudemakes.ai,.ai,maybe_available,1,18
-mistakes claude makes,mistakesclaudemakes.io,.io,maybe_available,1,18
-claude makes hardware,claudemakeshardware.com,.com,maybe_available,1,18
-claude makes hardware,claudemakeshardware.ai,.ai,maybe_available,1,18
-claude makes hardware,claudemakeshardware.io,.io,maybe_available,1,18
-makes hardware loop,makeshardwareloop.com,.com,maybe_available,1,18
-makes hardware loop,makeshardwareloop.ai,.ai,maybe_available,1,18
-makes hardware loop,makeshardwareloop.io,.io,maybe_available,1,18
-text unnatural built,textunnaturalbuilt.com,.com,maybe_available,1,18
-text unnatural built,textunnaturalbuilt.ai,.ai,maybe_available,1,18
-text unnatural built,textunnaturalbuilt.io,.io,maybe_available,1,18
-sun zhiwei proposes,sunzhiweiproposes.com,.com,maybe_available,1,18
-sun zhiwei proposes,sunzhiweiproposes.ai,.ai,maybe_available,1,18
-sun zhiwei proposes,sunzhiweiproposes.io,.io,maybe_available,1,18
-kucedr friday desktop,kucedrfridaydesktop.com,.com,maybe_available,1,18
-kucedr friday desktop,kucedrfridaydesktop.ai,.ai,maybe_available,1,18
-kucedr friday desktop,kucedrfridaydesktop.io,.io,maybe_available,1,18
+1970s till,1970still.com,.com,maybe_available,1,19
+1970s till,1970still.ai,.ai,maybe_available,1,19
+1970s till,1970still.io,.io,maybe_available,1,19
+350b power,350bpower.com,.com,maybe_available,1,19
+350b power,350bpower.ai,.ai,maybe_available,1,19
+350b power,350bpower.io,.io,maybe_available,1,19
+daddy long-legs weird,daddylonglegsweird.com,.com,maybe_available,1,18
+daddy long-legs weird,daddylonglegsweird.ai,.ai,maybe_available,1,18
+daddy long-legs weird,daddylonglegsweird.io,.io,maybe_available,1,18
+power plants data,powerplantsdata.com,.com,maybe_available,1,18
+power plants data,powerplantsdata.ai,.ai,maybe_available,1,18
+power plants data,powerplantsdata.io,.io,maybe_available,1,18
+plants data centers,plantsdatacenters.com,.com,maybe_available,1,18
+plants data centers,plantsdatacenters.ai,.ai,maybe_available,1,18
+plants data centers,plantsdatacenters.io,.io,maybe_available,1,18
+mace founders warn,macefounderswarn.com,.com,maybe_available,1,18
+mace founders warn,macefounderswarn.ai,.ai,maybe_available,1,18
+mace founders warn,macefounderswarn.io,.io,maybe_available,1,18
+founders warn double,founderswarndouble.com,.com,maybe_available,1,18
+founders warn double,founderswarndouble.ai,.ai,maybe_available,1,18
+founders warn double,founderswarndouble.io,.io,maybe_available,1,18
+amid banks detecting,amidbanksdetecting.com,.com,maybe_available,1,18
+amid banks detecting,amidbanksdetecting.ai,.ai,maybe_available,1,18
+amid banks detecting,amidbanksdetecting.io,.io,maybe_available,1,18
 local anomaly detection,localanomalydetection.com,.com,maybe_available,2,16
 local anomaly detection,localanomalydetection.ai,.ai,maybe_available,2,16
 local anomaly detection,localanomalydetection.io,.io,maybe_available,2,16
@@ -740,12 +716,36 @@ video anomaly detection,videoanomalydetection.io,.io,maybe_available,2,16
 feature selection layer,featureselectionlayer.com,.com,maybe_available,2,16
 feature selection layer,featureselectionlayer.ai,.ai,maybe_available,2,16
 feature selection layer,featureselectionlayer.io,.io,maybe_available,2,16
-vibecoding greasemonkey,vibecodinggreasemonkey.com,.com,maybe_available,1,16
-vibecoding greasemonkey,vibecodinggreasemonkey.ai,.ai,maybe_available,1,16
-vibecoding greasemonkey,vibecodinggreasemonkey.io,.io,maybe_available,1,16
-mathematician sun zhiwei,mathematiciansunzhiwei.com,.com,maybe_available,1,8
-mathematician sun zhiwei,mathematiciansunzhiwei.ai,.ai,maybe_available,1,8
-mathematician sun zhiwei,mathematiciansunzhiwei.io,.io,maybe_available,1,8
-zhiwei proposes problems,zhiweiproposesproblems.com,.com,maybe_available,1,8
-zhiwei proposes problems,zhiweiproposesproblems.ai,.ai,maybe_available,1,8
-zhiwei proposes problems,zhiweiproposesproblems.io,.io,maybe_available,1,8
+till now,tillnow.com,.com,taken_or_active,1,16
+till now,tillnow.ai,.ai,taken_or_active,1,16
+till now,tillnow.io,.io,maybe_available,1,16
+detecting unauthorized,detectingunauthorized.com,.com,maybe_available,1,16
+detecting unauthorized,detectingunauthorized.ai,.ai,maybe_available,1,16
+detecting unauthorized,detectingunauthorized.io,.io,maybe_available,1,16
+containers 1970s,containers1970s.com,.com,maybe_available,1,11
+containers 1970s,containers1970s.ai,.ai,maybe_available,1,11
+containers 1970s,containers1970s.io,.io,maybe_available,1,11
+1970s till now,1970stillnow.com,.com,maybe_available,1,11
+1970s till now,1970stillnow.ai,.ai,maybe_available,1,11
+1970s till now,1970stillnow.io,.io,maybe_available,1,11
+5gw 350b power,5gw350bpower.com,.com,maybe_available,1,11
+5gw 350b power,5gw350bpower.ai,.ai,maybe_available,1,11
+5gw 350b power,5gw350bpower.io,.io,maybe_available,1,11
+weird wonderful railway,weirdwonderfulrailway.com,.com,maybe_available,1,8
+weird wonderful railway,weirdwonderfulrailway.ai,.ai,maybe_available,1,8
+weird wonderful railway,weirdwonderfulrailway.io,.io,maybe_available,1,8
+brief history containers,briefhistorycontainers.com,.com,maybe_available,1,8
+brief history containers,briefhistorycontainers.ai,.ai,maybe_available,1,8
+brief history containers,briefhistorycontainers.io,.io,maybe_available,1,8
+containers 1970s till,containers1970still.com,.com,maybe_available,1,3
+containers 1970s till,containers1970still.ai,.ai,maybe_available,1,3
+containers 1970s till,containers1970still.io,.io,maybe_available,1,3
+350b power plants,350bpowerplants.com,.com,maybe_available,1,3
+350b power plants,350bpowerplants.ai,.ai,maybe_available,1,3
+350b power plants,350bpowerplants.io,.io,maybe_available,1,3
+5gw 350b,5gw350b.com,.com,maybe_available,1,1
+5gw 350b,5gw350b.ai,.ai,maybe_available,1,1
+5gw 350b,5gw350b.io,.io,maybe_available,1,1
+history containers 1970s,historycontainers1970s.com,.com,maybe_available,1,0
+history containers 1970s,historycontainers1970s.ai,.ai,maybe_available,1,0
+history containers 1970s,historycontainers1970s.io,.io,maybe_available,1,0

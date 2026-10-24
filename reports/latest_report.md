@@ -1,11 +1,11 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-23 09:52
+Rapor zamanı: 2026-10-24 09:23
 
 ## Kaynak sayıları
-- Hacker News: 39
+- Hacker News: 43
 - arXiv: 75
-- GitHub Trending: 6
+- GitHub Trending: 4
 
 ## Bugünün domain adayları
 
@@ -24,12 +24,12 @@ Rapor zamanı: 2026-10-23 09:52
 | 11 | languageagents.io | 60/100 | language agents | maybe_available |
 | 12 | graphsoft.ai | 59/100 | graph soft | maybe_available |
 | 13 | graphsoft.io | 59/100 | graph soft | maybe_available |
-| 14 | knowledgegraph.io | 59/100 | knowledge graph | maybe_available |
-| 15 | priorwork.ai | 58/100 | prior work | maybe_available |
-| 16 | priorwork.io | 58/100 | prior work | maybe_available |
-| 17 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
-| 18 | benchmarkevaluating.com | 51/100 | benchmark evaluating | maybe_available |
-| 19 | benchmarkevaluating.ai | 51/100 | benchmark evaluating | maybe_available |
-| 20 | benchmarkevaluating.io | 51/100 | benchmark evaluating | maybe_available |
+| 14 | applesilicon.ai | 58/100 | apple silicon | maybe_available |
+| 15 | applesilicon.io | 58/100 | apple silicon | maybe_available |
+| 16 | priorwork.ai | 58/100 | prior work | maybe_available |
+| 17 | priorwork.io | 58/100 | prior work | maybe_available |
+| 18 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
+| 19 | peopleagents.ai | 52/100 | people agents | maybe_available |
+| 20 | peopleagents.io | 52/100 | people agents | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
