@@ -1,11 +1,11 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-24 09:23
+Rapor zamanı: 2026-10-25 09:41
 
 ## Kaynak sayıları
-- Hacker News: 43
+- Hacker News: 31
 - arXiv: 75
-- GitHub Trending: 4
+- GitHub Trending: 9
 
 ## Bugünün domain adayları
 
@@ -24,12 +24,12 @@ Rapor zamanı: 2026-10-24 09:23
 | 11 | languageagents.io | 60/100 | language agents | maybe_available |
 | 12 | graphsoft.ai | 59/100 | graph soft | maybe_available |
 | 13 | graphsoft.io | 59/100 | graph soft | maybe_available |
-| 14 | applesilicon.ai | 58/100 | apple silicon | maybe_available |
-| 15 | applesilicon.io | 58/100 | apple silicon | maybe_available |
-| 16 | priorwork.ai | 58/100 | prior work | maybe_available |
-| 17 | priorwork.io | 58/100 | prior work | maybe_available |
-| 18 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
-| 19 | peopleagents.ai | 52/100 | people agents | maybe_available |
-| 20 | peopleagents.io | 52/100 | people agents | maybe_available |
+| 14 | priorwork.ai | 58/100 | prior work | maybe_available |
+| 15 | priorwork.io | 58/100 | prior work | maybe_available |
+| 16 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
+| 17 | benchmarkevaluating.com | 51/100 | benchmark evaluating | maybe_available |
+| 18 | benchmarkevaluating.ai | 51/100 | benchmark evaluating | maybe_available |
+| 19 | benchmarkevaluating.io | 51/100 | benchmark evaluating | maybe_available |
+| 20 | controlevaluations.com | 51/100 | control evaluations | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
