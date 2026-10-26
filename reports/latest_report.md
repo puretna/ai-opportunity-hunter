@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-25 09:41
+Rapor zamanı: 2026-10-26 10:54
 
 ## Kaynak sayıları
-- Hacker News: 31
+- Hacker News: 34
 - arXiv: 75
 - GitHub Trending: 9
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-10-25 09:41
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | continuallearning.io | 74/100 | continual learning | maybe_available |
-| 2 | agentsretrieve.com | 60/100 | agents retrieve | maybe_available |
-| 3 | agentsretrieve.ai | 60/100 | agents retrieve | maybe_available |
-| 4 | agentsretrieve.io | 60/100 | agents retrieve | maybe_available |
-| 5 | recoveryagents.ai | 60/100 | recovery agents | maybe_available |
-| 6 | recoveryagents.io | 60/100 | recovery agents | maybe_available |
-| 7 | agentsmissing.com | 60/100 | agents missing | maybe_available |
-| 8 | agentsmissing.ai | 60/100 | agents missing | maybe_available |
-| 9 | agentsmissing.io | 60/100 | agents missing | maybe_available |
-| 10 | languageagents.ai | 60/100 | language agents | maybe_available |
-| 11 | languageagents.io | 60/100 | language agents | maybe_available |
-| 12 | graphsoft.ai | 59/100 | graph soft | maybe_available |
-| 13 | graphsoft.io | 59/100 | graph soft | maybe_available |
-| 14 | priorwork.ai | 58/100 | prior work | maybe_available |
-| 15 | priorwork.io | 58/100 | prior work | maybe_available |
-| 16 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
-| 17 | benchmarkevaluating.com | 51/100 | benchmark evaluating | maybe_available |
-| 18 | benchmarkevaluating.ai | 51/100 | benchmark evaluating | maybe_available |
-| 19 | benchmarkevaluating.io | 51/100 | benchmark evaluating | maybe_available |
-| 20 | controlevaluations.com | 51/100 | control evaluations | maybe_available |
+| 1 | reinforcementlearning.io | 80/100 | reinforcement learning | maybe_available |
+| 2 | knowledgegraph.io | 67/100 | knowledge graph | maybe_available |
+| 3 | agentsrequires.com | 60/100 | agents requires | maybe_available |
+| 4 | agentsrequires.ai | 60/100 | agents requires | maybe_available |
+| 5 | agentsrequires.io | 60/100 | agents requires | maybe_available |
+| 6 | causaleffect.ai | 58/100 | causal effect | maybe_available |
+| 7 | causaleffect.io | 58/100 | causal effect | maybe_available |
+| 8 | sparselinear.com | 58/100 | sparse linear | maybe_available |
+| 9 | sparselinear.ai | 58/100 | sparse linear | maybe_available |
+| 10 | sparselinear.io | 58/100 | sparse linear | maybe_available |
+| 11 | translationtools.ai | 52/100 | translation tools | maybe_available |
+| 12 | translationtools.io | 52/100 | translation tools | maybe_available |
+| 13 | languagemodelagents.com | 52/100 | language-model agents | maybe_available |
+| 14 | languagemodelagents.ai | 52/100 | language-model agents | maybe_available |
+| 15 | languagemodelagents.io | 52/100 | language-model agents | maybe_available |
+| 16 | agentsbuilt.ai | 52/100 | agents built | maybe_available |
+| 17 | persianretrieval.com | 51/100 | persian retrieval | maybe_available |
+| 18 | persianretrieval.ai | 51/100 | persian retrieval | maybe_available |
+| 19 | persianretrieval.io | 51/100 | persian retrieval | maybe_available |
+| 20 | robotactions.ai | 51/100 | robot actions | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
