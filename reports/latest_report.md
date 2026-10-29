@@ -1,11 +1,11 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-28 11:10
+Rapor zamanı: 2026-10-29 11:24
 
 ## Kaynak sayıları
-- Hacker News: 37
+- Hacker News: 35
 - arXiv: 75
-- GitHub Trending: 11
+- GitHub Trending: 9
 
 ## Bugünün domain adayları
 
@@ -30,6 +30,6 @@ Rapor zamanı: 2026-10-28 11:10
 | 17 | taskadvancement.com | 58/100 | task advancement | maybe_available |
 | 18 | taskadvancement.ai | 58/100 | task advancement | maybe_available |
 | 19 | taskadvancement.io | 58/100 | task advancement | maybe_available |
-| 20 | memorystate.io | 51/100 | memory state | maybe_available |
+| 20 | toolskeep.com | 52/100 | tools keep | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
