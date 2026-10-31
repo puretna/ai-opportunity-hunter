@@ -20,6 +20,9 @@ agents taste,agentstaste.io,.io,maybe_available,2,60
 language agents,languageagents.com,.com,taken_or_active,2,60
 language agents,languageagents.ai,.ai,maybe_available,2,60
 language agents,languageagents.io,.io,maybe_available,2,60
+coding agent,codingagent.com,.com,taken_or_active,3,59
+coding agent,codingagent.ai,.ai,taken_or_active,3,59
+coding agent,codingagent.io,.io,taken_or_active,3,59
 lineage context,lineagecontext.com,.com,taken_or_active,3,59
 lineage context,lineagecontext.ai,.ai,maybe_available,3,59
 lineage context,lineagecontext.io,.io,maybe_available,3,59
@@ -38,9 +41,6 @@ computer-using agents,computerusingagents.io,.io,maybe_available,2,52
 voice-cloning tts,voicecloningtts.com,.com,maybe_available,3,51
 voice-cloning tts,voicecloningtts.ai,.ai,maybe_available,3,51
 voice-cloning tts,voicecloningtts.io,.io,maybe_available,3,51
-coding agent,codingagent.com,.com,taken_or_active,2,51
-coding agent,codingagent.ai,.ai,taken_or_active,2,51
-coding agent,codingagent.io,.io,taken_or_active,2,51
 agent skills,agentskills.com,.com,taken_or_active,2,51
 agent skills,agentskills.ai,.ai,taken_or_active,2,51
 agent skills,agentskills.io,.io,taken_or_active,2,51
@@ -116,6 +116,15 @@ moisture estimation,moistureestimation.io,.io,maybe_available,3,42
 behavioral drift,behavioraldrift.com,.com,taken_or_active,3,42
 behavioral drift,behavioraldrift.ai,.ai,maybe_available,3,42
 behavioral drift,behavioraldrift.io,.io,maybe_available,3,42
+patch gap,patchgap.com,.com,taken_or_active,2,42
+patch gap,patchgap.ai,.ai,maybe_available,2,42
+patch gap,patchgap.io,.io,maybe_available,2,42
+real people,realpeople.com,.com,taken_or_active,2,42
+real people,realpeople.ai,.ai,taken_or_active,2,42
+real people,realpeople.io,.io,taken_or_active,2,42
+claude ultra,claudeultra.com,.com,taken_or_active,2,42
+claude ultra,claudeultra.ai,.ai,maybe_available,2,42
+claude ultra,claudeultra.io,.io,maybe_available,2,42
 design space,designspace.com,.com,taken_or_active,2,42
 design space,designspace.ai,.ai,taken_or_active,2,42
 design space,designspace.io,.io,taken_or_active,2,42
@@ -512,81 +521,66 @@ audio classifiers,audioclassifiers.io,.io,maybe_available,2,34
 these conjectures,theseconjectures.com,.com,maybe_available,2,34
 these conjectures,theseconjectures.ai,.ai,maybe_available,2,34
 these conjectures,theseconjectures.io,.io,maybe_available,2,34
-learn inference,learninference.com,.com,maybe_available,1,34
-learn inference,learninference.ai,.ai,maybe_available,1,34
-learn inference,learninference.io,.io,maybe_available,1,34
-system apple,systemapple.com,.com,maybe_available,1,34
-system apple,systemapple.ai,.ai,maybe_available,1,34
-system apple,systemapple.io,.io,maybe_available,1,34
-apple silicon,applesilicon.com,.com,taken_or_active,1,34
-apple silicon,applesilicon.ai,.ai,maybe_available,1,34
-apple silicon,applesilicon.io,.io,maybe_available,1,34
-official claude,officialclaude.com,.com,maybe_available,1,34
-official claude,officialclaude.ai,.ai,maybe_available,1,34
-official claude,officialclaude.io,.io,maybe_available,1,34
-code extensions,codeextensions.com,.com,taken_or_active,1,34
-code extensions,codeextensions.ai,.ai,maybe_available,1,34
-code extensions,codeextensions.io,.io,maybe_available,1,34
-ports worldwide,portsworldwide.com,.com,maybe_available,1,34
-ports worldwide,portsworldwide.ai,.ai,maybe_available,1,34
-ports worldwide,portsworldwide.io,.io,maybe_available,1,34
-strike against,strikeagainst.com,.com,taken_or_active,1,34
-strike against,strikeagainst.ai,.ai,maybe_available,1,34
-strike against,strikeagainst.io,.io,maybe_available,1,34
-against arms,againstarms.com,.com,maybe_available,1,34
-against arms,againstarms.ai,.ai,maybe_available,1,34
-against arms,againstarms.io,.io,maybe_available,1,34
-arms shipments,armsshipments.com,.com,maybe_available,1,34
-arms shipments,armsshipments.ai,.ai,maybe_available,1,34
-arms shipments,armsshipments.io,.io,maybe_available,1,34
-refuse pay,refusepay.com,.com,taken_or_active,1,34
-refuse pay,refusepay.ai,.ai,maybe_available,1,34
-refuse pay,refusepay.io,.io,maybe_available,1,34
-pay business,paybusiness.com,.com,taken_or_active,1,34
-pay business,paybusiness.ai,.ai,maybe_available,1,34
-pay business,paybusiness.io,.io,maybe_available,1,34
-business email,businessemail.com,.com,maybe_available,1,34
-business email,businessemail.ai,.ai,taken_or_active,1,34
-business email,businessemail.io,.io,taken_or_active,1,34
-email every,emailevery.com,.com,maybe_available,1,34
-email every,emailevery.ai,.ai,maybe_available,1,34
-email every,emailevery.io,.io,maybe_available,1,34
-every side,everyside.com,.com,taken_or_active,1,34
-every side,everyside.ai,.ai,taken_or_active,1,34
-every side,everyside.io,.io,maybe_available,1,34
-side project,sideproject.com,.com,taken_or_active,1,34
-side project,sideproject.ai,.ai,taken_or_active,1,34
-side project,sideproject.io,.io,taken_or_active,1,34
-moonshot asking,moonshotasking.com,.com,maybe_available,1,34
-moonshot asking,moonshotasking.ai,.ai,maybe_available,1,34
-moonshot asking,moonshotasking.io,.io,maybe_available,1,34
-disclose posts,discloseposts.com,.com,maybe_available,1,34
-disclose posts,discloseposts.ai,.ai,maybe_available,1,34
-disclose posts,discloseposts.io,.io,maybe_available,1,34
-posts paid,postspaid.com,.com,maybe_available,1,34
-posts paid,postspaid.ai,.ai,maybe_available,1,34
-posts paid,postspaid.io,.io,maybe_available,1,34
-paid promoting,paidpromoting.com,.com,maybe_available,1,34
-paid promoting,paidpromoting.ai,.ai,maybe_available,1,34
-paid promoting,paidpromoting.io,.io,maybe_available,1,34
-promoting kimi,promotingkimi.com,.com,maybe_available,1,34
-promoting kimi,promotingkimi.ai,.ai,maybe_available,1,34
-promoting kimi,promotingkimi.io,.io,maybe_available,1,34
-hacked deliver,hackeddeliver.com,.com,maybe_available,1,34
-hacked deliver,hackeddeliver.ai,.ai,maybe_available,1,34
-hacked deliver,hackeddeliver.io,.io,maybe_available,1,34
-deliver remote,deliverremote.com,.com,maybe_available,1,34
-deliver remote,deliverremote.ai,.ai,maybe_available,1,34
-deliver remote,deliverremote.io,.io,maybe_available,1,34
-remote access,remoteaccess.com,.com,taken_or_active,1,34
-remote access,remoteaccess.ai,.ai,taken_or_active,1,34
-remote access,remoteaccess.io,.io,maybe_available,1,34
-access trojan,accesstrojan.com,.com,maybe_available,1,34
-access trojan,accesstrojan.ai,.ai,maybe_available,1,34
-access trojan,accesstrojan.io,.io,maybe_available,1,34
-trojan claude,trojanclaude.com,.com,maybe_available,1,34
-trojan claude,trojanclaude.ai,.ai,maybe_available,1,34
-trojan claude,trojanclaude.io,.io,maybe_available,1,34
+cost calculator,costcalculator.com,.com,maybe_available,1,34
+cost calculator,costcalculator.ai,.ai,taken_or_active,1,34
+cost calculator,costcalculator.io,.io,taken_or_active,1,34
+token costs,tokencosts.com,.com,taken_or_active,1,34
+token costs,tokencosts.ai,.ai,taken_or_active,1,34
+token costs,tokencosts.io,.io,maybe_available,1,34
+gdpr france,gdprfrance.com,.com,maybe_available,1,34
+gdpr france,gdprfrance.ai,.ai,maybe_available,1,34
+gdpr france,gdprfrance.io,.io,maybe_available,1,34
+france imposes,franceimposes.com,.com,maybe_available,1,34
+france imposes,franceimposes.ai,.ai,maybe_available,1,34
+france imposes,franceimposes.io,.io,maybe_available,1,34
+fines per,finesper.com,.com,maybe_available,1,34
+fines per,finesper.ai,.ai,maybe_available,1,34
+fines per,finesper.io,.io,maybe_available,1,34
+per resident,perresident.com,.com,maybe_available,1,34
+per resident,perresident.ai,.ai,maybe_available,1,34
+per resident,perresident.io,.io,maybe_available,1,34
+resident spain,residentspain.com,.com,taken_or_active,1,34
+resident spain,residentspain.ai,.ai,maybe_available,1,34
+resident spain,residentspain.io,.io,maybe_available,1,34
+serbia elected,serbiaelected.com,.com,maybe_available,1,34
+serbia elected,serbiaelected.ai,.ai,maybe_available,1,34
+serbia elected,serbiaelected.io,.io,maybe_available,1,34
+elected world,electedworld.com,.com,maybe_available,1,34
+elected world,electedworld.ai,.ai,maybe_available,1,34
+elected world,electedworld.io,.io,maybe_available,1,34
+world brainiest,worldbrainiest.com,.com,maybe_available,1,34
+world brainiest,worldbrainiest.ai,.ai,maybe_available,1,34
+world brainiest,worldbrainiest.io,.io,maybe_available,1,34
+defending patch,defendingpatch.com,.com,maybe_available,1,34
+defending patch,defendingpatch.ai,.ai,maybe_available,1,34
+defending patch,defendingpatch.io,.io,maybe_available,1,34
+gap against,gapagainst.com,.com,maybe_available,1,34
+gap against,gapagainst.ai,.ai,maybe_available,1,34
+gap against,gapagainst.io,.io,maybe_available,1,34
+estimate track,estimatetrack.com,.com,taken_or_active,1,34
+estimate track,estimatetrack.ai,.ai,maybe_available,1,34
+estimate track,estimatetrack.io,.io,maybe_available,1,34
+footprint genai,footprintgenai.com,.com,maybe_available,1,34
+footprint genai,footprintgenai.ai,.ai,maybe_available,1,34
+footprint genai,footprintgenai.io,.io,maybe_available,1,34
+genai inference,genaiinference.com,.com,maybe_available,1,34
+genai inference,genaiinference.ai,.ai,maybe_available,1,34
+genai inference,genaiinference.io,.io,maybe_available,1,34
+reveal method,revealmethod.com,.com,maybe_available,1,34
+reveal method,revealmethod.ai,.ai,maybe_available,1,34
+reveal method,revealmethod.io,.io,maybe_available,1,34
+method train,methodtrain.com,.com,maybe_available,1,34
+method train,methodtrain.ai,.ai,maybe_available,1,34
+method train,methodtrain.io,.io,maybe_available,1,34
+train people,trainpeople.com,.com,taken_or_active,1,34
+train people,trainpeople.ai,.ai,taken_or_active,1,34
+train people,trainpeople.io,.io,maybe_available,1,34
+people lucid,peoplelucid.com,.com,maybe_available,1,34
+people lucid,peoplelucid.ai,.ai,maybe_available,1,34
+people lucid,peoplelucid.io,.io,maybe_available,1,34
+lucid dreams,luciddreams.com,.com,taken_or_active,1,34
+lucid dreams,luciddreams.ai,.ai,taken_or_active,1,34
+lucid dreams,luciddreams.io,.io,taken_or_active,1,34
 differential equations,differentialequations.com,.com,taken_or_active,3,32
 differential equations,differentialequations.ai,.ai,maybe_available,3,32
 differential equations,differentialequations.io,.io,maybe_available,3,32
@@ -605,33 +599,27 @@ remains unclear which,remainsunclearwhich.io,.io,maybe_available,2,26
 high-rate qldpc codes,highrateqldpccodes.com,.com,maybe_available,2,26
 high-rate qldpc codes,highrateqldpccodes.ai,.ai,maybe_available,2,26
 high-rate qldpc codes,highrateqldpccodes.io,.io,maybe_available,2,26
-training figma-fluent,trainingfigmafluent.com,.com,maybe_available,1,26
-training figma-fluent,trainingfigmafluent.ai,.ai,maybe_available,1,26
-training figma-fluent,trainingfigmafluent.io,.io,maybe_available,1,26
-figma-fluent editing,figmafluentediting.com,.com,maybe_available,1,26
-figma-fluent editing,figmafluentediting.ai,.ai,maybe_available,1,26
-figma-fluent editing,figmafluentediting.io,.io,maybe_available,1,26
-inference system,inferencesystem.com,.com,taken_or_active,1,26
-inference system,inferencesystem.ai,.ai,maybe_available,1,26
-inference system,inferencesystem.io,.io,maybe_available,1,26
-backdoors official,backdoorsofficial.com,.com,maybe_available,1,26
-backdoors official,backdoorsofficial.ai,.ai,maybe_available,1,26
-backdoors official,backdoorsofficial.io,.io,maybe_available,1,26
-worldwide strike,worldwidestrike.com,.com,maybe_available,1,26
-worldwide strike,worldwidestrike.ai,.ai,maybe_available,1,26
-worldwide strike,worldwidestrike.io,.io,maybe_available,1,26
-email every side,emaileveryside.com,.com,maybe_available,1,26
-email every side,emaileveryside.ai,.ai,maybe_available,1,26
-email every side,emaileveryside.io,.io,maybe_available,1,26
-asking influencers,askinginfluencers.com,.com,maybe_available,1,26
-asking influencers,askinginfluencers.ai,.ai,maybe_available,1,26
-asking influencers,askinginfluencers.io,.io,maybe_available,1,26
-influencers disclose,influencersdisclose.com,.com,maybe_available,1,26
-influencers disclose,influencersdisclose.ai,.ai,maybe_available,1,26
-influencers disclose,influencersdisclose.io,.io,maybe_available,1,26
-claude developer,claudedeveloper.com,.com,taken_or_active,1,26
-claude developer,claudedeveloper.ai,.ai,maybe_available,1,26
-claude developer,claudedeveloper.io,.io,maybe_available,1,26
+calculator estimate,calculatorestimate.com,.com,maybe_available,1,26
+calculator estimate,calculatorestimate.ai,.ai,maybe_available,1,26
+calculator estimate,calculatorestimate.io,.io,maybe_available,1,26
+multi-provider token,multiprovidertoken.com,.com,maybe_available,1,26
+multi-provider token,multiprovidertoken.ai,.ai,maybe_available,1,26
+multi-provider token,multiprovidertoken.io,.io,maybe_available,1,26
+free ocr cost,freeocrcost.com,.com,maybe_available,1,26
+free ocr cost,freeocrcost.ai,.ai,maybe_available,1,26
+free ocr cost,freeocrcost.io,.io,maybe_available,1,26
+brainiest parliament,brainiestparliament.com,.com,maybe_available,1,26
+brainiest parliament,brainiestparliament.ai,.ai,maybe_available,1,26
+brainiest parliament,brainiestparliament.io,.io,maybe_available,1,26
+against automated,againstautomated.com,.com,maybe_available,1,26
+against automated,againstautomated.ai,.ai,maybe_available,1,26
+against automated,againstautomated.io,.io,maybe_available,1,26
+automated attackers,automatedattackers.com,.com,maybe_available,1,26
+automated attackers,automatedattackers.ai,.ai,maybe_available,1,26
+automated attackers,automatedattackers.io,.io,maybe_available,1,26
+track environmental,trackenvironmental.com,.com,maybe_available,1,26
+track environmental,trackenvironmental.ai,.ai,maybe_available,1,26
+track environmental,trackenvironmental.io,.io,maybe_available,1,26
 soil moisture estimation,soilmoistureestimation.com,.com,maybe_available,3,24
 soil moisture estimation,soilmoistureestimation.ai,.ai,maybe_available,3,24
 soil moisture estimation,soilmoistureestimation.io,.io,maybe_available,3,24
@@ -680,57 +668,48 @@ generalized feynman-kac,generalizedfeynmankac.io,.io,maybe_available,2,24
 feynman-kac correctors,feynmankaccorrectors.com,.com,maybe_available,2,24
 feynman-kac correctors,feynmankaccorrectors.ai,.ai,maybe_available,2,24
 feynman-kac correctors,feynmankaccorrectors.io,.io,maybe_available,2,24
-dockworkers 100,dockworkers100.com,.com,maybe_available,1,19
-dockworkers 100,dockworkers100.ai,.ai,maybe_available,1,19
-dockworkers 100,dockworkers100.io,.io,maybe_available,1,19
-100 ports,100ports.com,.com,maybe_available,1,19
-100 ports,100ports.ai,.ai,maybe_available,1,19
-100 ports,100ports.io,.io,maybe_available,1,19
-learn inference system,learninferencesystem.com,.com,maybe_available,1,18
-learn inference system,learninferencesystem.ai,.ai,maybe_available,1,18
-learn inference system,learninferencesystem.io,.io,maybe_available,1,18
-inference system apple,inferencesystemapple.com,.com,maybe_available,1,18
-inference system apple,inferencesystemapple.ai,.ai,maybe_available,1,18
-inference system apple,inferencesystemapple.io,.io,maybe_available,1,18
-system apple silicon,systemapplesilicon.com,.com,maybe_available,1,18
-system apple silicon,systemapplesilicon.ai,.ai,maybe_available,1,18
-system apple silicon,systemapplesilicon.io,.io,maybe_available,1,18
-official claude code,officialclaudecode.com,.com,maybe_available,1,18
-official claude code,officialclaudecode.ai,.ai,maybe_available,1,18
-official claude code,officialclaudecode.io,.io,maybe_available,1,18
-claude code extensions,claudecodeextensions.com,.com,maybe_available,1,18
-claude code extensions,claudecodeextensions.ai,.ai,maybe_available,1,18
-claude code extensions,claudecodeextensions.io,.io,maybe_available,1,18
-ports worldwide strike,portsworldwidestrike.com,.com,maybe_available,1,18
-ports worldwide strike,portsworldwidestrike.ai,.ai,maybe_available,1,18
-ports worldwide strike,portsworldwidestrike.io,.io,maybe_available,1,18
-strike against arms,strikeagainstarms.com,.com,maybe_available,1,18
-strike against arms,strikeagainstarms.ai,.ai,maybe_available,1,18
-strike against arms,strikeagainstarms.io,.io,maybe_available,1,18
-against arms shipments,againstarmsshipments.com,.com,maybe_available,1,18
-against arms shipments,againstarmsshipments.ai,.ai,maybe_available,1,18
-against arms shipments,againstarmsshipments.io,.io,maybe_available,1,18
-refuse pay business,refusepaybusiness.com,.com,maybe_available,1,18
-refuse pay business,refusepaybusiness.ai,.ai,maybe_available,1,18
-refuse pay business,refusepaybusiness.io,.io,maybe_available,1,18
-pay business email,paybusinessemail.com,.com,maybe_available,1,18
-pay business email,paybusinessemail.ai,.ai,maybe_available,1,18
-pay business email,paybusinessemail.io,.io,maybe_available,1,18
-business email every,businessemailevery.com,.com,maybe_available,1,18
-business email every,businessemailevery.ai,.ai,maybe_available,1,18
-business email every,businessemailevery.io,.io,maybe_available,1,18
-every side project,everysideproject.com,.com,maybe_available,1,18
-every side project,everysideproject.ai,.ai,maybe_available,1,18
-every side project,everysideproject.io,.io,maybe_available,1,18
-disclose posts paid,disclosepostspaid.com,.com,maybe_available,1,18
-disclose posts paid,disclosepostspaid.ai,.ai,maybe_available,1,18
-disclose posts paid,disclosepostspaid.io,.io,maybe_available,1,18
-posts paid promoting,postspaidpromoting.com,.com,maybe_available,1,18
-posts paid promoting,postspaidpromoting.ai,.ai,maybe_available,1,18
-posts paid promoting,postspaidpromoting.io,.io,maybe_available,1,18
-paid promoting kimi,paidpromotingkimi.com,.com,maybe_available,1,18
-paid promoting kimi,paidpromotingkimi.ai,.ai,maybe_available,1,18
-paid promoting kimi,paidpromotingkimi.io,.io,maybe_available,1,18
+imposes 27x,imposes27x.com,.com,maybe_available,1,19
+imposes 27x,imposes27x.ai,.ai,maybe_available,1,19
+imposes 27x,imposes27x.io,.io,maybe_available,1,19
+27x fines,27xfines.com,.com,maybe_available,1,19
+27x fines,27xfines.ai,.ai,maybe_available,1,19
+27x fines,27xfines.io,.io,maybe_available,1,19
+ocr cost calculator,ocrcostcalculator.com,.com,maybe_available,1,18
+ocr cost calculator,ocrcostcalculator.ai,.ai,maybe_available,1,18
+ocr cost calculator,ocrcostcalculator.io,.io,maybe_available,1,18
+gdpr france imposes,gdprfranceimposes.com,.com,maybe_available,1,18
+gdpr france imposes,gdprfranceimposes.ai,.ai,maybe_available,1,18
+gdpr france imposes,gdprfranceimposes.io,.io,maybe_available,1,18
+fines per resident,finesperresident.com,.com,maybe_available,1,18
+fines per resident,finesperresident.ai,.ai,maybe_available,1,18
+fines per resident,finesperresident.io,.io,maybe_available,1,18
+per resident spain,perresidentspain.com,.com,maybe_available,1,18
+per resident spain,perresidentspain.ai,.ai,maybe_available,1,18
+per resident spain,perresidentspain.io,.io,maybe_available,1,18
+serbia elected world,serbiaelectedworld.com,.com,maybe_available,1,18
+serbia elected world,serbiaelectedworld.ai,.ai,maybe_available,1,18
+serbia elected world,serbiaelectedworld.io,.io,maybe_available,1,18
+defending patch gap,defendingpatchgap.com,.com,maybe_available,1,18
+defending patch gap,defendingpatchgap.ai,.ai,maybe_available,1,18
+defending patch gap,defendingpatchgap.io,.io,maybe_available,1,18
+patch gap against,patchgapagainst.com,.com,maybe_available,1,18
+patch gap against,patchgapagainst.ai,.ai,maybe_available,1,18
+patch gap against,patchgapagainst.io,.io,maybe_available,1,18
+gap against automated,gapagainstautomated.com,.com,maybe_available,1,18
+gap against automated,gapagainstautomated.ai,.ai,maybe_available,1,18
+gap against automated,gapagainstautomated.io,.io,maybe_available,1,18
+reveal method train,revealmethodtrain.com,.com,maybe_available,1,18
+reveal method train,revealmethodtrain.ai,.ai,maybe_available,1,18
+reveal method train,revealmethodtrain.io,.io,maybe_available,1,18
+method train people,methodtrainpeople.com,.com,maybe_available,1,18
+method train people,methodtrainpeople.ai,.ai,maybe_available,1,18
+method train people,methodtrainpeople.io,.io,maybe_available,1,18
+train people lucid,trainpeoplelucid.com,.com,maybe_available,1,18
+train people lucid,trainpeoplelucid.ai,.ai,maybe_available,1,18
+train people lucid,trainpeoplelucid.io,.io,maybe_available,1,18
+people lucid dreams,peopleluciddreams.com,.com,maybe_available,1,18
+people lucid dreams,peopleluciddreams.ai,.ai,maybe_available,1,18
+people lucid dreams,peopleluciddreams.io,.io,maybe_available,1,18
 verifiable rewards rlvr,verifiablerewardsrlvr.com,.com,maybe_available,2,16
 verifiable rewards rlvr,verifiablerewardsrlvr.ai,.ai,maybe_available,2,16
 verifiable rewards rlvr,verifiablerewardsrlvr.io,.io,maybe_available,2,16
@@ -740,12 +719,33 @@ quantum error correction,quantumerrorcorrection.io,.io,maybe_available,2,16
 feedback loop diagnosis,feedbackloopdiagnosis.com,.com,maybe_available,2,16
 feedback loop diagnosis,feedbackloopdiagnosis.ai,.ai,maybe_available,2,16
 feedback loop diagnosis,feedbackloopdiagnosis.io,.io,maybe_available,2,16
-worldwide strike against,worldwidestrikeagainst.com,.com,maybe_available,1,8
-worldwide strike against,worldwidestrikeagainst.ai,.ai,maybe_available,1,8
-worldwide strike against,worldwidestrikeagainst.io,.io,maybe_available,1,8
-dockworkers 100 ports,dockworkers100ports.com,.com,maybe_available,1,3
-dockworkers 100 ports,dockworkers100ports.ai,.ai,maybe_available,1,3
-dockworkers 100 ports,dockworkers100ports.io,.io,maybe_available,1,3
-100 ports worldwide,100portsworldwide.com,.com,maybe_available,1,3
-100 ports worldwide,100portsworldwide.ai,.ai,maybe_available,1,3
-100 ports worldwide,100portsworldwide.io,.io,maybe_available,1,3
+free ocr,freeocr.com,.com,taken_or_active,1,16
+free ocr,freeocr.ai,.ai,taken_or_active,1,16
+free ocr,freeocr.io,.io,maybe_available,1,16
+ocr cost,ocrcost.com,.com,maybe_available,1,16
+ocr cost,ocrcost.ai,.ai,maybe_available,1,16
+ocr cost,ocrcost.io,.io,maybe_available,1,16
+estimate multi-provider,estimatemultiprovider.com,.com,maybe_available,1,16
+estimate multi-provider,estimatemultiprovider.ai,.ai,maybe_available,1,16
+estimate multi-provider,estimatemultiprovider.io,.io,maybe_available,1,16
+environmental footprint,environmentalfootprint.com,.com,taken_or_active,1,16
+environmental footprint,environmentalfootprint.ai,.ai,maybe_available,1,16
+environmental footprint,environmentalfootprint.io,.io,maybe_available,1,16
+neuroscientists reveal,neuroscientistsreveal.com,.com,maybe_available,1,16
+neuroscientists reveal,neuroscientistsreveal.ai,.ai,maybe_available,1,16
+neuroscientists reveal,neuroscientistsreveal.io,.io,maybe_available,1,16
+27x fines per,27xfinesper.com,.com,maybe_available,1,11
+27x fines per,27xfinesper.ai,.ai,maybe_available,1,11
+27x fines per,27xfinesper.io,.io,maybe_available,1,11
+cost calculator estimate,costcalculatorestimate.com,.com,maybe_available,1,8
+cost calculator estimate,costcalculatorestimate.ai,.ai,maybe_available,1,8
+cost calculator estimate,costcalculatorestimate.io,.io,maybe_available,1,8
+elected world brainiest,electedworldbrainiest.com,.com,maybe_available,1,8
+elected world brainiest,electedworldbrainiest.ai,.ai,maybe_available,1,8
+elected world brainiest,electedworldbrainiest.io,.io,maybe_available,1,8
+france imposes 27x,franceimposes27x.com,.com,maybe_available,1,3
+france imposes 27x,franceimposes27x.ai,.ai,maybe_available,1,3
+france imposes 27x,franceimposes27x.io,.io,maybe_available,1,3
+imposes 27x fines,imposes27xfines.com,.com,maybe_available,1,3
+imposes 27x fines,imposes27xfines.ai,.ai,maybe_available,1,3
+imposes 27x fines,imposes27xfines.io,.io,maybe_available,1,3

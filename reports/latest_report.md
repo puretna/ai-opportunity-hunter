@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-10-30 11:15
+Rapor zamanı: 2026-10-31 10:49
 
 ## Kaynak sayıları
-- Hacker News: 31
+- Hacker News: 32
 - arXiv: 75
 - GitHub Trending: 12
 
