@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-11-12 13:38
+Rapor zamanı: 2026-11-13 12:56
 
 ## Kaynak sayıları
-- Hacker News: 34
+- Hacker News: 26
 - arXiv: 75
 - GitHub Trending: 8
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-11-12 13:38
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | timeseries.com | 66/100 | time series | maybe_available |
-| 2 | agentsincreasingly.com | 60/100 | agents increasingly | maybe_available |
-| 3 | agentsincreasingly.ai | 60/100 | agents increasingly | maybe_available |
-| 4 | agentsincreasingly.io | 60/100 | agents increasingly | maybe_available |
-| 5 | analyticsagents.io | 60/100 | analytics agents | maybe_available |
-| 6 | letagents.ai | 60/100 | let agents | maybe_available |
-| 7 | letagents.io | 60/100 | let agents | maybe_available |
-| 8 | thesetools.com | 60/100 | these tools | maybe_available |
-| 9 | thesetools.ai | 60/100 | these tools | maybe_available |
-| 10 | thesetools.io | 60/100 | these tools | maybe_available |
-| 11 | agentictraffic.ai | 59/100 | agentic traffic | maybe_available |
-| 12 | agentictraffic.io | 59/100 | agentic traffic | maybe_available |
-| 13 | reinforcementlearning.io | 56/100 | reinforcement learning | maybe_available |
-| 14 | multimodalagents.ai | 52/100 | multimodal agents | maybe_available |
-| 15 | multimodalagents.io | 52/100 | multimodal agents | maybe_available |
-| 16 | evaluationframeworks.ai | 51/100 | evaluation frameworks | maybe_available |
-| 17 | evaluationframeworks.io | 51/100 | evaluation frameworks | maybe_available |
-| 18 | medicalimage.io | 50/100 | medical image | maybe_available |
-| 19 | remainsunclear.com | 50/100 | remains unclear | maybe_available |
-| 20 | remainsunclear.ai | 50/100 | remains unclear | maybe_available |
+| 1 | reinforcementlearning.io | 64/100 | reinforcement learning | maybe_available |
+| 2 | mleagents.com | 60/100 | mle agents | maybe_available |
+| 3 | mleagents.ai | 60/100 | mle agents | maybe_available |
+| 4 | mleagents.io | 60/100 | mle agents | maybe_available |
+| 5 | languageagents.ai | 60/100 | language agents | maybe_available |
+| 6 | languageagents.io | 60/100 | language agents | maybe_available |
+| 7 | agentmemory.ai | 60/100 | agent memory | maybe_available |
+| 8 | agentsbig.com | 52/100 | agents big | maybe_available |
+| 9 | agentsbig.ai | 52/100 | agents big | maybe_available |
+| 10 | agentsbig.io | 52/100 | agents big | maybe_available |
+| 11 | agentsdid.com | 52/100 | agents did | maybe_available |
+| 12 | agentsdid.ai | 52/100 | agents did | maybe_available |
+| 13 | agentsdid.io | 52/100 | agents did | maybe_available |
+| 14 | ipiguarddrift.com | 51/100 | ipiguard drift | maybe_available |
+| 15 | ipiguarddrift.ai | 51/100 | ipiguard drift | maybe_available |
+| 16 | ipiguarddrift.io | 51/100 | ipiguard drift | maybe_available |
+| 17 | effectiveagent.ai | 51/100 | effective agent | maybe_available |
+| 18 | effectiveagent.io | 51/100 | effective agent | maybe_available |
+| 19 | memorydesigns.ai | 51/100 | memory designs | maybe_available |
+| 20 | memorydesigns.io | 51/100 | memory designs | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
