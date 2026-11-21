@@ -5,9 +5,6 @@ large language,largelanguage.io,.io,taken_or_active,10,100
 energy management,energymanagement.com,.com,maybe_available,6,66
 energy management,energymanagement.ai,.ai,taken_or_active,6,66
 energy management,energymanagement.io,.io,taken_or_active,6,66
-agents must,agentsmust.com,.com,maybe_available,2,60
-agents must,agentsmust.ai,.ai,maybe_available,2,60
-agents must,agentsmust.io,.io,maybe_available,2,60
 frontier agents,frontieragents.com,.com,taken_or_active,2,60
 frontier agents,frontieragents.ai,.ai,maybe_available,2,60
 frontier agents,frontieragents.io,.io,maybe_available,2,60
@@ -41,6 +38,9 @@ agents direct robot,agentsdirectrobot.io,.io,maybe_available,2,53
 deep-research agents,deepresearchagents.com,.com,taken_or_active,2,52
 deep-research agents,deepresearchagents.ai,.ai,taken_or_active,2,52
 deep-research agents,deepresearchagents.io,.io,maybe_available,2,52
+browser agent,browseragent.com,.com,taken_or_active,1,52
+browser agent,browseragent.ai,.ai,taken_or_active,1,52
+browser agent,browseragent.io,.io,taken_or_active,1,52
 agent play,agentplay.com,.com,taken_or_active,2,51
 agent play,agentplay.ai,.ai,taken_or_active,2,51
 agent play,agentplay.io,.io,taken_or_active,2,51
@@ -65,9 +65,6 @@ memory folding,memoryfolding.io,.io,maybe_available,2,51
 agent skills,agentskills.com,.com,taken_or_active,2,51
 agent skills,agentskills.ai,.ai,taken_or_active,2,51
 agent skills,agentskills.io,.io,taken_or_active,2,51
-claude code,claudecode.com,.com,maybe_available,3,50
-claude code,claudecode.ai,.ai,taken_or_active,3,50
-claude code,claudecode.io,.io,taken_or_active,3,50
 depth pro,depthpro.com,.com,taken_or_active,3,50
 depth pro,depthpro.ai,.ai,maybe_available,3,50
 depth pro,depthpro.io,.io,maybe_available,3,50
@@ -125,7 +122,7 @@ replication agentic,replicationagentic.io,.io,maybe_available,2,43
 agentic security,agenticsecurity.com,.com,taken_or_active,2,43
 agentic security,agenticsecurity.ai,.ai,maybe_available,2,43
 agentic security,agenticsecurity.io,.io,maybe_available,2,43
-agent applications,agentapplications.com,.com,taken_or_active,2,43
+agent applications,agentapplications.com,.com,maybe_available,2,43
 agent applications,agentapplications.ai,.ai,maybe_available,2,43
 agent applications,agentapplications.io,.io,taken_or_active,2,43
 hybrid retrieval,hybridretrieval.com,.com,taken_or_active,2,43
@@ -140,9 +137,6 @@ model-based agentic,modelbasedagentic.io,.io,maybe_available,2,43
 agentic framework,agenticframework.com,.com,taken_or_active,2,43
 agentic framework,agenticframework.ai,.ai,maybe_available,2,43
 agentic framework,agenticframework.io,.io,maybe_available,2,43
-agent host,agenthost.com,.com,taken_or_active,1,43
-agent host,agenthost.ai,.ai,taken_or_active,1,43
-agent host,agenthost.io,.io,taken_or_active,1,43
 existing benchmarks,existingbenchmarks.com,.com,maybe_available,3,42
 existing benchmarks,existingbenchmarks.ai,.ai,maybe_available,3,42
 existing benchmarks,existingbenchmarks.io,.io,maybe_available,3,42
@@ -170,7 +164,10 @@ source distribution,sourcedistribution.io,.io,maybe_available,3,42
 missing information,missinginformation.com,.com,taken_or_active,3,42
 missing information,missinginformation.ai,.ai,maybe_available,3,42
 missing information,missinginformation.io,.io,maybe_available,3,42
-play experience,playexperience.com,.com,taken_or_active,2,42
+open source,opensource.com,.com,taken_or_active,2,42
+open source,opensource.ai,.ai,taken_or_active,2,42
+open source,opensource.io,.io,maybe_available,2,42
+play experience,playexperience.com,.com,maybe_available,2,42
 play experience,playexperience.ai,.ai,maybe_available,2,42
 play experience,playexperience.io,.io,maybe_available,2,42
 prior dynamics,priordynamics.com,.com,maybe_available,2,42
@@ -398,18 +395,18 @@ knowledge gaps,knowledgegaps.io,.io,maybe_available,2,42
 set phase,setphase.com,.com,taken_or_active,2,42
 set phase,setphase.ai,.ai,maybe_available,2,42
 set phase,setphase.io,.io,maybe_available,2,42
+claude code,claudecode.com,.com,maybe_available,2,42
+claude code,claudecode.ai,.ai,taken_or_active,2,42
+claude code,claudecode.io,.io,taken_or_active,2,42
 diffusion transformers,diffusiontransformers.com,.com,taken_or_active,4,40
 diffusion transformers,diffusiontransformers.ai,.ai,maybe_available,4,40
 diffusion transformers,diffusiontransformers.io,.io,maybe_available,4,40
 direct robot control,directrobotcontrol.com,.com,maybe_available,2,35
 direct robot control,directrobotcontrol.ai,.ai,maybe_available,2,35
 direct robot control,directrobotcontrol.io,.io,maybe_available,2,35
-register context,registercontext.com,.com,taken_or_active,1,35
-register context,registercontext.ai,.ai,maybe_available,1,35
-register context,registercontext.io,.io,maybe_available,1,35
-context architecture,contextarchitecture.com,.com,taken_or_active,1,35
-context architecture,contextarchitecture.ai,.ai,taken_or_active,1,35
-context architecture,contextarchitecture.io,.io,taken_or_active,1,35
+local-first browser,localfirstbrowser.com,.com,maybe_available,1,35
+local-first browser,localfirstbrowser.ai,.ai,maybe_available,1,35
+local-first browser,localfirstbrowser.io,.io,maybe_available,1,35
 transparent cache,transparentcache.com,.com,maybe_available,2,34
 transparent cache,transparentcache.ai,.ai,maybe_available,2,34
 transparent cache,transparentcache.io,.io,maybe_available,2,34
@@ -485,7 +482,7 @@ multimodal decision,multimodaldecision.io,.io,maybe_available,2,34
 introduce textbf,introducetextbf.com,.com,maybe_available,2,34
 introduce textbf,introducetextbf.ai,.ai,maybe_available,2,34
 introduce textbf,introducetextbf.io,.io,maybe_available,2,34
-audit investigation,auditinvestigation.com,.com,taken_or_active,2,34
+audit investigation,auditinvestigation.com,.com,maybe_available,2,34
 audit investigation,auditinvestigation.ai,.ai,maybe_available,2,34
 audit investigation,auditinvestigation.io,.io,maybe_available,2,34
 temporal embedding,temporalembedding.com,.com,maybe_available,2,34
@@ -596,24 +593,24 @@ decision encoder,decisionencoder.io,.io,maybe_available,2,34
 decisions change,decisionschange.com,.com,taken_or_active,2,34
 decisions change,decisionschange.ai,.ai,maybe_available,2,34
 decisions change,decisionschange.io,.io,maybe_available,2,34
-host protocol,hostprotocol.com,.com,taken_or_active,1,34
-host protocol,hostprotocol.ai,.ai,maybe_available,1,34
-host protocol,hostprotocol.io,.io,maybe_available,1,34
-continue across,continueacross.com,.com,maybe_available,1,34
-continue across,continueacross.ai,.ai,maybe_available,1,34
-continue across,continueacross.io,.io,maybe_available,1,34
-across devices,acrossdevices.com,.com,taken_or_active,1,34
-across devices,acrossdevices.ai,.ai,maybe_available,1,34
-across devices,acrossdevices.io,.io,maybe_available,1,34
-could rain,couldrain.com,.com,maybe_available,1,34
-could rain,couldrain.ai,.ai,maybe_available,1,34
-could rain,couldrain.io,.io,maybe_available,1,34
-rain california,raincalifornia.com,.com,taken_or_active,1,34
-rain california,raincalifornia.ai,.ai,maybe_available,1,34
-rain california,raincalifornia.io,.io,maybe_available,1,34
-virec virtual,virecvirtual.com,.com,maybe_available,1,34
-virec virtual,virecvirtual.ai,.ai,maybe_available,1,34
-virec virtual,virecvirtual.io,.io,maybe_available,1,34
+judge approves,judgeapproves.com,.com,maybe_available,1,34
+judge approves,judgeapproves.ai,.ai,maybe_available,1,34
+judge approves,judgeapproves.io,.io,maybe_available,1,34
+roundup cancer,roundupcancer.com,.com,taken_or_active,1,34
+roundup cancer,roundupcancer.ai,.ai,maybe_available,1,34
+roundup cancer,roundupcancer.io,.io,maybe_available,1,34
+cancer claims,cancerclaims.com,.com,taken_or_active,1,34
+cancer claims,cancerclaims.ai,.ai,maybe_available,1,34
+cancer claims,cancerclaims.io,.io,maybe_available,1,34
+allianz warns,allianzwarns.com,.com,maybe_available,1,34
+allianz warns,allianzwarns.ai,.ai,maybe_available,1,34
+allianz warns,allianzwarns.io,.io,maybe_available,1,34
+warns insurance,warnsinsurance.com,.com,maybe_available,1,34
+warns insurance,warnsinsurance.ai,.ai,maybe_available,1,34
+warns insurance,warnsinsurance.io,.io,maybe_available,1,34
+losses tip,lossestip.com,.com,maybe_available,1,34
+losses tip,lossestip.ai,.ai,maybe_available,1,34
+losses tip,lossestip.io,.io,maybe_available,1,34
 structure-guided memory,structureguidedmemory.com,.com,maybe_available,2,33
 structure-guided memory,structureguidedmemory.ai,.ai,maybe_available,2,33
 structure-guided memory,structureguidedmemory.io,.io,maybe_available,2,33
@@ -623,9 +620,6 @@ mind2act world,mind2actworld.io,.io,maybe_available,2,27
 l2d framework,l2dframework.com,.com,maybe_available,2,27
 l2d framework,l2dframework.ai,.ai,maybe_available,2,27
 l2d framework,l2dframework.io,.io,maybe_available,2,27
-agent host protocol,agenthostprotocol.com,.com,maybe_available,1,27
-agent host protocol,agenthostprotocol.ai,.ai,maybe_available,1,27
-agent host protocol,agenthostprotocol.io,.io,maybe_available,1,27
 latent action learning,latentactionlearning.com,.com,maybe_available,2,26
 latent action learning,latentactionlearning.ai,.ai,maybe_available,2,26
 latent action learning,latentactionlearning.io,.io,maybe_available,2,26
@@ -662,21 +656,27 @@ random weight neural,randomweightneural.io,.io,maybe_available,2,26
 its decisions change,itsdecisionschange.com,.com,maybe_available,2,26
 its decisions change,itsdecisionschange.ai,.ai,maybe_available,2,26
 its decisions change,itsdecisionschange.io,.io,maybe_available,2,26
-protocol sessions,protocolsessions.com,.com,maybe_available,1,26
-protocol sessions,protocolsessions.ai,.ai,maybe_available,1,26
-protocol sessions,protocolsessions.io,.io,maybe_available,1,26
-sessions continue,sessionscontinue.com,.com,maybe_available,1,26
-sessions continue,sessionscontinue.ai,.ai,maybe_available,1,26
-sessions continue,sessionscontinue.io,.io,maybe_available,1,26
-california trigger,californiatrigger.com,.com,maybe_available,1,26
-california trigger,californiatrigger.ai,.ai,maybe_available,1,26
-california trigger,californiatrigger.io,.io,maybe_available,1,26
-trigger earthquakes,triggerearthquakes.com,.com,maybe_available,1,26
-trigger earthquakes,triggerearthquakes.ai,.ai,maybe_available,1,26
-trigger earthquakes,triggerearthquakes.io,.io,maybe_available,1,26
-virtual register,virtualregister.com,.com,taken_or_active,1,26
-virtual register,virtualregister.ai,.ai,maybe_available,1,26
-virtual register,virtualregister.io,.io,maybe_available,1,26
+bayer settlement,bayersettlement.com,.com,maybe_available,1,26
+bayer settlement,bayersettlement.ai,.ai,maybe_available,1,26
+bayer settlement,bayersettlement.io,.io,maybe_available,1,26
+settlement roundup,settlementroundup.com,.com,maybe_available,1,26
+settlement roundup,settlementroundup.ai,.ai,maybe_available,1,26
+settlement roundup,settlementroundup.io,.io,maybe_available,1,26
+mozilla developer,mozilladeveloper.com,.com,taken_or_active,1,26
+mozilla developer,mozilladeveloper.ai,.ai,maybe_available,1,26
+mozilla developer,mozilladeveloper.io,.io,maybe_available,1,26
+developer spotlight,developerspotlight.com,.com,maybe_available,1,26
+developer spotlight,developerspotlight.ai,.ai,maybe_available,1,26
+developer spotlight,developerspotlight.io,.io,maybe_available,1,26
+spotlight webbrain,spotlightwebbrain.com,.com,maybe_available,1,26
+spotlight webbrain,spotlightwebbrain.ai,.ai,maybe_available,1,26
+spotlight webbrain,spotlightwebbrain.io,.io,maybe_available,1,26
+webbrain open-source,webbrainopensource.com,.com,maybe_available,1,26
+webbrain open-source,webbrainopensource.ai,.ai,maybe_available,1,26
+webbrain open-source,webbrainopensource.io,.io,maybe_available,1,26
+insurance losses,insurancelosses.com,.com,maybe_available,1,26
+insurance losses,insurancelosses.ai,.ai,maybe_available,1,26
+insurance losses,insurancelosses.io,.io,maybe_available,1,26
 agentic security events,agenticsecurityevents.com,.com,maybe_available,2,25
 agentic security events,agenticsecurityevents.ai,.ai,maybe_available,2,25
 agentic security events,agenticsecurityevents.io,.io,maybe_available,2,25
@@ -710,12 +710,15 @@ irregular multivariate,irregularmultivariate.io,.io,maybe_available,2,24
 closurebench benchmark,closurebenchbenchmark.com,.com,maybe_available,2,24
 closurebench benchmark,closurebenchbenchmark.ai,.ai,maybe_available,2,24
 closurebench benchmark,closurebenchbenchmark.io,.io,maybe_available,2,24
-host protocol sessions,hostprotocolsessions.com,.com,maybe_available,1,18
-host protocol sessions,hostprotocolsessions.ai,.ai,maybe_available,1,18
-host protocol sessions,hostprotocolsessions.io,.io,maybe_available,1,18
-could rain california,couldraincalifornia.com,.com,maybe_available,1,18
-could rain california,couldraincalifornia.ai,.ai,maybe_available,1,18
-could rain california,couldraincalifornia.io,.io,maybe_available,1,18
+approves 25b,approves25b.com,.com,maybe_available,1,19
+approves 25b,approves25b.ai,.ai,maybe_available,1,19
+approves 25b,approves25b.io,.io,maybe_available,1,19
+25b bayer,25bbayer.com,.com,maybe_available,1,19
+25b bayer,25bbayer.ai,.ai,maybe_available,1,19
+25b bayer,25bbayer.io,.io,maybe_available,1,19
+roundup cancer claims,roundupcancerclaims.com,.com,taken_or_active,1,18
+roundup cancer claims,roundupcancerclaims.ai,.ai,maybe_available,1,18
+roundup cancer claims,roundupcancerclaims.io,.io,maybe_available,1,18
 critically damped polyak,criticallydampedpolyak.com,.com,maybe_available,2,16
 critically damped polyak,criticallydampedpolyak.ai,.ai,maybe_available,2,16
 critically damped polyak,criticallydampedpolyak.io,.io,maybe_available,2,16
@@ -731,21 +734,18 @@ multivariate time series,multivariatetimeseries.io,.io,maybe_available,2,16
 perfumer large language,perfumerlargelanguage.com,.com,maybe_available,2,16
 perfumer large language,perfumerlargelanguage.ai,.ai,maybe_available,2,16
 perfumer large language,perfumerlargelanguage.io,.io,maybe_available,2,16
-architecture efficient,architectureefficient.com,.com,maybe_available,1,16
-architecture efficient,architectureefficient.ai,.ai,maybe_available,1,16
-architecture efficient,architectureefficient.io,.io,maybe_available,1,16
-earthquakes 2023,earthquakes2023.com,.com,maybe_available,1,11
-earthquakes 2023,earthquakes2023.ai,.ai,maybe_available,1,11
-earthquakes 2023,earthquakes2023.io,.io,maybe_available,1,11
-sessions continue across,sessionscontinueacross.com,.com,maybe_available,1,8
-sessions continue across,sessionscontinueacross.ai,.ai,maybe_available,1,8
-sessions continue across,sessionscontinueacross.io,.io,maybe_available,1,8
-continue across devices,continueacrossdevices.com,.com,maybe_available,1,8
-continue across devices,continueacrossdevices.ai,.ai,maybe_available,1,8
-continue across devices,continueacrossdevices.io,.io,maybe_available,1,8
-rain california trigger,raincaliforniatrigger.com,.com,maybe_available,1,8
-rain california trigger,raincaliforniatrigger.ai,.ai,maybe_available,1,8
-rain california trigger,raincaliforniatrigger.io,.io,maybe_available,1,8
-trigger earthquakes 2023,triggerearthquakes2023.com,.com,maybe_available,1,0
-trigger earthquakes 2023,triggerearthquakes2023.ai,.ai,maybe_available,1,0
-trigger earthquakes 2023,triggerearthquakes2023.io,.io,maybe_available,1,0
+open-source local-first,opensourcelocalfirst.com,.com,maybe_available,1,16
+open-source local-first,opensourcelocalfirst.ai,.ai,maybe_available,1,16
+open-source local-first,opensourcelocalfirst.io,.io,maybe_available,1,16
+bayer settlement roundup,bayersettlementroundup.com,.com,maybe_available,1,8
+bayer settlement roundup,bayersettlementroundup.ai,.ai,maybe_available,1,8
+bayer settlement roundup,bayersettlementroundup.io,.io,maybe_available,1,8
+judge approves 25b,judgeapproves25b.com,.com,maybe_available,1,3
+judge approves 25b,judgeapproves25b.ai,.ai,maybe_available,1,3
+judge approves 25b,judgeapproves25b.io,.io,maybe_available,1,3
+approves 25b bayer,approves25bbayer.com,.com,maybe_available,1,3
+approves 25b bayer,approves25bbayer.ai,.ai,maybe_available,1,3
+approves 25b bayer,approves25bbayer.io,.io,maybe_available,1,3
+25b bayer settlement,25bbayersettlement.com,.com,maybe_available,1,3
+25b bayer settlement,25bbayersettlement.ai,.ai,maybe_available,1,3
+25b bayer settlement,25bbayersettlement.io,.io,maybe_available,1,3
