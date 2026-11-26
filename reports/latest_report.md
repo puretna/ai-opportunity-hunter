@@ -1,9 +1,9 @@
 # 🚀 AI Opportunity Hunter
 
-Rapor zamanı: 2026-11-25 15:24
+Rapor zamanı: 2026-11-26 14:54
 
 ## Kaynak sayıları
-- Hacker News: 32
+- Hacker News: 37
 - arXiv: 75
 - GitHub Trending: 12
 
@@ -11,25 +11,25 @@ Rapor zamanı: 2026-11-25 15:24
 
 | # | Domain | Skor | Terim | Durum |
 |---|--------|------|-------|-------|
-| 1 | reinforcementlearning.io | 80/100 | reinforcement learning | maybe_available |
-| 2 | robotpolicies.ai | 67/100 | robot policies | maybe_available |
-| 3 | robotpolicies.io | 67/100 | robot policies | maybe_available |
-| 4 | searchagents.io | 60/100 | search agents | maybe_available |
-| 5 | speculativedecoding.ai | 58/100 | speculative decoding | maybe_available |
-| 6 | speculativedecoding.io | 58/100 | speculative decoding | maybe_available |
-| 7 | claudecode.com | 58/100 | claude code | maybe_available |
-| 8 | robotuseagents.ai | 53/100 | robot-use agents | maybe_available |
-| 9 | robotuseagents.io | 53/100 | robot-use agents | maybe_available |
-| 10 | postactioncontext.com | 51/100 | post-action context | maybe_available |
-| 11 | postactioncontext.ai | 51/100 | post-action context | maybe_available |
-| 12 | postactioncontext.io | 51/100 | post-action context | maybe_available |
-| 13 | eachrobot.ai | 51/100 | each robot | maybe_available |
-| 14 | eachrobot.io | 51/100 | each robot | maybe_available |
-| 15 | externalmemory.ai | 51/100 | external memory | maybe_available |
-| 16 | externalmemory.io | 51/100 | external memory | maybe_available |
-| 17 | voiceactivity.ai | 51/100 | voice activity | maybe_available |
-| 18 | voiceactivity.io | 51/100 | voice activity | maybe_available |
-| 19 | memorysystem.io | 51/100 | memory system | maybe_available |
-| 20 | gpumemory.com | 51/100 | gpu memory | maybe_available |
+| 1 | reinforcementlearning.io | 100/100 | reinforcement learning | maybe_available |
+| 2 | voiceagents.com | 69/100 | voice agents | maybe_available |
+| 3 | agentpatches.com | 59/100 | agent patches | maybe_available |
+| 4 | agentpatches.ai | 59/100 | agent patches | maybe_available |
+| 5 | agentpatches.io | 59/100 | agent patches | maybe_available |
+| 6 | claudecode.com | 58/100 | claude code | maybe_available |
+| 7 | timeseries.com | 58/100 | time series | maybe_available |
+| 8 | longhorizonagents.ai | 52/100 | long-horizon agents | maybe_available |
+| 9 | longhorizonagents.io | 52/100 | long-horizon agents | maybe_available |
+| 10 | agentsexplore.io | 52/100 | agents explore | maybe_available |
+| 11 | knowledgegraphs.com | 51/100 | knowledge graphs | maybe_available |
+| 12 | externalmemory.ai | 51/100 | external memory | maybe_available |
+| 13 | externalmemory.io | 51/100 | external memory | maybe_available |
+| 14 | causalgraph.ai | 51/100 | causal graph | maybe_available |
+| 15 | parameterrevisit.com | 50/100 | parameter revisit | maybe_available |
+| 16 | parameterrevisit.ai | 50/100 | parameter revisit | maybe_available |
+| 17 | parameterrevisit.io | 50/100 | parameter revisit | maybe_available |
+| 18 | empiricalstudy.ai | 50/100 | empirical study | maybe_available |
+| 19 | empiricalstudy.io | 50/100 | empirical study | maybe_available |
+| 20 | singlemethod.ai | 50/100 | single method | maybe_available |
 
 > Not: `maybe_available` kesin müsait anlamına gelmez. Satın almadan önce Namecheap, Cloudflare Registrar veya GoDaddy'den tekrar kontrol edin.
