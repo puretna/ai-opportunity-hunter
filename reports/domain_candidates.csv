@@ -5,9 +5,9 @@ reinforcement learning,reinforcementlearning.io,.io,maybe_available,15,100
 large language,largelanguage.com,.com,taken_or_active,12,100
 large language,largelanguage.ai,.ai,taken_or_active,12,100
 large language,largelanguage.io,.io,taken_or_active,12,100
-coding agents,codingagents.com,.com,taken_or_active,4,76
-coding agents,codingagents.ai,.ai,taken_or_active,4,76
-coding agents,codingagents.io,.io,taken_or_active,4,76
+coding agents,codingagents.com,.com,taken_or_active,5,84
+coding agents,codingagents.ai,.ai,taken_or_active,5,84
+coding agents,codingagents.io,.io,taken_or_active,5,84
 voice agents,voiceagents.com,.com,maybe_available,2,69
 voice agents,voiceagents.ai,.ai,taken_or_active,2,69
 voice agents,voiceagents.io,.io,taken_or_active,2,69
@@ -29,9 +29,12 @@ knowledge base,knowledgebase.io,.io,taken_or_active,4,58
 long-horizon agents,longhorizonagents.com,.com,taken_or_active,2,52
 long-horizon agents,longhorizonagents.ai,.ai,maybe_available,2,52
 long-horizon agents,longhorizonagents.io,.io,maybe_available,2,52
-agents explore,agentsexplore.com,.com,taken_or_active,1,52
-agents explore,agentsexplore.ai,.ai,taken_or_active,1,52
-agents explore,agentsexplore.io,.io,maybe_available,1,52
+code agents,codeagents.com,.com,taken_or_active,1,52
+code agents,codeagents.ai,.ai,taken_or_active,1,52
+code agents,codeagents.io,.io,taken_or_active,1,52
+agents ship,agentsship.com,.com,taken_or_active,1,52
+agents ship,agentsship.ai,.ai,maybe_available,1,52
+agents ship,agentsship.io,.io,maybe_available,1,52
 knowledge graphs,knowledgegraphs.com,.com,maybe_available,3,51
 knowledge graphs,knowledgegraphs.ai,.ai,taken_or_active,3,51
 knowledge graphs,knowledgegraphs.io,.io,taken_or_active,3,51
@@ -83,6 +86,15 @@ across multiple,acrossmultiple.io,.io,maybe_available,3,50
 deep research agents,deepresearchagents.com,.com,taken_or_active,2,44
 deep research agents,deepresearchagents.ai,.ai,taken_or_active,2,44
 deep research agents,deepresearchagents.io,.io,maybe_available,2,44
+sync code agents,synccodeagents.com,.com,maybe_available,1,44
+sync code agents,synccodeagents.ai,.ai,maybe_available,1,44
+sync code agents,synccodeagents.io,.io,maybe_available,1,44
+code agents ship,codeagentsship.com,.com,maybe_available,1,44
+code agents ship,codeagentsship.ai,.ai,maybe_available,1,44
+code agents ship,codeagentsship.io,.io,maybe_available,1,44
+agentic framework,agenticframework.com,.com,taken_or_active,2,43
+agentic framework,agenticframework.ai,.ai,maybe_available,2,43
+agentic framework,agenticframework.io,.io,maybe_available,2,43
 evaluations assume,evaluationsassume.com,.com,maybe_available,2,43
 evaluations assume,evaluationsassume.ai,.ai,maybe_available,2,43
 evaluations assume,evaluationsassume.io,.io,maybe_available,2,43
@@ -95,6 +107,9 @@ graph metanetworks,graphmetanetworks.io,.io,maybe_available,2,43
 agent capabilities,agentcapabilities.com,.com,taken_or_active,2,43
 agent capabilities,agentcapabilities.ai,.ai,maybe_available,2,43
 agent capabilities,agentcapabilities.io,.io,taken_or_active,2,43
+agent momentic,agentmomentic.com,.com,maybe_available,1,43
+agent momentic,agentmomentic.ai,.ai,maybe_available,1,43
+agent momentic,agentmomentic.io,.io,maybe_available,1,43
 language increasingly,languageincreasingly.com,.com,maybe_available,3,42
 language increasingly,languageincreasingly.ai,.ai,maybe_available,3,42
 language increasingly,languageincreasingly.io,.io,maybe_available,3,42
@@ -125,9 +140,9 @@ existing methods,existingmethods.io,.io,maybe_available,3,42
 evacuation traffic,evacuationtraffic.com,.com,maybe_available,3,42
 evacuation traffic,evacuationtraffic.ai,.ai,maybe_available,3,42
 evacuation traffic,evacuationtraffic.io,.io,maybe_available,3,42
-open source,opensource.com,.com,taken_or_active,2,42
-open source,opensource.ai,.ai,taken_or_active,2,42
-open source,opensource.io,.io,maybe_available,2,42
+need know,needknow.com,.com,taken_or_active,2,42
+need know,needknow.ai,.ai,taken_or_active,2,42
+need know,needknow.io,.io,maybe_available,2,42
 trained only,trainedonly.com,.com,maybe_available,2,42
 trained only,trainedonly.ai,.ai,maybe_available,2,42
 trained only,trainedonly.io,.io,maybe_available,2,42
@@ -332,15 +347,9 @@ function approximation,functionapproximation.io,.io,maybe_available,4,40
 on-policy distillation,onpolicydistillation.com,.com,maybe_available,4,40
 on-policy distillation,onpolicydistillation.ai,.ai,maybe_available,4,40
 on-policy distillation,onpolicydistillation.io,.io,maybe_available,4,40
-agents explore mobile,agentsexploremobile.com,.com,maybe_available,1,36
-agents explore mobile,agentsexploremobile.ai,.ai,maybe_available,1,36
-agents explore mobile,agentsexploremobile.io,.io,maybe_available,1,36
 time series reasoning,timeseriesreasoning.com,.com,taken_or_active,3,34
 time series reasoning,timeseriesreasoning.ai,.ai,maybe_available,3,34
 time series reasoning,timeseriesreasoning.io,.io,maybe_available,3,34
-customer service,customerservice.com,.com,taken_or_active,2,34
-customer service,customerservice.ai,.ai,taken_or_active,2,34
-customer service,customerservice.io,.io,taken_or_active,2,34
 tokenisation apx,tokenisationapx.com,.com,maybe_available,2,34
 tokenisation apx,tokenisationapx.ai,.ai,maybe_available,2,34
 tokenisation apx,tokenisationapx.io,.io,maybe_available,2,34
@@ -530,66 +539,75 @@ generative video,generativevideo.io,.io,maybe_available,2,34
 utility reinforcement,utilityreinforcement.com,.com,maybe_available,2,34
 utility reinforcement,utilityreinforcement.ai,.ai,maybe_available,2,34
 utility reinforcement,utilityreinforcement.io,.io,maybe_available,2,34
-explore mobile,exploremobile.com,.com,taken_or_active,1,34
-explore mobile,exploremobile.ai,.ai,maybe_available,1,34
-explore mobile,exploremobile.io,.io,maybe_available,1,34
-mobile app,mobileapp.com,.com,taken_or_active,1,34
-mobile app,mobileapp.ai,.ai,taken_or_active,1,34
-mobile app,mobileapp.io,.io,taken_or_active,1,34
-app paths,apppaths.com,.com,maybe_available,1,34
-app paths,apppaths.ai,.ai,maybe_available,1,34
-app paths,apppaths.io,.io,maybe_available,1,34
-paths replay,pathsreplay.com,.com,maybe_available,1,34
-paths replay,pathsreplay.ai,.ai,maybe_available,1,34
-paths replay,pathsreplay.io,.io,maybe_available,1,34
-replay tests,replaytests.com,.com,maybe_available,1,34
-replay tests,replaytests.ai,.ai,maybe_available,1,34
-replay tests,replaytests.io,.io,maybe_available,1,34
-testers believe,testersbelieve.com,.com,maybe_available,1,34
-testers believe,testersbelieve.ai,.ai,maybe_available,1,34
-testers believe,testersbelieve.io,.io,maybe_available,1,34
-believe claude,believeclaude.com,.com,maybe_available,1,34
-believe claude,believeclaude.ai,.ai,maybe_available,1,34
-believe claude,believeclaude.io,.io,maybe_available,1,34
-claude opus,claudeopus.com,.com,maybe_available,1,34
-claude opus,claudeopus.ai,.ai,maybe_available,1,34
-claude opus,claudeopus.io,.io,taken_or_active,1,34
-via extra,viaextra.com,.com,taken_or_active,1,34
-via extra,viaextra.ai,.ai,maybe_available,1,34
-via extra,viaextra.io,.io,maybe_available,1,34
-leader tech,leadertech.com,.com,taken_or_active,1,34
-leader tech,leadertech.ai,.ai,taken_or_active,1,34
-leader tech,leadertech.io,.io,taken_or_active,1,34
-tech giant,techgiant.com,.com,taken_or_active,1,34
-tech giant,techgiant.ai,.ai,taken_or_active,1,34
-tech giant,techgiant.io,.io,taken_or_active,1,34
-giant industry,giantindustry.com,.com,maybe_available,1,34
-giant industry,giantindustry.ai,.ai,maybe_available,1,34
-giant industry,giantindustry.io,.io,maybe_available,1,34
-stopped taking,stoppedtaking.com,.com,maybe_available,1,34
-stopped taking,stoppedtaking.ai,.ai,maybe_available,1,34
-stopped taking,stoppedtaking.io,.io,maybe_available,1,34
-taking safety,takingsafety.com,.com,maybe_available,1,34
-taking safety,takingsafety.ai,.ai,maybe_available,1,34
-taking safety,takingsafety.io,.io,maybe_available,1,34
-rebillkit byok,rebillkitbyok.com,.com,maybe_available,1,34
-rebillkit byok,rebillkitbyok.ai,.ai,maybe_available,1,34
-rebillkit byok,rebillkitbyok.io,.io,maybe_available,1,34
-recovery stripe,recoverystripe.com,.com,maybe_available,1,34
-recovery stripe,recoverystripe.ai,.ai,maybe_available,1,34
-recovery stripe,recoverystripe.io,.io,maybe_available,1,34
-stripe rev,striperev.com,.com,taken_or_active,1,34
-stripe rev,striperev.ai,.ai,maybe_available,1,34
-stripe rev,striperev.io,.io,maybe_available,1,34
-rev share,revshare.com,.com,taken_or_active,1,34
-rev share,revshare.ai,.ai,taken_or_active,1,34
-rev share,revshare.io,.io,taken_or_active,1,34
-python scripts,pythonscripts.com,.com,taken_or_active,1,34
-python scripts,pythonscripts.ai,.ai,maybe_available,1,34
-python scripts,pythonscripts.io,.io,maybe_available,1,34
-video face-lock,videofacelock.com,.com,maybe_available,1,34
-video face-lock,videofacelock.ai,.ai,maybe_available,1,34
-video face-lock,videofacelock.io,.io,maybe_available,1,34
+don blame,donblame.com,.com,taken_or_active,1,34
+don blame,donblame.ai,.ai,maybe_available,1,34
+don blame,donblame.io,.io,maybe_available,1,34
+recent outages,recentoutages.com,.com,maybe_available,1,34
+recent outages,recentoutages.ai,.ai,maybe_available,1,34
+recent outages,recentoutages.io,.io,maybe_available,1,34
+outages real,outagesreal.com,.com,maybe_available,1,34
+outages real,outagesreal.ai,.ai,maybe_available,1,34
+outages real,outagesreal.io,.io,maybe_available,1,34
+real villain,realvillain.com,.com,maybe_available,1,34
+real villain,realvillain.ai,.ai,maybe_available,1,34
+real villain,realvillain.io,.io,maybe_available,1,34
+villain economy,villaineconomy.com,.com,maybe_available,1,34
+villain economy,villaineconomy.ai,.ai,maybe_available,1,34
+villain economy,villaineconomy.io,.io,maybe_available,1,34
+targeted fight,targetedfight.com,.com,maybe_available,1,34
+targeted fight,targetedfight.ai,.ai,maybe_available,1,34
+targeted fight,targetedfight.io,.io,maybe_available,1,34
+fight shield,fightshield.com,.com,taken_or_active,1,34
+fight shield,fightshield.ai,.ai,maybe_available,1,34
+fight shield,fightshield.io,.io,maybe_available,1,34
+shield jobs,shieldjobs.com,.com,taken_or_active,1,34
+shield jobs,shieldjobs.ai,.ai,maybe_available,1,34
+shield jobs,shieldjobs.io,.io,maybe_available,1,34
+keep figma,keepfigma.com,.com,maybe_available,1,34
+keep figma,keepfigma.ai,.ai,maybe_available,1,34
+keep figma,keepfigma.io,.io,maybe_available,1,34
+figma sync,figmasync.com,.com,maybe_available,1,34
+figma sync,figmasync.ai,.ai,maybe_available,1,34
+figma sync,figmasync.io,.io,maybe_available,1,34
+sync code,synccode.com,.com,taken_or_active,1,34
+sync code,synccode.ai,.ai,maybe_available,1,34
+sync code,synccode.io,.io,maybe_available,1,34
+made free,madefree.com,.com,taken_or_active,1,34
+made free,madefree.ai,.ai,maybe_available,1,34
+made free,madefree.io,.io,maybe_available,1,34
+note-taking app,notetakingapp.com,.com,taken_or_active,1,34
+note-taking app,notetakingapp.ai,.ai,maybe_available,1,34
+note-taking app,notetakingapp.io,.io,taken_or_active,1,34
+app connects,appconnects.com,.com,taken_or_active,1,34
+app connects,appconnects.ai,.ai,maybe_available,1,34
+app connects,appconnects.io,.io,maybe_available,1,34
+offering month,offeringmonth.com,.com,maybe_available,1,34
+offering month,offeringmonth.ai,.ai,maybe_available,1,34
+offering month,offeringmonth.io,.io,maybe_available,1,34
+month teach,monthteach.com,.com,maybe_available,1,34
+month teach,monthteach.ai,.ai,maybe_available,1,34
+month teach,monthteach.io,.io,maybe_available,1,34
+teach small,teachsmall.com,.com,maybe_available,1,34
+teach small,teachsmall.ai,.ai,maybe_available,1,34
+teach small,teachsmall.io,.io,maybe_available,1,34
+code running,coderunning.com,.com,taken_or_active,1,34
+code running,coderunning.ai,.ai,maybe_available,1,34
+code running,coderunning.io,.io,maybe_available,1,34
+running gameboy,runninggameboy.com,.com,maybe_available,1,34
+running gameboy,runninggameboy.ai,.ai,maybe_available,1,34
+running gameboy,runninggameboy.io,.io,maybe_available,1,34
+gameboy color,gameboycolor.com,.com,taken_or_active,1,34
+gameboy color,gameboycolor.ai,.ai,maybe_available,1,34
+gameboy color,gameboycolor.io,.io,maybe_available,1,34
+color advance,coloradvance.com,.com,maybe_available,1,34
+color advance,coloradvance.ai,.ai,maybe_available,1,34
+color advance,coloradvance.io,.io,maybe_available,1,34
+momentic open,momenticopen.com,.com,maybe_available,1,34
+momentic open,momenticopen.ai,.ai,maybe_available,1,34
+momentic open,momenticopen.io,.io,maybe_available,1,34
+open bench,openbench.com,.com,taken_or_active,1,34
+open bench,openbench.ai,.ai,taken_or_active,1,34
+open bench,openbench.io,.io,taken_or_active,1,34
 hard math problems,hardmathproblems.com,.com,taken_or_active,2,26
 hard math problems,hardmathproblems.ai,.ai,maybe_available,2,26
 hard math problems,hardmathproblems.io,.io,maybe_available,2,26
@@ -611,54 +629,30 @@ chorus n-gram module,chorusngrammodule.io,.io,maybe_available,2,26
 n-gram module replaces,ngrammodulereplaces.com,.com,maybe_available,2,26
 n-gram module replaces,ngrammodulereplaces.ai,.ai,maybe_available,2,26
 n-gram module replaces,ngrammodulereplaces.io,.io,maybe_available,2,26
-mobile app paths,mobileapppaths.com,.com,maybe_available,1,26
-mobile app paths,mobileapppaths.ai,.ai,maybe_available,1,26
-mobile app paths,mobileapppaths.io,.io,maybe_available,1,26
-app paths replay,apppathsreplay.com,.com,maybe_available,1,26
-app paths replay,apppathsreplay.ai,.ai,maybe_available,1,26
-app paths replay,apppathsreplay.io,.io,maybe_available,1,26
-claude opus via,claudeopusvia.com,.com,maybe_available,1,26
-claude opus via,claudeopusvia.ai,.ai,maybe_available,1,26
-claude opus via,claudeopusvia.io,.io,maybe_available,1,26
-opus via extra,opusviaextra.com,.com,maybe_available,1,26
-opus via extra,opusviaextra.ai,.ai,maybe_available,1,26
-opus via extra,opusviaextra.io,.io,maybe_available,1,26
-industry stopped,industrystopped.com,.com,maybe_available,1,26
-industry stopped,industrystopped.ai,.ai,maybe_available,1,26
-industry stopped,industrystopped.io,.io,maybe_available,1,26
-safety seriously,safetyseriously.com,.com,maybe_available,1,26
-safety seriously,safetyseriously.ai,.ai,maybe_available,1,26
-safety seriously,safetyseriously.io,.io,maybe_available,1,26
-byok failed-payment,byokfailedpayment.com,.com,maybe_available,1,26
-byok failed-payment,byokfailedpayment.ai,.ai,maybe_available,1,26
-byok failed-payment,byokfailedpayment.io,.io,maybe_available,1,26
-stripe rev share,striperevshare.com,.com,maybe_available,1,26
-stripe rev share,striperevshare.ai,.ai,maybe_available,1,26
-stripe rev share,striperevshare.io,.io,maybe_available,1,26
-face-lock iris-lock,facelockirislock.com,.com,maybe_available,1,26
-face-lock iris-lock,facelockirislock.ai,.ai,maybe_available,1,26
-face-lock iris-lock,facelockirislock.io,.io,maybe_available,1,26
-iris-lock lip-sync,irislocklipsync.com,.com,maybe_available,1,26
-iris-lock lip-sync,irislocklipsync.ai,.ai,maybe_available,1,26
-iris-lock lip-sync,irislocklipsync.io,.io,maybe_available,1,26
-authority instead,authorityinstead.com,.com,maybe_available,1,26
-authority instead,authorityinstead.ai,.ai,maybe_available,1,26
-authority instead,authorityinstead.io,.io,maybe_available,1,26
-instead substance,insteadsubstance.com,.com,maybe_available,1,26
-instead substance,insteadsubstance.ai,.ai,maybe_available,1,26
-instead substance,insteadsubstance.io,.io,maybe_available,1,26
-substance exposed,substanceexposed.com,.com,maybe_available,1,26
-substance exposed,substanceexposed.ai,.ai,maybe_available,1,26
-substance exposed,substanceexposed.io,.io,maybe_available,1,26
-exposed emptiness,exposedemptiness.com,.com,maybe_available,1,26
-exposed emptiness,exposedemptiness.ai,.ai,maybe_available,1,26
-exposed emptiness,exposedemptiness.io,.io,maybe_available,1,26
-emptiness expert,emptinessexpert.com,.com,maybe_available,1,26
-emptiness expert,emptinessexpert.ai,.ai,maybe_available,1,26
-emptiness expert,emptinessexpert.io,.io,maybe_available,1,26
-expert discourse,expertdiscourse.com,.com,maybe_available,1,26
-expert discourse,expertdiscourse.ai,.ai,maybe_available,1,26
-expert discourse,expertdiscourse.io,.io,maybe_available,1,26
+blame cyber-attacks,blamecyberattacks.com,.com,maybe_available,1,26
+blame cyber-attacks,blamecyberattacks.ai,.ai,maybe_available,1,26
+blame cyber-attacks,blamecyberattacks.io,.io,maybe_available,1,26
+cyber-attacks recent,cyberattacksrecent.com,.com,maybe_available,1,26
+cyber-attacks recent,cyberattacksrecent.ai,.ai,maybe_available,1,26
+cyber-attacks recent,cyberattacksrecent.io,.io,maybe_available,1,26
+retail self-checkouts,retailselfcheckouts.com,.com,maybe_available,1,26
+retail self-checkouts,retailselfcheckouts.ai,.ai,maybe_available,1,26
+retail self-checkouts,retailselfcheckouts.io,.io,maybe_available,1,26
+codesignflo keep,codesignflokeep.com,.com,maybe_available,1,26
+codesignflo keep,codesignflokeep.ai,.ai,maybe_available,1,26
+codesignflo keep,codesignflokeep.io,.io,maybe_available,1,26
+keep figma sync,keepfigmasync.com,.com,maybe_available,1,26
+keep figma sync,keepfigmasync.ai,.ai,maybe_available,1,26
+keep figma sync,keepfigmasync.io,.io,maybe_available,1,26
+figma sync code,figmasynccode.com,.com,maybe_available,1,26
+figma sync code,figmasynccode.ai,.ai,maybe_available,1,26
+figma sync code,figmasynccode.io,.io,maybe_available,1,26
+free note-taking,freenotetaking.com,.com,maybe_available,1,26
+free note-taking,freenotetaking.ai,.ai,maybe_available,1,26
+free note-taking,freenotetaking.io,.io,maybe_available,1,26
+small businesses,smallbusinesses.com,.com,taken_or_active,1,26
+small businesses,smallbusinesses.ai,.ai,taken_or_active,1,26
+small businesses,smallbusinesses.io,.io,taken_or_active,1,26
 knowledge-base gradient,knowledgebasegradient.com,.com,maybe_available,2,24
 knowledge-base gradient,knowledgebasegradient.ai,.ai,maybe_available,2,24
 knowledge-base gradient,knowledgebasegradient.io,.io,maybe_available,2,24
@@ -674,42 +668,54 @@ flywheel post-training,flywheelposttraining.io,.io,maybe_available,2,24
 transportation networks,transportationnetworks.com,.com,taken_or_active,2,24
 transportation networks,transportationnetworks.ai,.ai,maybe_available,2,24
 transportation networks,transportationnetworks.io,.io,maybe_available,2,24
-scripts 59-shot,scripts59shot.com,.com,maybe_available,1,19
-scripts 59-shot,scripts59shot.ai,.ai,maybe_available,1,19
-scripts 59-shot,scripts59shot.io,.io,maybe_available,1,19
-59-shot video,59shotvideo.com,.com,maybe_available,1,19
-59-shot video,59shotvideo.ai,.ai,maybe_available,1,19
-59-shot video,59shotvideo.io,.io,maybe_available,1,19
-lucca 1443,lucca1443.com,.com,maybe_available,1,19
-lucca 1443,lucca1443.ai,.ai,maybe_available,1,19
-lucca 1443,lucca1443.io,.io,maybe_available,1,19
-explore mobile app,exploremobileapp.com,.com,maybe_available,1,18
-explore mobile app,exploremobileapp.ai,.ai,maybe_available,1,18
-explore mobile app,exploremobileapp.io,.io,maybe_available,1,18
-paths replay tests,pathsreplaytests.com,.com,maybe_available,1,18
-paths replay tests,pathsreplaytests.ai,.ai,maybe_available,1,18
-paths replay tests,pathsreplaytests.io,.io,maybe_available,1,18
-testers believe claude,testersbelieveclaude.com,.com,maybe_available,1,18
-testers believe claude,testersbelieveclaude.ai,.ai,maybe_available,1,18
-testers believe claude,testersbelieveclaude.io,.io,maybe_available,1,18
-believe claude opus,believeclaudeopus.com,.com,maybe_available,1,18
-believe claude opus,believeclaudeopus.ai,.ai,maybe_available,1,18
-believe claude opus,believeclaudeopus.io,.io,maybe_available,1,18
-leader tech giant,leadertechgiant.com,.com,maybe_available,1,18
-leader tech giant,leadertechgiant.ai,.ai,maybe_available,1,18
-leader tech giant,leadertechgiant.io,.io,maybe_available,1,18
-tech giant industry,techgiantindustry.com,.com,maybe_available,1,18
-tech giant industry,techgiantindustry.ai,.ai,maybe_available,1,18
-tech giant industry,techgiantindustry.io,.io,maybe_available,1,18
-giant industry stopped,giantindustrystopped.com,.com,maybe_available,1,18
-giant industry stopped,giantindustrystopped.ai,.ai,maybe_available,1,18
-giant industry stopped,giantindustrystopped.io,.io,maybe_available,1,18
-stopped taking safety,stoppedtakingsafety.com,.com,maybe_available,1,18
-stopped taking safety,stoppedtakingsafety.ai,.ai,maybe_available,1,18
-stopped taking safety,stoppedtakingsafety.io,.io,maybe_available,1,18
-recovery stripe rev,recoverystriperev.com,.com,maybe_available,1,18
-recovery stripe rev,recoverystriperev.ai,.ai,maybe_available,1,18
-recovery stripe rev,recoverystriperev.io,.io,maybe_available,1,18
+advance 3ds,advance3ds.com,.com,maybe_available,1,19
+advance 3ds,advance3ds.ai,.ai,maybe_available,1,19
+advance 3ds,advance3ds.io,.io,maybe_available,1,19
+recent outages real,recentoutagesreal.com,.com,maybe_available,1,18
+recent outages real,recentoutagesreal.ai,.ai,maybe_available,1,18
+recent outages real,recentoutagesreal.io,.io,maybe_available,1,18
+outages real villain,outagesrealvillain.com,.com,maybe_available,1,18
+outages real villain,outagesrealvillain.ai,.ai,maybe_available,1,18
+outages real villain,outagesrealvillain.io,.io,maybe_available,1,18
+real villain economy,realvillaineconomy.com,.com,maybe_available,1,18
+real villain economy,realvillaineconomy.ai,.ai,maybe_available,1,18
+real villain economy,realvillaineconomy.io,.io,maybe_available,1,18
+targeted fight shield,targetedfightshield.com,.com,maybe_available,1,18
+targeted fight shield,targetedfightshield.ai,.ai,maybe_available,1,18
+targeted fight shield,targetedfightshield.io,.io,maybe_available,1,18
+fight shield jobs,fightshieldjobs.com,.com,maybe_available,1,18
+fight shield jobs,fightshieldjobs.ai,.ai,maybe_available,1,18
+fight shield jobs,fightshieldjobs.io,.io,maybe_available,1,18
+codesignflo keep figma,codesignflokeepfigma.com,.com,maybe_available,1,18
+codesignflo keep figma,codesignflokeepfigma.ai,.ai,maybe_available,1,18
+codesignflo keep figma,codesignflokeepfigma.io,.io,maybe_available,1,18
+made free note-taking,madefreenotetaking.com,.com,maybe_available,1,18
+made free note-taking,madefreenotetaking.ai,.ai,maybe_available,1,18
+made free note-taking,madefreenotetaking.io,.io,maybe_available,1,18
+free note-taking app,freenotetakingapp.com,.com,maybe_available,1,18
+free note-taking app,freenotetakingapp.ai,.ai,maybe_available,1,18
+free note-taking app,freenotetakingapp.io,.io,maybe_available,1,18
+offering month teach,offeringmonthteach.com,.com,maybe_available,1,18
+offering month teach,offeringmonthteach.ai,.ai,maybe_available,1,18
+offering month teach,offeringmonthteach.io,.io,maybe_available,1,18
+month teach small,monthteachsmall.com,.com,maybe_available,1,18
+month teach small,monthteachsmall.ai,.ai,maybe_available,1,18
+month teach small,monthteachsmall.io,.io,maybe_available,1,18
+teach small businesses,teachsmallbusinesses.com,.com,maybe_available,1,18
+teach small businesses,teachsmallbusinesses.ai,.ai,maybe_available,1,18
+teach small businesses,teachsmallbusinesses.io,.io,maybe_available,1,18
+claude code running,claudecoderunning.com,.com,maybe_available,1,18
+claude code running,claudecoderunning.ai,.ai,maybe_available,1,18
+claude code running,claudecoderunning.io,.io,maybe_available,1,18
+code running gameboy,coderunninggameboy.com,.com,maybe_available,1,18
+code running gameboy,coderunninggameboy.ai,.ai,maybe_available,1,18
+code running gameboy,coderunninggameboy.io,.io,maybe_available,1,18
+running gameboy color,runninggameboycolor.com,.com,maybe_available,1,18
+running gameboy color,runninggameboycolor.ai,.ai,maybe_available,1,18
+running gameboy color,runninggameboycolor.io,.io,maybe_available,1,18
+gameboy color advance,gameboycoloradvance.com,.com,maybe_available,1,18
+gameboy color advance,gameboycoloradvance.ai,.ai,maybe_available,1,18
+gameboy color advance,gameboycoloradvance.io,.io,maybe_available,1,18
 schema defines conflict,schemadefinesconflict.com,.com,maybe_available,2,16
 schema defines conflict,schemadefinesconflict.ai,.ai,maybe_available,2,16
 schema defines conflict,schemadefinesconflict.io,.io,maybe_available,2,16
@@ -725,27 +731,21 @@ address these challenges,addressthesechallenges.io,.io,maybe_available,2,16
 these challenges propose,thesechallengespropose.com,.com,maybe_available,2,16
 these challenges propose,thesechallengespropose.ai,.ai,maybe_available,2,16
 these challenges propose,thesechallengespropose.io,.io,maybe_available,2,16
-opus via,opusvia.com,.com,taken_or_active,1,16
-opus via,opusvia.ai,.ai,maybe_available,1,16
-opus via,opusvia.io,.io,maybe_available,1,16
-failed-payment recovery,failedpaymentrecovery.com,.com,maybe_available,1,16
-failed-payment recovery,failedpaymentrecovery.ai,.ai,maybe_available,1,16
-failed-payment recovery,failedpaymentrecovery.io,.io,maybe_available,1,16
-industry stopped taking,industrystoppedtaking.com,.com,maybe_available,1,8
-industry stopped taking,industrystoppedtaking.ai,.ai,maybe_available,1,8
-industry stopped taking,industrystoppedtaking.io,.io,maybe_available,1,8
-taking safety seriously,takingsafetyseriously.com,.com,maybe_available,1,8
-taking safety seriously,takingsafetyseriously.ai,.ai,maybe_available,1,8
-taking safety seriously,takingsafetyseriously.io,.io,maybe_available,1,8
-exposed emptiness expert,exposedemptinessexpert.com,.com,maybe_available,1,8
-exposed emptiness expert,exposedemptinessexpert.ai,.ai,maybe_available,1,8
-exposed emptiness expert,exposedemptinessexpert.io,.io,maybe_available,1,8
-python scripts 59-shot,pythonscripts59shot.com,.com,maybe_available,1,3
-python scripts 59-shot,pythonscripts59shot.ai,.ai,maybe_available,1,3
-python scripts 59-shot,pythonscripts59shot.io,.io,maybe_available,1,3
-scripts 59-shot video,scripts59shotvideo.com,.com,maybe_available,1,3
-scripts 59-shot video,scripts59shotvideo.ai,.ai,maybe_available,1,3
-scripts 59-shot video,scripts59shotvideo.io,.io,maybe_available,1,3
-59-shot video face-lock,59shotvideofacelock.com,.com,maybe_available,1,0
-59-shot video face-lock,59shotvideofacelock.ai,.ai,maybe_available,1,0
-59-shot video face-lock,59shotvideofacelock.io,.io,maybe_available,1,0
+self-checkouts targeted,selfcheckoutstargeted.com,.com,maybe_available,1,16
+self-checkouts targeted,selfcheckoutstargeted.ai,.ai,maybe_available,1,16
+self-checkouts targeted,selfcheckoutstargeted.io,.io,maybe_available,1,16
+advance 3ds vita,advance3dsvita.com,.com,maybe_available,1,11
+advance 3ds vita,advance3dsvita.ai,.ai,maybe_available,1,11
+advance 3ds vita,advance3dsvita.io,.io,maybe_available,1,11
+don blame cyber-attacks,donblamecyberattacks.com,.com,maybe_available,1,8
+don blame cyber-attacks,donblamecyberattacks.ai,.ai,maybe_available,1,8
+don blame cyber-attacks,donblamecyberattacks.io,.io,maybe_available,1,8
+note-taking app connects,notetakingappconnects.com,.com,maybe_available,1,8
+note-taking app connects,notetakingappconnects.ai,.ai,maybe_available,1,8
+note-taking app connects,notetakingappconnects.io,.io,maybe_available,1,8
+color advance 3ds,coloradvance3ds.com,.com,maybe_available,1,3
+color advance 3ds,coloradvance3ds.ai,.ai,maybe_available,1,3
+color advance 3ds,coloradvance3ds.io,.io,maybe_available,1,3
+3ds vita,3dsvita.com,.com,maybe_available,1,1
+3ds vita,3dsvita.ai,.ai,maybe_available,1,1
+3ds vita,3dsvita.io,.io,maybe_available,1,1
